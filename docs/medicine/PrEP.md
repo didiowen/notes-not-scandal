@@ -6,6 +6,7 @@ share: true
 tags:
   - medicine/HIV
 category: medicine
+publish_title: PrEP
 ---
   
 ![[../attachments/PrEP-3.png|../../attachments/PrEP-3.png]]  
