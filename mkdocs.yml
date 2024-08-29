@@ -1,4 +1,5 @@
-site_name: obsidian-mkdocs template
+site_name: Notes Not Scandal
+site_url: https://didiowen.github.io/notes-not-scandal/
 
 theme:
     name: 'material'
