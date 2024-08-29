@@ -7,6 +7,7 @@ tags:
   - medicine/TB
 share: true
 category: medicine
+publish_title: Tuberculosis
 ---
 ## Definitions  
   
@@ -26,7 +27,7 @@ category: medicine
 - 根據研究報告顯示，和一個開放性（傳染性）肺結核病人親密接觸的家人，大約有**30%**的機率會受到感染  
     - 初感染之後，一般人終其一生體內結核菌再度活化而發病（reactivation）的機率約為**5~10％**，其中約有一半是在感染後的**前5年**發病，而以**第1年**的危險性最大  
   
-## Screening for [[./LTBI|latent TB]]  
+## Screening for [[./Latent tuberculosis infection|latent TB]]  
   
 - Whom to screen: high likelihood of exposure and/or high risk of progression to active disease including HIV ⊕ and prior to immunosuppression (pre-transplant or anti-TNF)  
 - Relies on host immune system, so limited Se in immunosuppressed individuals  
