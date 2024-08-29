@@ -12,6 +12,7 @@ share_link: https://share.note.sx/ellb9wv1#smrKktNhF+EF6R9HzY+cg8EE5vkVcklMuIcE/
 share_updated: 2024-08-14T15:38:40+08:00
 share: true
 category: medicine
+publish_title: Sepsis
 ---
 up:: [[專師考試解題|專師考試解題]]   
 # 敗血症與休克  

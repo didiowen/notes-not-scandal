@@ -5,6 +5,7 @@ tags: Medicine/HCV
 aliases: hcv
 share: true
 category: medicine
+publish_title: DAA給付條件
 ---
 # Glecaprevir/pibrentasvir (Maviret)  
 * 3# QD WM，Child-Pugh B/C不可使用，腎功能不佳可使用  

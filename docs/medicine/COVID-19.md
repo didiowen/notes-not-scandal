@@ -12,6 +12,7 @@ share_link: https://share.note.sx/v0l7xf5b#kQ9aC51Zr7Xtvik3vbjJHEIWSatWAu84M9+qY
 share_updated: 2024-08-14T15:39:15+08:00
 share: true
 category: medicine
+publish_title: COVID-19
 ---
 up:: [[專師考試解題|專師考試解題]]  
 # CORONAVIRUS DISEASE 2019 (COVID-19) / SARS-COV-2 INFECTION  

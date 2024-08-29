@@ -12,6 +12,7 @@ share_link: https://share.note.sx/kl2kl718#hM6/FT+eJy30zuzIb2/CO+nEJ76RxqmumC8tF
 share_updated: 2024-08-14T17:42:35+08:00
 share: true
 category: medicine
+publish_title: Urinary tract infection
 ---
 up:: [[專師考試解題|專師考試解題]]  
 # 定義  

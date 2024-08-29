@@ -5,6 +5,7 @@ tags: medicine/TB
 aliases: ltbi
 share: true
 category: medicine
+publish_title: Latent tuberculosis infection
 ---
 ## Whom to screen  
 - 一個月內新生兒：都要治療  

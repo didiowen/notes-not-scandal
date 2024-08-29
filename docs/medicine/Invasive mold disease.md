@@ -5,6 +5,7 @@ tags: Medicine/fungi
 aliases: 
 share: true
 category: medicine
+publish_title: Invasive mold disease
 ---
   
 [@Donnell2020RevisionUpdate]  
