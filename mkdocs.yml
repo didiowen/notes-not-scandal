@@ -1,5 +1,6 @@
 site_name: Notes Not Scandal
 site_url: https://didiowen.github.io/notes-not-scandal/
+site_author: YW Chen
 
 theme:
     name: 'material'
@@ -54,8 +55,8 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-  - bibtex:
-      bib_file: "refs.bib"
+%%- bibtex:
+      bib_file: "refs.bib"%%
 markdown_extensions:
   - footnotes
 
