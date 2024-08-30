@@ -3,18 +3,15 @@ creation date: 2024-08-09 17:05
 tags:
   - teaching
   - medicine/COVID
-title: Pocket Medicine
-subtitle: 
-author: Marc Sabatine
-year: 2022
+source: Pocket Medicine, 2022
 status: finished
 share_link: https://share.note.sx/v0l7xf5b#kQ9aC51Zr7Xtvik3vbjJHEIWSatWAu84M9+qYavUdIQ
 share_updated: 2024-08-14T15:39:15+08:00
 share: true
 category: medicine
-publish_title: COVID-19
+p_title: COVID-19
 ---
-up:: [[專師考試解題|專師考試解題]]  
+up:: [[../../專師考試解題|專師考試解題]]  
 # CORONAVIRUS DISEASE 2019 (COVID-19) / SARS-COV-2 INFECTION  
   
 ## 微生物學與流行病學  
