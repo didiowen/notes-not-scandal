@@ -70,8 +70,8 @@ source: Harrison's Principles of Internal Medicine, 21e
   
 ![[../attachments/66855bcbe1aee21fd2f8a8bf99ca31dd_MD5.jpeg|66855bcbe1aee21fd2f8a8bf99ca31dd_MD5]]  
   
-# 考古題  
-## 專師  
+## 考古題  
+### 專師  
   
-## 內科醫師  
+### 內科醫師  
   
