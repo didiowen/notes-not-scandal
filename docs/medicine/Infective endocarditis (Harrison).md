@@ -9,7 +9,7 @@ tags:
   - medicine/IE
 share: true
 category: medicine
-publish_title: Infective endocarditis (Harrison)
+p_title: Infective endocarditis (Harrison)
 ---
   
 # Infective Endocarditis  
