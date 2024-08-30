@@ -3,6 +3,8 @@ site_url: https://didiowen.github.io/notes-not-scandal/
 
 theme:
     name: 'material'
+    features:
+        - navigation.path
     palette:
 
     # Light mode
