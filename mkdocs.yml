@@ -48,17 +48,34 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - tables
 
   - toc:
       permalink: true
+      title: On this page
 
 plugins:
   - search
   - roamlinks
-%%- bibtex:
-      bib_file: "refs.bib"%%
-markdown_extensions:
-  - footnotes
+#- bibtex:
+#      bib_file: "refs.bib"
+hooks:
+  - overrides/hooks/on_page_markdown.py
+  - overrides/hooks/on_env.py
+  - overrides/hooks/on_files.py
+extra:
+#  SEO: assets/meta/SEO.png
+#  comments: $comments #disable comments globally
+#  generate_graph: $generate_graph #generate the graph of the site
+#  no-auto-h1: $auto_h1 #disable the automatic generation of h1 if no h1 is found
+#  blog_list:
+#    pagination: true #enable pagination
+#    pagination_message: true #display the message "Showing x posts out of y"
+#    pagination_translation: 'posts in' #message to display before the number of posts ; Add your own translation!
+#    no_page_found: "No pages found!" #message to display when no pages are found ; Add your own translation!
+  hooks:
+    strip_comments: true
+    fix_heading: true
 
 extra_javascript:
   - javascripts/mathjax.js
