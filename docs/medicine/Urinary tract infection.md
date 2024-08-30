@@ -4,17 +4,14 @@ status: finished
 tags:
   - teaching
   - medicine/UTI
-title: Pocket Medicine
-subtitle: 
-author: Marc Sabatine
-year: 2022
+source: Pocket Medicine, 2022
 share_link: https://share.note.sx/kl2kl718#hM6/FT+eJy30zuzIb2/CO+nEJ76RxqmumC8tFzL6TSQ
 share_updated: 2024-08-14T17:42:35+08:00
 share: true
 category: medicine
-publish_title: Urinary tract infection
+p_title: Urinary tract infection
 ---
-up:: [[專師考試解題|專師考試解題]]  
+up:: [[../../專師考試解題|專師考試解題]]  
 # 定義  
   
 - **無症狀菌尿症**：尿液中存在細菌但無感染的徵兆或症狀  
