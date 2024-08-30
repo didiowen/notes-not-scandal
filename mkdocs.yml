@@ -54,6 +54,10 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - bibtex:
+      bib_file: "refs.bib"
+markdown_extensions:
+  - footnotes
 
 extra_javascript:
   - javascripts/mathjax.js
