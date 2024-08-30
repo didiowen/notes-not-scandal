@@ -2,11 +2,11 @@
 creation date: 2024-02-08 14:00
 modification date: 2024-08-29 23:18
 aliases: prep
-share: true
 tags:
   - medicine/HIV
+share: true
 category: medicine
-publish_title: PrEP
+p_title: PrEP
 ---
   
 ![[../attachments/PrEP-3.png|../../attachments/PrEP-3.png]]  
