@@ -63,7 +63,7 @@ plugins:
 #  - overrides/hooks/on_page_markdown.py
 #  - overrides/hooks/on_env.py
 #  - overrides/hooks/on_files.py
-extra:
+#extra:
 #  SEO: assets/meta/SEO.png
 #  comments: $comments #disable comments globally
 #  generate_graph: $generate_graph #generate the graph of the site
