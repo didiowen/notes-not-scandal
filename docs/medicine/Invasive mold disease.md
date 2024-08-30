@@ -2,10 +2,10 @@
 creation date: 2024-08-22 16:53
 modification date: 2024-08-29 23:16
 tags: Medicine/fungi
-aliases: 
+aliases: imd
 share: true
 category: medicine
-publish_title: Invasive mold disease
+p_title: Invasive mold disease
 ---
   
 [@Donnell2020RevisionUpdate]  
