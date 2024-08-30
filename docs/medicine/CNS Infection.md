@@ -1,20 +1,18 @@
 ---
+fileClass: share
 creation date: 2024-08-09 16:05
 tags:
   - teaching
   - medicine/CNS
 status: finished
-title: Pocket Medicine
-subtitle: 
-author: Marc Sabatine
-year: 2022
+source: Pocket Medicine, 2022
 share_link: https://share.note.sx/1uhhve6q#nCOpir4CQ8PllcQCjkfpY6sYlK4FQVHe1lC2ON4rTeQ
 share_updated: 2024-08-14T16:04:25+08:00
 share: true
 category: medicine
-publish_title: CNS Infection
+p_title: CNS Infection
 ---
-up:: [[專師考試解題|專師考試解題]]  
+up:: [[../../專師考試解題|專師考試解題]]  
 # 急性細菌性腦膜炎  
   
 ## 定義  
