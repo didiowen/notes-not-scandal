@@ -9,6 +9,7 @@ share_link: https://share.note.sx/m28oc93u#wJdC3rLRCv5lXc6KgORO5De/g0L80wqZBMz6m
 share_updated: 2024-08-14T16:03:50+08:00
 share: true
 category: medicine
+alias: ssti
 ---
 # Skin and soft tissue infection  
 source: Pocket Medicine, 2022  

@@ -3,6 +3,7 @@ title: HIV長效針劑
 share: true
 category:
   - medicine
+alias: hiv-long-acting
 ---
 # HIV長效針劑  
 ## CDC申請條件  

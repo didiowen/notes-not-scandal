@@ -10,6 +10,7 @@ tags:
 share: true
 category: medicine
 title: Infective endocarditis (Harrison)
+alias: ie
 ---
   
 # Infective Endocarditis  

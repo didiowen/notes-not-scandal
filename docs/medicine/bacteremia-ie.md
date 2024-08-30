@@ -9,6 +9,7 @@ share_link: https://share.note.sx/5kvwmniy#vnlaMyGYciUZN7WsQcuAJmqAA2V3JjfuLe/8d
 share_updated: 2024-08-14T17:41:28+08:00
 share: true
 category: medicine
+alias: bacteremia-ie
 ---
 source: Pocket Medicine, 2022  
 # 菌血症  

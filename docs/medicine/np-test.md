@@ -4,6 +4,7 @@ fileClass: share
 creation date: 2024-07-02 20:31
 status: finished
 tags:
+  - medicine
   - teaching
   - moc
 URL: https://drive.google.com/drive/folders/1SS22JrnIYtUXON3d-kmcjfAFDru6SIAh
@@ -12,22 +13,23 @@ share_updated: 2024-08-14T15:35:50+08:00
 category:
   - medicine
 share: true
+alias: np-test
 ---
 ![[../attachments/134b46071bbf0a88cc252b204f4ebd82_MD5.jpeg|200]]  
 # 專師考試感染科試題  
 ## 目錄  
   
-down:: [[./Sepsis|Sepsis]]  
-down:: [[./Urinary tract infection|Urinary tract infection]]  
-down:: [[./Antibiotics|Antibiotics]]  
-down:: [[./CNS Infection|CNS Infection]]  
-down:: [[./Skin and soft tissue infection|Skin and soft tissue infection]]  
-down:: [[./HIV|HIV]]  
-down:: [[./Bacteremia and infective endocarditis|Bacteremia and infective endocarditis]]  
-down:: [[./COVID-19|COVID-19]]  
+down:: [[./sepsis|sepsis]]  
+down:: [[./uti|uti]]  
+down:: [[./abx|abx]]  
+down:: [[./cns-infection|cns-infection]]  
+down:: [[./ssti|ssti]]  
+down:: [[./hiv|hiv]]  
+down:: [[./bacteremia-ie|bacteremia-ie]]  
+down:: [[./covid|covid]]  
 down:: [[Pneumonia|Pneumonia]]  
 down:: [[EID|EID]]  
-down:: [[./Fever|Fever]]  
+down:: [[./fever|fever]]  
 down:: [[Vaccine|Vaccine]]  
   
 ## 其他資源  

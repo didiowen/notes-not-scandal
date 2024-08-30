@@ -5,6 +5,7 @@ modification date: 2024-08-29 23:17
 tags: medicine/antibiotics
 share: true
 category: medicine
+alias: linezolid
 ---
 # Linezolid健保給付條件  
   

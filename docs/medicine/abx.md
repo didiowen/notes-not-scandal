@@ -2,13 +2,14 @@
 title: Antibiotics
 creation date: 2024-08-09 15:56
 tags:
-  - teaching
   - medicine/antibiotics
+  - teaching
 status: finished
 share_link: https://share.note.sx/phl07lrt#m3+7fJ/DzSGBZILBoqvN0puQctK6xych9ZWRA5I/WLw
 share_updated: 2024-08-14T17:58:55+08:00
 share: true
 category: medicine
+alias: abx
 ---
 # Antibiotics  
 ## 作用機制  

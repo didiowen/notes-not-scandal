@@ -6,6 +6,7 @@ tags: medicine/TB
 aliases: ltbi
 share: true
 category: medicine
+alias: ltbi
 ---
 # Latent tuberculosis infection  
 ## Whom to screen  

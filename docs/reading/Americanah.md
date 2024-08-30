@@ -16,14 +16,9 @@ finished date: 2024-08-30
 category:
   - reading
 share: true
+alias: Americanah
 ---
-### [[Americanah|Americanah]]  
-  
-Chimamanda Ngozi Adichie 2013  
-  
-This is a love story — but what a love story! Crisscrossing continents, families and recent decades, “Americanah” centers on a Nigerian woman, Ifemelu, who discovers what it means to be Black by immigrating to the United States, and acquires boutique celebrity blogging about it. (In the sequel, she’d have a Substack.) Ifemelu’s entanglements with various men undergird a rich and rough tapestry of life in Barack Obama’s America and beyond. And Adichie’s sustained examination of absurd social rituals — like the painful relaxation of professionally “unacceptable” hair, for example — is revolutionary. — Alexandra Jacobs  
-  
-  
+![[./100-best-books#Americanah|100 Best Books of the 21st Century > Americanah]]  
   
 >[!quote] Chapter 20  
 >You see, in American pop culture, beautiful dark women are invisible. The other group just as invisible is Asian men, but at least they get to be super smart.

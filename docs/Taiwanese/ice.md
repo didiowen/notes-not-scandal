@@ -1,11 +1,13 @@
 ---
+fileClass: share
 creation date: 2023-08-17 16:07
 modification date: 2024-08-29 23:46
 tags:
-  - writing
   - Language/Taiwanese
+  - writing
 share: true
 category: Taiwanese
+alias: ice
 ---
   
 日本時代的俗語說「第一賣冰、第二做醫生」，今仔日欲共逐家來分享我尚愛去食冰的所在。  

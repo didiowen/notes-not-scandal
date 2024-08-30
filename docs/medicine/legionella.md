@@ -6,6 +6,7 @@ tags: medicine/Legionella, medicine/pneumonia
 category:
   - medicine
 share: true
+alias: legionella
 ---
 # Legionella  
 ## When to suspect _Legionella_  

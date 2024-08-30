@@ -10,6 +10,7 @@ share_updated: 2024-07-17T20:24:51+08:00
 share: true
 category: reading
 p_title: 100 Best Books of the 21st Century
+alias: 100-best-books
 ---
   
 Many of us find joy in looking back and taking stock of our reading lives, which is why we here at The New York Times Book Review decided to mark the first 25 years of this century with an ambitious project: to take a first swing at determining the most important, influential books of the era. In collaboration with the Upshot, [we sent a survey to hundreds of literary luminaries](https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html#methodology), asking them to name the 10 best books published since Jan. 1, 2000.  
@@ -532,7 +533,7 @@ David Mitchell 2004
 Mitchell’s almost comically ambitious novel is indeed a kind of cumulus: a wild and woolly condensation of ideas, styles and far-flung milieus whose only true commonality is the reincarnated soul at its center. The book’s six nesting narratives — from 1850s New Zealand through 1930s Belgium, groovy California, recent-ish England, dystopian Korea and Hawaii — also often feel like a postmodern puzzle-box that whirls and clicks as its great world(s) spin, throwing off sparks of pulp, philosophy and fervid humanism.  
   
 ## 27  
-### [[Americanah|Americanah]]  
+### [[./Americanah|Americanah]]  
   
 Chimamanda Ngozi Adichie 2013  
   

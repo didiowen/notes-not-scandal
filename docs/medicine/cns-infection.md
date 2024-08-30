@@ -10,6 +10,7 @@ share_link: https://share.note.sx/1uhhve6q#nCOpir4CQ8PllcQCjkfpY6sYlK4FQVHe1lC2O
 share_updated: 2024-08-14T16:04:25+08:00
 share: true
 category: medicine
+alias: cns-infection
 ---
 # CNS Infection  
 source:: Pocket Medicine, 2022  

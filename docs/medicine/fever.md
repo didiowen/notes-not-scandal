@@ -5,6 +5,7 @@ share_updated: 2024-08-14T17:39:50+08:00
 category:
   - medicine
 share: true
+alias: fever
 ---
 # Fever  
 source: Harrison's Principles of Internal Medicine, 21e  

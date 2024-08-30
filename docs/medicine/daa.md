@@ -5,6 +5,7 @@ modification date: 2024-08-29 23:14
 tags: Medicine/HCV
 share: true
 category: medicine
+alias: daa
 ---
 # DAA  
 ## Glecaprevir/pibrentasvir (Maviret)  

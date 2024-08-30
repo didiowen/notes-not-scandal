@@ -6,6 +6,7 @@ title: Infections in Immunocompromised Hosts
 creation date: 2024-08-13 19:42
 modification date: 2024-08-30 22:18
 tags: medicine
+alias: immunocompromised
 ---
 source: Pocket Medicine, 2022  
 # Infections in Immunocompromised Hosts  

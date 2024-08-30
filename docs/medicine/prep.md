@@ -6,6 +6,7 @@ tags:
   - medicine/HIV
 share: true
 category: medicine
+alias: prep
 ---
 # Pre-exposure Prevention  
   

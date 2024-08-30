@@ -13,6 +13,7 @@ creation date: 2024-07-17 20:53
 category:
   - reading
 share: true
+alias: Rachel
 ---
 # Thoughts  
 - Rachel被男友ghosted之後期末報告寫不出來差點畢不了業的部分真是心有戚戚焉…  

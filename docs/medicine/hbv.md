@@ -5,6 +5,7 @@ modification date: 2024-08-29 23:15
 tags: Medicine/HBV
 share: true
 category: medicine
+alias: hbv
 ---
   
 Lamivudine 100mg, entecavir, telbivudine, tenofovir disoproxil, tenofovir alafenamide用於慢性病毒性 B 型肝炎患者之條件如下：  
