@@ -3,7 +3,7 @@ creation date: 2024-08-30 00:45
 modification date: 2024-08-30 00:48
 aliases: index
 share: true
-publish_title: index
+p_title: index
 ---
 Ditched Notion for Obsidian for some time. Finally set up this site so I can query my notes while I’m seeing patients in the out-patient department or in jail!  
   
