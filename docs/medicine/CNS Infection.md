@@ -12,7 +12,7 @@ share: true
 category: medicine
 p_title: CNS Infection
 ---
-up:: [[../../專師考試解題|專師考試解題]]  
+up:: [[./專師考試感染科試題|專師考試感染科試題]]  
 # 急性細菌性腦膜炎  
   
 ## 定義  
