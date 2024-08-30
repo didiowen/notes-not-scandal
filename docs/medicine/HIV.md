@@ -11,7 +11,7 @@ share: true
 category: medicine
 p_title: HIV
 ---
-up:: [[../../專師考試解題|專師考試解題]]  
+up:: [[./專師考試感染科試題|專師考試感染科試題]]  
 # HIV/AIDS  
   
 ## 定義與臨床表現  
@@ -336,7 +336,7 @@ When to stop prophylaxis: PCP and toxo if CD4 >200 × 3 mos; Histo if CD4 >150 
 - Therapy: ganciclovir, valganciclovir, foscarnet, or cidofovir  
   
   
-![[../../HIV長效針劑|HIV長效針劑]]  
+  
   
 # 考古題  
 ## 專師  

@@ -11,7 +11,7 @@ share: true
 category: medicine
 p_title: Urinary tract infection
 ---
-up:: [[../../專師考試解題|專師考試解題]]  
+up:: [[./專師考試感染科試題|專師考試感染科試題]]  
 # 定義  
   
 - **無症狀菌尿症**：尿液中存在細菌但無感染的徵兆或症狀  

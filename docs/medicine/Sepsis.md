@@ -11,7 +11,7 @@ share: true
 category: medicine
 p_title: Sepsis
 ---
-up:: [[../../專師考試解題|專師考試解題]]   
+up:: [[./專師考試感染科試題|專師考試感染科試題]]   
 # 敗血症與休克  
   
 ## 休克  

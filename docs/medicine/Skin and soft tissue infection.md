@@ -11,7 +11,7 @@ share: true
 category: medicine
 p_title: Skin and soft tissue infection
 ---
-up:: [[../../專師考試解題|專師考試解題]]  
+up:: [[./專師考試感染科試題|專師考試感染科試題]]  
 # 皮膚和軟組織感染  
 ## 定義  
   
