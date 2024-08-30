@@ -59,10 +59,10 @@ plugins:
   - roamlinks
 #- bibtex:
 #      bib_file: "refs.bib"
-#hooks:
-#  - overrides/hooks/on_page_markdown.py
-#  - overrides/hooks/on_env.py
-#  - overrides/hooks/on_files.py
+hooks:
+  - overrides/hooks/on_page_markdown.py
+  - overrides/hooks/on_env.py
+  - overrides/hooks/on_files.py
 #extra:
 #  SEO: assets/meta/SEO.png
 #  comments: $comments #disable comments globally
@@ -73,9 +73,9 @@ plugins:
 #    pagination_message: true #display the message "Showing x posts out of y"
 #    pagination_translation: 'posts in' #message to display before the number of posts ; Add your own translation!
 #    no_page_found: "No pages found!" #message to display when no pages are found ; Add your own translation!
-#  hooks:
-#    strip_comments: true
-#    fix_heading: true
+hooks:
+    strip_comments: true
+    fix_heading: true
 
 extra_javascript:
   - javascripts/mathjax.js
