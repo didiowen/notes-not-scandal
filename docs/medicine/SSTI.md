@@ -1,18 +1,17 @@
 ---
+title: Skin and soft tissue infection
 creation date: 2024-08-09 16:06
 status: finished
 tags:
   - teaching
   - medicine/SSTI
-source: Pocket Medicine, 2022
 share_link: https://share.note.sx/m28oc93u#wJdC3rLRCv5lXc6KgORO5De/g0L80wqZBMz6mnLkls8
 share_updated: 2024-08-14T16:03:50+08:00
 share: true
 category: medicine
-p_title: Skin and soft tissue infection
 ---
-up:: [[./專師考試感染科試題|專師考試感染科試題]]  
-# 皮膚和軟組織感染  
+# Skin and soft tissue infection  
+source: Pocket Medicine, 2022  
 ## 定義  
   
 - 蜂窩性組織炎：是真皮和皮下組織的感染，特徵為紅斑、發熱、壓痛和腫脹；通常因皮膚破損引起（JAMA 2016;315:3）。  

@@ -1,18 +1,18 @@
 ---
+title: Urinary tract infection
 creation date: 2024-08-09 15:54
 status: finished
 tags:
   - teaching
   - medicine/UTI
-source: Pocket Medicine, 2022
 share_link: https://share.note.sx/kl2kl718#hM6/FT+eJy30zuzIb2/CO+nEJ76RxqmumC8tFzL6TSQ
 share_updated: 2024-08-14T17:42:35+08:00
 share: true
 category: medicine
-p_title: Urinary tract infection
 ---
-up:: [[./專師考試感染科試題|專師考試感染科試題]]  
-# 定義  
+# Urinary tract infection  
+source: Pocket Medicine, 2022  
+## 定義  
   
 - **無症狀菌尿症**：尿液中存在細菌但無感染的徵兆或症狀  
 - **簡單性**：侷限於膀胱，無上尿路或全身感染的跡象  
@@ -22,7 +22,7 @@ up:: [[./專師考試感染科試題|專師考試感染科試題]]
 	- 男性、患有腎結石、狹窄、支架、尿路改道、免疫抑制、糖尿病者已不自動歸類為複雜性  
 	- **孕婦**和**腎移植**患者視為複雜性  
   
-# 微生物學  
+## 微生物學  
   
 - **簡單性**：  
 	- *Escherichia coli*大腸桿菌（80%）  
@@ -34,7 +34,7 @@ up:: [[./專師考試感染科試題|專師考試感染科試題]]
 - **導管相關**：最常見的是*Escherichia coli*大腸桿菌、*Candida*念珠菌、enterococci腸球菌、*Pseudomonas aeruginosa*綠膿桿菌及其他革蘭氏陰性桿菌。  
 - **尿道炎**：*Chlamydia trachomatis*沙眼披衣菌, *Neisseria gonorrhoeae*淋病雙球菌, *Ureaplasma urealyticum*, *Trichomonas vaginalis*陰道滴蟲, *Mycoplasma genitalium*, HSV單純皰疹病毒。  
   
-# 臨床表現  
+## 臨床表現  
   
 - **膀胱炎**：排尿困難、尿急、尿頻、血尿、恥骨上疼痛；無發燒。若有膀胱炎和尿道炎症狀，需排除陰道炎。神經性膀胱患者可能有非典型症狀（如痙攣增加、自主神經反射異常、不適）。  
 - **尿道炎**：排尿困難、尿道分泌物  
@@ -44,7 +44,7 @@ up:: [[./專師考試感染科試題|專師考試感染科試題]]
 - **腎盂腎炎**：發燒、寒戰、側腹或背部疼痛、噁心、嘔吐、腹瀉  
 - **腎膿腫**：腎盂腎炎症狀 + 在使用適當抗生素後仍持續發燒  
   
-# 診斷（NEJM 2016;374:562）  
+## 診斷（NEJM 2016;374:562）  
   
 - **尿液分析**：膿尿 + 菌尿 ± 血尿 ± 硝酸鹽  
 - **尿培養**（清潔中段尿或直接導尿）：  
@@ -56,7 +56,7 @@ up:: [[./專師考試感染科試題|專師考試感染科試題]]
 - 對所有男性尿路感染患者，考慮前列腺炎：**檢查前列腺**  
 - **CT**：考慮對症狀嚴重、尿路阻塞、在適當抗生素治療後48-72小時仍持續症狀的患者進行檢查  
   
-# 治療 (_CID_ 2011;52:e103; _JAMA_ 2014;312:1677)  
+## 治療 (_CID_ 2011;52:e103; _JAMA_ 2014;312:1677)  
   
 | **情境**                         | **經驗性治療指導**（根據尿液培養結果縮窄治療範圍）                                                                                                                                                                                                                                                                            |  
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |  
@@ -66,7 +66,7 @@ up:: [[./專師考試感染科試題|專師考試感染科試題]]
 | **腎盂腎炎**                       | 門診患者：fluoroquinolone 7天 或 TMP-SMX 口服 14天（_Lancet_ 2012;380:452）<br><br>住院患者：ceftriaxone 14天；如果有多重抗藥性病原體風險，則使用 cefepime、pip-tazo、carbapenem（_NEJM_ 2019;380:729），當臨床改善且無發燒 24-48小時後，可由靜脈注射轉為口服，並根據培養結果調整治療方案                                                                                            |  
 | **腎膿腫**                        | 引流 + 使用與腎盂腎炎相同的抗生素                                                                                                                                                                                                                                                                                     |  
   
-# Definitions  
+## Definitions  
   
 - Asymptomatic bacteriuria: presence of bacteria in urine without signs or symptoms of infection  
 - Uncomplicated: confined to bladder. No upper tract or systemic infection signs.  
@@ -76,14 +76,14 @@ up:: [[./專師考試感染科試題|專師考試感染科試題]]
 	- Men, those w/ nephrolithiasis, strictures, stents, urinary diversions, immunosupp, DM, are not automatically complicated.   
 	- Pregnant & renal transplant are considered complicated.  
   
-# Microbiology  
+## Microbiology  
   
 - Uncomplicated: E. coli (80%), Proteus, Klebsiella, S. saprophyticus (CID 2004;39:75). In healthy, nonpregnant women, lactobacilli, enterococci, Group B strep, and coag-neg staph (except S. saprophyticus) are likely contaminants (Annals 2012;156:ITC3).  
 - Complicated: as above + Pseudomonas aeruginosa, enterococci, staph (uncommon primary urinary pathogen w/o catheter or recent instrumentation; ? bacteremia w/ hematogenous spread). ↑ multidrug resistance.  
 - Catheter-associated: E. coli most prevalent, candida, Enterococcus, Pseudomonas aeruginosa, other GNR  
 - Urethritis: Chlamydia trachomatis, Neisseria gonorrhoeae, Ureaplasma urealyticum, Trichomonas vaginalis, Mycoplasma genitalium, HSV  
   
-# Clinical manifestations  
+## Clinical manifestations  
   
 - Cystitis: dysuria, urgency, frequency, hematuria, suprapubic pain; fever absent. R/o vaginitis if symptoms of cystitis & urethritis. Neurogenic bladder Pts may have atypical symptoms (↑ spasticity, autonomic dysreflexia, malaise).  
 - Urethritis: dysuria, urethral discharge (see “STI”)  
@@ -93,7 +93,7 @@ up:: [[./專師考試感染科試題|專師考試感染科試題]]
 - Pyelonephritis: fever, chills, flank or back pain, nausea, vomiting, diarrhea  
 - Renal abscess: pyelonephritis symptoms + persistent fever on appropriate antibiotics  
   
-# Diagnostic studies (NEJM 2016;374:562)  
+## Diagnostic studies (NEJM 2016;374:562)  
   
 - Urinalysis: pyuria + bacteriuria ± hematuria ± nitrites  
 - Urine culture (clean-catch midstream or straight-cath):  
@@ -105,7 +105,7 @@ up:: [[./專師考試感染科試題|專師考試感染科試題]]
 - For all men w/ UTI, consider prostatitis: ✓ prostate exam  
 - CT: consider in severely ill, obstruction, persistent symptoms after 48-72 hours of appropriate antibiotics  
   
-# **Treatment of UTIs** (_CID_ 2011;52:e103; _JAMA_ 2014;312:1677)  
+## Treatment of UTIs (_CID_ 2011;52:e103; _JAMA_ 2014;312:1677)  
   
 | **Scenario**                       | **Empiric Treatment Guidelines** (narrow based on urine culture)                                                                                                                                                                                                                                                                                                             |  
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  
@@ -115,10 +115,8 @@ up:: [[./專師考試感染科試題|專師考試感染科試題]]
 | **Pyelonephritis**                 | OutPt: fluoroquinolone × 7 days _or_ TMP-SMX PO × 14 days (_Lancet_2012;380:452)<br><br>InPt: ceftriaxone × 14 days; if at risk for MDR pathogen cefepime, pip-tazo, carbapenem, or plazomicin (_NEJM_ 2019;380:729) (Δ IV → PO when clinically improved & afebrile 24-48 hours, tailor to culture)                                                                          |  
 | **Renal abscess**                  | Drainage + antibiotics as for pyelonephritis                                                                                                                                                                                                                                                                                                                                 |  
   
-# 考古題  
-## 專師  
+## 考古題  
+### 專師  
   
-  
-  
-## 內科醫師  
+### 內科醫師  
   

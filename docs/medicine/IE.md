@@ -1,17 +1,16 @@
 ---
+title: Bacteremia and infective endocarditis
 creation date: 2024-08-09 16:07
 status: finished
 tags:
   - teaching
   - medicine/IE
-source: Pocket Medicine, 2022
 share_link: https://share.note.sx/5kvwmniy#vnlaMyGYciUZN7WsQcuAJmqAA2V3JjfuLe/8d8U8bdw
 share_updated: 2024-08-14T17:41:28+08:00
 share: true
 category: medicine
-p_title: Infective endocarditis (Pocket Medicine)
 ---
-up:: [[./專師考試感染科試題|專師考試感染科試題]]  
+source: Pocket Medicine, 2022  
 # 菌血症  
   
 ## 定義  

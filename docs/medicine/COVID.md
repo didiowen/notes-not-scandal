@@ -1,19 +1,17 @@
 ---
+title: COVID-19
 creation date: 2024-08-09 17:05
 tags:
   - teaching
   - medicine/COVID
-source: Pocket Medicine, 2022
 status: finished
 share_link: https://share.note.sx/v0l7xf5b#kQ9aC51Zr7Xtvik3vbjJHEIWSatWAu84M9+qYavUdIQ
 share_updated: 2024-08-14T15:39:15+08:00
 share: true
 category: medicine
-p_title: COVID-19
 ---
-up:: [[./專師考試感染科試題|專師考試感染科試題]]  
 # CORONAVIRUS DISEASE 2019 (COVID-19) / SARS-COV-2 INFECTION  
-  
+source: Pocket Medicine, 2022  
 ## 微生物學與流行病學  
   
 - 透過呼吸道顆粒在人與人之間傳播；無症狀與症狀前的傳播可能發生    
@@ -116,8 +114,8 @@ up:: [[./專師考試感染科試題|專師考試感染科試題]]
 #### Unlikely   
 - Platelet count <150 × 10<sup>9</sup>/L without thrombosis with D-dimer <2000 FEU, or   
 - Thrombosis with platelet count >150 × 10<sup>9</sup>/L and D-dimer <2000 FEU, regardless of anti-PF4 Ab result, and/or   
-# 考古題  
-## 專師  
+## 考古題  
+### 專師  
   
-## 內科醫師  
+### 內科醫師  
   

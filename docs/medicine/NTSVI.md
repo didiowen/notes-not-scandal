@@ -1,13 +1,14 @@
 ---
+title: NTSVI
 creation date: 2024-08-07 13:13
 modification date: 2024-08-29 23:17
 tags: medicine/Salmonella
 aliases: ntsvi
 share: true
 category: medicine
-p_title: NTSVI
 ---
-# Chen-NTSVI score [@Chen2012simplescoring]  
+# Non-typhoid Salmonella Vascular Infection  
+## Chen-NTSVI score [@Chen2012simplescoring]  
   
 | RIsk factors              | Point |  
 | ------------------------- | ----- |  
@@ -23,7 +24,7 @@ p_title: NTSVI
  Sp: 45.3%  
  AUC: 0.83 (0.78-0.89)  
   
-# TTP-NTSVI score [@Lin2018Utilityblood]  
+## TTP-NTSVI score [@Lin2018Utilityblood]  
   
 | RIsk factors              | Point |  
 | ------------------------- | ----- |  

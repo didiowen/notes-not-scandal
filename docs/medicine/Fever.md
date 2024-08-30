@@ -1,15 +1,13 @@
 ---
-source: Harrison's Principles of Internal Medicine, 21e
+title: Fever
 share_link: https://share.note.sx/c6p0faif#f93CrfBPLF+4EvE8CV6iz8x1ENtWqPZt7774FJNslxM
 share_updated: 2024-08-14T17:39:50+08:00
-p_title: Fever
 category:
   - medicine
 share: true
 ---
-up:: [[./專師考試感染科試題|專師考試感染科試題]]  
 # Fever  
-  
+source: Harrison's Principles of Internal Medicine, 21e  
 ## 正常體溫  
 - 體溫由下視丘控制  
 - 根據一項對35,000多名年齡≥18歲的個體進行的例行醫療訪問研究，平均口腔溫度為36.6°C（95%置信區間為35.7-37.3°C）。根據這項研究，健康個體99%百分位數的體溫定義為發燒，即超過**37.7°C**（99.9°F）  

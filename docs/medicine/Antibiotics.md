@@ -1,4 +1,5 @@
 ---
+title: Antibiotics
 creation date: 2024-08-09 15:56
 tags:
   - teaching
@@ -7,11 +8,10 @@ status: finished
 share_link: https://share.note.sx/phl07lrt#m3+7fJ/DzSGBZILBoqvN0puQctK6xych9ZWRA5I/WLw
 share_updated: 2024-08-14T17:58:55+08:00
 share: true
-p_title: Antibiotics
 category: medicine
 ---
-up:: [[./專師考試感染科試題|專師考試感染科試題]]  
-# 作用機制  
+# Antibiotics  
+## 作用機制  
 ![[../attachments/d5cd1072950af118968f9283c66a7d7c_MD5.jpeg|d5cd1072950af118968f9283c66a7d7c_MD5]]  
   
 | ANTIBACTERIAL AGENT(S)                                                                                     | MAJOR TARGET           | MECHANISM(S) OF ACTION                                                                                                                                                   | MECHANISM(S) OF RESISTANCE                                                                                                                                                             |  
@@ -38,34 +38,29 @@ up:: [[./專師考試感染科試題|專師考試感染科試題]]
 | Metronidazole                                                                                              | Nucleic acid synthesis | Reduces reactive drug derivatives that damage DNA                                                                                                                        | 1. Altered drug-activating enzyme<br>    <br>2. Acquired detoxifying enzymes<br>    <br>3. Active efflux                                                                               |  
 | Polymyxins (polymyxin B and polymyxin E [colistin])                                                        | Cell membrane          | Bind LPS and disrupt both outer and cytoplasmic membranes                                                                                                                | Altered cell-membrane charge with reduced drug binding                                                                                                                                 |  
 | Daptomycin                                                                                                 | Cell membrane          | Produces membrane channel and membrane leakage                                                                                                                           | Altered cell-membrane charge with reduced drug binding                                                                                                                                 |  
-## 抗藥性機轉  
+### 抗藥性機轉  
 ![[../attachments/be7c385cf6d7376b54c4de4794df94d7_MD5.jpeg|be7c385cf6d7376b54c4de4794df94d7_MD5]]  
 ![[../attachments/64e57133364b2f9716df1ac514b4d418_MD5.jpeg|64e57133364b2f9716df1ac514b4d418_MD5]]  
-## 藥物動力學  
+### 藥物動力學  
   
 - 藥物動力學：描述藥物在體內的分布情況  
 - 藥效動力學：描述藥物作用於病原體的決定因素，並與藥物動力學因素相關  
-  
-### 濃度依賴型抗生素  
-  
+#### 濃度依賴型抗生素  
 這類抗生素多為抑制細菌蛋白質或核酸合成的抗生素，如aminoglycosides、fluoroquinolones，因其殺菌作用與血中濃度呈正比，為達最大之殺菌作用，建議抗生素之Cmax須高於MIC 4倍以上，且因其有抗生素後效應 (Post-antibiotic effect,PAE) 的特性，即便血中藥物濃度在給藥間隔期間內低於MIC，仍可維持一定的抗菌作用。因此採高劑量、延長給藥間隔的方式投予是比較理想的方式，once-daily  
 aminoglycoside的給藥模式即以此理念所發展。  
-  
-### 時間依賴型抗生素  
+#### 時間依賴型抗生素  
 這類抗生素多為beta-lactams類，如penicillin、cephalosporins。對penicillin和cephalosporins而言，血中藥物濃度>MIC的時間越長越能滲透體內組織，建議治療期間的血中濃度有50%以上的時間高於MIC，以達療效最大化、抗生素耐藥性最小化的目標。此類藥品以連續輸注或延長輸注時間的方式給藥，除了可穩定抗生素血中濃  
 度的變化、不增加重症患者AKI的發生率外，對整體的醫療照護支出費用也可顯著降低。  
-  
-### 曲線下面積/最低抑菌濃度相關  
+#### 曲線下面積/最低抑菌濃度相關  
 如vancomycin，建議血中藥物濃度之曲線下面積 (AUC) 與MIC比值達到400-600  
 mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。  
-  
-## Penetration/Tissue concentration  
+### Penetration/Tissue concentration  
   
 - 過BBB: penicillin, ampicillin, oxacillin, 3rd-4th cephalosporins, moxifloxacin, vancomycin, chloramphenicol, rifampin, imipenem, meropenem, trimethoprim-sulfamethoxazole  
 - Prostatitis/epididymo-orchitis: ceftriaxone, doxycycline, fluoroquinolones, trimethoprim-sulfamethoxazole  
 - Endophthalmitis: 3rd cepha, vancomycin  
   
-# 本院有的抗生素  
+## 本院有的抗生素  
 ### Cephalosporins  
 第一代：Cefazolin, cephalexin (PO)  
 第二代：Cefuroxime (IV, PO)  
@@ -104,7 +99,7 @@ Isavuconazole
 Anidulafungin  
 Amphotericin B liposome  
   
-# 抗菌範圍  
+## 抗菌範圍  
 ![[../attachments/7e8b9088434a32c9d865e91bb156fd55_MD5.jpeg|7e8b9088434a32c9d865e91bb156fd55_MD5]]  
 [Source](http://charliekuo.com/?p=3114)  
   
@@ -182,89 +177,89 @@ Amphotericin B liposome
 | Fosfomycin                                              | 大多數革蘭氏陰性桿菌和一些革蘭氏陽性菌引起的尿路感染；反復性膀胱炎的預防                                                                                                                                                                                                                                                                                                                                                                | 被認為是低抗藥性                                                                                                                                                                                                        |  
 | Cefiderocol                                             | 由多重抗藥革蘭氏陰性菌引起的複雜性尿路感染和/或腎盂腎炎，包括產生ESBL或carbapenemase的細菌以及多重抗藥性*Pseudomonas aeruginosa, Acinetobacter baumannii, Stenotrophomonas maltophilia, Burkholderia cepacia complex*                                                                                                                                                                                                                          | 初步研究中顯示抗藥機率非常低                                                                                                                                                                                                  |  
   
-# 孕婦  
+## 孕婦  
   
 - 不建議使用aminoglycosides, tetracyclines  
 - Metronidazole, trimethoprim-sulfamethoxazole第一孕期禁用  
   
-# 常見副作用  
+## 常見副作用  
   
-## Ampicillin/sulbactam  
+### Ampicillin/sulbactam  
 - 腹瀉  
 - 偽膜性腸炎  
-## Piperacillin/tazobactam  
+### Piperacillin/tazobactam  
 - 腎毒性  
 - 腸道菌群失衡（可能導致偽膜性腸炎）  
 - 血小板減少症  
-## Ceftriaxone   
+### Ceftriaxone   
 - 肝毒性、黃疸  
 - 不可加入含鈣之點滴注射液  
-## **Cefepime**  
+### **Cefepime**  
  - 神經毒性（尤其是在腎功能受損的病人中，可能引起癲癇）  
-## Carbapenems  
+### Carbapenems  
  - 神經毒性（特別是在高劑量或腎功能不全時）  
-## Aminoglycosides (Gentamicin)  
+### Aminoglycosides (Gentamicin)  
 - 腎毒性：preexisting renal impairment, concomitant nephrotoxic medications, advanced age and dehydration  
 - 耳毒性（可能引起聽力損失或平衡障礙）：proportional to the amount of drug given and the duration of treatment; tinnitus or vertigo may be indications of vestibular injury and impending bilateral irreversible damage  
 - 神經肌肉阻礙、呼吸衰竭  
-## Sulfamethoxazole/Trimethoprim (TMP-SMX)  
+### Sulfamethoxazole/Trimethoprim (TMP-SMX)  
 - 高血鉀  
 - 腎毒性  
 - 肝毒性  
 - 過敏反應  
 - 骨髓抑制（可能引起貧血、白血球減少、血小板減少）  
-## Vancomycin  
+### Vancomycin  
 - 腎毒性  
 - 耳毒性  
 - 嗜中性球低下、白血球減少、血小板減少  
 - ==**Red man syndrome**==：與vancomycin的劑量有所關聯，特別是發生在劑量較大且快速滴注時。主要是由皮膚、肺、腸胃道、心肌及血管系統中的**肥大細胞**及嗜鹼性白血球釋出**組織胺**所導致的。此現象通常發生在首次的給予劑量，但也可能會發生在任何一個給藥時間。一般常見的典型的症狀為**上半身軀幹**有潮紅、紅疹、蕁麻疹及搔癢之現象，在幾個比較嚴重的案例中曾發現低血壓、胸痛及呼吸窘迫之症狀。  
 - 全身性過敏反應：是一種急性且危及生命的免疫反應，一般發生非常迅速，通常在給藥後之5-30分鐘以內發作。首先病人會對vancomycin敏感而在體內產生vancomycin特異性的IgE（vancomycin-specific IgE）。若對產生過敏之病人重複投予vancomycin會造成敏感性肥大細胞上的IgE接受器產生交叉連結反應，而引起血管活化調節物質的釋出，這些物質例如有組織胺、白三稀素C4（leukotriene C4）、前列腺素（prostaglandin D2）及細胞介質素，例如：腫瘤壞死因子（TNF-a）及interleukin 4, 5, 6, 7, 8及13。因為這些物質之釋出而擴大vancomycin之過敏反應進而產生血管擴張作用引起全身性皮膚紅疹、搔癢、蕁麻疹、支氣管收縮、腸道過度蠕動、低血壓或心律不整。  
-## Daptomycin  
+### Daptomycin  
 - 肌肉病變（myopathy）  
 - Drug-induced eosinophilic pneumonia（少見）  
 - Do not use for primary pneumonia: inactivated by pulmonary surfactant  
-## Linezolid  
+### Linezolid  
 - 肝毒性  
 - 血球低下（使用兩周以上）  
 - 不可與單胺氧化酶抑制劑(monoamine oxidase inhibitor)或selective serotonin re-uptake inhibitor共同使用（serotonin syndrome）  
 - 視神經病變  
 - 乳酸中毒（少見）  
-## Clindamycin  
+### Clindamycin  
 - 腹瀉  
 - 偽膜性腸炎（由困難梭狀桿菌引起）  
 - 皮疹  
 - 肝毒性  
-## Tetracyclines (如doxycycline, minocycline)  
+### Tetracyclines (如doxycycline, minocycline)  
 - 光感受性  
 - 胃腸不適  
 - 骨骼和牙齒發育障礙（特別是在兒童中）  
 - 肝毒性  
 - 併用Warfarin會加強Warfarin抗凝血功能增加出血的風險  
-## Fluoroquinolones  
+### Fluoroquinolones  
 - QTc 延長  
 - 肌腱炎及肌腱斷裂、關節病變（兒童不適合使用，老年人和同時用steroid的人使用fluoroquinolone會增加此副作用之風險）  
 - 血糖異常（高血糖或低血糖）  
 - 與aortic aneurysm or dissection可能有關  
-## Macrolides   
+### Macrolides   
 - 胃腸道不適（如腹瀉、噁心）  
 - QTc 延長  
 - 肝毒性  
-## Metronidazole  
+### Metronidazole  
 - 腸胃不適（如噁心、嘔吐）  
 - 周邊神經病變（長期使用）  
 - 口腔金屬味  
 - 酒精不耐受反應  
-## Fluconazole  
+### Fluconazole  
 - QTc 延長  
 - 肝毒性  
-## Amphotericin B  
+### Amphotericin B  
 - 腎毒性  
 - 低血鉀  
 - 輸注反應：發燒、寒顫、頭痛、心搏過速  
   
-# 考古題  
-## 專師  
+## 考古題  
+### 專師  
   
   
-## 內科醫師  
+### 內科醫師  
   

@@ -9,12 +9,12 @@ tags:
   - medicine/IE
 share: true
 category: medicine
-p_title: Infective endocarditis (Harrison)
+title: Infective endocarditis (Harrison)
 ---
   
 # Infective Endocarditis  
   
-Cosgrove,, Sara E., and Adolf W. Karchmer. "Infective Endocarditis." __Harrison's Principles of Internal Medicine, 21e__ Eds. Joseph Loscalzo, et al. McGraw Hill, 2022, https://accessmedicine.mhmedical.com/content.aspx?bookid=3095&sectionid=265415245.  
+Source: Cosgrove,, Sara E., and Adolf W. Karchmer. "Infective Endocarditis." __Harrison's Principles of Internal Medicine, 21e__ Eds. Joseph Loscalzo, et al. McGraw Hill, 2022, https://accessmedicine.mhmedical.com/content.aspx?bookid=3095&sectionid=265415245.  
   
 ---  
   

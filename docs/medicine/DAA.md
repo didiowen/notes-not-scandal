@@ -1,13 +1,13 @@
 ---
+title: DAA
 creation date: 2024-04-18 13:01
 modification date: 2024-08-29 23:14
 tags: Medicine/HCV
-aliases: hcv
 share: true
 category: medicine
-p_title: DAA給付條件
 ---
-# Glecaprevir/pibrentasvir (Maviret)  
+# DAA  
+## Glecaprevir/pibrentasvir (Maviret)  
 * 3# QD WM，Child-Pugh B/C不可使用，腎功能不佳可使用  
 * 限使用於 HCV RNA 為陽性及無肝功能代償不全之病毒基因型第 1 型、第 2 型、第 3 型、第 4 型、第 5 型或第 6 型 12 歲（含）以上病患  
 * 給付療程如下，醫師每次開藥以 4 週為限  
@@ -20,7 +20,7 @@ p_title: DAA給付條件
 	3. 曾接受含 NS5A 抑制劑或 NS3/4A 蛋白酶抑制劑治療之基因型第 1 型患者：  
 		1. 若曾接受 NS3/4A 蛋白酶抑制劑治療，但未曾接受 NS5A 抑制劑治療者，給付12 週  
 		2. 若曾接受 NS5A 抑制劑治療，但未曾接受 NS3/4A 蛋白酶抑制劑治療者，給付16 週  
-# Sofosbuvir/velpatasvir (Epclusa)  
+## Sofosbuvir/velpatasvir (Epclusa)  
 * 1# QD，Child-Pugh B/C可使用，Ccr < 30不建議使用  
 * 給付療程如下，醫師每次開藥以 4 週為限  
 	1. 未曾接受或曾接受全口服直接抗病毒藥物 (direct acting anti viral, DAAs) 治療，未併有或併有代償性肝硬化 (Child Pugh score A) 者，給付 12 週  
@@ -29,7 +29,7 @@ p_title: DAA給付條件
 	1. 接受本項藥品或其他 DAAs 第一次治療時中斷療程，且中斷原因屬專業醫療評估必須停藥者  
 	2. 接受本項藥品或其他 DAAs 第一次治療結束後第 12 週 ，血中偵測不到病毒，目前血中又再次偵測到病毒者  
 	3. 接受未含 NS5A 抑制劑之 DAAs 第一次治療，於治療完成時或治療結束後第 12 週，血中仍偵測到病毒者，或治療 4 週後之病毒量未能下降超過二個對數值（即下降未達100 倍發生在108年1月1日前）  
-# Sofosbuvir/velpatasvir/voxilaprevir (Vosevi)  
+## Sofosbuvir/velpatasvir/voxilaprevir (Vosevi)  
 * 限使用於HCV RNA為陽性，且未併有肝硬化或併有代償性肝硬化（ Child Pugh A 級）之病毒基因型第 1 型、第 2 型、第 3 型、第 4 型、第 5 型或第 6 型病患  
 * 給付療程如下，醫師每次開藥以 4 週為限  
 	1. 基因型 1 、 2 、 3 、 4 、 5 、 6 ，且曾接受含 NS5A 抑制劑治療失敗者，給付 12 週  

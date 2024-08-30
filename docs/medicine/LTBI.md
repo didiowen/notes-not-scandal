@@ -1,12 +1,13 @@
 ---
+title: Latent tuberculosis infection
 creation date: 2024-08-02 11:26
 modification date: 2024-08-29 23:08
 tags: medicine/TB
 aliases: ltbi
 share: true
 category: medicine
-p_title: Latent tuberculosis infection
 ---
+# Latent tuberculosis infection  
 ## Whom to screen  
 - 一個月內新生兒：都要治療  
 - Open TB：都要檢查  

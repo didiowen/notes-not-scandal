@@ -1,14 +1,15 @@
 ---
+title: Invasive Mold Disease
 creation date: 2024-08-22 16:53
-modification date: 2024-08-29 23:16
+modification date: 2024-08-30 21:20
 tags: Medicine/fungi
 aliases: imd
 share: true
 category: medicine
-p_title: Invasive mold disease
 ---
+# Invasive Mold Disease  
   
-[@Donnell2020RevisionUpdate]  
+Source: [@Donnell2020RevisionUpdate]  
 - Proven IFD can apply to any patient, regardless of whether the patient is immunocompromised  
 - Probable invasive fungal diseases (IFD) requires the presence of at least 1 host factor, a clinical feature and mycologic evidence and is proposed for **immunocompromised patients** **only**  
 - Cases that meet the criteria for a host factor and a clinical feature but for which mycological evidence has not been found are considered possible IFD  

@@ -1,11 +1,10 @@
 ---
+title: B肝藥物給付條件
 creation date: 2024-04-04 13:31
 modification date: 2024-08-29 23:15
 tags: Medicine/HBV
-aliases: hbv
 share: true
 category: medicine
-p_title: B肝藥物給付條件
 ---
   
 Lamivudine 100mg, entecavir, telbivudine, tenofovir disoproxil, tenofovir alafenamide用於慢性病毒性 B 型肝炎患者之條件如下：  

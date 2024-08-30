@@ -1,10 +1,12 @@
 ---
+title: When to treat dyslipidemia
 creation date: 2024-03-11 15:10
 modification date: 2024-08-29 23:14
-aliases: dl
 share: true
 category: medicine
 ---
+# Dyslipidemia何時要治療  
+  
 ![[../attachments/Dyslipidemia.png|../../attachments/Dyslipidemia.png]]  
 * 心血管疾病定義：  
 	* 冠狀動脈粥狀硬化患者包含：心絞痛病人，有心導管證實或缺氧性心電圖變化或負荷性試驗陽性反應者(附檢查報告)  

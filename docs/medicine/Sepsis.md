@@ -1,4 +1,5 @@
 ---
+title: Sepsis
 creation date: 2024-08-09 15:56
 status: finished
 tags:
@@ -9,9 +10,7 @@ share_link: https://share.note.sx/ellb9wv1#smrKktNhF+EF6R9HzY+cg8EE5vkVcklMuIcE/
 share_updated: 2024-08-14T15:38:40+08:00
 share: true
 category: medicine
-p_title: Sepsis
 ---
-up:: [[./專師考試感染科試題|專師考試感染科試題]]   
 # 敗血症與休克  
   
 ## 休克  

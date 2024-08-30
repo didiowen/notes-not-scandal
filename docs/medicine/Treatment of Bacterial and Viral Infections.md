@@ -9,7 +9,7 @@ tags:
   - medicine/antibiotics
 share: true
 category: medicine
-p_title: Treatment of Bacterial and Viral Infections
+title: Treatment of Bacterial and Viral Infections
 ---
   
 # Treatment of Bacterial and Viral Infections  
