@@ -5,9 +5,8 @@ tags: medicine/Salmonella
 aliases: ntsvi
 share: true
 category: medicine
-publish_title: NTSVI
+p_title: NTSVI
 ---
-  
 # Chen-NTSVI score [@Chen2012simplescoring]  
   
 | RIsk factors              | Point |  

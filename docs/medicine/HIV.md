@@ -4,17 +4,14 @@ status: finished
 tags:
   - teaching
   - medicine/HIV
-title: Pocket Medicine
-subtitle: 
-author: Marc Sabatine
-year: 2022
+source: Pocket Medicine, 2022
 share_link: https://share.note.sx/0sb83lcz#UzVR507MV4hD0CpZDEYviE/Gz53BYVPXKPClLBx5gUw
 share_updated: 2024-08-14T16:03:56+08:00
 share: true
 category: medicine
-publish_title: Human immunodeficiency virus
+p_title: HIV
 ---
-up:: [[專師考試解題|專師考試解題]]  
+up:: [[../../專師考試解題|專師考試解題]]  
 # HIV/AIDS  
   
 ## 定義與臨床表現  
@@ -339,7 +336,7 @@ When to stop prophylaxis: PCP and toxo if CD4 >200 × 3 mos; Histo if CD4 >150 
 - Therapy: ganciclovir, valganciclovir, foscarnet, or cidofovir  
   
   
-![[HIV長效針劑|HIV長效針劑]]  
+![[../../HIV長效針劑|HIV長效針劑]]  
   
 # 考古題  
 ## 專師  

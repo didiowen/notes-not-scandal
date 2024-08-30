@@ -1,13 +1,12 @@
 ---
-title: Pocket Medicine
-subtitle: 
-author: Marc Sabatine
-year: 2022
+creation date: 2024-08-12 23:08
+modification date: 2024-08-30 11:14
+source: Pocket Medicine, 2022
 tags:
   - medicine/TB
 share: true
 category: medicine
-publish_title: Tuberculosis
+p_title: Tuberculosis
 ---
 ## Definitions  
   
