@@ -11,7 +11,7 @@ share: true
 category: medicine
 p_title: COVID-19
 ---
-up:: [[../../專師考試解題|專師考試解題]]  
+up:: [[./專師考試感染科試題|專師考試感染科試題]]  
 # CORONAVIRUS DISEASE 2019 (COVID-19) / SARS-COV-2 INFECTION  
   
 ## 微生物學與流行病學  
