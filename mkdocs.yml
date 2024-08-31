@@ -57,7 +57,11 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-  - tags
+#  - tags:
+#        tags_file: tags.md
+#        shadow_tags:
+#        - teaching
+#        - writing
 #- bibtex:
 #      bib_file: "refs.bib"
 #hooks:
