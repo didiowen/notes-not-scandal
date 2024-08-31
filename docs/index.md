@@ -12,5 +12,4 @@ My Notion site is still working, although a bit out-dated:
 - [Infectious Disease](https://didiowen.notion.site/336e4bf161d347f1a4ef74a78c55aade?v=1c01c8b26b084d9d92605f5ded2f27ce&pvs=74)  
 - [Hematology](https://didiowen.notion.site/Hematology-b1a003097226464d9b6e861560fe7dc7?pvs=74)  
   
-BTW, the site name is inspired by Cate Blanchett’s Notes on a Scandal  
-![Notes on a Scandal](https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p161993_p_v8_ah.jpg)
+BTW, the site name is inspired by Cate Blanchett’s [Notes on a Scandal](https://www.rottentomatoes.com/m/notes_on_a_scandal)  
