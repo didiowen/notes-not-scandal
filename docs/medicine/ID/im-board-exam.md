@@ -1,11 +1,13 @@
 ---
+title: 內專考古題感染科試題
 creation date: 2024-08-14 08:51
-modification date: 2024-08-31 10:38
 share_link: https://share.note.sx/arf2dbtp#wM6jooWbTptkOulJ+Z+2vi5R828k0bFDKYn/chl7Pa0
 share_updated: 2024-08-14T16:04:22+08:00
+tags:
+  - Medicine/ID
+  - publish
 share: true
 category: medicine/ID
-title: 內專考古題
 alias: im-board-exam
 ---
 # 內專考古題感染科試題  
