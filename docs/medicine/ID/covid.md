@@ -4,6 +4,7 @@ creation date: 2024-08-09 17:05
 tags:
   - teaching
   - medicine/COVID
+  - publish
 status: finished
 share_link: https://share.note.sx/v0l7xf5b#kQ9aC51Zr7Xtvik3vbjJHEIWSatWAu84M9+qYavUdIQ
 share_updated: 2024-08-14T15:39:15+08:00
@@ -12,7 +13,7 @@ category: medicine/ID
 alias: covid
 ---
 # CORONAVIRUS DISEASE 2019 (COVID-19) / SARS-COV-2 INFECTION  
-source: Pocket Medicine, 2022  
+source: Pocket Medicine, 2022; 台灣診治指引  
 ## 微生物學與流行病學  
   
 - 透過呼吸道顆粒在人與人之間傳播；無症狀與症狀前的傳播可能發生    

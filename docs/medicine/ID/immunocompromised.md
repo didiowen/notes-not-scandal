@@ -3,12 +3,13 @@ category: medicine/ID
 share: true
 title: Infections in Immunocompromised Hosts
 creation date: 2024-08-13 19:42
-modification date: 2024-08-30 22:18
-tags: medicine
+tags:
+  - Medicine/ID
+  - publish
 alias: immunocompromised
 ---
-source: Pocket Medicine, 2022  
 # Infections in Immunocompromised Hosts  
+source: Pocket Medicine, 2022  
   
 - Many Pts have ≥1 risk (eg, DM, ESRD, transplant, extremes of age)  
 - Accurate dx of opportunistic infections and targeted Rx key in this population  

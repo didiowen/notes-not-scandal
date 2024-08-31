@@ -4,7 +4,9 @@ subtitle:
 author: Chimamanda Ngozi Adichie
 year: 2013
 creation date: 2024-07-17 18:06
-tags: reading/Audible
+tags:
+  - reading/Audible
+  - publish
 own: borrowed
 status: finished
 rating: 5

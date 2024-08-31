@@ -7,11 +7,13 @@ status: finished
 share_link: https://share.note.sx/mye6mm2r#QK+1r748MT21P056ZNdVyfp61vG00P4+W1+zll/YQGo
 share_updated: 2024-07-17T20:24:51+08:00
 title: 100 Best Books of the 21st Century
+tags: publish
 alias: 100-best-books
 share: true
 category: reading
 ---
 # 100 Best Books of the 21st Century  
+[Source](https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html)  
   
 Many of us find joy in looking back and taking stock of our reading lives, which is why we here at The New York Times Book Review decided to mark the first 25 years of this century with an ambitious project: to take a first swing at determining the most important, influential books of the era. In collaboration with the Upshot, [we sent a survey to hundreds of literary luminaries](https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html#methodology), asking them to name the 10 best books published since Jan. 1, 2000.  
   

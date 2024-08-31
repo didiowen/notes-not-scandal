@@ -3,7 +3,10 @@ title: The Rachel Incident
 subtitle: 
 author: Caroline O'Donoghue
 year: 2023
-tags: reading/Audible, LGBT
+tags:
+  - reading/Audible
+  - LGBT
+  - publish
 own: borrowed
 status: finished
 rating: 4
@@ -26,7 +29,8 @@ alias: Rachel
 >“Séamus (Irish pronunciation: [ˈʃeːmˠəsˠ]) is an Goidelic male given name, of Hebrew origin via Latin. It is the Irish equivalent of the name James. The name James is the English New Testament variant for the Hebrew name Jacob.”  
   
 ## Related  
-Source:: [譚光磊](https://www.facebook.com/groups/572834443164141?multi_permalinks=1721443541636553)  
+  
+### [譚光磊介紹](https://www.facebook.com/groups/572834443164141?multi_permalinks=1721443541636553)  
   
 我上半年的十大愛書之一，也是今年暑假英美的熱門大書《瑞秋的青春事件簿》，我覺得是比《正常人》更敢於揮灑、笑中帶淚（有些地方真的超好笑）的千禧世代成長故事，只要曾經年輕過，讀來都會很有共鳴。英美兩個版本的朗讀者不同，我聽的是英國版，Clara Harte 的愛爾蘭口音好好聽！  
   

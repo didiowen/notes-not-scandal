@@ -1,5 +1,9 @@
 ---
 title: HIV長效針劑
+creation date: 2024-08-01 16:43
+tags:
+  - medicine/HIV
+  - publish
 share: true
 category: medicine/HIV
 alias: hiv-long-acting

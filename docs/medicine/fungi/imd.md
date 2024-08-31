@@ -1,8 +1,9 @@
 ---
 title: Invasive Mold Disease
 creation date: 2024-08-22 16:53
-modification date: 2024-08-30 21:20
-tags: Medicine/fungi
+tags:
+  - Medicine/fungi
+  - publish
 aliases: imd
 share: true
 category: medicine/fungi
