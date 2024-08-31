@@ -1,14 +1,15 @@
 ---
 title: Latent tuberculosis infection
 creation date: 2024-08-02 11:26
-modification date: 2024-08-29 23:08
-tags: medicine/TB
-aliases: ltbi
+tags:
+  - medicine/TB
+  - publish
+alias: ltbi
 share: true
 category: medicine/TB
-alias: ltbi
 ---
 # Latent tuberculosis infection  
+source: Pocket Medicine, 2022; 台灣肺結核診治指引  
 ## Whom to screen  
 - 一個月內新生兒：都要治療  
 - Open TB：都要檢查  
