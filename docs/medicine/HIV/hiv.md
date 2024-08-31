@@ -104,6 +104,7 @@ source: Pocket Medicine, 2022
 | **<500**    | 全身症狀。黏膜皮膚：脂漏性皮膚炎；牛皮癬；口腔毛狀白斑；HSV。反覆的細菌感染                                       |  
 | **<200**    | 肺囊蟲肺炎、弓形蟲、進行性多灶性白質腦病（PML）、隱球菌、念珠菌、球黴菌、組織胞漿菌                                   |  
 | **<50-100** | 巨細胞病毒（CMV）、鳥型結核菌（MAC）、中樞神經系統淋巴瘤、侵襲性麴菌病、桿菌血管瘤（播散性_Bartonella_感染）、死亡（<50 是醫療急症） |  
+  
 ### HIV/AIDS患者的發燒檢查  
 #### 病因 (Infect Dis Clin North Am 2007;21:1013)  
 - 感染 (82-90%)：鳥型結核菌（MAC）、TB、巨細胞病毒（CMV）、早期 肺囊蟲肺炎（PCP）、組織胞漿菌（Histoplasmosis）、隱球菌（Cryptococcosis）、球黴菌（Coccidioidomycosis）、弓形蟲（Toxoplasmosis）、心內膜炎  
@@ -141,6 +142,7 @@ source: Pocket Medicine, 2022
 | 焦點性實變或腫塊  | 細菌或真菌感染、TB、KS                                                      |  
 | 空洞性病變     | TB、NTM、麴菌感染、其他真菌感染、細菌感染（包括_Staph aureus_、_Nocardia_、_Rhodococcus_） |  
 | 胸腔積液      | TB、細菌或真菌感染、KS、淋巴瘤                                                  |  
+  
 ##### Pneumocystis jiroveci (PCP) 肺囊蟲肺炎 (NEJM 1990;323:1444)  
   
 - CD4 <200  
@@ -148,6 +150,7 @@ source: Pocket Medicine, 2022
 - 胸部 X 光顯示間質模式，PaO2 下降，A-a梯度上升，LDH 上升，痰液 PCP 染色陽性，β-glucan 陽性  
 - 如果 PaO2 >70：TMP-SMX 15-20 mg/kg，分三次口服  
 - 如果 PaO2 <70 或 A-a梯度 >35：在抗生素治療之前使用 prednisone（40 mg 口服兩次，5 天後減少）  
+  
 ##### HIV ⊕ 吸煙者更可能死於肺癌而非伺機性感染 (JAMA 2017;177:1613)  
   
 #### 胃腸及肝膽系統  
@@ -156,8 +159,10 @@ source: Pocket Medicine, 2022
 - 腸胃道出血：CMV、卡波西氏肉瘤、淋巴瘤、Histoplasmosis；直腸炎：HSV、CMV、LGV、淋病  
 - 肝炎：HBV、HCV、CMV、MAC、TB、Histoplasmosis、藥物誘發  
 - AIDS膽管病：通常與 CMV 或 Cryptosporidium 或 Microsporidium（CD4 下降時）相關  
+  
 #### 腎臟  
 - HIV 相關腎病（塌陷性 FSGS）；腎毒性藥物（如 TDF → 近曲小管功能障礙）  
+  
 #### 血液學/腫瘤學 (NEJM 2018;378:1029)  
 - 血液學異常：ACD、腫瘤/感染（如 MAC/TB）對骨髓的浸潤、藥物毒性、溶血、免疫性血小板減少症  
 - 非何杰金淋巴瘤：任何 CD4 計數頻率增加，但隨著 CD4 減少而增加  
@@ -166,6 +171,7 @@ source: Pocket Medicine, 2022
 - **卡波西氏肉瘤KS（HHV-8）**: 在任何 CD4 計數下，發病率因 CD4 減少而增加，通常為男男性行為者（MSM）；黏膜皮膚（紫色病變）；肺部（結節、浸潤、淋巴結擴大）；胃腸道（出血、阻塞）  
 - **子宮頸/肛門癌（HPV 高風險，特別是在 MSM 中）**  
 - **肝癌（與 HBV/HCV 相關）**、**胃癌**  
+  
 #### 神經學/心理學  
 - **腦膜炎**：隱球菌（使用腦脊髓液診斷；血清抗原敏感度 90%）、細菌性（包括李斯特菌）、病毒性（HSV、CMV、原發 HIV）、TB、Histoplasmosis、Coccidioidomycosis、淋巴瘤；神經梅毒（顱神經麻痺）  
 - **占位性病變**：可能表現為頭痛、局部神經學缺損或意識改變。檢查：MRI，腦部切片僅在懷疑非弓形蟲病病因（弓形蟲血清學陰性）或對2週經驗性抗弓形蟲治療無反應時進行（弓形蟲感染**50% 於第 3 天治療有反應，91% 於第 14 天**；NEJM 1993;329:995）  
@@ -176,13 +182,16 @@ source: Pocket Medicine, 2022
 | **中樞神經系統淋巴瘤**                 | 增強環狀病變（單發性 60%）       | ⊕ CSF PCR 檢查 EBV  <br>  <br>⊕ SPECT 或 PET 掃描 |  
 | **進行性多灶性白質腦病（PML）**           | 白質中多發性非增強病變           | ⊕ CSF PCR 檢查 JC 病毒                           |  
 | 其他：膿瘍、分枝桿菌感染、隱球菌感染、TB、CMV、HIV | 不一定                   | 切片                                           |  
+  
 - **HIV 相關癡呆症**：抑鬱症狀、注意力/集中力受損、精神運動遲緩  
 - **抑鬱症**：自殺/抑鬱症發病率增加  
 - **脊髓病變**：感染（CMV、HSV）、脊髓壓迫（硬膜外膿瘍、淋巴瘤）  
 - **周邊神經病變**：藥物（尤其是第一代NRTIs）、CMV、糖尿病  
+  
 #### 全身性鳥型分枝桿菌感染（DMAC）  
 - 發燒、夜間盜汗、體重減輕、腹痛、腹瀉、全血球減少。可引起局部淋巴結炎  
 - 治療：clarithro/azithro + ethambutol ± rifampin/rifabutin  
+  
 #### 巨細胞病毒（CMV）  
 - 視網膜炎、食道炎、結腸炎、肝炎、神經病變、腦炎  
 - CMV 病毒量可能為陰性  
@@ -190,13 +199,12 @@ source: Pocket Medicine, 2022
 - 治療：ganciclovir、valganciclovir、foscarnet 或 cidofovir  
   
 Original: [[../../../HIV|HIV]]  
+[[./hiv-long-acting|hiv-long-acting]]  
   
-![[./hiv-long-acting|hiv-long-acting]]  
+## 考古題  
+### 專師  
   
-# 考古題  
-## 專師  
-  
-## 內科醫師  
+### 內科醫師  
   
   
   
