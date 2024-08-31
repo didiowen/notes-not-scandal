@@ -52,11 +52,12 @@ markdown_extensions:
 
   - toc:
       permalink: true
-      title: On this page
+      title: Table of contents
 
 plugins:
   - search
   - roamlinks
+  - tags
 #- bibtex:
 #      bib_file: "refs.bib"
 #hooks:
