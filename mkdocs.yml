@@ -62,6 +62,7 @@ plugins:
 #        shadow_tags:
 #        - teaching
 #        - writing
+#        tags_hierarchy: true
 #- bibtex:
 #      bib_file: "refs.bib"
 #hooks:
