@@ -8,7 +8,7 @@ tags:
 share_link: https://share.note.sx/kl2kl718#hM6/FT+eJy30zuzIb2/CO+nEJ76RxqmumC8tFzL6TSQ
 share_updated: 2024-08-14T17:42:35+08:00
 share: true
-category: medicine
+category: medicine/ID
 alias: uti
 ---
 # Urinary tract infection  

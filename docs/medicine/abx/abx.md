@@ -8,12 +8,12 @@ status: finished
 share_link: https://share.note.sx/phl07lrt#m3+7fJ/DzSGBZILBoqvN0puQctK6xych9ZWRA5I/WLw
 share_updated: 2024-08-14T17:58:55+08:00
 share: true
-category: medicine
+category: medicine/abx
 alias: abx
 ---
 # Antibiotics  
 ## 作用機制  
-![[../attachments/d5cd1072950af118968f9283c66a7d7c_MD5.jpeg|d5cd1072950af118968f9283c66a7d7c_MD5]]  
+![[../../attachments/d5cd1072950af118968f9283c66a7d7c_MD5.jpeg|d5cd1072950af118968f9283c66a7d7c_MD5]]  
   
 | ANTIBACTERIAL AGENT(S)                                                                                     | MAJOR TARGET           | MECHANISM(S) OF ACTION                                                                                                                                                   | MECHANISM(S) OF RESISTANCE                                                                                                                                                             |  
 | ---------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  
@@ -40,8 +40,8 @@ alias: abx
 | Polymyxins (polymyxin B and polymyxin E [colistin])                                                        | Cell membrane          | Bind LPS and disrupt both outer and cytoplasmic membranes                                                                                                                | Altered cell-membrane charge with reduced drug binding                                                                                                                                 |  
 | Daptomycin                                                                                                 | Cell membrane          | Produces membrane channel and membrane leakage                                                                                                                           | Altered cell-membrane charge with reduced drug binding                                                                                                                                 |  
 ### 抗藥性機轉  
-![[../attachments/be7c385cf6d7376b54c4de4794df94d7_MD5.jpeg|be7c385cf6d7376b54c4de4794df94d7_MD5]]  
-![[../attachments/64e57133364b2f9716df1ac514b4d418_MD5.jpeg|64e57133364b2f9716df1ac514b4d418_MD5]]  
+![[../../attachments/be7c385cf6d7376b54c4de4794df94d7_MD5.jpeg|be7c385cf6d7376b54c4de4794df94d7_MD5]]  
+![[../../attachments/64e57133364b2f9716df1ac514b4d418_MD5.jpeg|64e57133364b2f9716df1ac514b4d418_MD5]]  
 ### 藥物動力學  
   
 - 藥物動力學：描述藥物在體內的分布情況  
@@ -101,7 +101,7 @@ Anidulafungin
 Amphotericin B liposome  
   
 ## 抗菌範圍  
-![[../attachments/7e8b9088434a32c9d865e91bb156fd55_MD5.jpeg|7e8b9088434a32c9d865e91bb156fd55_MD5]]  
+![[../../attachments/7e8b9088434a32c9d865e91bb156fd55_MD5.jpeg|7e8b9088434a32c9d865e91bb156fd55_MD5]]  
 [Source](http://charliekuo.com/?p=3114)  
   
 | Organism                | AmB | Fluconazole | Vori | Isavu | Anidulafungin | 5FC |  

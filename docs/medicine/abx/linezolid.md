@@ -4,7 +4,7 @@ creation date: 2024-05-22 14:30
 modification date: 2024-08-29 23:17
 tags: medicine/antibiotics
 share: true
-category: medicine
+category: medicine/abx
 alias: linezolid
 ---
 # Linezolid健保給付條件  

@@ -1,5 +1,5 @@
 ---
-title: When to treat dyslipidemia
+title: Dyslipidemia
 creation date: 2024-03-11 15:10
 modification date: 2024-08-29 23:14
 share: true

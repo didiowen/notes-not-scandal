@@ -5,7 +5,7 @@ modification date: 2024-08-30 21:20
 tags: Medicine/fungi
 aliases: imd
 share: true
-category: medicine
+category: medicine/fungi
 alias: imd
 ---
 # Invasive Mold Disease  

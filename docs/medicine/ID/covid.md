@@ -8,7 +8,7 @@ status: finished
 share_link: https://share.note.sx/v0l7xf5b#kQ9aC51Zr7Xtvik3vbjJHEIWSatWAu84M9+qYavUdIQ
 share_updated: 2024-08-14T15:39:15+08:00
 share: true
-category: medicine
+category: medicine/ID
 alias: covid
 ---
 # CORONAVIRUS DISEASE 2019 (COVID-19) / SARS-COV-2 INFECTION  
@@ -77,7 +77,7 @@ source: Pocket Medicine, 2022
 - Molnupiravir：藉由其成份的核苷類似物，讓病毒的複製酶在RNA複製時產生有缺陷的RNA，因有基因突變等考量，不建議使用於孕婦  
 - Remdesivir：抑制病毒聚合酶（RNA polymerase）  
   
-![[../attachments/6e358234a9fbbbf988a503a1c478ac37_MD5.jpeg|6e358234a9fbbbf988a503a1c478ac37_MD5]]  
+![[../../attachments/6e358234a9fbbbf988a503a1c478ac37_MD5.jpeg|6e358234a9fbbbf988a503a1c478ac37_MD5]]  
 [^3]: 對Omicron變異株效果不佳  
   
 - 重症風險因子：≧65 歲、氣喘、癌症、糖尿病、慢性腎病、心血管疾病（不含高血壓）、慢性肺疾（間質性肺病、肺栓塞、肺高壓、氣管擴張、慢性阻塞性肺病）、結核病、慢性肝病（肝硬化、非酒精性脂肪性肝炎、酒精性肝病與免疫性肝炎）、失能（注意力不足及過動症、腦性麻痺、先天性缺陷、發展或學習障礙、脊髓損傷）、精神疾病（情緒障礙、思覺失調症）、失智症、吸菸（或已戒菸者）、BMI ≧ 30、懷孕（或產後六周內）、影響免疫功能之疾病（HIV 感染、先天性免疫不全、實體器官或血液幹細胞移植、使用類固醇或其他免疫抑制劑  

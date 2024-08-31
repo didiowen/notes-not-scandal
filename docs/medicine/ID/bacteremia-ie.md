@@ -8,7 +8,7 @@ tags:
 share_link: https://share.note.sx/5kvwmniy#vnlaMyGYciUZN7WsQcuAJmqAA2V3JjfuLe/8d8U8bdw
 share_updated: 2024-08-14T17:41:28+08:00
 share: true
-category: medicine
+category: medicine/ID
 alias: bacteremia-ie
 ---
 source: Pocket Medicine, 2022  
@@ -104,7 +104,7 @@ source: Pocket Medicine, 2022
 - 神經學異常可能提示栓塞性中風；脊柱壓痛可能提示骨髓炎或硬膜外膿瘍  
 - 植入裝置：評估中央靜脈導管（CVC）、節律器（PM）/植入型心臟整流去顫器（ICD）部位，及其他人工植入物的部位  
   
-![[../attachments/9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg|9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5]]  
+![[../../attachments/9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg|9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5]]  
   
 ## 診斷 (CID 2010;51:131; EHJ 2015;36:3075; Circ 2015;132:1435)  
   
@@ -273,7 +273,7 @@ source: Pocket Medicine, 2022
 - Neurologic deficits c/f embolic stroke; vertebral tenderness c/f osteo or epidural abscess  
 - Devices: evaluate CVCs, PM/ICD pocket, and sites of other hardware/ prosthetics  
   
-![[../attachments/9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg|9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5]]  
+![[../../attachments/9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg|9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5]]  
   
 ## Diagnosis (CID 2010;51:131; EHJ 2015;36:3075; Circ 2015;132:1435)  
   

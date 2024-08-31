@@ -8,7 +8,7 @@ tags:
   - teaching
   - medicine/IE
 share: true
-category: medicine
+category: medicine/ID
 title: Infective endocarditis (Harrison)
 alias: ie
 ---
@@ -37,7 +37,7 @@ Source: Cosgrove,, Sara E., and Adolf W. Karchmer. "Infective Endocarditis." __H
 <split even gap = 2>  
   
 ::: block  
-![[../attachments/m_hpim21_ch128_f001_1675661150.03211.png| 500]]  
+![[../../attachments/m_hpim21_ch128_f001_1675661150.03211.png| 500]]  
 * The prototypic lesion of infective endocarditis (IE), the vegetation, is a mass of **platelets, fibrin, microorganisms, and scant inflammatory cells**.   
 :::  
   
@@ -81,7 +81,7 @@ Source: Cosgrove,, Sara E., and Adolf W. Karchmer. "Infective Endocarditis." __H
   
 # Etiology  
   
-![[../attachments/Infective Endocarditis.png| 1600]]  
+![[../../attachments/Infective Endocarditis.png| 1600]]  
   
 ---  
   
@@ -260,7 +260,7 @@ Source: Cosgrove,, Sara E., and Adolf W. Karchmer. "Infective Endocarditis." __H
 * Musculoskeletal pain usually remits promptly with treatment but must be distinguished from **focal metastatic infections (e.g., spondylodiscitis)**, which may complicate 10–15% of cases.   
 * Hematogenously seeded focal infection occurs most often in the **skin, spleen, kidneys, skeletal system, and meninges**.   
   
-![[../attachments/hpim21_ch128_f002_1675661150.14811.png| 1000]]  
+![[../../attachments/hpim21_ch128_f002_1675661150.14811.png| 1000]]  
  <span style="font-size:medium">**_A._** Janeway lesions on the toe (_left_) and plantar surface (_right_) of the foot in subacute _Neisseria mucosa_ IE. _(Images courtesy of Rachel Baden, MD.)_ **_B._** Septic emboli with hemorrhage and infarction due to acute _Staphylococcus aureus_ IE.</span>  
   
 ---  
@@ -461,7 +461,7 @@ Source: Cosgrove,, Sara E., and Adolf W. Karchmer. "Infective Endocarditis." __H
   
 #### The diagnostic use of transesophageal and transthoracic echocardiography  
   
-![[../attachments/hpim21_ch128_f003_1675661150.25793.png| 1200]]  
+![[../../attachments/hpim21_ch128_f003_1675661150.25793.png| 1200]]  
   
 <span style="font-size:medium">  
 <sup>†</sup>High initial patient risk for infective endocarditis (IE) or evidence of intracardiac complications (new regurgitant murmur, new electrocardiographic conduction changes, or congestive heart failure).   

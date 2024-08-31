@@ -3,8 +3,7 @@ title: Legionella
 creation date: 2024-06-20 13:03
 modification date: 2024-08-17 11:01
 tags: medicine/Legionella, medicine/pneumonia
-category:
-  - medicine
+category: medicine/ID
 share: true
 alias: legionella
 ---

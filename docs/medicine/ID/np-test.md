@@ -10,34 +10,32 @@ tags:
 URL: https://drive.google.com/drive/folders/1SS22JrnIYtUXON3d-kmcjfAFDru6SIAh
 share_link: https://share.note.sx/f0c1zveu#+YY75GXvWnlbZ4qb6phkLpU8tY0HADYoiSiQGZV9tqU
 share_updated: 2024-08-14T15:35:50+08:00
-category:
-  - medicine
+category: medicine/ID
 share: true
 alias: np-test
 ---
-![[../attachments/134b46071bbf0a88cc252b204f4ebd82_MD5.jpeg|200]]  
+![[../../attachments/134b46071bbf0a88cc252b204f4ebd82_MD5.jpeg|200]]  
 # 專師考試感染科試題  
-## 目錄  
   
+## 解題方法  
+### 小麻  
 down:: [[./sepsis|sepsis]]  
 down:: [[./uti|uti]]  
-down:: [[./abx|abx]]  
+down:: [[../abx/abx|abx]]  
 down:: [[./cns-infection|cns-infection]]  
 down:: [[./ssti|ssti]]  
-down:: [[./hiv|hiv]]  
+down:: [[../HIV/hiv|hiv]]  
 down:: [[./bacteremia-ie|bacteremia-ie]]  
 down:: [[./covid|covid]]  
 down:: [[Pneumonia|Pneumonia]]  
 down:: [[EID|EID]]  
 down:: [[./fever|fever]]  
-down:: [[Vaccine|Vaccine]]  
-  
-## 其他資源  
-  
+down:: [[vaccine|vaccine]]  
+### 其他資源  
 [人體正常菌叢](https://www.notion.so/didiowen/f52c04e90b084309838cc1a6d53a29b0?v=ab47ad3da10e42e9bb18c72f492d61b1&pvs=4)  
 [常見致病菌](https://didiowen.notion.site/52f8fa603318432094e6ee12af02aa87?pvs=4)  
 [登革熱](https://didiowen.notion.site/Dengue-Fever-dc8a335b53e64d7f85cce2a5df31fb4c?pvs=4)  
-[[./內專考古題|內專考古題]]  
+[[../內專考古題|內專考古題]]  
 其他的去CDC網站應該都找得到答案…  
   
 ## 考古題  

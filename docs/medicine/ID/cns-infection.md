@@ -9,7 +9,7 @@ status: finished
 share_link: https://share.note.sx/1uhhve6q#nCOpir4CQ8PllcQCjkfpY6sYlK4FQVHe1lC2ON4rTeQ
 share_updated: 2024-08-14T16:04:25+08:00
 share: true
-category: medicine
+category: medicine/ID
 alias: cns-infection
 ---
 # CNS Infection  

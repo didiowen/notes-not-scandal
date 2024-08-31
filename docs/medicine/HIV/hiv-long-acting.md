@@ -1,8 +1,7 @@
 ---
 title: HIV長效針劑
 share: true
-category:
-  - medicine
+category: medicine/HIV
 alias: hiv-long-acting
 ---
 # HIV長效針劑  
@@ -22,9 +21,9 @@ alias: hiv-long-acting
 （九）潛伏結核感染（LTBI）檢驗為陰性，或已完成TB/LTBI治療。  
   
   
-![[../attachments/61f80edbefd2782c97f5ae1d8a3d98be_MD5.jpeg|61f80edbefd2782c97f5ae1d8a3d98be_MD5]]  
-![[../attachments/32336f2ec353610ec46d1aa41cf6d4cf_MD5.jpeg|32336f2ec353610ec46d1aa41cf6d4cf_MD5]]  
-![[../attachments/5b8ab8b9f4168d7792ca8a28ebae23a5_MD5.jpeg|5b8ab8b9f4168d7792ca8a28ebae23a5_MD5]]  
+![[../../attachments/61f80edbefd2782c97f5ae1d8a3d98be_MD5.jpeg|61f80edbefd2782c97f5ae1d8a3d98be_MD5]]  
+![[../../attachments/32336f2ec353610ec46d1aa41cf6d4cf_MD5.jpeg|32336f2ec353610ec46d1aa41cf6d4cf_MD5]]  
+![[../../attachments/5b8ab8b9f4168d7792ca8a28ebae23a5_MD5.jpeg|5b8ab8b9f4168d7792ca8a28ebae23a5_MD5]]  
 ## General criteria  
   
 To be eligible for cabotegravir-rilpivirine, patients should:  
