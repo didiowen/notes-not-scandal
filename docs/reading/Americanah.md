@@ -20,12 +20,12 @@ alias: Americanah
 ## Thoughts  
 - 一開始聽朗讀者一下子用標準英文、一下子用奈及利亞腔英文切來切去有點不習慣，不過聽一陣子也就習慣了。  
 - 奈及利亞的官方語言是英文，書中的人物從小就會說英文，但女主角Ifemelu一開始到美國時卻會因為她的奈及利亞腔在日常生活和求職時被認為她不諳英語，因此她努力學習美國腔多年，但奈及利亞腔偶爾還是會在緊張時流露。某天她突然決定重拾奈及利亞腔，不再刻意維持美國口音。是啊，為什麼我們一直為了口音自卑呢？  
-- Ifemelu的姑姑是醫生，為了追尋美國夢移居美國之後卻不停在抱怨生活的一切，似乎沒有變得更快樂，她的兒子更是在青少年時期因為憂鬱症自殺未遂。Ifemelu剛到美國住在姑姑家當侄子保母時曾被姑姑訓斥不要跟侄子講母語Igbo，但當侄子長大後來到奈及利亞找Ifemelu待了幾週，卻說”I wish I knew how to speak Igbo.” 最近在讀的另一本書[[Speak Not|Speak Not]]有提到，在加拿大和澳洲的原住民部落做的研究中發現，母語還未消失的部落其失業率、自殺率、酗酒率都比較低，教育程度也較只能使用英語的部落更高。  
+- Ifemelu的姑姑是醫生，為了追尋美國夢移居美國之後卻不停在抱怨生活的一切，似乎沒有變得更快樂，她的兒子更是在青少年時期因為憂鬱症自殺未遂。Ifemelu剛到美國住在姑姑家當侄子保母時曾被姑姑訓斥不要跟侄子講母語Igbo，但當侄子長大後來到奈及利亞找Ifemelu待了幾週，卻說”I wish I knew how to speak Igbo.” 最近在讀的另一本書[[../../Speak Not|Speak Not]]有提到，在加拿大和澳洲的原住民部落做的研究中發現，母語還未消失的部落其失業率、自殺率、酗酒率都比較低，教育程度也較只能使用英語的部落更高。  
   
 ## Quotes  
   
 >[!quote] Chapter 20  
->You see, in American pop culture, beautiful dark women are invisible. The other group just as invisible is Asian men, but at least they get to be super smart.  
+>”You see, in American pop culture, beautiful dark women are invisible. The other group just as invisible is Asian men, but at least they get to be super smart.”  
   
 > 種種部落意識中，最讓美國人不自在的莫過於種族意識。如果你跟一個美國人聊天，你想要討論某件攸關種族、你覺得頗有意思的事情、那位美國仁兄卻說：「喔，你說這事攸關種族，未免過於單純。種族議題真的非常複雜。」其實他只是想要請你住嘴。因為啊，種族議題當然複雜。昔日許多廢奴主義者都主張解放黑奴，但不希望黑人住在附近。現今許多民眾都不介意有個黑人保母或是黑人轎車司機，但可非常介意有個黑人上司。聲稱「種族議題非常複雜」才是過於單純。但你還是住嘴吧，尤其你若有求於那位美國仁兄。  
   
@@ -34,7 +34,7 @@ alias: Americanah
 > 有時當美國人提及「文化」，他們的意思是「種族」。當他們說一部電影是「主流影片」，他們的意思是「這部電影是白人拍的」或是「這部電影白人會喜歡」。當他們說某個地方很「都會」，他們的意思是那裡是黑人區、很貧窮、說不定有點危險、可能很刺激。所謂「帶有種族歧視色彩」，其實只是大家不情願直說「種族歧視」。  
 ## Related  
   
-![[100-best-books#Americanah|100 Best Books of the 21st Century > Americanah]]  
+![[./100-best-books#Americanah|100 Best Books of the 21st Century > Americanah]]  
   
 >[!note] [譯者施清真](https://www.facebook.com/chingchun.shih/posts/pfbid02pQTHaVUFCTfEiJqoDEcJUcZwLWANCs1Gv1u2RYSDAFMKtmxj6pZFT67yowAM63DPl)：  
 >《美國佬》是導演葛蕾塔 ‧ 潔薇最喜歡的小說之一。潔薇說，阿迪契架構出的浪漫跟珍 ‧ 奧斯丁的小說一樣迷人，只不過是把場景設定在奈及利亞和美國。她還說，她深深愛上小說的主角歐賓澤和伊菲美廬，自從小時候頭一次閱讀小說，她已經許久未曾興起同樣的感覺。  
@@ -53,6 +53,6 @@ alias: Americanah
   
 好書永遠太多，時間永遠太少。你若問我，在眾多好書之中，《美國佬》為何值得一讀？且讓我以作家張亦絢的導讀作為回答：「純就小說而言，《美國佬》的流暢好讀或會讓人誤以為缺乏深度，但其實是在『深入淺出』的『淺出』上，做足了工夫。作者很細緻地沒有讓任何冗長的歷史陳述，打斷或窒息讀者－但讀者讀完，絕對會對相關歷史，大感興趣 - 這就是一個小說家對文學與歷史所能有的，最佳雙重貢獻。」這話切中我心，也對《美國佬》下了最佳註腳。  
   
-- [b] [施清真第二篇介紹](https://www.facebook.com/chingchun.shih/posts/pfbid031zRWYGiRcfMJPXeW9zDPzGeMHBP465L74eBXRpHYYfG2S9FGYeCX9qcwHPdmFuy4l)  
-- [b] [[《美國佬》導讀：一個小說家對文學與歷史所能有的，最佳雙重貢獻|《美國佬》導讀：一個小說家對文學與歷史所能有的，最佳雙重貢獻]]  
-- [b] [[繞頸之物到壓頂之重：蔣亞妮讀阿迪契的《美國佬》|繞頸之物到壓頂之重：蔣亞妮讀阿迪契的《美國佬》]]
+- [施清真第二篇介紹](https://www.facebook.com/chingchun.shih/posts/pfbid031zRWYGiRcfMJPXeW9zDPzGeMHBP465L74eBXRpHYYfG2S9FGYeCX9qcwHPdmFuy4l)  
+- [[../../《美國佬》導讀：一個小說家對文學與歷史所能有的，最佳雙重貢獻|《美國佬》導讀：一個小說家對文學與歷史所能有的，最佳雙重貢獻]]  
+- [[../../繞頸之物到壓頂之重：蔣亞妮讀阿迪契的《美國佬》|繞頸之物到壓頂之重：蔣亞妮讀阿迪契的《美國佬》]]
