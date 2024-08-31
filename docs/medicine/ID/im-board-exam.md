@@ -1,9 +1,15 @@
 ---
+creation date: 2024-08-14 08:51
+modification date: 2024-08-31 10:38
 share_link: https://share.note.sx/arf2dbtp#wM6jooWbTptkOulJ+Z+2vi5R828k0bFDKYn/chl7Pa0
 share_updated: 2024-08-14T16:04:22+08:00
 share: true
 category: medicine/ID
+title: 內專考古題
+alias: im-board-exam
 ---
+# 內專考古題感染科試題  
+  
 1. 食媒性疾病，以下哪些配對最不正確？  
 A. Listeriosis與乳酪  
 B. Campylobacter jejuni與未煮熟雞肉  
@@ -40,14 +46,12 @@ B. 可以用核酸檢定toxin A或toxin B來確認感染
 D. 判定治療是否失敗，應至少使用6天藥物檢視治療效果決定  
 E. 對較嚴重感染病患，如血液白血球數>15000/μL，首選使用口服Vancomycin  
   
-%%  
 6. 有關困難梭狀桿菌 NAPI/BI/027菌株，下列何者為非?   
 A. NAPI/BI/027菌株是近年來造成全球流行，歐美地區醫院群突發的主要菌株  
 ==B. 此菌株對於fluoroquinolones類抗生素具有高度感受性(susceptible)==  
 C. 與一般菌株相比，NAPI/BI/027菌株可產生16至23倍的toxin A與toxin B  
 D. 此菌亦已被發現除toxin A及toxin B外，另可產生第3種毒素(binary toxin CDT)  
 E. 此菌株可使用metronidazole或vancomycin來作第一線口服治療  
-%%  
   
 7. 下列有關社區性肺炎致病原與相關宿主因素的配對，何者最不適當？ #medicine/pneumonia   
 A. Streptococcus pneumoniae -酒癮 (alcoholism)  
