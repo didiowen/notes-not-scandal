@@ -6,6 +6,7 @@ fileClass: share
 tags:
   - medicine/dengue
   - writing
+  - publish
 alias: dengue-in-elder
 share: true
 category: medicine/dengue
