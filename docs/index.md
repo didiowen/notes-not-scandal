@@ -13,4 +13,4 @@ My Notion site is still working, although a bit out-dated:
 - [Hematology](https://didiowen.notion.site/Hematology-b1a003097226464d9b6e861560fe7dc7?pvs=74)  
   
 BTW, the site name is inspired by Cate Blanchett’s Notes on a Scandal  
-![[./attachments/8e2d7e3c1294709d126034d08860e7de_MD5.jpeg|8e2d7e3c1294709d126034d08860e7de_MD5]]
+![Notes on a Scandal](https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p161993_p_v8_ah.jpg)
