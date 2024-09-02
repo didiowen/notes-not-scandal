@@ -66,13 +66,13 @@ plugins:
   - roamlinks
   - git-revision-date-localized:
       type: timeago
-#  - tags:
-#        tags_file: tags.md
-#        shadow_tags:
-#        - teaching
-#        - writing
-#        - public
-#        tags_hierarchy: true
+  - tags:
+        tags_file: tags.md
+        shadow_tags:
+            - teaching
+            - writing
+            - public
+        tags_hierarchy: true
 #- bibtex:
 #      bib_file: "refs.bib"
 #extra:
