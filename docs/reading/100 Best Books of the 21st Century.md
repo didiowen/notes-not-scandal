@@ -1,12 +1,13 @@
 ---
 fileClass: share
+title: 100 Best Books of the 21st Century
 author: The New York Times Books Staff
+publication date: 2023-07-13
 source: https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html
 creation date: 2024-07-17 14:16
 status: finished
 share_link: https://share.note.sx/mye6mm2r#QK+1r748MT21P056ZNdVyfp61vG00P4+W1+zll/YQGo
 share_updated: 2024-07-17T20:24:51+08:00
-title: 100 Best Books of the 21st Century
 tags: publish
 alias: 100-best-books
 share: true
