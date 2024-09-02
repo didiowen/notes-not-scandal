@@ -1,7 +1,6 @@
 ---
 fileClass: share
 creation date: 2024-08-30 00:45
-modification date: 2024-08-30 00:48
 share: true
 ---
 Ditched Notion for Obsidian for some time, as Notion takes forever to open a big, fat note. However, Obsidian isn’t very sharable without the paid Publish feature.  
