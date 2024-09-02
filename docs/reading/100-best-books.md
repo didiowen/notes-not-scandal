@@ -606,7 +606,7 @@ George Saunders 2017
 A father mourns his young son, dead of typhoid; a president mourns his country riven by civil war. In Saunders’s indelible portrait, set in a graveyard populated by garrulous spirits, these images collide and coalesce, transforming Lincoln’s private grief — his 11-year-old boy, Willie, died in the White House in 1862 — into a nation’s, a polyphony of voices and stories. The only novel to date by a writer revered for his satirical short stories, this book marks less a change of course than a foregrounding of what has distinguished his work all along — a generosity of spirit, an ear acutely tuned to human suffering.  
   
 ## 17  
-### [[../../The Sellout|The Sellout]]  
+### [[../../the-sellout|the-sellout]]  
   
 Paul Beatty 2015  
   

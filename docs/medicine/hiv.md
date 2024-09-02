@@ -9,7 +9,7 @@ tags:
 share_link: https://share.note.sx/0sb83lcz#UzVR507MV4hD0CpZDEYviE/Gz53BYVPXKPClLBx5gUw
 share_updated: 2024-08-14T16:03:56+08:00
 share: true
-category: medicine/HIV
+category: medicine
 alias: hiv
 ---
 # HIV/AIDS  
@@ -198,8 +198,8 @@ source: Pocket Medicine, 2022
 - 考慮組織切片  
 - 治療：ganciclovir、valganciclovir、foscarnet 或 cidofovir  
   
-Original: [[../../../HIV/AIDS|HIV/AIDS]]  
-[[./HIV長效針劑|HIV長效針劑]]  
+Original: [[../../HIV|HIV]]  
+[[./hiv-long-acting|hiv-long-acting]]  
   
 ## 考古題  
 ### 專師  

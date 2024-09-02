@@ -1,5 +1,5 @@
 ---
-category: medicine/ID
+category: medicine
 share: true
 title: Infections in Immunocompromised Hosts
 creation date: 2024-08-13 19:42

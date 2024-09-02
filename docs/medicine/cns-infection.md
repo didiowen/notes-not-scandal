@@ -9,7 +9,7 @@ status: finished
 share_link: https://share.note.sx/1uhhve6q#nCOpir4CQ8PllcQCjkfpY6sYlK4FQVHe1lC2ON4rTeQ
 share_updated: 2024-08-14T16:04:25+08:00
 share: true
-category: medicine/ID
+category: medicine
 alias: cns-infection
 ---
 # CNS Infection  
@@ -146,7 +146,7 @@ source:: Pocket Medicine, 2022
   
 - HSV/VZV：Acyclovir 10 mg/kg 靜脈注射，每8小時一次；考慮經驗性治療，因為機率較高  
   
-[[../../../CNS Infection|Original]]  
+[[../../CNS|Original]]  
 ## 考古題  
 ### 專師  
   

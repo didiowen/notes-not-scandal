@@ -5,7 +5,7 @@ tags:
   - medicine/antibiotics
   - publish
 share: true
-category: medicine/abx
+category: medicine
 alias: linezolid
 ---
 # Linezolid健保給付條件  

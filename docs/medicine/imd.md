@@ -6,7 +6,7 @@ tags:
   - publish
 aliases: imd
 share: true
-category: medicine/fungi
+category: medicine
 alias: imd
 ---
 # Invasive Mold Disease  
