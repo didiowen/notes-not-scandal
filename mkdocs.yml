@@ -29,6 +29,7 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
+  - admonition
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
@@ -57,6 +58,9 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
+  - autolinks
+  - git-revision-date-localized:
+      type: timeago
 #  - tags:
 #        tags_file: tags.md
 #        shadow_tags:
