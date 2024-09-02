@@ -3,9 +3,11 @@ site_url: https://didiowen.github.io/notes-not-scandal/
 site_author: YW Chen
 
 theme:
-    name: 'dracula'
+    name: 'material'
     features:
         - navigation.path
+        - navigation.footer
+        - toc.follow
     palette:
 
     # Light mode
@@ -29,40 +31,42 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
-  - admonition
-  # - attr_list
-  - pymdownx.arithmatex:
+  - abbr # adds the ability to add a small tooltip to an element, by wrapping it with an abbr tag
+  - admonition # adds support for admonitions, more commonly known as call-outs, which can be defined in Markdown
+  - attr_list # allows to add HTML attributes and CSS classes to almost every Markdown inline- and block-level element with a special syntax
+  - pymdownx.arithmatex: # allows for rendering of block and inline block equations and integrates seamlessly with MathJax
       generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - def_list
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
   - tables
   - toc:
       permalink: true
       title: Table of contents
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - def_list
+  - pymdownx.critic # allows for the usage of Critic Markup to highlight added, deleted or updated sections in a document
+  - pymdownx.caret # The Caret, Mark and Tilde extensions add the ability to highlight text and define sub- and superscript using a simple syntax
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.keys # adds a simple syntax to allow for the rendering of keyboard keys and combinations
+  - pymdownx.betterem # improves the detection of Markup to emphasize text in Markdown using special characters
+  - pymdownx.details # supercharges the Admonition extension, making the resulting call-outs collapsible
+# - pymdownx.superfences # allows for arbitrary nesting of code and content blocks inside each other, including admonitions, tabs, lists and all other elements
+# - pymdownx.details
+# - pymdownx.magiclink
+#  - pymdownx.superfences:
+#      custom_fences:
+#        - name: mermaid
+#          class: mermaid
+#          format: !!python/name:pymdownx.superfences.fence_code_format
+
 
 plugins:
   - search
   - roamlinks
   - autolinks
-  - git-revision-date-localized:
-      type: timeago
-  - minify:
-      minify_html: true
   - section-index
+#  - git-revision-date-localized:
+#      type: timeago
 #  - tags:
 #        tags_file: tags.md
 #        shadow_tags:
