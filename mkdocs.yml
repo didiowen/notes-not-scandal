@@ -63,10 +63,10 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-  - autolinks
   - section-index
-#  - git-revision-date-localized:
-#      type: timeago
+#  - autolinks
+  - git-revision-date-localized:
+      type: timeago
   - tags:
         tags_file: tags.md
         shadow_tags:
