@@ -182,7 +182,7 @@ source: Pocket Medicine, 2022
 | **預防方案**  | 口服：amoxicillin 2 g，手術前 30-60 分鐘<br><br>無法口服者：ampicillin 2 g IM/IV 或 cefazolin or ceftriaxone 1 g IM/IV<br><br>對 PCN 過敏者：cephalexin or azithromycin or clarithomycin or doxycycline |  
 ^患者應同時符合兩個適應症（高風險病變和高風險手術）才能進行預防  
   
-Original: [[../../Bacteremia and IE|Bacteremia and IE]]  
+Original: [[Bacteremia and IE|Bacteremia and IE]]  
   
 # 考古題  
 ## 專師  
