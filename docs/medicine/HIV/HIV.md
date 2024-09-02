@@ -198,8 +198,8 @@ source: Pocket Medicine, 2022
 - 考慮組織切片  
 - 治療：ganciclovir、valganciclovir、foscarnet 或 cidofovir  
   
-Original: [[../../../HIV|HIV]]  
-[[./hiv-long-acting|hiv-long-acting]]  
+Original: [[../../../HIV/AIDS|HIV/AIDS]]  
+[[./HIV長效針劑|HIV長效針劑]]  
   
 ## 考古題  
 ### 專師  
