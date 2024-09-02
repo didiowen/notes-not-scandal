@@ -3,7 +3,7 @@ site_url: https://didiowen.github.io/notes-not-scandal/
 site_author: YW Chen
 
 theme:
-    name: 'material'
+    name: 'dracula'
     features:
         - navigation.path
     palette:
@@ -50,7 +50,6 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
   - tables
-
   - toc:
       permalink: true
       title: Table of contents
