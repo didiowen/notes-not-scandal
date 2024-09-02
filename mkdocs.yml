@@ -61,6 +61,9 @@ plugins:
   - autolinks
   - git-revision-date-localized:
       type: timeago
+  - minify:
+      minify_html: true
+  - section-index
 #  - tags:
 #        tags_file: tags.md
 #        shadow_tags:
