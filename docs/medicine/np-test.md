@@ -28,10 +28,10 @@ down:: [[./ssti|ssti]]
 down:: [[./hiv|hiv]]  
 down:: [[./bacteremia-ie|bacteremia-ie]]  
 down:: [[./covid|covid]]  
-down:: [[../../Pneumonia|Pneumonia]]  
-down:: [[../../EID|EID]]  
+down:: [[Pneumonia|Pneumonia]]  
+down:: [[EID|EID]]  
 down:: [[./fever|fever]]  
-down:: [[../../Vaccine|Vaccine]]  
+down:: [[Vaccine|Vaccine]]  
 ### 其他資源  
 [人體正常菌叢](https://www.notion.so/didiowen/f52c04e90b084309838cc1a6d53a29b0?v=ab47ad3da10e42e9bb18c72f492d61b1&pvs=4)  
 [常見致病菌](https://didiowen.notion.site/52f8fa603318432094e6ee12af02aa87?pvs=4)  
