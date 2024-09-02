@@ -4,7 +4,7 @@ share: true
 title: Infections in Immunocompromised Hosts
 creation date: 2024-08-13 19:42
 tags:
-  - Medicine/ID
+  - medicine/ID
   - publish
 alias: immunocompromised
 ---
