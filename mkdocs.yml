@@ -68,6 +68,14 @@ plugins:
       type: timeago
   - tags:
         tags_file: tags.md
+        tags_allowed:
+            - reading
+            - medicine
+            - Taiwanese
+            - ID
+            - HIV
+            - TB
+        shadow_on_serve: false
         shadow_tags:
             - teaching
             - writing
