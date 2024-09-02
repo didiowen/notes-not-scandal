@@ -8,7 +8,8 @@ creation date: 2024-07-17 14:16
 status: finished
 share_link: https://share.note.sx/mye6mm2r#QK+1r748MT21P056ZNdVyfp61vG00P4+W1+zll/YQGo
 share_updated: 2024-07-17T20:24:51+08:00
-tags: publish
+tags:
+  - publish
 alias: 100-best-books
 share: true
 category: reading

@@ -6,7 +6,7 @@ fileClass: share
 tags:
   - medicine/dengue
   - writing
-  - publish
+  - LGBT
 alias: dengue-in-elder
 share: true
 category: medicine
