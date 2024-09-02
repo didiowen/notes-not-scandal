@@ -33,7 +33,7 @@ markdown_extensions:
   - footnotes
   - abbr # adds the ability to add a small tooltip to an element, by wrapping it with an abbr tag
   - admonition # adds support for admonitions, more commonly known as call-outs, which can be defined in Markdown
-#  - attr_list # allows to add HTML attributes and CSS classes to almost every Markdown inline- and block-level element with a special syntax
+  - attr_list # allows to add HTML attributes and CSS classes to almost every Markdown inline- and block-level element with a special syntax
   - pymdownx.arithmatex: # allows for rendering of block and inline block equations and integrates seamlessly with MathJax
       generic: true
   - tables
@@ -66,21 +66,6 @@ plugins:
   - roamlinks
   - git-revision-date-localized:
       type: timeago
-  - tags:
-        tags_file: tags.md
-        tags_allowed:
-            - reading
-            - medicine
-            - Taiwanese
-            - ID
-            - HIV
-            - TB
-        shadow_on_serve: false
-        shadow_tags:
-            - teaching
-            - writing
-            - public
-        tags_hierarchy: true
 #- bibtex:
 #      bib_file: "refs.bib"
 #extra:
