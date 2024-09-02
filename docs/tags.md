@@ -4,4 +4,4 @@
 hide: footer
 ---
 
-<!-- material/tags -->
+<!-- material/tags { exclude: [writing, teaching, public] -->
