@@ -1,0 +1,7 @@
+mkdocs-material
+mkdocs-roamlinks-plugin
+mkdocs-rss-plugin
+mkdocs-autolinks-plugin
+mkdocs-bibtex
+mkdocs-callouts
+mkdocs-git-revision-date-localized-plugin
