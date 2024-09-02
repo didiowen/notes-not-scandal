@@ -2,7 +2,7 @@
 title: Dyslipidemia
 creation date: 2024-03-11 15:10
 tags:
-  - Medicine
+  - medicine
   - publish
 share: true
 category: medicine
