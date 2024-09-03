@@ -71,7 +71,7 @@ source: Harrison's Principles of Internal Medicine, 21e
   erythrocyte sedimentation rate (ESR) and C-reactive protein (CRP) level; platelet count; leukocyte count and differential; measurement of levels of hemoglobin, electrolytes, creatinine, total protein, alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, lactate dehydrogenase, creatine kinase, ferritin, antinuclear antibodies, and rheumatoid factor; protein electrophoresis; urinalysis; blood cultures (_n_ = 3); urine culture; chest x-ray; abdominal ultrasonography; and tuberculin skin test (TST) or interferon γ release assay (IGRA)  
 ## Structured approach to patients with FUO  
   
-![[../attachments/66855bcbe1aee21fd2f8a8bf99ca31dd_MD5.jpeg|66855bcbe1aee21fd2f8a8bf99ca31dd_MD5]]  
+![[../X/attachments/66855bcbe1aee21fd2f8a8bf99ca31dd_MD5.jpeg|66855bcbe1aee21fd2f8a8bf99ca31dd_MD5.jpeg]]  
   
 ## 考古題  
 ### 專師  
