@@ -132,6 +132,7 @@ Amphotericin B liposome
 | VRE                   | **linezolid**, daptomycin, tigecycline, fosfomycin                                                                                                                         |  
 | PRSP                  | ceftriaxone, vancomycin, teicoplanin, tigecycline                                                                                                                          |  
 | Anaerobes             | **metronidazole**, amp/sulb, pip/tazo, cephamycin, carbapenems, clindamycin, moxifloxacin, tigecycline                                                                     |  
+  
 ### 特殊細菌  
 - Enterococcus: **ampicillin**; cephalosporins沒有效  
 - Listeria monocytogenes: **ampicillin**; linezolid, trimethoprim-sulfamethoxazole, penicillin, gentamicin  
