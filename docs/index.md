@@ -4,6 +4,7 @@ creation date: 2024-08-30 00:45
 share: true
 hide: footer
 bib: "[[./X/library.bib|X/library.bib]]"
+csl: "[[harvard-imperial.csl]]"
 ---
 Ditched Notion for Obsidian for some time, as Notion takes forever to open a big, fat note. However, Obsidian isn’t very sharable without the paid Publish feature.  
   
