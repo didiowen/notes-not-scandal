@@ -52,7 +52,7 @@ markdown_extensions:
   - pymdownx.betterem # improves the detection of Markup to emphasize text in Markdown using special characters
   - pymdownx.details # supercharges the Admonition extension, making the resulting call-outs collapsible
   - pymdownx.superfences # allows for arbitrary nesting of code and content blocks inside each other, including admonitions, tabs, lists and all other elements
-# - pymdownx.magiclink
+ - pymdownx.magiclink
 #  - pymdownx.superfences:
 #      custom_fences:
 #        - name: mermaid
@@ -65,11 +65,16 @@ plugins:
   - callouts
   - roamlinks
   - git-revision-date-localized:
-      type: timeago
+      type: date
+      fallback_to_build_date: true
+      locale: $language
+      custom_format: "%A %d %B %Y"
+      enable_creation_date: true
   - minify:
       minify_html: true
       minify_js: true
       minify_css: true
+  - glightbox
 #- bibtex:
 #      bib_file: "refs.bib"
 #extra:
