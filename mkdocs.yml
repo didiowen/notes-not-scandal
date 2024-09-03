@@ -70,9 +70,12 @@ plugins:
       minify_html: true
       minify_js: true
       minify_css: true
+  - bibtex:
+      bib_file: "https://www.icloud.com/iclouddrive/082GuWLfo9wr2uUS4CguOqFoA#library"
+      bib_by_default: true
+      csl_file: "https://www.icloud.com/iclouddrive/0b9QQFiitpHftN3eHwGHT4qaA#harvard-imperial"
+      cite_inline: true
 #  - glightbox
-#- bibtex:
-#      bib_file: "refs.bib"
 #extra:
 #  SEO: assets/meta/SEO.png
 #  comments: $comments #disable comments globally
