@@ -226,6 +226,7 @@ source: Pocket Medicine, 2022, 台灣肺結核診治指引第七版
 - 若病人之藥物性肝炎嚴重或合併有黃疸，在成功地重新使用上INH 及RMP之後，不建議嘗試加入PZA  
 ![[../attachments/eb9c6714ed9a2bd4f2e3862fe0c6477f_MD5.jpeg|eb9c6714ed9a2bd4f2e3862fe0c6477f_MD5]]  
 ![[../attachments/70b2c6f4f5838a906dedac0d22900aea_MD5.jpeg|70b2c6f4f5838a906dedac0d22900aea_MD5]]  
+  
 ### 尿酸  
 - ﻿﻿Creatinine上升超過0.5mg/dL  
 - ﻿﻿嚴重無法緩解之痛風症狀、或已經攝取足夠水分且接受低普林飲食之後血清尿酸值仍高於13 mg/dL、或高尿酸血症併急性腎功能惡化→停用PZA  
