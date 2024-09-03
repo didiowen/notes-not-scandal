@@ -66,6 +66,10 @@ plugins:
   - roamlinks
   - git-revision-date-localized:
       type: timeago
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
 #- bibtex:
 #      bib_file: "refs.bib"
 #extra:
