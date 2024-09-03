@@ -4,6 +4,7 @@ site_author: YW Chen
 
 theme:
     name: 'material'
+    custom_dir: overrides
     features:
         - navigation.path
 #        - navigation.footer
