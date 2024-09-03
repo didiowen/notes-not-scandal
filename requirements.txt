@@ -1,8 +1,11 @@
 mkdocs-material
 mkdocs-roamlinks-plugin
+mkdocs-ezlinked-plugin
 mkdocs-rss-plugin
 mkdocs-minify-plugin
 mkdocs-autolinks-plugin
 mkdocs-bibtex
 mkdocs-callouts
 mkdocs-git-revision-date-localized-plugin
+mkdocs-glightbox
+obsidiantools
