@@ -10,7 +10,7 @@ alias: dl
 ---
 # Dyslipidemia何時要治療  
   
-![[../attachments/Dyslipidemia.png|../../attachments/Dyslipidemia.png]]  
+![[../X/attachments/Dyslipidemia.png|Dyslipidemia.png]]  
 * 心血管疾病定義：  
 	* 冠狀動脈粥狀硬化患者包含：心絞痛病人，有心導管證實或缺氧性心電圖變化或負荷性試驗陽性反應者(附檢查報告)  
 	* 缺血型腦血管疾病病人包含：  
@@ -24,8 +24,8 @@ alias: dl
 	4. HDL-C<40mg/dL  
 	5. 吸菸（因吸菸而符合起步治療準則之個案，若未戒菸而要求藥物治療，應以自費治療）  
   
-![[../attachments/Dyslipidemia-1.png|../../attachments/Dyslipidemia-1.png]]  
+![[../X/attachments/Dyslipidemia-1.png|Dyslipidemia-1.png]]  
   
-![[../attachments/Dyslipidemia-2.png|../../attachments/Dyslipidemia-2.png]]  
-![[../attachments/statin-1.jpg|../../attachments/statin-1.jpg]]  
-![[../attachments/statin-2.png|../../attachments/statin-2.png]]
+![[../X/attachments/Dyslipidemia-2.png|Dyslipidemia-2.png]]  
+![[../X/attachments/statin-1.jpg|statin-1.jpg]]  
+![[../X/attachments/statin-2.png|statin-2.png]]
