@@ -65,11 +65,7 @@ plugins:
   - callouts
   - roamlinks
   - git-revision-date-localized:
-      type: date
-      fallback_to_build_date: true
-      locale: $language
-      custom_format: "%A %d %B %Y"
-      enable_creation_date: true
+      type: timeago
   - minify:
       minify_html: true
       minify_js: true
