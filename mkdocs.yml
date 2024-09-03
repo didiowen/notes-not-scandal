@@ -67,10 +67,10 @@ plugins:
   - roamlinks
   - git-revision-date-localized:
       type: timeago
-  - minify:
-      minify_html: true
-      minify_js: true
-      minify_css: true
+#  - minify:
+#      minify_html: true
+#      minify_js: true
+#      minify_css: true
 #  - bibtex:
 #      bib_file: "docs/X/library.bib"
 #      bib_by_default: true
@@ -99,7 +99,7 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid/dist/mermaid.min.js 
+#  - https://unpkg.com/mermaid/dist/mermaid.min.js 
   - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets@main/dist/javascript.js
 extra_css:
     - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
