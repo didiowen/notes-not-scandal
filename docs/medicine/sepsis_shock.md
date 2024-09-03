@@ -100,7 +100,7 @@ source: Pocket Medicine, 2022
     - 血小板 < 50,000，有出血或執行侵入性處置  
 - **紅血球輸血**只在血紅素低於 ==**7.0 g/dL**== 時進行，目標是將血紅素提高到 7.0 ~ 9.0 g/dL 之間  
   
-Original: [[Sepsis and Shock|Sepsis and Shock]]  
+Original: [[../../Sepsis and Shock|Sepsis and Shock]]  
   
 ## 考古題  
 ### 專師  
