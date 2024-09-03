@@ -70,7 +70,7 @@ plugins:
       minify_html: true
       minify_js: true
       minify_css: true
-  - glightbox
+#  - glightbox
 #- bibtex:
 #      bib_file: "refs.bib"
 #extra:
