@@ -70,11 +70,11 @@ plugins:
       minify_html: true
       minify_js: true
       minify_css: true
-#  - bibtex:
-#      bib_file: "https://www.dropbox.com/scl/fi/sa7sw8izq70b19vbl72xl/library.bib?rlkey=92964j1tstudnkxf31ox6yf41&dl=0"
-#      bib_by_default: true
-#      csl_file: "https://www.dropbox.com/scl/fi/hvh2ir59lwig5hj5351yn/harvard-imperial.csl?rlkey=y8wcstz9x59b709d31alwlklf&dl=0"
-#      cite_inline: true
+  - bibtex:
+      bib_file: "docs/X/library.bib"
+      bib_by_default: true
+      csl_file: "docs/X/harvard-imperial.csl"
+      cite_inline: true
 #  - glightbox
 #extra:
 #  SEO: assets/meta/SEO.png
