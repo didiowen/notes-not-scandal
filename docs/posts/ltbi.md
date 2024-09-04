@@ -6,7 +6,8 @@ tags:
   - publish
 share: true
 categories:
-  - medicine/tb
+  - medicine
+  - tb
 slug: ltbi
 ---
 # Latent tuberculosis infection  
