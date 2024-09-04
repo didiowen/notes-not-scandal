@@ -1,6 +1,6 @@
 ---
 title: COVID-19
-created: 2024-08-09T17:05:37
+created: 2024-08-09
 tags:
   - teaching
   - medicine/COVID
