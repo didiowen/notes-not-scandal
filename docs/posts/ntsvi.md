@@ -25,7 +25,8 @@ slug: ntsvi
  Se: 95.0%  
  Sp: 45.3%  
  AUC: 0.83 (0.78-0.89)  
-  
+   
+---  
 ## TTP-NTSVI score [@Lin2018Utilityblood]  
   
 | RIsk factors              | Point |  
