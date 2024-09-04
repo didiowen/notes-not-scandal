@@ -6,7 +6,6 @@ theme:
     name: 'material'
     features:
         - navigation.path
-        - navigation.footer
         - toc.follow
     palette:
 
