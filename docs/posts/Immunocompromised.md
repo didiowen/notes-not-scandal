@@ -4,7 +4,8 @@ date: 2024-08-13 19:42
 tags:
   - medicine/ID
   - publish
-categories: medicine
+categories:
+  - medicine
 share: true
 ---
 # Infections in Immunocompromised Hosts  
