@@ -20,6 +20,7 @@ source: Pocket Medicine, 2022
 - 急性HIV：皮疹、淋巴結腫大、發燒、口腔潰瘍、咽喉炎、肌肉疼痛、腹瀉  
 	- 一般在接觸後約2-6週出現；並非所有HIV感染者會出現急性HIV的症狀  
 - 愛滋病（AIDS）：HIV + CD4 <200/mm³ 或出現AIDS定義的伺機性感染（OI）或惡性腫瘤  
+---  
 ### AIDS-Defining Opportunistic Illnesses in HIV Infection  
 - Encephalopathy attributed to HIV  
 - Progressive multifocal leukoencephalopathy  
