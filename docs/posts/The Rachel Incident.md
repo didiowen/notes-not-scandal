@@ -10,8 +10,8 @@ tags:
 own: borrowed
 status: finished
 rating: 4
-start date: 2024-07-26
-finished date: 2024-07-29
+start_date: 2024-07-26
+finished_date: 2024-07-29
 created: 2024-07-17T20:53:58
 categories:
   - reading
