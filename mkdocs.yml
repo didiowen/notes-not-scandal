@@ -65,6 +65,18 @@ plugins:
   - search
   - callouts
   - roamlinks
+  - blog
+      blog_dir: .
+      blog_toc: true
+      post_url_format: "{categories}/{slug}"
+      post_url_max_categories: 1
+      post_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+      categories_allowed:
+        - medicine
+        - reading
+        - writing
   - git-revision-date-localized:
       type: timeago
 #  - minify:
