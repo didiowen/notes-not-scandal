@@ -1,12 +1,13 @@
 ---
 title: Americanah
-created: 2024-07-17
+date:
+  created: 2024-07-17
+  finished: 2024-08-30
 tags:
   - reading/Audible
   - publish
 own: borrowed
 status: finished
-finished: 2024-08-30
 rating: 5
 categories:
   - reading
