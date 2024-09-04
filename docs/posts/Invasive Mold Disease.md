@@ -15,6 +15,7 @@ Source: [@Donnell2020RevisionUpdate]
 - Probable invasive fungal diseases (IFD) requires the presence of at least 1 host factor, a clinical feature and mycologic evidence and is proposed for **immunocompromised patients** **only**  
 - Cases that meet the criteria for a host factor and a clinical feature but for which mycological evidence has not been found are considered possible IFD  
 - (1,3)-beta-D glucan was not considered to provide mycological evidence of any invasive mold disease  
+---  
 ## Proven  
 - Microscopic (Sterile Material): Histopathologic, cytopathologic, or direct microscopic examinationb of a specimen obtained by needle aspiration or biopsy in which hyphae or melanized yeast-like forms are seen  accompanied by evidence of associated tissue damage  
 - Culture (Sterile Material): Recovery of a hyaline or pigmented mold by culture of a specimen obtained by a sterile procedure from a normally sterile and clinically or radiologically abnormal site consistent with an infectious disease process, excluding BAL fluid, a paranasal or mastoid sinus cavity specimen, and urine  
