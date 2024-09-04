@@ -6,7 +6,7 @@ theme:
     name: 'material'
     features:
         - navigation.path
-#        - navigation.footer
+        - navigation.footer
 #        - toc.follow
     palette:
 
@@ -67,7 +67,6 @@ plugins:
   - roamlinks
   - blog:
       blog_dir: .
-      blog_toc: true
       post_url_format: "{categories}/{slug}"
       post_url_max_categories: 1
       post_slugify: !!python/object/apply:pymdownx.slugs.slugify
