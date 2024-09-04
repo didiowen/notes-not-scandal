@@ -1,6 +1,6 @@
 ---
 title: 食冰的滋味
-created: 2023-08-17T16:07:13
+created: 2023-08-17
 tags:
   - Language/Taiwanese
   - writing

@@ -1,6 +1,6 @@
 ---
 title: HIV/AIDS
-created: 2024-08-09T16:06:58
+created: 2024-08-09
 status: in progress
 tags:
   - teaching

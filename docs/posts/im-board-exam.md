@@ -1,6 +1,6 @@
 ---
 title: 內專考古題感染科試題
-created: 2024-08-14T08:51:03
+created: 2024-08-14
 share_link: https://share.note.sx/arf2dbtp#wM6jooWbTptkOulJ+Z+2vi5R828k0bFDKYn/chl7Pa0
 share_updated: 2024-08-14T16:04:22+08:00
 tags:

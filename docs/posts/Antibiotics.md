@@ -1,6 +1,6 @@
 ---
 title: Antibiotics
-created: 2024-08-09T15:56:51
+created: 2024-08-09
 tags:
   - medicine/antibiotics
   - teaching

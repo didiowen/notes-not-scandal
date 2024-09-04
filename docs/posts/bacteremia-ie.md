@@ -1,6 +1,6 @@
 ---
 title: Bacteremia and infective endocarditis
-created: 2024-08-09T16:07:28
+created: 2024-08-09
 status: finished
 tags:
   - teaching

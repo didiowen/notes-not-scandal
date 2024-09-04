@@ -1,6 +1,6 @@
 ---
 title: Sepsis and Shock
-created: 2024-08-09T15:56:10
+created: 2024-08-09
 status: finished
 tags:
   - teaching

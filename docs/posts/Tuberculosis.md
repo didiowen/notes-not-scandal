@@ -1,6 +1,6 @@
 ---
 title: Tuberculosis
-created: 2024-08-12T23:08:32
+created: 2024-08-12
 tags:
   - medicine/TB
   - publish
