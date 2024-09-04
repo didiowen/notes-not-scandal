@@ -1,4 +1,4 @@
-mkdocs-material
+mkdocs-material == 9.5.33
 mkdocs-roamlinks-plugin
 mkdocs-bibtex
 mkdocs-callouts
