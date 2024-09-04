@@ -6,7 +6,7 @@ tags:
   - publish
 share: true
 categories:
-  - medicine/fungi
+  - medicine
 ---
 # Invasive Mold Disease  
   
