@@ -52,7 +52,7 @@ source: Pocket Medicine, 2022
 * 敗血症引起的循環和細胞/代謝異常，足以增加死亡率；即使在適當的液體復甦後，仍==需使用升壓劑以使平均動脈壓（MAP） ≥65且乳酸 >2==   
 * **Sequential Organ Failure Assessment (SOFA)**：呼吸（P/F ratio降低）；凝血（==血小板==降低）；肝臟（膽紅素升高）；心血管（MAP下降或升壓劑增加）；中樞神經系統（GCS 降低）；腎臟（肌酐升高或尿量下降）  
   
-![[../assets/img/735fb72980fed061a38d10a17e242370_MD5.jpeg|shock_flowchart]]  
+![[../img/735fb72980fed061a38d10a17e242370_MD5.jpeg|shock_flowchart]]  
 [Source: NEJS](https://www.nejs.app/2021/11/2021-sepsis-guideline.html)  
   
 ## 處置 (Crit Care Med 2021;49:e1063)  
