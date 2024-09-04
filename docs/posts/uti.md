@@ -1,6 +1,6 @@
 ---
 title: Urinary tract infection
-date: 2024-08-09 15:54
+created: 2024-08-09T15:54:14
 status: finished
 tags:
   - teaching

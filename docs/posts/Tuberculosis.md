@@ -1,12 +1,12 @@
 ---
 title: Tuberculosis
-date: 2024-08-12 23:08
+created: 2024-08-12T23:08:32
 tags:
   - medicine/TB
   - publish
 share: true
 categories:
-  - medicine
+  - medicine/tb
 alias: tb
 ---
 # Tuberculosis  

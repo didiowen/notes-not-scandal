@@ -1,12 +1,12 @@
 ---
 title: HIV長效針劑
-date: 2024-08-01 16:43
+created: 2024-08-01T16:43:43
 tags:
   - medicine/HIV
   - publish
 share: true
 categories:
-  - medicine
+  - medicine/hiv
 slug: hiv-long-acting
 ---
 # HIV長效針劑  

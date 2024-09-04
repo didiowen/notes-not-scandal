@@ -1,12 +1,12 @@
 ---
 title: Pre-exposure Prevention
-date: 2024-02-08 14:00
+created: 2024-02-08T14:00:53
 tags:
   - medicine/HIV
   - publish
 share: true
 categories:
-  - medicine
+  - medicine/hiv
 slug: prep
 ---
 # Pre-exposure Prevention  

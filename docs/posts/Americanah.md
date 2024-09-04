@@ -3,7 +3,7 @@ title: Americanah
 subtitle: 
 author: Chimamanda Ngozi Adichie
 year: 2013
-date: 2024-07-17 18:06
+created: 2024-07-17T18:06:23
 tags:
   - reading/Audible
   - publish
@@ -35,7 +35,7 @@ share: true
 > 有時當美國人提及「文化」，他們的意思是「種族」。當他們說一部電影是「主流影片」，他們的意思是「這部電影是白人拍的」或是「這部電影白人會喜歡」。當他們說某個地方很「都會」，他們的意思是那裡是黑人區、很貧窮、說不定有點危險、可能很刺激。所謂「帶有種族歧視色彩」，其實只是大家不情願直說「種族歧視」。  
 ## Related  
   
-![[../../100-best-books#Americanah|100 Best Books of the 21st Century > Americanah]]  
+  
   
 >[!note] [譯者施清真](https://www.facebook.com/chingchun.shih/posts/pfbid02pQTHaVUFCTfEiJqoDEcJUcZwLWANCs1Gv1u2RYSDAFMKtmxj6pZFT67yowAM63DPl)：  
 >《美國佬》是導演葛蕾塔 ‧ 潔薇最喜歡的小說之一。潔薇說，阿迪契架構出的浪漫跟珍 ‧ 奧斯丁的小說一樣迷人，只不過是把場景設定在奈及利亞和美國。她還說，她深深愛上小說的主角歐賓澤和伊菲美廬，自從小時候頭一次閱讀小說，她已經許久未曾興起同樣的感覺。  

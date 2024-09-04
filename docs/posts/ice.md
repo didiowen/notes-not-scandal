@@ -1,13 +1,13 @@
 ---
 title: 食冰的滋味
-date: 2023-08-17 16:07
+created: 2023-08-17T16:07:13
 tags:
   - Language/Taiwanese
   - writing
   - publish
 share: true
 categories:
-  - writing
+  - writing/taiwanese
 slug: ice
 ---
 # 食冰的滋味  
