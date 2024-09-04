@@ -10,8 +10,8 @@ tags:
 own: borrowed
 status: finished
 rating: 5
-start date: 
-finished date: 2024-08-30
+start_date: 
+finished_date: 2024-08-30
 categories:
   - reading
 share: true
