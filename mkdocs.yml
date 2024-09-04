@@ -7,7 +7,7 @@ theme:
     features:
         - navigation.path
         - navigation.footer
-#        - toc.follow
+        - toc.follow
     palette:
 
     # Light mode
