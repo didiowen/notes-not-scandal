@@ -15,7 +15,7 @@ categories: medicine
 share: true
 slug: np-test
 ---
-![[../img/134b46071bbf0a88cc252b204f4ebd82_MD5.jpeg|200]]  
+![[../assets/134b46071bbf0a88cc252b204f4ebd82_MD5.jpeg|200]]  
 # 專師考試感染科試題  
   
 ## 解題方法  
