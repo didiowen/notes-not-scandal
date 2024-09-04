@@ -1,12 +1,12 @@
 ---
 title: Linezolid健保給付條件
-date: 2024-05-22 14:30
+created: 2024-05-22T14:30:00
 tags:
   - medicine/antibiotics
   - publish
 share: true
 categories:
-  - medicine
+  - medicine/abx
 slug: linezolid
 ---
 # Linezolid健保給付條件  
