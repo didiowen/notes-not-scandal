@@ -11,7 +11,8 @@ tags:
 URL: https://drive.google.com/drive/folders/1SS22JrnIYtUXON3d-kmcjfAFDru6SIAh
 share_link: https://share.note.sx/f0c1zveu#+YY75GXvWnlbZ4qb6phkLpU8tY0HADYoiSiQGZV9tqU
 share_updated: 2024-08-14T15:35:50+08:00
-categories: medicine
+categories:
+  - medicine
 share: true
 slug: np-test
 ---
