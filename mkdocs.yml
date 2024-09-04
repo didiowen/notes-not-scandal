@@ -7,8 +7,10 @@ theme:
     features:
         - navigation.path
         - navigation.tabs
-        - toc.follow
+        - navigation.sections
         - navigation.top
+        - toc.follow
+
     palette:
 
     # Light mode
