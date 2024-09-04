@@ -75,6 +75,7 @@ plugins:
       post_slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
+      archive_url_date_format: yyyy/MM
   - git-revision-date-localized:
       type: timeago
 #  - minify:
