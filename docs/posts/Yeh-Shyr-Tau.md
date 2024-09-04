@@ -6,7 +6,8 @@ tags:
   - publish
 slug: Yeh-Shyr-Tau
 share: true
-categories: reading
+categories:
+  - reading
 ---
 # 臺灣男子葉石濤的浪漫與鄉愁  
   
