@@ -1,6 +1,5 @@
 ---
 title: The Rachel Incident
-subtitle: 
 tags:
   - reading/Audible
   - LGBT

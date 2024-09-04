@@ -1,6 +1,5 @@
 ---
 title: Americanah
-subtitle: 
 created: 2024-07-17T18:06:23
 tags:
   - reading/Audible
