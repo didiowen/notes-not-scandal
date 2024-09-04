@@ -73,6 +73,7 @@ plugins:
       post_url_max_categories: 1
       post_excerpt_separator: ---
       categories_name: Categories
+      categories_url_format: "{slug}"
       categories_toc: true
       archive_toc: true
       post_slugify: !!python/object/apply:pymdownx.slugs.slugify
