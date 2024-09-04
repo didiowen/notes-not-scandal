@@ -1,12 +1,12 @@
 ---
 title: Latent tuberculosis infection
-date: 2024-08-02 11:26
+created: 2024-08-02T11:26:36
 tags:
   - medicine/TB
   - publish
 share: true
 categories:
-  - medicine
+  - medicine/tb
 slug: ltbi
 ---
 # Latent tuberculosis infection  
