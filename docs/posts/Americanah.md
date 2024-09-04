@@ -1,8 +1,6 @@
 ---
 title: Americanah
 subtitle: 
-author: Chimamanda Ngozi Adichie
-year: 2013
 created: 2024-07-17T18:06:23
 tags:
   - reading/Audible
@@ -16,6 +14,9 @@ categories:
 share: true
 ---
 # Americanah  
+  
+author:: Chimamanda Ngozi Adichie  
+year:: 2013  
   
 ## Thoughts  
 - 一開始聽朗讀者一下子用標準英文、一下子用奈及利亞腔英文切來切去有點不習慣，不過聽一陣子也就習慣了。  
