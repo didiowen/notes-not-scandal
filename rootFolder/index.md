@@ -3,7 +3,7 @@ fileClass: share
 creation date: 2024-08-30 00:45
 share: true
 hide: footer
-path: 
+path: rootFolder
 bib: "[[library.bib]]"
 csl: "[[harvard-imperial.csl]]"
 ---
