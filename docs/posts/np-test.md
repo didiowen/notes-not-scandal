@@ -1,6 +1,6 @@
 ---
 title: 專師考試感染科試題
-created: 2024-07-02T20:31:02
+created: 2024-07-02
 status: finished
 tags:
   - medicine
