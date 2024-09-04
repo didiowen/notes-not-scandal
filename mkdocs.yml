@@ -75,6 +75,9 @@ plugins:
       categories_name: Categories
       categories_toc: true
       archive_toc: true
+      post_slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - git-revision-date-localized:
       type: timeago
 #  - minify:
