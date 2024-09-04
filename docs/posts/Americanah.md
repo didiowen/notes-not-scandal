@@ -9,9 +9,9 @@ tags:
   - publish
 own: borrowed
 status: finished
+started: 
+finished: 2024-08-30
 rating: 5
-start_date: 
-finished_date: 2024-08-30
 categories:
   - reading
 share: true
