@@ -6,7 +6,8 @@ tags:
   - publish
 share: true
 categories:
-  - medicine/tb
+  - medicine
+  - tb
 alias: tb
 ---
 # Tuberculosis  
