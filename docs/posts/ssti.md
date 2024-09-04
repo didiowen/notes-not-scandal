@@ -9,7 +9,8 @@ tags:
 share_link: https://share.note.sx/m28oc93u#wJdC3rLRCv5lXc6KgORO5De/g0L80wqZBMz6mnLkls8
 share_updated: 2024-08-14T16:03:50+08:00
 share: true
-categories: medicine
+categories:
+  - medicine
 slug: ssti
 ---
 # Skin and soft tissue infection  
