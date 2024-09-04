@@ -66,7 +66,7 @@ plugins:
   - callouts
   - roamlinks
   - blog:
-      blog_dir: .
+      blog_dir: blog
       blog_toc: true
       pagination_per_page: 3
       post_excerpt_separator: <!-- more -->
@@ -75,6 +75,7 @@ plugins:
       post_slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
+      archive_date_format: yyyy/MM
       archive_url_date_format: yyyy/MM
   - git-revision-date-localized:
       type: timeago
