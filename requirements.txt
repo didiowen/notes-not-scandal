@@ -5,6 +5,6 @@ mkdocs-callouts
 mkdocs-git-revision-date-localized-plugin
 obsidiantools
 pybtex==0.24.0
-pypandoc==1.13
+pypandoc[pandoc]==1.13
 requests==2.31.0
 validators==0.20.0
