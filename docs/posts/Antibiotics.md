@@ -10,7 +10,8 @@ share_link: https://share.note.sx/phl07lrt#m3+7fJ/DzSGBZILBoqvN0puQctK6xych9ZWRA
 share_updated: 2024-08-14T17:58:55+08:00
 share: true
 categories:
-  - medicine/abx
+  - medicine
+  - abx
 ---
 # Antibiotics  
 ## 作用機制  
