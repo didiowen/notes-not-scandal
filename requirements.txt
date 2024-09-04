@@ -4,4 +4,4 @@ mkdocs-bibtex
 mkdocs-callouts
 mkdocs-git-revision-date-localized-plugin
 obsidiantools
-pandoc
+pypandoc
