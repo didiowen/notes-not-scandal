@@ -1,6 +1,6 @@
 ---
 title: Dyslipidemia
-created: 2024-03-11T15:10:49
+created: 2024-03-11
 tags:
   - medicine
   - publish
