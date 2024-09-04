@@ -5,7 +5,8 @@ tags:
   - medicine/fungi
   - publish
 share: true
-categories: medicine
+categories:
+  - medicine
 ---
 # Invasive Mold Disease  
   
