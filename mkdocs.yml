@@ -66,9 +66,10 @@ plugins:
   - callouts
   - roamlinks
   - blog:
-      blog_dir: blog
+      blog_dir: .
       blog_toc: true
-      pagination_per_page: 5
+      pagination: false
+      pagination_per_page: 3
       post_excerpt_separator: <!-- more -->
       post_url_format: "{categories}/{slug}"
       post_url_max_categories: 1
