@@ -17,6 +17,8 @@ categories:
 ## 作用機制  
 ![[../assets/images/d5cd1072950af118968f9283c66a7d7c_MD5.jpeg|mechanism]]  
   
+---  
+  
 | ANTIBACTERIAL AGENT(S)                                                                                     | MAJOR TARGET           | MECHANISM(S) OF ACTION                                                                                                                                                   | MECHANISM(S) OF RESISTANCE                                                                                                                                                             |  
 | ---------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  
 | β-Lactams (penicillins, cephalosporins, monobactams, carbapenems)                                          | Cell-wall synthesis    | Bind cell-wall cross-linking enzymes (PBPs, **transpeptidases**)                                                                                                         | 1. Drug inactivation by β-lactamases<br>    <br>2. Altered PBP targets<br>    <br>3. Reduced diffusion through porin channels<br>    <br>4. Altered iron uptake proteins (cefiderocol) |  
