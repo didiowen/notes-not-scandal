@@ -5,7 +5,8 @@ tags:
   - medicine/HCV
   - publish
 share: true
-categories: medicine
+categories:
+  - medicine
 ---
 # DAA  
 ## Glecaprevir/pibrentasvir (Maviret)  

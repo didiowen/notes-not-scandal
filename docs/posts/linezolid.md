@@ -5,7 +5,8 @@ tags:
   - medicine/antibiotics
   - publish
 share: true
-categories: medicine
+categories:
+  - medicine
 slug: linezolid
 ---
 # Linezolid健保給付條件  

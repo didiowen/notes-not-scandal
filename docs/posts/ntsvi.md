@@ -5,7 +5,8 @@ tags:
   - medicine/Salmonella
   - publish
 share: true
-categories: medicine
+categories:
+  - medicine
 slug: ntsvi
 ---
 # Non-typhoid Salmonella Vascular Infection  

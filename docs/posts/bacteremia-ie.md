@@ -9,7 +9,8 @@ tags:
 share_link: https://share.note.sx/5kvwmniy#vnlaMyGYciUZN7WsQcuAJmqAA2V3JjfuLe/8d8U8bdw
 share_updated: 2024-08-14T17:41:28+08:00
 share: true
-categories: medicine
+categories:
+  - medicine
 slug: bacteremia-ie
 ---
 source: Pocket Medicine, 2022  

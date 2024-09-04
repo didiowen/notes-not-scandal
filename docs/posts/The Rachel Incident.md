@@ -13,7 +13,8 @@ rating: 4
 start date: 2024-07-26
 finished date: 2024-07-29
 date: 2024-07-17 20:53
-categories: reading
+categories:
+  - reading
 share: true
 ---
 # The Rachel Incident  

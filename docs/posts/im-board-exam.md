@@ -7,7 +7,8 @@ tags:
   - medicine/ID
   - publish
 share: true
-categories: medicine
+categories:
+  - medicine
 slug: im-board-exam
 ---
 # 內專考古題感染科試題  

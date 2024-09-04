@@ -6,7 +6,8 @@ share_updated: 2024-08-14T17:39:50+08:00
 tags:
   - medicine
   - publish
-categories: medicine
+categories:
+  - medicine
 share: true
 ---
 # Fever  

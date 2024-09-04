@@ -5,7 +5,8 @@ tags:
   - medicine/HIV
   - publish
 share: true
-categories: medicine
+categories:
+  - medicine
 slug: prep
 ---
 # Pre-exposure Prevention  

@@ -11,7 +11,8 @@ tags:
   - publish
 slug: 100-best-books
 share: true
-categories: reading
+categories:
+  - reading
 ---
 # 100 Best Books of the 21st Century  
 [Source](https://www.nytimes.com/interactive/2024/books/best-books-21st-century.html)  
