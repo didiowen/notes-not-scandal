@@ -13,6 +13,7 @@ theme:
         - navigation.tracking
         - navigation.top
         - toc.follow
+        - search.highlight
 
     palette:
 
