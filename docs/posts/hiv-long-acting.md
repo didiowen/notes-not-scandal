@@ -6,7 +6,8 @@ tags:
   - publish
 share: true
 categories:
-  - medicine/hiv
+  - medicine
+  - hiv
 slug: hiv-long-acting
 ---
 # HIV長效針劑  

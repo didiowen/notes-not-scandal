@@ -8,6 +8,7 @@ slug: Yeh-Shyr-Tau
 share: true
 categories:
   - reading
+  - travelling
 ---
 # 臺灣男子葉石濤的浪漫與鄉愁  
   

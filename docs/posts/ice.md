@@ -7,7 +7,8 @@ tags:
   - publish
 share: true
 categories:
-  - writing/taiwanese
+  - writing
+  - taiwanese
 slug: ice
 ---
 # 食冰的滋味  

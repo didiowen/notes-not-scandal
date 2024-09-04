@@ -10,7 +10,8 @@ share_link: https://share.note.sx/0sb83lcz#UzVR507MV4hD0CpZDEYviE/Gz53BYVPXKPClL
 share_updated: 2024-08-14T16:03:56+08:00
 share: true
 categories:
-  - medicine/hiv
+  - medicine
+  - hiv
 ---
 # HIV/AIDS  
 source: Pocket Medicine, 2022  
