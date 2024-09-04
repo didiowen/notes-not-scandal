@@ -1,12 +1,12 @@
 ---
 title: Invasive Mold Disease
-date: 2024-08-22 16:53
+created: 2024-08-22T16:53:29
 tags:
   - medicine/fungi
   - publish
 share: true
 categories:
-  - medicine
+  - medicine/fungi
 ---
 # Invasive Mold Disease  
   
