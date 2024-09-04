@@ -1,6 +1,6 @@
 ---
 title: Invasive Mold Disease
-created: 2024-08-22
+date: 2024-08-22
 tags:
   - medicine/fungi
   - publish
