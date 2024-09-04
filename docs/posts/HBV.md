@@ -5,7 +5,8 @@ tags:
   - medicine/HBV
   - publish
 share: true
-categories: medicine
+categories:
+  - medicine
 ---
 # B肝藥物給付條件  
   
