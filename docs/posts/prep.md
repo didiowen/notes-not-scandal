@@ -13,7 +13,7 @@ slug: prep
 # Pre-exposure Prevention  
   
 ![[../assets/images/PrEP-3.png|PrEP-3.png]]  
----  
+<!-- more -->  
 ## On-Demand PrEP  
 ### 單次性行為  
   
