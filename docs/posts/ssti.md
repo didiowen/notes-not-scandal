@@ -1,6 +1,6 @@
 ---
 title: Skin and soft tissue infection
-created: 2024-08-09
+date: 2024-08-09
 status: finished
 tags:
   - teaching

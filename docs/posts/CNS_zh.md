@@ -1,6 +1,6 @@
 ---
 title: CNS Infection
-created: 2024-08-09
+date: 2024-08-09
 tags:
   - teaching
   - medicine/CNS

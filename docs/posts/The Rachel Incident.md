@@ -7,9 +7,9 @@ tags:
 own: borrowed
 status: finished
 rating: 4
-started: 2024-07-26
-finished: 2024-07-29
-created: 2024-07-17
+date:
+  finished: 2024-07-29
+  created: 2024-07-17
 categories:
   - reading
 share: true
