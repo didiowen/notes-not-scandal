@@ -148,7 +148,7 @@ source:: Pocket Medicine, 2022
   
 - HSV/VZV：Acyclovir 10 mg/kg 靜脈注射，每8小時一次；考慮經驗性治療，因為機率較高  
   
-[[../../CNS|Original]]  
+[[CNS|Original]]  
 ## 考古題  
 ### 專師  
   
