@@ -23,7 +23,7 @@ year:: 2023
 - Rachel被男友ghosted之後期末報告寫不出來差點畢不了業的部分真是心有戚戚焉…  
 - 故事背景不斷強調愛爾蘭經濟不景氣，於是男女主角一個去了倫敦一個去了紐約  
 - Dr. Byrne游泳之後coma是不是感染*Naegleria fowleri*…  
-  
+---  
 ## Quotes  
 >[!quote]  
 >“Séamus (Irish pronunciation: [ˈʃeːmˠəsˠ]) is an Goidelic male given name, of Hebrew origin via Latin. It is the Irish equivalent of the name James. The name James is the English New Testament variant for the Hebrew name Jacob.”  
