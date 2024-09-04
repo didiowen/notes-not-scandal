@@ -6,7 +6,8 @@ tags:
   - publish
 share: true
 categories:
-  - medicine/abx
+  - medicine
+  - abx
 slug: linezolid
 ---
 # Linezolid健保給付條件  
