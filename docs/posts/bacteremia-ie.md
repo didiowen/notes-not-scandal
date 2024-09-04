@@ -108,7 +108,7 @@ source: Pocket Medicine, 2022
 - 神經學異常可能提示栓塞性中風；脊柱壓痛可能提示骨髓炎或硬膜外膿瘍  
 - 植入裝置：評估中央靜脈導管（CVC）、節律器（PM）/植入型心臟整流去顫器（ICD）部位，及其他人工植入物的部位  
   
-![[../assets/images/9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg|9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg]]  
+![[../images/9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg|9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg]]  
   
 ## 診斷 (CID 2010;51:131; EHJ 2015;36:3075; Circ 2015;132:1435)  
   

@@ -15,7 +15,7 @@ categories:
 ---
 # Antibiotics  
 ## 作用機制  
-![[../assets/images/d5cd1072950af118968f9283c66a7d7c_MD5.jpeg|mechanism]]  
+![[../images/d5cd1072950af118968f9283c66a7d7c_MD5.jpeg|mechanism]]  
   
 <!-- more -->  
   
@@ -45,8 +45,8 @@ categories:
 | Daptomycin                                                                                                 | Cell membrane          | Produces membrane channel and membrane leakage                                                                                                                           | Altered cell-membrane charge with reduced drug binding                                                                                                                                 |  
   
 ### 抗藥性機轉  
-![[../assets/images/be7c385cf6d7376b54c4de4794df94d7_MD5.jpeg|resistance_zh]]  
-![[../assets/images/64e57133364b2f9716df1ac514b4d418_MD5.jpeg|resistance_en]]  
+![[../images/be7c385cf6d7376b54c4de4794df94d7_MD5.jpeg|resistance_zh]]  
+![[../images/64e57133364b2f9716df1ac514b4d418_MD5.jpeg|resistance_en]]  
 ### 藥物動力學  
   
 - 藥物動力學：描述藥物在體內的分布情況  
@@ -106,7 +106,7 @@ Anidulafungin
 Amphotericin B liposome  
   
 ## 抗菌範圍  
-![[../assets/images/7e8b9088434a32c9d865e91bb156fd55_MD5.jpeg|7e8b9088434a32c9d865e91bb156fd55_MD5.jpeg]]  
+![[../images/7e8b9088434a32c9d865e91bb156fd55_MD5.jpeg|7e8b9088434a32c9d865e91bb156fd55_MD5.jpeg]]  
 [Source](http://charliekuo.com/?p=3114)  
   
 ### Anfi-fungals  
