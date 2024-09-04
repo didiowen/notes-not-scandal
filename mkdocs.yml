@@ -67,6 +67,9 @@ plugins:
   - roamlinks
   - blog:
       blog_dir: .
+      blog_toc: true
+      pagination_per_page: 2
+      archive_date_format: MM/yyyy
       post_url_format: "{categories}/{slug}"
       post_url_max_categories: 1
       post_slugify: !!python/object/apply:pymdownx.slugs.slugify
