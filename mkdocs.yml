@@ -86,11 +86,11 @@ plugins:
       archive_url_date_format: yyyy/MM
   - git-revision-date-localized:
       type: timeago
-  - bibtex:
-      bib_file: "docs/assets/library.bib"
-      bib_by_default: true
-      csl_file: "docs/assets/harvard-imperial.csl"
-      cite_inline: true
+#  - bibtex:
+#      bib_file: "docs/assets/library.bib"
+#      bib_by_default: true
+#      csl_file: "docs/assets/harvard-imperial.csl"
+#      cite_inline: true
 #  - minify:
 #      minify_html: true
 #      minify_js: true
