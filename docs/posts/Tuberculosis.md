@@ -20,7 +20,7 @@ source: Pocket Medicine, 2022, 台灣肺結核診治指引第七版
 - Milliary: disseminated lympho-hematogenous spread due to primary or reactivated TB  
 - Multidrug-resistant (MDR): resistant to **isoniazid (INH) & rifampin**. Can occur as 1° infxn.  
 - Extensively drug-resistant (XDR): resistant to INH, rifampin (RIF), fluoroquinolones (FQ), and at least one of amikacin, kanamycin, or capreomycin  
-  
+---  
 ## Epidemiology (NEJM 2016;375:1081)  
   
 - Transmission via aerosols; untreated active dx requires airborne isolation in healthcare facilities and community isolation measures; must involve local public health authorities  
