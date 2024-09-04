@@ -9,7 +9,8 @@ tags:
 share_link: https://share.note.sx/ellb9wv1#smrKktNhF+EF6R9HzY+cg8EE5vkVcklMuIcE/uKi9aY
 share_updated: 2024-08-14T15:38:40+08:00
 share: true
-categories: medicine
+categories:
+  - medicine
 ---
 # 敗血症與休克  
 source: Pocket Medicine, 2022  
