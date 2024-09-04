@@ -22,6 +22,8 @@ categories:
 	3. 曾接受含 NS5A 抑制劑或 NS3/4A 蛋白酶抑制劑治療之基因型第 1 型患者：  
 		1. 若曾接受 NS3/4A 蛋白酶抑制劑治療，但未曾接受 NS5A 抑制劑治療者，給付12 週  
 		2. 若曾接受 NS5A 抑制劑治療，但未曾接受 NS3/4A 蛋白酶抑制劑治療者，給付16 週  
+  
+---  
 ## Sofosbuvir/velpatasvir (Epclusa)  
 * 1# QD，Child-Pugh B/C可使用，Ccr < 30不建議使用  
 * 給付療程如下，醫師每次開藥以 4 週為限  

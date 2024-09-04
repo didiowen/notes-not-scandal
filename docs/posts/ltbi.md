@@ -22,7 +22,7 @@ source: Pocket Medicine, 2022; 台灣肺結核診治指引
     - 判讀標準：已打BCG ≥ 10mm，未打BCG, HIV, 接受anti-lymphokines 或其他免疫抑制治療者 ≥ 5mm為陽性  
     - 治療期滿後TST < 5mm再補打BCG  
 - 2歲以上：暴露滿八週後IGRA  
-  
+---  
 - If screening test ⊕ and no risk factors, confirm prior to treatment; if ⊕ w/ risk factors, proceed to treatment (CID 2017;64:11).  
 - Prior to treatment of latent TB, active TB must be ruled out with, at a minimum, ROS for symptoms (cough, fever, night sweats, weight loss), physical exam, and CXR (though may be normal in immunosupp.)  
   

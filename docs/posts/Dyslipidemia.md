@@ -11,6 +11,7 @@ categories:
 # Dyslipidemia何時要治療  
   
 ![[../assets/images/Dyslipidemia.png|Dyslipidemia.png]]  
+---  
 * 心血管疾病定義：  
 	* 冠狀動脈粥狀硬化患者包含：心絞痛病人，有心導管證實或缺氧性心電圖變化或負荷性試驗陽性反應者(附檢查報告)  
 	* 缺血型腦血管疾病病人包含：  
