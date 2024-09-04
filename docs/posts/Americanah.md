@@ -9,7 +9,6 @@ tags:
   - publish
 own: borrowed
 status: finished
-started: 
 finished: 2024-08-30
 rating: 5
 categories:
