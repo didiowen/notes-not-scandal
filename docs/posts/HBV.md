@@ -12,6 +12,8 @@ categories:
   
 Lamivudine 100mg, entecavir, telbivudine, tenofovir disoproxil, tenofovir alafenamide用於慢性病毒性 B 型肝炎患者之條件如下：  
   
+<!-- more -->  
+  
 1. HBsAg(+)且已發生肝代償不全者  
   
 2. 慢性Ｂ型肝炎病毒帶原者HBsAg(+)，或HBsAg(-)但B型肝炎核心抗體(anti-HBc)陽性者，接受非肝臟之器官移植者、接受癌症化學療法中、接受肝臟移植者、異體造血幹細胞移植、接受免疫抑制劑治療者、確診為肝癌並接受根除性治療且可檢驗到血清HBV DNA、肝硬化病患符合HBsAg(+)且可檢驗到血清HBV DNA＋有切片、超音波（肝硬化併食道或胃靜脈曲張、超音波診斷為肝硬化併脾腫大、超音波診斷為肝硬化且血小板<120,000/μL，或肝硬度超音波診斷為肝硬化）、CT或MRI診斷為肝硬化診斷  
