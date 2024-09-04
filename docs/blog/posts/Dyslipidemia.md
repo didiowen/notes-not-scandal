@@ -10,7 +10,7 @@ categories:
 ---
 # Dyslipidemia何時要治療  
   
-![[../assets/images/Dyslipidemia.png|Dyslipidemia.png]]  
+![[../../assets/images/Dyslipidemia.png|Dyslipidemia.png]]  
 <!-- more -->  
   
 * 心血管疾病定義：  
@@ -26,8 +26,8 @@ categories:
 	4. HDL-C<40mg/dL  
 	5. 吸菸（因吸菸而符合起步治療準則之個案，若未戒菸而要求藥物治療，應以自費治療）  
   
-![[../assets/images/Dyslipidemia-1.png|Dyslipidemia-1.png]]  
+![[../../assets/images/Dyslipidemia-1.png|Dyslipidemia-1.png]]  
   
-![[../assets/images/Dyslipidemia-2.png|Dyslipidemia-2.png]]  
-![[../assets/images/statin-1.jpg|statin-1.jpg]]  
-![[../assets/images/statin-2.png|statin-2.png]]
+![[../../assets/images/Dyslipidemia-2.png|Dyslipidemia-2.png]]  
+![[../../assets/images/statin-1.jpg|statin-1.jpg]]  
+![[../../assets/images/statin-2.png|statin-2.png]]

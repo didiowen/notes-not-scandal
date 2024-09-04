@@ -71,7 +71,7 @@ source: Pocket Medicine, 2022
 | **腎盂腎炎**                       | 門診患者：fluoroquinolone 7天 或 TMP-SMX 口服 14天（_Lancet_ 2012;380:452）<br><br>住院患者：ceftriaxone 14天；如果有多重抗藥性病原體風險，則使用 cefepime、pip-tazo、carbapenem（_NEJM_ 2019;380:729），當臨床改善且無發燒 24-48小時後，可由靜脈注射轉為口服，並根據培養結果調整治療方案                                                                                            |  
 | **腎膿腫**                        | 引流 + 使用與腎盂腎炎相同的抗生素                                                                                                                                                                                                                                                                                     |  
   
-Original: [[../../Urinary tract infection|Urinary tract infection]]  
+Original: [[../../../Urinary tract infection|Urinary tract infection]]  
 ## 考古題  
 ### 專師  
   
