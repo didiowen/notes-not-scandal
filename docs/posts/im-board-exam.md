@@ -20,6 +20,8 @@ C. Salmonella與生雞蛋
 D. Norovirus與生蠔或污染的水  
 ==E. Q fever與生牛肉==  
   
+---  
+  
 2. 一位30歲的女性，吃了生豬肉之後發生明顯的腸胃炎症狀，且有發燒、右下腹痛及腹瀉，急診室診查發現terminal ileum部位發炎(ileitis)，並有右下腹部反彈痛疑似盲腸炎，請問最有可能是下列哪一種腸道致病原?   
 A. Vibrio cholera  
 B. Salmonella typhi  
