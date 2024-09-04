@@ -15,7 +15,7 @@ categories: medicine
 share: true
 slug: np-test
 ---
-![[../../assets/images/134b46071bbf0a88cc252b204f4ebd82_MD5.jpeg|200]]  
+![[../assets/images/134b46071bbf0a88cc252b204f4ebd82_MD5.jpeg|200]]  
 # 專師考試感染科試題  
   
 ## 解題方法  
@@ -28,10 +28,10 @@ down:: [[./ssti|ssti]]
 down:: [[./HIV_zh|HIV_zh]]  
 down:: [[./bacteremia-ie|bacteremia-ie]]  
 down:: [[./COVID|COVID]]  
-down:: [[../../../Pneumonia|Pneumonia]]  
-down:: [[../../../EID|EID]]  
+down:: [[../../Pneumonia|Pneumonia]]  
+down:: [[../../EID|EID]]  
 down:: [[./Fever|Fever]]  
-down:: [[../../../Vaccine|Vaccine]]  
+down:: [[../../Vaccine|Vaccine]]  
 ### 其他資源  
 [人體正常菌叢](https://www.notion.so/didiowen/f52c04e90b084309838cc1a6d53a29b0?v=ab47ad3da10e42e9bb18c72f492d61b1&pvs=4)  
 [常見致病菌](https://didiowen.notion.site/52f8fa603318432094e6ee12af02aa87?pvs=4)  

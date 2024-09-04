@@ -42,7 +42,7 @@ Ann Patchett 2001
 A famed opera singer performs for a Japanese executive’s birthday at a luxe private home in South America; it’s *that* kind of party. But when a group of young guerrillas swoops in and takes everyone in the house hostage, Patchett’s exquisitely calibrated novel — inspired by a real incident — becomes a piano wire of tension, vibrating on high.  
   
 ## 97  
-### [[../../../Men We Reaped|Men We Reaped]]  
+### [[../../Men We Reaped|Men We Reaped]]  
   
 Jesmyn Ward 2013  
   
@@ -91,7 +91,7 @@ Philip Roth 2000
 Set during the Clinton impeachment imbroglio, this is partly a furious indictment of what would later be called cancel culture, partly an inquiry into the paradoxes of class, sex and race in America. A college professor named Coleman Silk is persecuted for making supposedly racist remarks in class. Nathan Zuckerman, his neighbor (and Roth’s trusty alter ego), learns that Silk, a fellow son of Newark, is a Black man who has spent most of his adult life passing for white. Of all the Zuckerman novels, this one may be the most incendiary, and the most unsettling. — A.O. Scott  
   
 ## 90  
-### [[../../../The Sympathizer|The Sympathizer]]   
+### [[../../The Sympathizer|The Sympathizer]]   
   
 Viet Thanh Nguyen 2015  
   
@@ -133,14 +133,14 @@ George Saunders 2000
 An ersatz caveman languishes at a theme park; a dead maiden aunt comes back to screaming, scatological life; a bachelor barber born with no toes dreams of true love, or at least of getting his toe-nubs licked. The stories in Saunders’s second collection are profane, unsettling and patently absurd. They’re also freighted with bittersweet humanity, and rendered in language so strange and wonderful, it sings.  
   
 ## 84  
-### [[../../../The Emperor of All Maladies|The Emperor of All Maladies]]  
+### [[../../The Emperor of All Maladies|The Emperor of All Maladies]]  
   
 Siddhartha Mukherjee 2010  
   
 The subtitle, “A Biography of Cancer,” provides some helpful context for what lies between the covers of Mukherjee’s Pulitzer Prize-winning book, though it hardly conveys the extraordinary ambition and empathy of his telling, as the trained oncologist weaves together disparate strands of large-scale history, biology and devastating personal anecdote.  
   
 ## 83  
-### [[../../../When We Cease to Understand the World|When We Cease to Understand the World]]  
+### [[../../When We Cease to Understand the World|When We Cease to Understand the World]]  
   
 Benjamín Labatut; translated by Adrian Nathan West 2021  
   
@@ -168,7 +168,7 @@ Elena Ferrante; translated by Ann Goldstein 2015
 All things, even modern literature’s most fraught female friendship, must come to an end. As the now middle-aged Elena and Lila continue the dance of envy and devotion forged in their scrappy Neapolitan youth, the conclusion of Ferrante’s four-book saga defies the laws of diminishing returns, illuminating the twined psychologies of its central pair — intractable, indelible, inseparable — in one last blast of X-ray prose.  
   
 ## 79  
-### [[../../../A Manual for Cleaning Women|A Manual for Cleaning Women]]  
+### [[../../A Manual for Cleaning Women|A Manual for Cleaning Women]]  
   
 Lucia Berlin 2015  
   
@@ -182,14 +182,14 @@ Jon Fosse; translated by Damion Searls 2022
 You may not be champing at the bit to read a seven-part, nearly 700-page novel written in a single stream-of-consciousness sentence with few paragraph breaks and two central characters with the same name. But this Norwegian masterpiece, by the winner of the 2023 Nobel Prize in Literature, is the kind of soul-cleansing work that seems to silence the cacophony of the modern world — a pair of noise-canceling headphones in book form. The narrator, a painter named Asle, drives out to visit his doppelgänger, Asle, an ailing alcoholic. Then the narrator takes a boat ride to have Christmas dinner with some friends. That, more or less, is the plot. But throughout, Fosse’s searching reflections on God, art and death are at once haunting and deeply comforting.  
   
 ## 77  
-### [[../../../An American Marriage|An American Marriage]]  
+### [[../../An American Marriage|An American Marriage]]  
   
 Tayari Jones 2018  
   
 Life changes in an instant for Celestial and Roy, the young Black newlyweds at the beating, uncomfortably realistic heart of Jones’s fourth novel. On a mostly ordinary night, during a hotel stay near his Louisiana hometown, Roy is accused of rape. He is then swiftly and wrongfully convicted and sentenced to 12 years in prison. The couple’s complicated future unfolds, often in letters, across two worlds. The stain of racism covers both places.  
   
 ## 76  
-### [[../../../Tomorrow, and Tomorrow, and Tomorrow|Tomorrow, and Tomorrow, and Tomorrow]]  
+### [[../../Tomorrow, and Tomorrow, and Tomorrow|Tomorrow, and Tomorrow, and Tomorrow]]  
   
 Gabrielle Zevin 2022  
   
@@ -217,7 +217,7 @@ Robert Caro 2012
 The fourth volume of Caro’s epic chronicle of Lyndon Johnson’s life and times is a political biography elevated to the level of great literature. His L.B.J. is a figure of Shakespearean magnitude, whose sudden ascension from the abject humiliations of the vice presidency to the summit of political power is a turn of fortune worthy of a Greek myth. Caro makes you feel the shock of J.F.K.’s assassination, and brings you inside Johnson’s head on the blood-drenched day when his lifelong dream finally comes true. It’s an astonishing and unforgettable book. — Tom Perrotta, author of “The Leftovers”  
   
 ## 72  
-### [[../../../Secondhand Time|Secondhand Time]]  
+### [[../../Secondhand Time|Secondhand Time]]  
   
 Svetlana Alexievich; translated by Bela Shayevich 2016  
   
@@ -252,7 +252,7 @@ Sigrid Nunez 2018
 After suffering the loss of an old friend and adopting his Great Dane, the book’s heroine muses on death, friendship, and the gifts and burdens of a literary life. Out of these fragments a philosophy of grief springs like a rabbit out of a hat; Nunez is a magician. — Ada Calhoun, author of “Also a Poet: Frank O’Hara, My Father, and Me”  
   
 ## 67  
-### [[../../../Far From the Tree|Far From the Tree]]  
+### [[../../Far From the Tree|Far From the Tree]]  
   
 Andrew Solomon 2012  
   
@@ -273,7 +273,7 @@ Philip Roth 2004
 What if, in the 1940 presidential election, Charles Lindbergh — aviation hero, America-firster and Nazi sympathizer — had defeated Franklin Roosevelt? Specifically, what would have happened to Philip Roth, the younger son of a middle-class Jewish family in Newark, N.J.? From those counterfactual questions, the adult Roth spun a tour de force of memory and history. Ever since the 2016 election his imaginary American past has pulled closer and closer to present-day reality. — A.O. Scott  
   
 ## 64  
-### [[../../../The Great Believers|The Great Believers]]  
+### [[../../The Great Believers|The Great Believers]]  
   
 Rebecca Makkai 2018  
   
@@ -315,7 +315,7 @@ Jeffrey Eugenides 2002
 Years before pronouns became the stuff of dinner-table debates and email signatures, “Middlesex” offered the singular gift of an intersex hero — “sing now, O Muse, of the recessive mutation on my fifth chromosome!” — whose otherwise fairly ordinary Midwestern life becomes a radiant lens on recent history, from the burning of Smyrna to the plush suburbia of midcentury Grosse Pointe, Mich. When the teenage Calliope, born to doting Greek American parents, learns that she is not in fact a budding young lesbian but biologically male, it’s less science than assiduously buried family secrets that tell the improbable, remarkable tale.  
   
 ## 58  
-### [[../../../Stay True|Stay True]]  
+### [[../../Stay True|Stay True]]  
   
 Hua Hsu 2022  
   
@@ -364,14 +364,14 @@ Denis Johnson 2011
 Call it a backwoods tragedy, stripped to the bone, or a spare requiem for the American West: Johnson’s lean but potent novella carves its narrative from the forests and dust-bowl valleys of Spokane in the early decades of the 20th century, following a day laborer named Robert Grainier as he processes the sudden loss of his young family and bears witness to the real-time formation of a raw, insatiable nation.  
   
 ## 51  
-### [[../../../Life After Life|Life After Life]]  
+### [[../../Life After Life|Life After Life]]  
   
 Kate Atkinson 2013  
   
 Can we get life “right”? Are there choices that would lead, finally, to justice or happiness or save us from pain? Atkinson wrestles with these questions in her brilliant “Life After Life” — a historical novel, a speculative novel, a tale of time travel, a moving portrait of life before, during and in the aftermath of war. It gobbles up genres and blends them together until they become a single, seamless work of art. I love this goddamn book. — Victor LaValle, author of “Lone Women”  
   
 ## 50  
-### [[../../../Trust|Trust]]  
+### [[../../Trust|Trust]]  
   
 Hernan Diaz 2022  
   
@@ -420,21 +420,21 @@ N.K. Jemisin 2015
 “The Fifth Season” weaves its story in polyphonic voice, utilizing a clever story structure to move deftly through generational time. Jemisin delivers this bit of high craft in a fresh, unstuffy voice — something rare in high fantasy, which can take its Tolkien roots too seriously. From its heartbreaking opening (a mother’s murdered child) to its shattering conclusion, Jemisin shows the power of what good fantasy fiction can do. “The Fifth Season” explores loss, grief and personhood on an intimate level. But it also takes on themes of discrimination, human breeding and ecological collapse with an unflinching eye and a particular nuance. Jemisin weaves a world both horrifyingly familiar and unsettlingly alien. — Rebecca Roanhorse, author of “Mirrored Heavens”  
   
 ## 43  
-### [[../../../Postwar|Postwar]]   
+### [[../../Postwar|Postwar]]   
   
 Tony Judt 2005  
   
 By the time this book was published in 2005, there had already been innumerable volumes covering Europe’s history since the end of World War II. Yet none of them were quite like Judt’s: commanding and capacious, yet also attentive to those stubborn details that are so resistant to abstract theories and seductive myths. The writing, like the thinking, is clear, direct and vivid. And even as Judt was ruthless when reflecting on Europe’s past, he maintained a sense of contingency throughout, never succumbing to the comfortable certainty of despair. — Jennifer Szalai  
   
 ## 42  
-### [[../../../A Brief History of Seven Killings|A Brief History of Seven Killings]]  
+### [[../../A Brief History of Seven Killings|A Brief History of Seven Killings]]  
   
 Marlon James 2014  
   
 “Brief”? For a work spanning nearly 700 pages, that word is, at best, a winky misdirection. To skip even a paragraph, though, would be to forgo the vertiginous pleasures of James’s semi-historical novel, in which the attempted assassination of an unnamed reggae superstar who strongly resembles Bob Marley collides with C.I.A. conspiracy, international drug cartels and the vibrant, violent Technicolor of post-independence Jamaica.  
   
 ## 41  
-### [[../../../Small Things Like These|Small Things Like These]]  
+### [[../../Small Things Like These|Small Things Like These]]  
   
 Claire Keegan 2021  
   
@@ -448,7 +448,7 @@ Helen Macdonald 2015
 I read “H Is for Hawk” when I was writing my own memoir, and it awakened me to the power of the genre. It is a book supposedly about training a hawk named Mabel but really about wonder and loss, discovery and death. We discover a thing, then we lose it. The discovering and the losing are two halves of the same whole. Macdonald knows this and she shows us, weaving the loss of her father through the partial taming (and taming is always partial) of this hawk. — Tara Westover, author of “Educated”  
   
 ## 39  
-### [[../../../A Visit From the Goon Squad|A Visit From the Goon Squad]]  
+### [[../../A Visit From the Goon Squad|A Visit From the Goon Squad]]  
   
 Jennifer Egan 2010  
   
@@ -475,7 +475,7 @@ Ta-Nehisi Coates 2015
   
 Framed, like James Baldwin’s “The Fire Next Time,” as both instruction and warning to a young relative on “how one should live within a Black body,” Coates’s book-length letter to his 15-year-old son lands like forked lightning. In pages suffused with both fury and tenderness, his memoir-manifesto delineates a world in which the political remains mortally, maddeningly inseparable from the personal.  
   
-[[../../../在希望與心死之間──2015美國國家書卷獎得主，當代美國黑人文學最重要的論述《在世界與我之間》|在希望與心死之間──2015美國國家書卷獎得主，當代美國黑人文學最重要的論述《在世界與我之間》]]  
+[[../../在希望與心死之間──2015美國國家書卷獎得主，當代美國黑人文學最重要的論述《在世界與我之間》|在希望與心死之間──2015美國國家書卷獎得主，當代美國黑人文學最重要的論述《在世界與我之間》]]  
   
 ## 35  
 ### Fun Home  
@@ -485,14 +485,14 @@ Alison Bechdel 2006
 “A queer business.” That’s how Bechdel describes her closeted father’s death after he steps in the path of a Sunbeam Bread truck. The phrase also applies to her family’s funeral home concern; their own Victorian, Addams-like dwelling; and this marvelous graphic memoir of growing up gay and O.C.D.-afflicted (which generated a remarkable Broadway musical). You forget, returning to “Fun Home,” that the only color used is a dreamy gray-blue; that’s how vivid and particular the story is. Even the corpses crackle with life. — Alexandra Jacobs  
   
 ## 34  
-### [[../../../Citizen|Citizen]]  
+### [[../../Citizen|Citizen]]  
   
 Claudia Rankine 2014  
   
 “I, too, am America,” Langston Hughes wrote, and with “Citizen” Rankine stakes the same claim, as ambivalently and as defiantly as Hughes did. This collection — which appeared two years after Trayvon Martin’s death, and pointedly displays a hoodie on its cover like the one Martin wore when he was killed — lays out a damning indictment of American racism through a mix of free verse, essayistic prose poems and visual art; a National Book Critics Circle Award finalist in both poetry and criticism (the first book ever nominated in two categories), it took home the prize in poetry in a deserving recognition of Rankine’s subtle, supple literary gifts.  
   
 ## 33  
-### [[../../../Salvage the Bones|Salvage the Bones]]  
+### [[../../Salvage the Bones|Salvage the Bones]]  
   
 Jesmyn Ward 2011  
   
@@ -519,7 +519,7 @@ Jesmyn Ward 2017
   
 Road trips aren’t supposed to be like this: an addled addict mother dragging her 13-year-old son and his toddler sister across Mississippi to retrieve their father from prison, and feeding her worst habits along the way. Grief and generational trauma haunt the novel, as do actual ghosts, the unrestful spirits of men badly done by. But Ward’s unflinching prose is not a punishment; it loops and soars in bruising, beautiful arias.  
   
-[[../../../吳明益／不能呼吸，豈能歌唱？──關於潔思敏．沃德《黑鳥不哭》|吳明益／不能呼吸，豈能歌唱？──關於潔思敏．沃德《黑鳥不哭》]]  
+[[../../吳明益／不能呼吸，豈能歌唱？──關於潔思敏．沃德《黑鳥不哭》|吳明益／不能呼吸，豈能歌唱？──關於潔思敏．沃德《黑鳥不哭》]]  
   
 ## 29  
 ### The Last Samurai  
@@ -557,7 +557,7 @@ Adrian Nicole LeBlanc 2003
 More than 20 years after it was published, “Random Family” still remains unmatched in depth and power and grace. A profound, achingly beautiful work of narrative nonfiction, it is the standard-bearer of embedded reportage. LeBlanc gave her all to this book, writing about people experiencing deep hardship in their full, lush humanity. — Matthew Desmond, author of “Evicted: Poverty and Profit in the American City”  
   
 ## 24  
-### [[../../../The Overstory|The Overstory]]  
+### [[../../The Overstory|The Overstory]]  
   
 Richard Powers 2018  
   
@@ -592,21 +592,21 @@ Percival Everett 2001
 More than 20 years before it was made into an Oscar-winning movie, Everett’s deft literary satire imagined a world in which a cerebral novelist and professor named Thelonious “Monk” Ellison finds mainstream success only when he deigns to produce the most broad and ghettoized portrayal of Black pain. If only the ensuing decades had made the whole concept feel laughably obsolete; alas, all the 2023 screen adaptation merited was a title change: “American Fiction.”  
   
 ## 19  
-### [[../../../Say Nothing|Say Nothing]]  
+### [[../../Say Nothing|Say Nothing]]  
   
 Patrick Radden Keefe 2019  
   
 “Say Nothing” is an amazing accomplishment — a definitive, impeccably researched history of the Troubles, a grim, gripping thriller, an illuminating portrait of extraordinary people who did unspeakable things, driven by what they saw as the justness of their cause. Those of us who lived in the U.K. in the last three decades of the 20th century know the names and the events — we were all affected, in some way or another, by the bombs, the bomb threats, the assassinations and attempted assassinations. What we didn’t know was what it felt like to be on the inside of a particularly bleak period of history. This book is, I think, unquestionably one of the greatest literary achievements of the 21st century. — Nick Hornby, author of “High Fidelity”  
   
 ## 18  
-### [[../../../Lincoln in the Bardo|Lincoln in the Bardo]]  
+### [[../../Lincoln in the Bardo|Lincoln in the Bardo]]  
   
 George Saunders 2017  
   
 A father mourns his young son, dead of typhoid; a president mourns his country riven by civil war. In Saunders’s indelible portrait, set in a graveyard populated by garrulous spirits, these images collide and coalesce, transforming Lincoln’s private grief — his 11-year-old boy, Willie, died in the White House in 1862 — into a nation’s, a polyphony of voices and stories. The only novel to date by a writer revered for his satirical short stories, this book marks less a change of course than a foregrounding of what has distinguished his work all along — a generosity of spirit, an ear acutely tuned to human suffering.  
   
 ## 17  
-### [[../../../The Sellout|The Sellout]]  
+### [[../../The Sellout|The Sellout]]  
   
 Paul Beatty 2015  
   
@@ -620,7 +620,7 @@ Michael Chabon 2000
 Set during the first heyday of the American comic book industry, from the late 1930s to the early 1950s, Chabon’s exuberant epic centers on the Brooklyn-raised Sammy Clay and his Czech immigrant cousin, Joe Kavalier, who together pour their hopes and fears into a successful comic series even as life delivers them some nearly unbearable tragedies. Besotted with language and brimming with pop culture, political relevance and bravura storytelling, the novel won the Pulitzer Prize for fiction in 2001.  
   
 ## 15  
-### [[../../../Pachinko|Pachinko]]  
+### [[../../Pachinko|Pachinko]]  
   
 Min Jin Lee 2017  
   
@@ -634,7 +634,7 @@ Rachel Cusk 2015
 This novel is the first and best in Cusk’s philosophical, unsettling and semi-autobiographical Outline trilogy, which also includes the novels “Transit” and “Kudos.” In this one an English writer flies to Athens to teach at a workshop. Along the way, and once there, she falls into intense and resonant conversations about art, intimacy, life and love. Cusk deals, brilliantly, in uncomfortable truths. — Dwight Garner  
      
 ## 13  
-### [[../../../The Road|The Road]]  
+### [[../../The Road|The Road]]  
   
 Cormac McCarthy 2006  
   
@@ -648,7 +648,7 @@ Joan Didion 2005
 Having for decades cast a famously cool and implacable eye on everything from the Manson family to El Salvador, Didion suddenly found herself in a hellscape much closer to home: the abrupt death of her partner in life and art, John Gregory Dunne, even as their only child lay unconscious in a nearby hospital room. (That daughter, Quintana Roo, would be gone soon too, though her passing does not fall within these pages.) Dismantled by shock and grief, the patron saint of ruthless clarity did the only thing she could do: She wrote her way through it.  
   
 ## 11  
-### [[../../../The Brief Wondrous Life of Oscar Wao|The Brief Wondrous Life of Oscar Wao]]  
+### [[../../The Brief Wondrous Life of Oscar Wao|The Brief Wondrous Life of Oscar Wao]]  
   
 Junot Díaz 2007  
   
@@ -662,7 +662,7 @@ Marilynne Robinson 2004
 The first installment in what is so far a tetralogy — followed by “Home,” “Lila” and “Jack” — “Gilead” takes its title from the fictional town in Iowa where the Boughton and Ames families reside. And also from the Book of Jeremiah, which names a place where healing may or may not be found: “Is there no balm in Gilead?” For John Ames, who narrates this novel, the answer seems to be yes. An elderly Congregationalist minister who has recently become a husband and father, he finds fulfillment in both vocation and family. Robinson allows him, and us, the full measure of his hard-earned joy, but she also has an acute sense of the reality of sin. If this book is a celebration of the quiet decency of small-town life (and mainline Protestantism) in the 1950s, it is equally an unsparing critique of how the moral fervor and religious vision of the abolitionist movement curdled, a century later, into complacency. — A.O. Scott  
   
 ## 9  
-### [[../../../Never Let Me Go|Never Let Me Go]]  
+### [[../../Never Let Me Go|Never Let Me Go]]  
   
 Kazuo Ishiguro 2005  
   
@@ -684,7 +684,7 @@ Colson Whitehead 2016
   
 I could hardly make it through this plaintively brutal novel. Neither could I put it down. “The Underground Railroad” bleeds truth in a way that few treatments of slavery can, fiction or nonfiction. Whitehead’s portrayals of human motivation, interaction and emotional range astonish in their complexity. Here brutality is bone deep and vulnerability is ocean wide, yet bravery and hope shine through in Cora’s insistence on escape. I rooted for Cora in a way that I never had for a character, my heart breaking with each violation of her spirit. Just as Cora inherits her mother’s symbolic victory garden, we readers of Whitehead’s imaginary world can inherit Cora’s courage. — Tiya Miles, author of “All That She Carried: The Journey of Ashley’s Sack, a Black Family Keepsake”  
   
-[[../../../一條不是鐵路的鐵路，通往不是自由的自由──2016美國國家書卷獎得主《地下鐵道》|一條不是鐵路的鐵路，通往不是自由的自由──2016美國國家書卷獎得主《地下鐵道》]]  
+[[../../一條不是鐵路的鐵路，通往不是自由的自由──2016美國國家書卷獎得主《地下鐵道》|一條不是鐵路的鐵路，通往不是自由的自由──2016美國國家書卷獎得主《地下鐵道》]]  
   
 ## 6  
 ### 2666  
@@ -694,7 +694,7 @@ Roberto Bolaño; translated by Natasha Wimmer 2008
 Bolaño’s feverish, vertiginous novel opens with an epigraph from Baudelaire — “An oasis of horror in a desert of boredom” — and then proceeds, over the course of some 900 pages, to call into being an entire world governed in equal parts by boredom and the deepest horror. The book (published posthumously) is divided into five loosely conjoined sections, following characters who are drawn for varying reasons to the fictional Mexican city of Santa Teresa: a group of academics obsessed with an obscure novelist, a doddering philosophy professor, a lovelorn police officer and an American reporter investigating the serial murders of women in a case with echoes of the real-life femicide that has plagued Ciudad Juárez, Mexico. In Natasha Wimmer’s spotless translation, Bolaño’s novel is profound, mysterious, teeming and giddy: Reading it, you go from feeling like a tornado watcher to feeling swept up in the vortex, and finally suspect you might be the tornado yourself.  
   
 ## 5  
-### [[../../../The Corrections|The Corrections]]  
+### [[../../The Corrections|The Corrections]]  
   
 Jonathan Franzen 2001  
   
@@ -708,7 +708,7 @@ Edward P. Jones 2003
 This novel, about a Black farmer, bootmaker and former slave named Henry Townsend, is a humane epic and a staggering feat of wily American storytelling. Set in Virginia during the antebellum era, the milieu — politics, moods, manners — is starkly and intensely realized. When Henry becomes the proprietor of a plantation, with slaves of his own, the moral sands shift under the reader’s feet. Grief piles upon grief. But there is a glowing humanity at work here as well. Moments of humor and unlikely good will bubble up organically. Jones is a confident storyteller, and in “The Known World” that confidence casts a spell. This is a large novel that moves nimbly, and stays with the reader for a long time. — Dwight Garner  
   
 ## 3  
-### [[../../../Wolf Hall|Wolf Hall]]  
+### [[../../Wolf Hall|Wolf Hall]]  
   
 Hilary Mantel 2009  
   
