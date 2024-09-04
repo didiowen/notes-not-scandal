@@ -1,6 +1,6 @@
 ---
 title: 臺灣男子葉石濤的浪漫與鄉愁
-created: 2024-09-02T09:40:32
+created: 2024-09-02
 tags:
   - reading
   - publish
