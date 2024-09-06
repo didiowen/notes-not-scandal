@@ -3,7 +3,7 @@ title: Dyslipidemia
 date: 2024-03-11
 tags:
   - medicine
-  - publish
+  - share
 share: true
 categories:
   - medicine
