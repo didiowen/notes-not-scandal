@@ -3,7 +3,7 @@ title: The Rachel Incident
 tags:
   - reading/Audible
   - LGBT
-  - publish
+  - share
 own: borrowed
 status: finished
 rating: 4
