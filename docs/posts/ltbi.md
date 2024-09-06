@@ -3,7 +3,7 @@ title: Latent tuberculosis infection
 date: 2024-08-02
 tags:
   - medicine/TB
-  - publish
+  - share
 share: true
 categories:
   - medicine

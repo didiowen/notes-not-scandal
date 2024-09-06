@@ -5,7 +5,7 @@ share_link: https://share.note.sx/c6p0faif#f93CrfBPLF+4EvE8CV6iz8x1ENtWqPZt7774F
 share_updated: 2024-08-14T17:39:50+08:00
 tags:
   - medicine
-  - publish
+  - share
 categories:
   - medicine
 share: true

@@ -3,7 +3,7 @@ title: Linezolid健保給付條件
 date: 2024-05-22
 tags:
   - medicine/antibiotics
-  - publish
+  - share
 share: true
 categories:
   - medicine

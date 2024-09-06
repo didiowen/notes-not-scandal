@@ -5,7 +5,7 @@ status: finished
 tags:
   - teaching
   - medicine/sepsis
-  - publish
+  - share
 share_link: https://share.note.sx/ellb9wv1#smrKktNhF+EF6R9HzY+cg8EE5vkVcklMuIcE/uKi9aY
 share_updated: 2024-08-14T15:38:40+08:00
 share: true

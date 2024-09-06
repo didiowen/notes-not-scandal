@@ -3,7 +3,7 @@ title: Infections in Immunocompromised Hosts
 date: 2024-08-13
 tags:
   - medicine/ID
-  - publish
+  - share
 categories:
   - medicine
 share: true

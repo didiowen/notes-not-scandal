@@ -6,7 +6,7 @@ date:
   finished: 2024-08-30
 tags:
   - reading/Audible
-  - publish
+  - share
 own: borrowed
 status: finished
 rating: 5
