@@ -7,8 +7,6 @@ tags:
 share: true
 categories:
   - medicine
-links:
-  - https: //www.nhi.gov.tw/ch/np-2505-1.html
 ---
 # B肝藥物給付條件  
   
