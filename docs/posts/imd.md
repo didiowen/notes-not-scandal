@@ -2,7 +2,7 @@
 title: Invasive Mold Disease
 date: 2024-08-22
 tags:
-  - medicine/fungi
+  - medicine/fungus
   - share
 share: true
 categories:
