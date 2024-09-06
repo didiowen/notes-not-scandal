@@ -20,10 +20,12 @@ Source: [@Donnell2020RevisionUpdate]
 <!-- more -->  
   
 ## Proven  
+  
 - Microscopic (Sterile Material): Histopathologic, cytopathologic, or direct microscopic examinationb of a specimen obtained by needle aspiration or biopsy in which hyphae or melanized yeast-like forms are seen  accompanied by evidence of associated tissue damage  
 - Culture (Sterile Material): Recovery of a hyaline or pigmented mold by culture of a specimen obtained by a sterile procedure from a normally sterile and clinically or radiologically abnormal site consistent with an infectious disease process, excluding BAL fluid, a paranasal or mastoid sinus cavity specimen, and urine  
 - Blood: Blood culture that yields a moldc (eg, Fusarium species) in the context of a compatible infectious disease process  
 - Tissue Nucleic Acid Diagnosis: Amplification of fungal DNA by PCR combined with DNA sequencing when molds are seen in formalin-fixed paraffin-embedded tissue  
+  
 ## Probable  
 ### Host factors  
 - Recent history of neutropenia (<0.5 × 10<sup>9</sup> neutrophils/L [<500 neutrophils/mm<sup>3</sup>] for >10 days) temporally related to the onset of invasive fungal disease  
@@ -86,7 +88,9 @@ Source: [@Donnell2020RevisionUpdate]
 		- BAL fluid 2 or more duplicate PCR tests positive (or single with Ct < 36) [^b]  
 		- At least 1 PCR test positive in plasma, serum, or whole blood and 1 PCR test positive in BAL fluid   
 - *Aspergillus* species recovered by culture from **sputum, BAL, bronchial brush, or aspirate** (+  cytology or direct microscopy for ICU patients)  
+  
 ## Possible  
+  
 - Host factors + clinical features (for immunocompromised patients only)  
   
 [^a]: Hematologic malignancy refers to active malignancy, in receipt of treatment for this malignancy, and those in remission in the recent past. These patients would comprise largely acute leukemias and lymphomas, as well as multiple myeloma, whereas patients with aplastic anemia represent a more heterogeneous group of individuals and are not included.  

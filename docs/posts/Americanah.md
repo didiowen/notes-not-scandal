@@ -1,7 +1,8 @@
 ---
 title: Americanah
 date:
-  created: 2024-07-17
+  created: 2024-07-17T18:06:23
+  updated: 2024-09-06T12:24:34
   finished: 2024-08-30
 tags:
   - reading/Audible
