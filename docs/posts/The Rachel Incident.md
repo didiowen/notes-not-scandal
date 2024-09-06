@@ -9,7 +9,8 @@ status: finished
 rating: 4
 date:
   finished: 2024-07-29
-  created: 2024-07-17
+  created: 2024-07-17T20:53:58
+  updated: 2024-09-06T12:25:18
 categories:
   - reading
 share: true
