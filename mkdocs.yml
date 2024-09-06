@@ -75,7 +75,7 @@ plugins:
       blog_dir: .
       blog_toc: true
       pagination: false
-      pagination_per_page: 3
+      pagination_per_page: 2
       post_excerpt_separator: <!-- more -->
       post_url_format: "{categories}/{slug}"
       post_url_max_categories: 1
