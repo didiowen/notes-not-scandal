@@ -9,10 +9,10 @@ categories:
   - medicine
   - abx
 slug: linezolid
-links:
-  - https: //www.nhi.gov.tw/ch/np-2505-1.html
 ---
 # Linezolid健保給付條件  
+  
+[Source](https: //www.nhi.gov.tw/ch/np-2505-1.html)  
   
 108/4/1  
 1. 限下列條件之一使用：  
