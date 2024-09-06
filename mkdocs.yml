@@ -20,8 +20,8 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: light green
-      accent: indigo
+      primary: green
+      accent: amber
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -29,7 +29,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
+      primary: light green
       accent: lime
       toggle:
         icon: material/toggle-switch
