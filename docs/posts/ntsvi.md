@@ -3,7 +3,7 @@ title: Non-typhoid Salmonella Vascular Infection
 date: 2024-08-07
 tags:
   - medicine/Salmonella
-  - publish
+  - share
 share: true
 categories:
   - medicine
