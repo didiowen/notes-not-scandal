@@ -78,7 +78,7 @@ Source: [@Donnell2020RevisionUpdate]
 #### Aspergillosis only  
 - Galactomannan antigen detected in plasma, serum, BAL, or CSF  
 	- Any 1 of the following:  
-		- Single serum or plasma: ≥1.0 ==(0.5 for ICU or COVID patients)== [@Bassett2021EORTCMSGERC, @Koehler2021Definingmanaging]  
+		- Single serum or plasma: ≥1.0 ==(0.5 for ICU or COVID patients)== [@Bassett2021EORTCMSGERC] [@Koehler2021Definingmanaging]  
 		- BAL fluid: ≥1.0 ==(0.8 for ICU patients)==  
 		- Single serum or plasma: ≥0.7 **and** BAL fluid ≥0.8  
 		- CSF: ≥1.0  
@@ -95,3 +95,11 @@ Source: [@Donnell2020RevisionUpdate]
   
 [^a]: Hematologic malignancy refers to active malignancy, in receipt of treatment for this malignancy, and those in remission in the recent past. These patients would comprise largely acute leukemias and lymphomas, as well as multiple myeloma, whereas patients with aplastic anemia represent a more heterogeneous group of individuals and are not included.  
 [^b]: For CAPA: In case of patients with chronic obstructive pulmonary disease or chronic respiratory disease, the PCR or culture results should be confirmed by galactomannan testing to rule out colonisation or chronic aspergillosis.  
+  
+## References  
+  
+Bassetti M, Azoulay E, Kullberg BJ, Ruhnke M, Shoham S, Vazquez J, _et al._ (2021) EORTC/MSGERC Definitions of Invasive Fungal Diseases: Summary of Activities of the Intensive Care Unit Working Group, _Clinical Infectious Diseases_, 72(Supplement_2), pp. S121–S127.  
+  
+Donnelly JP, Chen SC, Kauffman CA, Steinbach WJ, Baddley JW, Verweij PE, _et al._ (2020) Revision and Update of the Consensus Definitions of Invasive Fungal Disease From the European Organization for Research and Treatment of Cancer and the Mycoses Study Group Education and Research Consortium, _Clinical Infectious Diseases_, 71(6), pp. 1367–1376.  
+  
+Koehler P, Bassetti M, Chakrabarti A, Chen SCA, Colombo AL, Hoenigl M, _et al._ (2021) Defining and managing COVID-19-associated pulmonary aspergillosis: the 2020 ECMM/ISHAM consensus criteria for research and clinical guidance, _The Lancet Infectious Diseases_, 21(6), pp. e149–e162.
