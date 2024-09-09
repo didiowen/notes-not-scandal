@@ -2,7 +2,6 @@
 title: Treatment of CRAB
 date:
   created: 2024-09-09T11:53:35
-  updated: 2024-09-09T11:54:04
 tags:
   - medicine/antibiotics
   - share
