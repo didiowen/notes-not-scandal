@@ -7,7 +7,9 @@ tags:
   - medicine/antibiotics
   - share
 share: true
-categories: medicine, abx
+categories:
+  - medicine
+  - abx
 slug: crab
 ---
 # Treatment of CRAB  
