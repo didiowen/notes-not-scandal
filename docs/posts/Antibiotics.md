@@ -75,7 +75,7 @@ mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。
 | Moxifloxacin          | 0.33-1.05                                        |  
 | Vancomycin            | 0.05-0.67                                        |  
 | Linezolid             | 0.2-0.51                                         |  
-| Daptomycin            | **1.17**                                         |  
+| Daptomycin            | 1.17                                             |  
 | Clindamycin           | 0.21-0.45                                        |  
 | Cefazolin             | 0.179                                            |  
 | Ceftriaxone           | 0.07-0.17                                        |  
