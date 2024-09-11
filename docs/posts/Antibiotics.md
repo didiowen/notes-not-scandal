@@ -64,7 +64,23 @@ mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。
   
 - 過BBB: penicillin, ampicillin, oxacillin, 3rd-4th cephalosporins, moxifloxacin, vancomycin, chloramphenicol, rifampin, imipenem, meropenem, trimethoprim-sulfamethoxazole  
 - Prostatitis/epididymo-orchitis: ceftriaxone, doxycycline, fluoroquinolones, trimethoprim-sulfamethoxazole  
-- Endophthalmitis: 3rd cepha, vancomycin  
+- Endophthalmitis: 3rd cepha, vancomycin, triazoles, L-AMB  
+- Intracellular bacteria: lipid soluble agents (e.g. macrolides, quinolones, rifampicin)  
+#### Bone penetration for selected antibiotics  
+  
+| Antibiotic            | Range of mean bone to serum concentration ratios |  
+|-----------------------|--------------------------------------------------|  
+| Levofloxacin          | 0.36-1.0                                         |  
+| Ciprofloxacin         | 0.27-1.2                                         |  
+| Moxifloxacin          | 0.33-1.05                                        |  
+| Vancomycin            | 0.05-0.67                                        |  
+| Linezolid             | 0.2-0.51                                         |  
+| Daptomycin            | **1.17**                                         |  
+| Clindamycin           | 0.21-0.45                                        |  
+| Cefazolin             | 0.179                                            |  
+| Ceftriaxone           | 0.07-0.17                                        |  
+| Cefuroxime            | 0.04-0.55                                        |  
+| Rifampin (rifampicin) | 0.08-0.57                                        |  
   
 ## 本院有的抗生素  
 ### Cephalosporins  
