@@ -109,10 +109,10 @@ mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。
 | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  
 | Amp-C β-lactamase GNB | cefepime, **carbapenems**, fluoroquinolones, tigecycline                                                                                                                   |  
 | ESBL                  | **carbapenems**, (ceftazidime, piperacillin/tazobactam, fluoroquinolone, trimethoprim-sulfamethoxazole, tigecycline, fosfomycin)                                           |  
-| MRSA                  | **vancomycin**, teicoplanin, daptomyxin, linezolid, tigecycline, minocycline, ceftaroline, (trimethoprim-sulfamethoxazole, clindamycin, doxycycline)                       |  
+| MRSA                  | **vancomycin**, teicoplanin, daptomyxin, linezolid, tigecycline, minocycline, ceftaroline, trimethoprim-sulfamethoxazole, clindamycin, doxycycline, fusidic acid, rifampin |  
 | PsA                   | pip/tazo, ceftazidime, cefoperazone, cefepime, ceftazidime/avibactam, meropenem, imipenem, doripenem, ciprofloxacin, levofloxacin, aminoglycosides, cefiderocol, aztreonam |  
 | MDRAB                 | carbapenem, **sulbactam**, colistin, tigecycline, minocycline, cefiderocol                                                                                                 |  
-| CRE                   | ceftazidime/avibactam, aminoglycosides, colistin, tigecycline, minocycline, cefidericol, aztreonam                                                                         |  
+| CRE                   | ceftazidime/avibactam, cefidericol, aminoglycosides, colistin, tigecycline, aztreonam, fosfomycin                                                                          |  
 | VRE                   | **linezolid**, daptomycin, tigecycline, fosfomycin                                                                                                                         |  
 | PRSP                  | ceftriaxone, vancomycin, teicoplanin, tigecycline                                                                                                                          |  
   
