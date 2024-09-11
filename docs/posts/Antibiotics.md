@@ -82,47 +82,8 @@ mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。
 | Cefuroxime            | 0.04-0.55                                        |  
 | Rifampin (rifampicin) | 0.08-0.57                                        |  
   
-## 本院有的抗生素  
-### Cephalosporins  
-第一代：Cefazolin, cephalexin (PO)  
-第二代：Cefuroxime (IV, PO)  
-第三代：Ceftriaxone, ceftazidime, cefoperazone/sulbactam, ceftazidime/avibactam, cefixime (PO)  
-第四代：Cefepime  
-第五代：Ceftaroline  
-### Penicillins  
-Penicillin G, penicillin benzathine (IM)  
-Oxacillin, dicloxacillin (PO)  
-Ampicillin, ampicillin/sulbactam  
-Amoxicillin, amoxicillin/clavulanic acid (PO)  
-Piperacillin, piperacillin/tazobactam  
-### Carbapenems  
-Ertapenem, imipenem/cilastatin, meropenem  
-### Aminoglycosides  
-Gentamicin, amikacin  
-### Fluoroquinolones  
-Moxifloxacin, ciprofloxacin, levofloxacin (IV, PO)  
-### Tetracyclines  
-Tetracycline (PO), doxycycline (PO), tigecycline, minocycline  
-### Macrolides  
-Azithromycin (PO), clarithromycin (PO), erythromycin  
-### Glycopeptides, lipoglycopeptides, daptomycin, oxazolidinones  
-Vancomycin, teicoplanin, daptomycin, linezolid (IV, PO)  
-### Other anti-bacterials  
-Clindamycin (PO)  
-Fosfomycin (IV, PO)  
-Trimethoprim-sulfamethoxazole (PO)  
-Colistin  
-Metronidazole (IV, PO)  
-Rifampin, isoniazid, ethambutol, pyrazinamide (PO)  
-### Anti-fungals  
-Fluconazole (IV, PO): 對*Aspergillus spp., Candida krusei*無效; *Candida glabrata, Candida tropicalis*也可能沒效  
-Voriconazole (IV, PO)  
-Isavuconazole  
-Anidulafungin  
-Amphotericin B liposome  
-  
 ## 抗菌範圍  
-![[../assets/7e8b9088434a32c9d865e91bb156fd55_MD5.jpeg|7e8b9088434a32c9d865e91bb156fd55_MD5.jpeg]]  
+![[../assets/7e8b9088434a32c9d865e91bb156fd55_MD5.jpeg|spectrum]]  
 [Source](http://charliekuo.com/?p=3114)  
   
 ### Anfi-fungals  
@@ -205,6 +166,45 @@ Amphotericin B liposome
 | Nitrofurantoin                                          | 大多數革蘭氏陰性桿菌和一些革蘭氏陽性菌引起的UTI；反復性膀胱炎的預防                                                                                                                                                                                                                                                                                                                                                                 | _E. coli_ (95%); _E. faecalis_ (99%)                                                                                                                                                                            |  
 | Fosfomycin                                              | 大多數革蘭氏陰性桿菌和一些革蘭氏陽性菌引起的尿路感染；反復性膀胱炎的預防                                                                                                                                                                                                                                                                                                                                                                | 被認為是低抗藥性                                                                                                                                                                                                        |  
 | Cefiderocol                                             | 由多重抗藥革蘭氏陰性菌引起的複雜性尿路感染和/或腎盂腎炎，包括產生ESBL或carbapenemase的細菌以及多重抗藥性*Pseudomonas aeruginosa, Acinetobacter baumannii, Stenotrophomonas maltophilia, Burkholderia cepacia complex*                                                                                                                                                                                                                          | 初步研究中顯示抗藥機率非常低                                                                                                                                                                                                  |  
+  
+## 本院有的抗生素  
+### Cephalosporins  
+第一代：Cefazolin, cephalexin (PO)  
+第二代：Cefuroxime (IV, PO)  
+第三代：Ceftriaxone, ceftazidime, cefoperazone/sulbactam, ceftazidime/avibactam, cefixime (PO)  
+第四代：Cefepime  
+第五代：Ceftaroline  
+### Penicillins  
+Penicillin G, penicillin benzathine (IM)  
+Oxacillin, dicloxacillin (PO)  
+Ampicillin, ampicillin/sulbactam  
+Amoxicillin, amoxicillin/clavulanic acid (PO)  
+Piperacillin, piperacillin/tazobactam  
+### Carbapenems  
+Ertapenem, imipenem/cilastatin, meropenem  
+### Aminoglycosides  
+Gentamicin, amikacin  
+### Fluoroquinolones  
+Moxifloxacin, ciprofloxacin, levofloxacin (IV, PO)  
+### Tetracyclines  
+Tetracycline (PO), doxycycline (PO), tigecycline, minocycline  
+### Macrolides  
+Azithromycin (PO), clarithromycin (PO), erythromycin  
+### Glycopeptides, lipoglycopeptides, daptomycin, oxazolidinones  
+Vancomycin, teicoplanin, daptomycin, linezolid (IV, PO)  
+### Other anti-bacterials  
+Clindamycin (PO)  
+Fosfomycin (IV, PO)  
+Trimethoprim-sulfamethoxazole (PO)  
+Colistin  
+Metronidazole (IV, PO)  
+Rifampin, isoniazid, ethambutol, pyrazinamide (PO)  
+### Anti-fungals  
+Fluconazole (IV, PO): 對*Aspergillus spp., Candida krusei*無效; *Candida glabrata, Candida tropicalis*也可能沒效  
+Voriconazole (IV, PO)  
+Isavuconazole  
+Anidulafungin  
+Amphotericin B liposome  
   
 ## 孕婦  
   
