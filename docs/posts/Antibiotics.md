@@ -115,7 +115,8 @@ mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。
 | CRE                   | ceftazidime/avibactam, aminoglycosides, colistin, tigecycline, minocycline, cefidericol, aztreonam                                                                         |  
 | VRE                   | **linezolid**, daptomycin, tigecycline, fosfomycin                                                                                                                         |  
 | PRSP                  | ceftriaxone, vancomycin, teicoplanin, tigecycline                                                                                                                          |  
-![[../assets/24eb7434efb4ee8af42bd23d8cd5c0d2_MD5.jpeg|24eb7434efb4ee8af42bd23d8cd5c0d2_MD5.jpeg]]  
+  
+![[../assets/24eb7434efb4ee8af42bd23d8cd5c0d2_MD5.jpeg|CRGN]]  
 ### 特殊細菌  
 - Enterococcus: **ampicillin**; cephalosporins沒有效  
 - Listeria monocytogenes: **ampicillin**; linezolid, trimethoprim-sulfamethoxazole, penicillin, gentamicin  
