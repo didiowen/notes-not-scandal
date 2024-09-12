@@ -111,7 +111,7 @@ mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。
 | ESBL                  | **carbapenems**, (ceftazidime, piperacillin/tazobactam, fluoroquinolone, trimethoprim-sulfamethoxazole, tigecycline, fosfomycin)                                           |  
 | MRSA                  | **vancomycin**, teicoplanin, daptomyxin, linezolid, tigecycline, minocycline, ceftaroline, trimethoprim-sulfamethoxazole, clindamycin, doxycycline, fusidic acid, rifampin |  
 | PsA                   | pip/tazo, ceftazidime, cefoperazone, cefepime, ceftazidime/avibactam, meropenem, imipenem, doripenem, ciprofloxacin, levofloxacin, aminoglycosides, cefiderocol, aztreonam |  
-| MDRAB                 | carbapenem, **sulbactam**, colistin, tigecycline, minocycline, cefiderocol                                                                                                 |  
+| MDRAB                 | carbapenem, **sulbactam**, minocycline, cefiderocol, tigecycline, colistin                                                                                                 |  
 | CRE                   | ceftazidime/avibactam, cefidericol, aminoglycosides, colistin, tigecycline, aztreonam, fosfomycin                                                                          |  
 | VRE                   | **linezolid**, daptomycin, tigecycline, fosfomycin                                                                                                                         |  
 | PRSP                  | ceftriaxone, vancomycin, teicoplanin, tigecycline                                                                                                                          |  
@@ -126,7 +126,7 @@ mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。
 - Neisseria meningitides: **penicillin**; ceftriaxone  
 - Salmonella spp.: **ceftriaxone**, fluoroquinolone  
 - Vibrio: tetracyclines, fluoroquinolone, trimethoprim-sulfamethoxazole  
-- Stenotrophomonas maltophila: **trimethoprim-sulfamethoxazole**; levofloxacin, minocycline, colistin  
+- Stenotrophomonas maltophila: **trimethoprim-sulfamethoxazole**; levofloxacin, minocycline, colistin, cefiderocol  
 - Burkholderia pseudomallei: ceftazidime, meropenem, imipenem  
 - Legionella: azithromycin or quinolone  
 - Treponema pallidum: penicillin; ceftriaxone, doxycycline  
