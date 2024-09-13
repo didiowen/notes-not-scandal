@@ -37,7 +37,7 @@ Source: [@Donnell2020RevisionUpdate]
 - Treatment with recognized B-cell immunosuppressants, such as Bruton’s tyrosine kinase inhibitors, eg, ibrutinib  
 - Inherited severe immunodeficiency (such as chronic granulomatous disease, STAT 3 deficiency, or severe combined immunodeficiency)  
 - Acute graft-versus-host disease grade III or IV involving the gut, lungs, or liver that is refractory to first-line treatment with steroids  
-#### ICU patients  
+#### ICU patients [@Bassett2021EORTCMSGERC]  
 - Glucocorticoid treatment with prednisone equivalent of 20 mg or more per day  
 - Qualitative or quantitative neutrophil abnormality (inherited neutrophil deficiency, absolute neutrophil count of ≤500 cells/mm<sup>3</sup>)  
 - Chronic respiratory airway abnormality (chronic obstructive lung disease, bronchiectasis)  
