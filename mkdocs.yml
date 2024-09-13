@@ -5,6 +5,7 @@ site_author: YW Chen
 
 theme:
     name: 'material'
+    logo: assets/virus.png
 #    custom_dir: overrides
     features:
         - navigation.tabs # top-level sections are rendered in a menu layer below the header for viewports above 1220px, but remain as-is on mobile
