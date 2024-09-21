@@ -8,7 +8,7 @@ share: true
 categories:
   - medicine
   - tb
-slug: ltbi
+aliases: ltbi
 ---
 # Latent tuberculosis infection  
 source: Pocket Medicine, 2022; 台灣肺結核診治指引  
