@@ -9,7 +9,7 @@ share: true
 categories:
   - medicine
   - abx
-slug: mrsa
+aliases: mrsa
 ---
 # Recommendations for the Treatment of Methicillin-Resistant _Staphylococcus aureus_ (MRSA)  
   

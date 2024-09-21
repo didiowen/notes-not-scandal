@@ -2,7 +2,6 @@
 fileClass: share
 date: 2024-08-30
 share: true
-hide: footer
 path: docs
 bib: "[[library.bib]]"
 csl: "[[harvard-imperial.csl]]"

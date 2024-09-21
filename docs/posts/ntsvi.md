@@ -7,7 +7,7 @@ tags:
 share: true
 categories:
   - medicine
-slug: ntsvi
+aliases: ntsvi
 ---
 # Non-typhoid Salmonella Vascular Infection  
 ## Chen-NTSVI score [@Chen2012simplescoring]  
