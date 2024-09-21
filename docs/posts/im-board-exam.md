@@ -9,7 +9,7 @@ tags:
 share: true
 categories:
   - medicine
-slug: im-board-exam
+aliases: im-board-exam
 ---
 # 內專考古題感染科試題  
   
