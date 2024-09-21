@@ -8,7 +8,7 @@ share: true
 categories:
   - medicine
   - abx
-slug: improve-abx
+aliases: improve-abx
 ---
 # Key Opportunities to Improve Antibiotic Use  
   
