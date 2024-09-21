@@ -11,7 +11,7 @@ share_updated: 2024-08-14T17:41:28+08:00
 share: true
 categories:
   - medicine
-slug: bacteremia-ie
+aliases: bacteremia-ie
 ---
 source: Pocket Medicine, 2022  
 # 菌血症  
