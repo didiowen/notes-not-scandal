@@ -11,7 +11,7 @@ share_updated: 2024-08-14T16:03:50+08:00
 share: true
 categories:
   - medicine
-slug: ssti
+aliases: ssti
 ---
 # Skin and soft tissue infection  
 source: Pocket Medicine, 2022  
