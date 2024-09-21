@@ -8,7 +8,7 @@ share: true
 categories:
   - medicine
   - abx
-slug: crab
+aliases: crab
 ---
 # Treatment of CRAB  
   
