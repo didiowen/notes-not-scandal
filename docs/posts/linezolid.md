@@ -8,7 +8,7 @@ share: true
 categories:
   - medicine
   - abx
-slug: linezolid
+aliases: linezolid
 ---
 # Linezolid健保給付條件  
 [Source](https: //www.nhi.gov.tw/ch/np-2505-1.html)  
