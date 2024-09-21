@@ -8,7 +8,7 @@ share: true
 categories:
   - medicine
   - hiv
-slug: prep
+aliases: prep
 ---
 # Pre-exposure Prevention  
   
