@@ -7,7 +7,7 @@ tags:
 share: true
 categories:
   - medicine
-slug: imd
+aliases: imd
 ---
 # Invasive Mold Disease  
   
