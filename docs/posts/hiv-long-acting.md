@@ -8,7 +8,7 @@ share: true
 categories:
   - medicine
   - hiv
-slug: hiv-long-acting
+aliases: hiv-long-acting
 ---
 # HIV長效針劑  
 ## CDC申請條件  
