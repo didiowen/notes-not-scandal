@@ -29,6 +29,17 @@ aliases: dl
   
 ![[../assets/Dyslipidemia-1.png|Dyslipidemia-1.png]]  
   
+## Ezetimibe  
+  
+原發性高膽固醇血症、同型接合子家族性高膽固醇血症、同型接合子性麥脂醇血症 （植物脂醇血症）患者並符合下列條件之一者：  
+1. 符合全民健康保險降血脂藥物給付規定表且對 Statins 類藥品發生無法耐受藥物不良反應（如 Severe myalgia 、 Myositis ）者。  
+2. 符合全民健康保險降血脂藥物給付規定表經使用 Statins 類藥品單一治療 3 個月未達治療目標者，得合併使用本案藥品與 Statins 類藥品。  
+  
+## 含ezetimibe及statin之複方製劑 (Vytorin, Atozet, Cretrol, Tonvasca)  
+  
+1. 限用於原發性高膽固醇血症、同型接合子家族性高膽固醇血症 (HOFH) 病患並符合全民健康保險降血脂藥物給付規定表，經使用statin類藥品單一治療3個月未達治療目標者。  
+2. 本品不得與gemfibrozil併用。  
+  
 ![[../assets/Dyslipidemia-2.png|Dyslipidemia-2.png]]  
 ![[../assets/statin-1.jpg|statin-1.jpg]]  
 ![[../assets/statin-2.png|statin-2.png]]
