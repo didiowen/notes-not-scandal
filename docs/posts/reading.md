@@ -6,7 +6,5 @@
 > FROM #reading WHERE status="in progress"  
 > SORT own  
   
-<!-- more -->  
-  
 > [!example]- Waiting  
 > ```
