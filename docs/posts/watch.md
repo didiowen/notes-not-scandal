@@ -174,9 +174,9 @@ share_updated: 2024-10-12T23:39:02+08:00
   
 ## Henrik Ibsen  
 - [ ] An Enemy of the People (En folkefiende) ⏳ 2024-10-25 #北歐   
-	- [b] 說真相的人—歐斯特麥耶與易卜生  
+	- 說真相的人—歐斯特麥耶與易卜生  
 - [ ] [A Doll’s House](https://youtu.be/ZJDnHQT2BDk?si=46hlOMQIFB3Y-N3Z) #北歐   
-	- [b] 初讀劇作，易卜生《玩偶之家》  
+	- 初讀劇作，易卜生《玩偶之家》  
 - [ ] [Ghosts](https://youtu.be/wD-0oVTEuRk?si=KY3bYekb6ry8wFk7) #JudiDench #北歐   
 - [ ] [The Master Builder](https://youtu.be/bFfYC4uK_ys?si=8sOFxnUHdpIdmLST) #MaggieSmith #北歐   
 - [ ] [Hedda Gabler](http://www.ntathome.com/hedda-gabler) #北歐   
