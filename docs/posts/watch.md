@@ -7,7 +7,8 @@ tags:
   - share
   - map
 share: true
-categories: watching
+categories:
+  - watching
 aliases: watch
 share_link: https://share.note.sx/hmr1xhet#Pzcwty5aFcLt6aoNR5zci+bRedyjoTedhKJxZxUitIY
 share_updated: 2024-10-12T23:39:02+08:00
