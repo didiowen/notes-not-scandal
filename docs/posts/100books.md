@@ -539,7 +539,7 @@ David Mitchell 2004
 Mitchell’s almost comically ambitious novel is indeed a kind of cumulus: a wild and woolly condensation of ideas, styles and far-flung milieus whose only true commonality is the reincarnated soul at its center. The book’s six nesting narratives — from 1850s New Zealand through 1930s Belgium, groovy California, recent-ish England, dystopian Korea and Hawaii — also often feel like a postmodern puzzle-box that whirls and clicks as its great world(s) spin, throwing off sparks of pulp, philosophy and fervid humanism.  
   
 ## 27  
-### [[./Americanah|Americanah]]  
+### [Americanah](./Americanah.md)  
   
 Chimamanda Ngozi Adichie 2013  
   
