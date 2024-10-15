@@ -87,7 +87,6 @@ source: Pocket Medicine, 2022
 - 病史與體檢（黏膜皮膚、神經認知、伺機性感染、惡性腫瘤、性病）；藥物及依從性  
 - 回顧抗病毒藥物（過去和現在）；如果住院，通常繼續使用抗病毒藥物，如果必須停用，則全部停止以降低抗藥性風險  
 - 治療失敗：在使用抗病毒藥物幾個月後無法達到不可檢測VL、病毒反彈（在之前的抑制後VL >200拷貝/mL ×2次）、CD4計數下降或臨床惡化  
-  
 ### 機會性感染預防  
   
 | **感染**                             | **指徵**                                   | **初級預防**                                           |  
@@ -201,7 +200,11 @@ source: Pocket Medicine, 2022
 - 考慮組織切片  
 - 治療：ganciclovir、valganciclovir、foscarnet 或 cidofovir  
   
-Original: [[HIV|HIV]]  
+## 抗病毒藥物  
+  
+![1000](https://file.notion.so/f/f/b589cf95-e884-4542-83e1-d2fdea4400fa/2bb098cf-bc22-4784-a7db-8075c523e976/HAART-STR.png?table=block&id=95dffd94-a8e2-46ca-8395-c14043dde155&spaceId=b589cf95-e884-4542-83e1-d2fdea4400fa&expirationTimestamp=1729051200000&signature=_0GyyYaAJuWaMTgz9F37N6XAK_huDOUMyd168Y3s_AI&downloadName=HAART-STR.png)  
+  
+Original: HIV  
 [[./hiv-long-acting|hiv-long-acting]]  
   
 ## 考古題  
