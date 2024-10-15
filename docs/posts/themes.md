@@ -12,7 +12,7 @@ aliases: themes
 ---
 # Themes  
   
-## [[./100books|100books]]  
+## [100books](./100books.md)  
   
 <!-- more -->  
   
@@ -71,9 +71,9 @@ aliases: themes
   
 ### Theatre  
 - [ ] An Enemy of the People (En folkefiende) ⏳ 2024-10-25 #北歐  
-    - [[說真相的人—歐斯特麥耶與易卜生|說真相的人—歐斯特麥耶與易卜生]]  
+    - [說真相的人—歐斯特麥耶與易卜生](%E8%AA%AA%E7%9C%9F%E7%9B%B8%E7%9A%84%E4%BA%BA%E2%80%94%E6%AD%90%E6%96%AF%E7%89%B9%E9%BA%A5%E8%80%B6%E8%88%87%E6%98%93%E5%8D%9C%E7%94%9F.md)  
 - [ ] [A Doll’s House](https://youtu.be/ZJDnHQT2BDk?si=46hlOMQIFB3Y-N3Z) #北歐  
-    - [[初讀劇作，易卜生《玩偶之家》|初讀劇作，易卜生《玩偶之家》]]  
+    - [初讀劇作，易卜生《玩偶之家》](%E5%88%9D%E8%AE%80%E5%8A%87%E4%BD%9C%EF%BC%8C%E6%98%93%E5%8D%9C%E7%94%9F%E3%80%8A%E7%8E%A9%E5%81%B6%E4%B9%8B%E5%AE%B6%E3%80%8B.md)  
 - [ ] [Ghosts](https://youtu.be/wD-0oVTEuRk?si=KY3bYekb6ry8wFk7) #JudiDench #北歐  
 - [ ] [The Master Builder](https://youtu.be/bFfYC4uK_ys?si=8sOFxnUHdpIdmLST) #MaggieSmith #北歐  
 - [ ] [Hedda Gabler](http://www.ntathome.com/hedda-gabler) #北歐  
