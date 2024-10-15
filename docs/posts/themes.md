@@ -31,12 +31,12 @@ aliases: themes
 | The Family That Built an Empire of Pain               | Patrick Radden Keefe                       | waiting |  
   
   
-| Series                                                                                       | year | status   | platform |  
-| -------------------------------------------------------------------------------------------- | ---- | -------- | -------- |  
-| All the Beauty and the Bloodshed | 2022 | waiting  | \-       |  
-| Beautiful Boy                                       | 2018 | finished | \-       |  
-| Ben Is Back                                           | 2018 | finished | \-       |  
-| Painkiller                                             | 2023 | finished | Netflix  |  
+| Movies and Series                                                                            | year | cast                                                                           | status   | platform |  
+| -------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------ | -------- | -------- |  
+| All the Beauty and the Bloodshed | 2022 | <ul><li>Nan Goldin</li><li>David Velasco</li><li>Megan Kapler</li></ul>        | waiting  | \-       |  
+| Beautiful Boy                                       | 2018 | <ul><li>Steve Carell</li><li>Maura Tierney</li><li>Jack Dylan Grazer</li></ul> | finished | \-       |  
+| Ben Is Back                                           | 2018 | <ul><li>Julia Roberts</li><li>Lucas Hedges</li><li>Courtney B. Vance</li></ul> | finished | \-       |  
+| Painkiller                                             | 2023 | <ul><li>Uzo Aduba</li><li>Matthew Broderick</li><li>Taylor Kitsch</li></ul>    | finished | Netflix  |  
   
   
 ## 北歐  
