@@ -276,7 +276,7 @@ Philip Roth 2004
 What if, in the 1940 presidential election, Charles Lindbergh — aviation hero, America-firster and Nazi sympathizer — had defeated Franklin Roosevelt? Specifically, what would have happened to Philip Roth, the younger son of a middle-class Jewish family in Newark, N.J.? From those counterfactual questions, the adult Roth spun a tour de force of memory and history. Ever since the 2016 election his imaginary American past has pulled closer and closer to present-day reality. — A.O. Scott  
   
 ## 64  
-### The Great Believers  
+### [great-believers](./great-believers.md)  
   
 Rebecca Makkai 2018  
   
