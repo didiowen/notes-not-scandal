@@ -1,5 +1,8 @@
 ---
 title: Americanah
+Chinese: 美國佬
+author: Chimamanda Ngozi Adichie
+year: 2013
 tags:
   - reading/Audible
   - share
@@ -16,8 +19,9 @@ date:
 ---
 # Americanah  
   
-author:: Chimamanda Ngozi Adichie  
-year:: 2013  
+中譯：`VIEW[{Chinese}][text]`  
+作者：`VIEW[{author}][text]`  
+出版年：`VIEW[{year}][text]`  
   
 ## Thoughts  
 - 一開始聽朗讀者一下子用標準英文、一下子用奈及利亞腔英文切來切去有點不習慣，不過聽一陣子也就習慣了。  
