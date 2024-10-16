@@ -41,15 +41,20 @@ aliases: themes
   
   
 ## 北歐  
-| Books                                                                                           | Author                                              | Status   |  
-| ----------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------- |  
-| 北歐不是神話                                                              | Nikolai Brandal, Øivind Bratberg, Dag Einar Thorsen | waiting  |  
-| The Copenhagen Trilogy                              | Tove Ditlevsen                                      | finished |  
-| Tove Ditlevsen’s Art of Estrangement | Condé Nast                                          | finished |  
-| 說真相的人—歐斯特麥耶與易卜生                                           | 耿一偉                                                 | finished |  
+| Books                                                              | Author                                              | Status   |  
+| ------------------------------------------------------------------ | --------------------------------------------------- | -------- |  
+| 北歐不是神話                                 | Nikolai Brandal, Øivind Bratberg, Dag Einar Thorsen | waiting  |  
+| The Copenhagen Trilogy | Tove Ditlevsen                                      | finished |  
   
   
-| Movie                                                                                  | director                       | year | status   |  
+| Articles                                                                                        | Author     | Status   |  
+| ----------------------------------------------------------------------------------------------- | ---------- | -------- |  
+| Tove Ditlevsen’s Art of Estrangement | Condé Nast | finished |  
+| 初讀劇作，易卜生《玩偶之家》                                             | Praise Chu | finished |  
+| 說真相的人—歐斯特麥耶與易卜生                                           | 耿一偉        | finished |  
+  
+  
+| Movie and Series                                                                       | director                       | year | status   |  
 | -------------------------------------------------------------------------------------- | ------------------------------ | ---- | -------- |  
 | Hedda Gabler                                   | <ul><li>Nick Wickham</li></ul> | 2017 | waiting  |  
 | The Guilty                                       | Gustav Möller                  | 2018 | finished |  
@@ -60,8 +65,8 @@ aliases: themes
 | Dancer in the Dark                       | Lars von Trier                 | 2000 | waiting  |  
 | Antichrist                                       | Lars von Trier                 | 2009 | waiting  |  
 | Melancholia                                     | Lars von Trier                 | 2011 | waiting  |  
-| Nymphomaniac Vol. I                     | Lars von Trier                 | 2013 | waiting  |  
 | Nymphomaniac Vol. II                   | Lars von Trier                 | 2013 | waiting  |  
+| Nymphomaniac Vol. I                     | Lars von Trier                 | 2013 | waiting  |  
 | Land of Mine                                   | Martin Zandvliet               | 2015 | finished |  
 | Toves værelse                                 | Martin Zandvliet               | 2023 | waiting  |  
 | The Square                                       | Ruben Östlund                  | 2017 | finished |  
@@ -90,6 +95,7 @@ aliases: themes
 | A Little Book of Language           | 你從哪裡來? 一個字聽出你的故鄉                     | waiting     | bought   |  
 | Babel                                                   | 二十種語言，另眼看世界                          | waiting     | bought   |  
 | Cultish                                               | 異教語言學                                | waiting     | bought   |  
+| Don't Sleep There Are Snakes     | 別睡，這裡有蛇！：一個語言學家在亞馬遜叢林                | waiting     | bought   |  
 | English as a Global Language     | 英語如何成為世界通用語言                         | waiting     | bought   |  
 | Language and Power                         | 語言與權力                                | waiting     | bought   |  
 | In Other Words                                 | 另一種語言                                | waiting     | bought   |  
@@ -113,9 +119,27 @@ aliases: themes
 | 真人版翻譯年糕！學會這四種語言，環遊世界不必靠翻譯！──《二十種語言，另眼看世界》                       | OKAPI         | waiting     |  
 | Politics and the English Language                                       | George Orwell | in progress |  
 | 上流語言？「標準法語」自認優雅的誕生                                                                     | 聯合新聞網         | finished    |  
-| 來一場「語言旅行」，打開認知世界的窗口──讀《二十種語言，另眼看世界》                                   | 翁稷安           | finished    |  
 | 何謂語言的「正確」與「高級」？看《英語如何成為世界通用語言》配《窈窕淑女》                               | 個人意見          | finished    |  
+| 來一場「語言旅行」，打開認知世界的窗口──讀《二十種語言，另眼看世界》                                   | 翁稷安           | finished    |  
 | 安德森與他筆下的印尼幽靈──讀《語言與權力：探索印尼的政治文化》                                         | 阿潑            | finished    |  
 | 我就是看到「方言」或「Pe̍h-ōe-jī」就心煩──讀《請說「國語」》                                 | 蘇致亨           | finished    |  
 | 美國最暢銷字典編輯的秘密人生──讀《為單字安排座位的人》                                                 | OKAPI編輯室      | finished    |  
+  
+  
+## Holocaust  
+  
+| Books                                                              | Chinese | status  | own    |  
+| ------------------------------------------------------------------ | ------- | ------- | ------ |  
+| I sommersi e i salvati | 滅頂與生還   | waiting | bought |  
+  
+  
+  
+| Title                                                                       | Author          | Status      |  
+| --------------------------------------------------------------------------- | --------------- | ----------- |  
+| 你踩著誰的屍體活下來？奧斯威辛集中營的「滅頂與生還」 | 轉角國際 udn Global | in progress |  
+  
+  
+| Title                                              | director                       | year | status   |  
+| -------------------------------------------------- | ------------------------------ | ---- | -------- |  
+| Son of Saul | <ul><li>László Nemes</li></ul> | 2015 | finished |  
   
