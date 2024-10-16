@@ -19,9 +19,7 @@ date:
 ---
 # Americanah  
   
-中譯：`VIEW[{Chinese}][text]`  
-作者：`VIEW[{author}][text]`  
-出版年：`VIEW[{year}][text]`  
+<span><span><p dir="auto">中譯：美國佬<br></p></span></span><span><span><p dir="auto">Author: Chimamanda Ngozi Adichie<br></p></span></span><span><span><p dir="auto">Year: 2013</p></span></span>  
   
 ## Thoughts  
 - 一開始聽朗讀者一下子用標準英文、一下子用奈及利亞腔英文切來切去有點不習慣，不過聽一陣子也就習慣了。  
