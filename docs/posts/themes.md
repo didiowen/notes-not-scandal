@@ -17,13 +17,13 @@ aliases: themes
 <!-- more -->  
   
 ## 毒與癮  
-| books                                                              | Chinese title | author               | status      |  
-| ------------------------------------------------------------------ | ------------- | -------------------- | ----------- |  
-| 我的涼山兄弟                                 | \-            | 劉紹華                  | in progress |  
-| Empire of Pain                 | \-            | Patrick Radden Keefe | finished    |  
-| Narconomics                       | \-            | Tom Wainwright       | finished    |  
-| The Copenhagen Trilogy | \-            | Tove Ditlevsen       | finished    |  
-| 戒不掉的癮世代                               | \-            | 鄭進耀                  | finished    |  
+| books                                                              | author               | status      |  
+| ------------------------------------------------------------------ | -------------------- | ----------- |  
+| 我的涼山兄弟                                 | 劉紹華                  | in progress |  
+| Empire of Pain                 | Patrick Radden Keefe | finished    |  
+| Narconomics                       | Tom Wainwright       | finished    |  
+| The Copenhagen Trilogy | Tove Ditlevsen       | finished    |  
+| 戒不掉的癮世代                               | 鄭進耀                  | finished    |  
   
   
 | articles                                                                                                            | author                                     | status  |  
@@ -41,10 +41,10 @@ aliases: themes
   
   
 ## 北歐  
-| books                                                              | Chinese title | author                                              | status   |  
-| ------------------------------------------------------------------ | ------------- | --------------------------------------------------- | -------- |  
-| 北歐不是神話                                 | \-            | Nikolai Brandal, Øivind Bratberg, Dag Einar Thorsen | waiting  |  
-| The Copenhagen Trilogy | \-            | Tove Ditlevsen                                      | finished |  
+| books                                                              | author                                              | status   |  
+| ------------------------------------------------------------------ | --------------------------------------------------- | -------- |  
+| 北歐不是神話                                 | Nikolai Brandal, Øivind Bratberg, Dag Einar Thorsen | waiting  |  
+| The Copenhagen Trilogy | Tove Ditlevsen                                      | finished |  
   
   
 | articles                                                                                        | author     | status   |  
