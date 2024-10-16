@@ -17,22 +17,22 @@ aliases: themes
 <!-- more -->  
   
 ## 毒與癮  
-| Books                                                              | Author               | Status      |  
-| ------------------------------------------------------------------ | -------------------- | ----------- |  
-| 我的涼山兄弟                                 | 劉紹華                  | in progress |  
-| Empire of Pain                 | Patrick Radden Keefe | finished    |  
-| Narconomics                       | Tom Wainwright       | finished    |  
-| The Copenhagen Trilogy | Tove Ditlevsen       | finished    |  
-| 戒不掉的癮世代                               | 鄭進耀                  | finished    |  
+| books                                                              | Chinese title | author               | status      |  
+| ------------------------------------------------------------------ | ------------- | -------------------- | ----------- |  
+| 我的涼山兄弟                                 | \-            | 劉紹華                  | in progress |  
+| Empire of Pain                 | \-            | Patrick Radden Keefe | finished    |  
+| Narconomics                       | \-            | Tom Wainwright       | finished    |  
+| The Copenhagen Trilogy | \-            | Tove Ditlevsen       | finished    |  
+| 戒不掉的癮世代                               | \-            | 鄭進耀                  | finished    |  
   
   
-| Article                                                                                                             | Author                                     | Status  |  
+| articles                                                                                                            | author                                     | status  |  
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------- |  
 | How Baltimore Became the U.S. Overdose Capital | Alissa Zhu, Nick Thieme, Jessica Gallagher | waiting |  
 | The Family That Built an Empire of Pain               | Patrick Radden Keefe                       | waiting |  
   
   
-| Movies and Series                                                                            | year | cast                                                                           | status   | platform |  
+| movies and series                                                                            | year | cast                                                                           | status   | platform |  
 | -------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------ | -------- | -------- |  
 | All the Beauty and the Bloodshed | 2022 | <ul><li>Nan Goldin</li><li>David Velasco</li><li>Megan Kapler</li></ul>        | waiting  | \-       |  
 | Beautiful Boy                                       | 2018 | <ul><li>Steve Carell</li><li>Maura Tierney</li><li>Jack Dylan Grazer</li></ul> | finished | \-       |  
@@ -41,20 +41,20 @@ aliases: themes
   
   
 ## 北歐  
-| Books                                                              | Author                                              | Status   |  
-| ------------------------------------------------------------------ | --------------------------------------------------- | -------- |  
-| 北歐不是神話                                 | Nikolai Brandal, Øivind Bratberg, Dag Einar Thorsen | waiting  |  
-| The Copenhagen Trilogy | Tove Ditlevsen                                      | finished |  
+| books                                                              | Chinese title | author                                              | status   |  
+| ------------------------------------------------------------------ | ------------- | --------------------------------------------------- | -------- |  
+| 北歐不是神話                                 | \-            | Nikolai Brandal, Øivind Bratberg, Dag Einar Thorsen | waiting  |  
+| The Copenhagen Trilogy | \-            | Tove Ditlevsen                                      | finished |  
   
   
-| Articles                                                                                        | Author     | Status   |  
+| articles                                                                                        | author     | status   |  
 | ----------------------------------------------------------------------------------------------- | ---------- | -------- |  
 | Tove Ditlevsen’s Art of Estrangement | Condé Nast | finished |  
 | 初讀劇作，易卜生《玩偶之家》                                             | Praise Chu | finished |  
 | 說真相的人—歐斯特麥耶與易卜生                                           | 耿一偉        | finished |  
   
   
-| Movie and Series                                                                       | director                       | year | status   |  
+| movies and series                                                                      | director                       | year | status   |  
 | -------------------------------------------------------------------------------------- | ------------------------------ | ---- | -------- |  
 | Hedda Gabler                                   | <ul><li>Nick Wickham</li></ul> | 2017 | waiting  |  
 | The Guilty                                       | Gustav Möller                  | 2018 | finished |  
@@ -86,7 +86,7 @@ aliases: themes
   
 ## 語言與權力  
   
-| Books                                                                              | Chinese                              | status      | own      |  
+| books                                                                              | Chinese title                        | status      | own      |  
 | ---------------------------------------------------------------------------------- | ------------------------------------ | ----------- | -------- |  
 | Speak Not                                           | 請說國語                                 | in progress | bought   |  
 | 語言學家解破台語                                             | \-                                   | in progress | bought   |  
@@ -110,7 +110,7 @@ aliases: themes
 | 神與科學家的語言：拉丁文與其建構的帝國                       | \-                                   | waiting     | bought   |  
   
   
-| Article                                                                                                                         | Author        | Status      |  
+| articles                                                                                                                        | author        | status      |  
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------- |  
 | Things I Don't Want to Know by Deborah Levy – review | Kate Kellaway | waiting     |  
 | Why I Write                                                                                   | George Orwell | waiting     |  
@@ -128,18 +128,18 @@ aliases: themes
   
 ## Holocaust  
   
-| Books                                                              | Chinese | status  | own    |  
-| ------------------------------------------------------------------ | ------- | ------- | ------ |  
-| I sommersi e i salvati | 滅頂與生還   | waiting | bought |  
+| books                                                              | Chinese title | status  | own    |  
+| ------------------------------------------------------------------ | ------------- | ------- | ------ |  
+| I sommersi e i salvati | 滅頂與生還         | waiting | bought |  
   
   
   
-| Title                                                                       | Author          | Status      |  
+| articles                                                                    | author          | status      |  
 | --------------------------------------------------------------------------- | --------------- | ----------- |  
 | 你踩著誰的屍體活下來？奧斯威辛集中營的「滅頂與生還」 | 轉角國際 udn Global | in progress |  
   
   
-| Title                                              | director                       | year | status   |  
+| movies and series                                  | director                       | year | status   |  
 | -------------------------------------------------- | ------------------------------ | ---- | -------- |  
 | Son of Saul | <ul><li>László Nemes</li></ul> | 2015 | finished |  
   
