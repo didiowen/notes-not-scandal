@@ -14,7 +14,7 @@ aliases: prep
   
 ![PrEP-3.png](../assets/PrEP-3.png)  
 <!-- more -->  
-## On-Demand PrEP  
+## Event-Driven PrEP  
 ### 單次性行為  
   
 * 使用者於擬發生不安全性行為前2至24小時服用**2顆**，服藥後**24小時**、**48小時**，各服用1顆。  
