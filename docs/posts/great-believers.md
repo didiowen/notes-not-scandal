@@ -17,7 +17,8 @@ date:
   updated: 2024-10-16T15:16:42
 rating: 5
 share: true
-categories: reading
+categories:
+  - reading
 aliases: great-believers
 ---
 # The Great Believers  
