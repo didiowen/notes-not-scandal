@@ -17,13 +17,13 @@ aliases: themes
 <!-- more -->  
   
 ## 毒與癮  
-| books                                                              | author               | status      |  
-| ------------------------------------------------------------------ | -------------------- | ----------- |  
-| 我的涼山兄弟                                 | 劉紹華                  | in progress |  
-| Empire of Pain                 | Patrick Radden Keefe | finished    |  
-| Narconomics                       | Tom Wainwright       | finished    |  
-| The Copenhagen Trilogy | Tove Ditlevsen       | finished    |  
-| 戒不掉的癮世代                               | 鄭進耀                  | finished    |  
+| books                                                              | author               | status      | own      |  
+| ------------------------------------------------------------------ | -------------------- | ----------- | -------- |  
+| 我的涼山兄弟                                 | 劉紹華                  | in progress | bought   |  
+| Empire of Pain                 | Patrick Radden Keefe | finished    | borrowed |  
+| Narconomics                       | Tom Wainwright       | finished    | bought   |  
+| The Copenhagen Trilogy | Tove Ditlevsen       | finished    | bought   |  
+| 戒不掉的癮世代                               | 鄭進耀                  | finished    | bought   |  
   
   
 | articles                                                                                                            | author                                     | status  |  
@@ -35,16 +35,16 @@ aliases: themes
 | movies and series                                                                            | year | cast                                                                           | status   | platform |  
 | -------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------ | -------- | -------- |  
 | All the Beauty and the Bloodshed | 2022 | <ul><li>Nan Goldin</li><li>David Velasco</li><li>Megan Kapler</li></ul>        | waiting  | \-       |  
-| Beautiful Boy                                       | 2018 | <ul><li>Steve Carell</li><li>Maura Tierney</li><li>Jack Dylan Grazer</li></ul> | finished | \-       |  
+| Beautiful Boy                                       | 2018 | <ul><li>Timothée Chalamet</li><li>Steve Carell</li><li>Maura Tierney</li></ul> | finished | \-       |  
 | Ben Is Back                                           | 2018 | <ul><li>Julia Roberts</li><li>Lucas Hedges</li><li>Courtney B. Vance</li></ul> | finished | \-       |  
 | Painkiller                                             | 2023 | <ul><li>Uzo Aduba</li><li>Matthew Broderick</li><li>Taylor Kitsch</li></ul>    | finished | Netflix  |  
   
   
 ## 北歐  
-| books                                                              | author                                              | status   |  
-| ------------------------------------------------------------------ | --------------------------------------------------- | -------- |  
-| 北歐不是神話                                 | Nikolai Brandal, Øivind Bratberg, Dag Einar Thorsen | waiting  |  
-| The Copenhagen Trilogy | Tove Ditlevsen                                      | finished |  
+| books                                                              | author                                              | status   | own              |  
+| ------------------------------------------------------------------ | --------------------------------------------------- | -------- | ---------------- |  
+| 北歐不是神話                                 | Nikolai Brandal, Øivind Bratberg, Dag Einar Thorsen | waiting  | to buy or borrow |  
+| The Copenhagen Trilogy | Tove Ditlevsen                                      | finished | bought           |  
   
   
 | articles                                                                                        | author     | status   |  
@@ -86,28 +86,28 @@ aliases: themes
   
 ## 語言與權力  
   
-| books                                                                              | Chinese title                        | status      | own      |  
-| ---------------------------------------------------------------------------------- | ------------------------------------ | ----------- | -------- |  
-| Speak Not                                           | 請說國語                                 | in progress | bought   |  
-| 語言學家解破台語                                             | \-                                   | in progress | bought   |  
-| How Propaganda Works                     | 修辭的陷阱：為何政治包裝讓民主社會無法正確理解世界？           | waiting     | borrowed |  
-| 活出語言來                                                   | \-                                   | waiting     | borrowed |  
-| A Little Book of Language           | 你從哪裡來? 一個字聽出你的故鄉                     | waiting     | bought   |  
-| Babel                                                   | 二十種語言，另眼看世界                          | waiting     | bought   |  
-| Cultish                                               | 異教語言學                                | waiting     | bought   |  
-| Don't Sleep There Are Snakes     | 別睡，這裡有蛇！：一個語言學家在亞馬遜叢林                | waiting     | bought   |  
-| English as a Global Language     | 英語如何成為世界通用語言                         | waiting     | bought   |  
-| Language and Power                         | 語言與權力                                | waiting     | bought   |  
-| In Other Words                                 | 另一種語言                                | waiting     | bought   |  
-| Language in Thought and Action | 語言與人生：在說與聽之間，語言如何形塑人類思想、引發行動決策和價值判斷？ | waiting     | bought   |  
-| The Mother Tongue                           | \-                                   | waiting     | bought   |  
-| Through the Language Glass         | 換了語言，就換了腦袋                           | waiting     | bought   |  
-| Word by Word                                     | 為單字安排座位的人                            | waiting     | bought   |  
-| Words of Wonder                               | 一詞一宇宙：瀕危語言的低吟淺唱                      | waiting     | bought   |  
-| 一個被綁架的西方國家或中歐的悲劇                             | \-                                   | waiting     | bought   |  
-| 台語解放記事：寫給台灣人的「華語腦」翻轉指南                 | \-                                   | waiting     | bought   |  
-| 我說，所以我存在                                             | \-                                   | waiting     | bought   |  
-| 神與科學家的語言：拉丁文與其建構的帝國                       | \-                                   | waiting     | bought   |  
+| books                                                                              | Chinese title                        | author                                   | status      | own      |  
+| ---------------------------------------------------------------------------------- | ------------------------------------ | ---------------------------------------- | ----------- | -------- |  
+| Speak Not                                           | 請說國語                                 | James Griffiths                          | in progress | bought   |  
+| 語言學家解破台語                                             | \-                                   | 劉承賢                                      | in progress | bought   |  
+| How Propaganda Works                     | 修辭的陷阱：為何政治包裝讓民主社會無法正確理解世界？           | Jason Stanley                            | waiting     | borrowed |  
+| 活出語言來                                                   | \-                                   | Laura M. Ahearn                          | waiting     | borrowed |  
+| A Little Book of Language           | 你從哪裡來? 一個字聽出你的故鄉                     | David Crystal                            | waiting     | bought   |  
+| Babel                                                   | 二十種語言，另眼看世界                          | Gaston Dorren                            | waiting     | bought   |  
+| Cultish                                               | 異教語言學                                | Amanda Montell                           | waiting     | bought   |  
+| Don't Sleep There Are Snakes     | 別睡，這裡有蛇！：一個語言學家在亞馬遜叢林                | Daniel L. Everett                        | waiting     | bought   |  
+| English as a Global Language     | 英語如何成為世界通用語言                         | David Crystal                            | waiting     | bought   |  
+| Language and Power                         | 語言與權力                                | Benedict R. O'G. Anderson                | waiting     | bought   |  
+| In Other Words                                 | 另一種語言                                | Jhumpa Lahiri                            | waiting     | bought   |  
+| Language in Thought and Action | 語言與人生：在說與聽之間，語言如何形塑人類思想、引發行動決策和價值判斷？ | Samuel Ichiyé Hayakawa, Alan R. Hayakawa | waiting     | bought   |  
+| The Mother Tongue                           | \-                                   | Bill Bryson                              | waiting     | bought   |  
+| Through the Language Glass         | 換了語言，就換了腦袋                           | Guy Deutscher                            | waiting     | bought   |  
+| Word by Word                                     | 為單字安排座位的人                            | Kory Stamper                             | waiting     | bought   |  
+| Words of Wonder                               | 一詞一宇宙：瀕危語言的低吟淺唱                      | Nicholas Evans                           | waiting     | bought   |  
+| 一個被綁架的西方國家或中歐的悲劇                             | \-                                   | Milan Kundera                            | waiting     | bought   |  
+| 台語解放記事：寫給台灣人的「華語腦」翻轉指南                 | \-                                   | 石牧民                                      | waiting     | bought   |  
+| 我說，所以我存在                                             | \-                                   | Kübra Gümüşay                            | waiting     | bought   |  
+| 神與科學家的語言：拉丁文與其建構的帝國                       | \-                                   | Françoise Waquet                         | waiting     | bought   |  
   
   
 | articles                                                                                                                        | author        | status      |  
@@ -128,10 +128,9 @@ aliases: themes
   
 ## Holocaust  
   
-| books                                                              | Chinese title | status  | own    |  
-| ------------------------------------------------------------------ | ------------- | ------- | ------ |  
-| I sommersi e i salvati | 滅頂與生還         | waiting | bought |  
-  
+| books                                                              | Chinese title | author     | status  | own    |  
+| ------------------------------------------------------------------ | ------------- | ---------- | ------- | ------ |  
+| I sommersi e i salvati | 滅頂與生還         | Primo Levi | waiting | bought |  
   
   
 | articles                                                                    | author          | status      |  
@@ -142,4 +141,57 @@ aliases: themes
 | movies and series                                  | director                       | year | status   |  
 | -------------------------------------------------- | ------------------------------ | ---- | -------- |  
 | Son of Saul | <ul><li>László Nemes</li></ul> | 2015 | finished |  
+  
+  
+## Shakespear  
+  
+| books                                                                                                | author                  | status  | own              |  
+| ---------------------------------------------------------------------------------------------------- | ----------------------- | ------- | ---------------- |  
+| Shakespeare - The Word and the Action     | Peter Saccio            | waiting | borrowed         |  
+| William Shakespeare                                         | Peter Saccio            | waiting | borrowed         |  
+| I Iago                                                                   | Nicole Galland          | waiting | borrowed         |  
+| Tales from Shakespeare                                   | Charles Lamb, Mary Lamb | waiting | bought           |  
+| Shakespeare - The Man Who Pays the Rent | Judi Dench              | waiting | bought           |  
+| Hamnet                                                                   | Maggie O'Farrell        | waiting | to buy or borrow |  
+  
+  
+| articles                                                                                                    | author | status   |  
+| ----------------------------------------------------------------------------------------------------------- | ------ | -------- |  
+| 如果沒有「哈姆奈特」，可能就不會有《哈姆雷特》 ──專訪《哈姆奈特》作者瑪姬．歐法洛 | 陳偉棻    | finished |  
+  
+  
+| movies and series                                                        | director                                                   | cast                                                                                                                                 | year      | status  |  
+| ------------------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------- | ------- |  
+| The Hollow Crown             | \-                                                         | <ul><li>Anton Lesser</li><li>Simon Russell Beale</li><li>Tom Georgeson</li><li>Tom Hiddleston</li><li>Benedict Cumberbatch</li></ul> | 2012–2016 | waiting |  
+| Ophelia                               | <ul><li>Claire McCarthy</li></ul>                          | <ul><li>Daisy Ridley</li><li>Mia Quiney</li><li>Calum O'Rourke</li></ul>                                                             | 2018      | waiting |  
+| Shakespeare in Love       | <ul><li>John Madden</li></ul>                              | <ul><li>Gwyneth Paltrow</li><li>Joseph Fiennes</li><li>Judi Dench</li></ul>                                                          | 1998      | waiting |  
+| King Lear                           | <ul><li>Jonathan Munby</li><li>Ross MacGibbon</li></ul>    | <ul><li>Ian McKellen</li><li>Sinéad Cusack</li><li>Danny Webb</li></ul>                                                              | 2018      | waiting |  
+| Macbeth                               | <ul><li>Justin Kurzel</li></ul>                            | <ul><li>Michael Fassbender</li><li>Marion Cotillard</li><li>Jack Madigan</li></ul>                                                   | 2015      | waiting |  
+| All Is True                       | <ul><li>Kenneth Branagh</li></ul>                          | <ul><li>Kenneth Branagh</li><li>Judi Dench</li><li>Ian McKellen</li></ul>                                                            | 2018      | waiting |  
+| Hamlet                                 | <ul><li>Lyndsey Turner</li><li>Robin Lough</li></ul>       | <ul><li>Benedict Cumberbatch</li><li>Ciarán Hinds</li><li>Sian Brooke</li></ul>                                                      | 2015      | waiting |  
+| Julius Caesar                   | <ul><li>Nicholas Hytner</li><li>Tony Grech-Smith</li></ul> | <ul><li>Ben Whishaw</li><li>Michelle Fairley</li><li>David Morrissey</li></ul>                                                       | 2018      | waiting |  
+| Antony & Cleopatra         | <ul><li>Simon Godwin</li><li>Tony Grech-Smith</li></ul>    | <ul><li>Ralph Fiennes</li><li>Sophie Okonedo</li><li>Tim McMullan</li></ul>                                                          | 2018      | waiting |  
+| The Tragedy of Macbeth | Joel Coen                                                  | <ul><li>Denzel Washington</li><li>Frances McDormand</li><li>Alex Hassell</li></ul>                                                   | 2021      | waiting |  
+| Henry V                               | Max Webster                                                | <ul><li>Kate Duchêne</li><li>Kit Harington</li><li>Olivier Huband</li></ul>                                                          | 2022      | waiting |  
+| Ian McKellen on Stage   | Sean Mathias                                               | <ul><li>Ian McKellen</li></ul>                                                                                                       | 2021      | waiting |  
+| Romeo & Juliet                 | Simon Godwin                                               | <ul><li>Fisayo Akinade</li><li>Jessie Buckley</li><li>Josh O'Connor</li></ul>                                                        | 2021      | waiting |  
+  
+  
+## Chekhov  
+  
+| books                                                                          | author          | status   | own      |  
+| ------------------------------------------------------------------------------ | --------------- | -------- | -------- |  
+| A Swim in a Pond in the Rain | George Saunders | finished | borrowed |  
+  
+  
+| articles                                                                                                                          | author         | status   |  
+| --------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- |  
+| Andrew Scott Plays Every Part in ‘Vanya’                           | Houman Barekat | finished |  
+| Vanya review – Andrew Scott excels in one-man Chekhov | Arifa Akbar    | finished |  
+  
+  
+| movies and series                                                | director                                               | cast                                                                        | year | status   |  
+| ---------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------- | ---- | -------- |  
+| The Cherry Orchard | <ul><li>Howard Davies</li><li>Ross MacGibbon</li></ul> | <ul><li>Zoë Wanamaker</li><li>Claudie Blakley</li><li>Mark Bonnar</li></ul> | 2011 | waiting  |  
+| Vanya                           | Sam Yates                                              | <ul><li>Andrew Scott</li></ul>                                              | 2024 | finished |  
   
