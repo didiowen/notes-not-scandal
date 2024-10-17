@@ -202,10 +202,12 @@ source: Pocket Medicine, 2022
   
 ## 抗病毒藥物  
   
-![1000](https://file.notion.so/f/f/b589cf95-e884-4542-83e1-d2fdea4400fa/2bb098cf-bc22-4784-a7db-8075c523e976/HAART-STR.png?table=block&id=95dffd94-a8e2-46ca-8395-c14043dde155&spaceId=b589cf95-e884-4542-83e1-d2fdea4400fa&expirationTimestamp=1729051200000&signature=_0GyyYaAJuWaMTgz9F37N6XAK_huDOUMyd168Y3s_AI&downloadName=HAART-STR.png)  
+![d55d1b1ce05acde013ee2b1ff7f9e8a3_MD5.jpg](../assets/d55d1b1ce05acde013ee2b1ff7f9e8a3_MD5.jpg)  
+![0874b3cf27707835feac091cc97aad96_MD5.jpg](../assets/0874b3cf27707835feac091cc97aad96_MD5.jpg)  
+  
   
 Original: HIV  
-[[./hiv-long-acting|hiv-long-acting]]  
+[hiv-long-acting](./hiv-long-acting.md)  
   
 ## 考古題  
 ### 專師  
