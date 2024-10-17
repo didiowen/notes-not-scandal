@@ -12,6 +12,8 @@ aliases: crab
 ---
 # Treatment of CRAB  
   
+[Source](https://www.idsociety.org/practice-guideline/amr-guidance/)  
+  
 - The use of high-dose ampicillin-sulbactam (total daily dose of 6–9 g of the sulbactam component) in combination with at least 1 other agent is suggested for the treatment of CRAB infections.  
   
 <!-- more -->  

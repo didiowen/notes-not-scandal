@@ -245,14 +245,12 @@ C. (2)+(4)
 D. (1)+(4)  
 E. (3)+(5)  
   
-%%  
 28. 一位50歲之女性病患，10天前到東南亞旅遊曾生食海鮮，返國後發生腹瀉腹痛，抽血檢查發現血液嗜伊紅性白球異常增加(WBC 7800/mm3、eosinophil 38%)，請問最可能是下列何種病原?  
 ==A. Capillaria (鞭毛蟲)==  
 B. Ascaris (蛔蟲)  
 C. Strongyloides (糞小桿線蟲)  
 D. Hookworm (鉤蟲)  
 E. Cryptosporidium (隱孢子蟲)    
-%%  
   
 29. 下列關於HIV感染與腫瘤的關係何者錯誤？ #medicine/HIV   
 A. Kaposi’s sarcoma與Human Herpes virus – 8 (HHV-8) 的感染有關  
@@ -701,14 +699,12 @@ C. (1)+(3)
 D. (2)+(4)  
 E. (1)+(4)  
   
-%%  
 86. 有關Filariae(血絲蟲)感染人體途徑，下列何者為是?  
 ==A. insect vector bite==  
 B. larvae skin penetration  
 C. ingest egg from mouth  
 D. metacercaria in fish  
 E. cercariae skin penetration from water  
-%%  
   
 87. 下列有關隱球菌(Cryptococcus)的描述，何者為非? #medicine/CNS #medicine/Cryptococcus  
 A. *C. gattii*在鳥類糞便(如鴿子)不容易發現  
