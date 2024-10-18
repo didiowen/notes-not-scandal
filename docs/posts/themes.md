@@ -2,7 +2,7 @@
 title: Themes
 date:
   created: 2024-10-14T18:02:36
-  updated: 2024-10-17T14:18:41
+  updated: moment().format("YYYY-MM-DDTHH:mm:ss")
 tags: share
 share: true
 categories:
