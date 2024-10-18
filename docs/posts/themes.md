@@ -41,24 +41,74 @@ aliases: themes
   
   
 ## 北歐  
-| books | author | status | own |  
-| ----- | ------ | ------ | --- |  
+| books                                                              | author                                              | status   | own              |  
+| ------------------------------------------------------------------ | --------------------------------------------------- | -------- | ---------------- |  
+| 北歐不是神話                                 | Nikolai Brandal, Øivind Bratberg, Dag Einar Thorsen | waiting  | to buy or borrow |  
+| The Copenhagen Trilogy | Tove Ditlevsen                                      | finished | bought           |  
   
   
-| articles | author | status |  
-| -------- | ------ | ------ |  
+| articles                                                                                        | author     | status   |  
+| ----------------------------------------------------------------------------------------------- | ---------- | -------- |  
+| Tove Ditlevsen’s Art of Estrangement | Condé Nast | finished |  
+| 初讀劇作，易卜生《玩偶之家》                                             | Praise Chu | finished |  
+| 說真相的人—歐斯特麥耶與易卜生                                           | 耿一偉        | finished |  
   
   
-| movies and series | director | year | status |  
-| ----------------- | -------- | ---- | ------ |  
+| movies and series                                                                      | director                       | year | status   |  
+| -------------------------------------------------------------------------------------- | ------------------------------ | ---- | -------- |  
+| Hedda Gabler                                   | <ul><li>Nick Wickham</li></ul> | 2017 | waiting  |  
+| The Guilty                                       | Gustav Möller                  | 2018 | finished |  
+| Louder Than Bombs                         | Joachim Trier                  | 2015 | finished |  
+| Thelma                                               | Joachim Trier                  | 2017 | finished |  
+| The Worst Person in the World | Joachim Trier                  | 2021 | finished |  
+| Oslo, August 31st                         | Joachim Trier                  | 2011 | waiting  |  
+| Dancer in the Dark                       | Lars von Trier                 | 2000 | waiting  |  
+| Antichrist                                       | Lars von Trier                 | 2009 | waiting  |  
+| Melancholia                                     | Lars von Trier                 | 2011 | waiting  |  
+| Nymphomaniac Vol. I                     | Lars von Trier                 | 2013 | waiting  |  
+| Nymphomaniac Vol. II                   | Lars von Trier                 | 2013 | waiting  |  
+| Land of Mine                                   | Martin Zandvliet               | 2015 | finished |  
+| Toves værelse                                 | Martin Zandvliet               | 2023 | waiting  |  
+| The Square                                       | Ruben Östlund                  | 2017 | finished |  
+| Triangle of Sadness                     | Ruben Östlund                  | 2022 | finished |  
+| Another Round                                 | Thomas Vinterberg              | 2020 | finished |  
   
   
 ### Theatre  
+- [ ] An Enemy of the People (En folkefiende) ⏳ 2024-10-25 #Nordic  
+    - [說真相的人—歐斯特麥耶與易卜生](%E8%AA%AA%E7%9C%9F%E7%9B%B8%E7%9A%84%E4%BA%BA%E2%80%94%E6%AD%90%E6%96%AF%E7%89%B9%E9%BA%A5%E8%80%B6%E8%88%87%E6%98%93%E5%8D%9C%E7%94%9F.md)  
+- [ ] [A Doll’s House](https://youtu.be/ZJDnHQT2BDk?si=46hlOMQIFB3Y-N3Z) #Nordic  
+    - [初讀劇作，易卜生《玩偶之家》](%E5%88%9D%E8%AE%80%E5%8A%87%E4%BD%9C%EF%BC%8C%E6%98%93%E5%8D%9C%E7%94%9F%E3%80%8A%E7%8E%A9%E5%81%B6%E4%B9%8B%E5%AE%B6%E3%80%8B.md)  
+- [ ] [Ghosts](https://youtu.be/wD-0oVTEuRk?si=KY3bYekb6ry8wFk7) #JudiDench #Nordic  
+- [ ] [The Master Builder](https://youtu.be/bFfYC4uK_ys?si=8sOFxnUHdpIdmLST) #MaggieSmith #Nordic  
+- [ ] [Hedda Gabler](http://www.ntathome.com/hedda-gabler) #Nordic  
   
   
 ## 語言與權力  
   
-<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">20</span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr></tbody></table></div>  
+| books                                                                              | author                                   | status      | own      |  
+| ---------------------------------------------------------------------------------- | ---------------------------------------- | ----------- | -------- |  
+| Speak Not                                           | James Griffiths                          | in progress | bought   |  
+| 語言學家解破台語                                             | 劉承賢                                      | in progress | bought   |  
+| How Propaganda Works                     | Jason Stanley                            | waiting     | borrowed |  
+| 活出語言來                                                   | Laura M. Ahearn                          | waiting     | borrowed |  
+| A Little Book of Language           | David Crystal                            | waiting     | bought   |  
+| Babel                                                   | Gaston Dorren                            | waiting     | bought   |  
+| Don't Sleep There Are Snakes     | Daniel L. Everett                        | waiting     | bought   |  
+| Cultish                                               | Amanda Montell                           | waiting     | bought   |  
+| English as a Global Language     | David Crystal                            | waiting     | bought   |  
+| In Other Words                                 | Jhumpa Lahiri                            | waiting     | bought   |  
+| Language and Power                         | Benedict R. O'G. Anderson                | waiting     | bought   |  
+| Language in Thought and Action | Samuel Ichiyé Hayakawa, Alan R. Hayakawa | waiting     | bought   |  
+| The Mother Tongue                           | Bill Bryson                              | waiting     | bought   |  
+| Through the Language Glass         | Guy Deutscher                            | waiting     | bought   |  
+| Word by Word                                     | Kory Stamper                             | waiting     | bought   |  
+| Words of Wonder                               | Nicholas Evans                           | waiting     | bought   |  
+| 台語解放記事：寫給台灣人的「華語腦」翻轉指南                 | 石牧民                                      | waiting     | bought   |  
+| 我說，所以我存在                                             | Kübra Gümüşay                            | waiting     | bought   |  
+| 一個被綁架的西方國家或中歐的悲劇                             | Milan Kundera                            | waiting     | bought   |  
+| 神與科學家的語言：拉丁文與其建構的帝國                       | Françoise Waquet                         | waiting     | bought   |  
+  
   
 | articles                                                                                                                        | author        | status      |  
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------- |  
