@@ -202,8 +202,8 @@ source: Pocket Medicine, 2022
   
 ## 抗病毒藥物  
   
-![d55d1b1ce05acde013ee2b1ff7f9e8a3_MD5.jpg](../assets/d55d1b1ce05acde013ee2b1ff7f9e8a3_MD5.jpg)  
-![0874b3cf27707835feac091cc97aad96_MD5.jpg](../assets/0874b3cf27707835feac091cc97aad96_MD5.jpg)  
+![FDC](../assets/d55d1b1ce05acde013ee2b1ff7f9e8a3_MD5.jpg)  
+![ART](../assets/0874b3cf27707835feac091cc97aad96_MD5.jpg)  
   
 [hiv-long-acting](./hiv-long-acting.md)  
 [prep](./prep.md)  
