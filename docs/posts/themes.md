@@ -41,74 +41,24 @@ aliases: themes
   
   
 ## 北歐  
-| books                                                              | author                                              | status   | own              |  
-| ------------------------------------------------------------------ | --------------------------------------------------- | -------- | ---------------- |  
-| 北歐不是神話                                 | Nikolai Brandal, Øivind Bratberg, Dag Einar Thorsen | waiting  | to buy or borrow |  
-| The Copenhagen Trilogy | Tove Ditlevsen                                      | finished | bought           |  
+| books | author | status | own |  
+| ----- | ------ | ------ | --- |  
   
   
-| articles                                                                                        | author     | status   |  
-| ----------------------------------------------------------------------------------------------- | ---------- | -------- |  
-| Tove Ditlevsen’s Art of Estrangement | Condé Nast | finished |  
-| 初讀劇作，易卜生《玩偶之家》                                             | Praise Chu | finished |  
-| 說真相的人—歐斯特麥耶與易卜生                                           | 耿一偉        | finished |  
+| articles | author | status |  
+| -------- | ------ | ------ |  
   
   
-| movies and series                                                                      | director                       | year | status   |  
-| -------------------------------------------------------------------------------------- | ------------------------------ | ---- | -------- |  
-| Hedda Gabler                                   | <ul><li>Nick Wickham</li></ul> | 2017 | waiting  |  
-| The Guilty                                       | Gustav Möller                  | 2018 | finished |  
-| Louder Than Bombs                         | Joachim Trier                  | 2015 | finished |  
-| Thelma                                               | Joachim Trier                  | 2017 | finished |  
-| The Worst Person in the World | Joachim Trier                  | 2021 | finished |  
-| Oslo, August 31st                         | Joachim Trier                  | 2011 | waiting  |  
-| Dancer in the Dark                       | Lars von Trier                 | 2000 | waiting  |  
-| Antichrist                                       | Lars von Trier                 | 2009 | waiting  |  
-| Melancholia                                     | Lars von Trier                 | 2011 | waiting  |  
-| Nymphomaniac Vol. II                   | Lars von Trier                 | 2013 | waiting  |  
-| Nymphomaniac Vol. I                     | Lars von Trier                 | 2013 | waiting  |  
-| Land of Mine                                   | Martin Zandvliet               | 2015 | finished |  
-| Toves værelse                                 | Martin Zandvliet               | 2023 | waiting  |  
-| The Square                                       | Ruben Östlund                  | 2017 | finished |  
-| Triangle of Sadness                     | Ruben Östlund                  | 2022 | finished |  
-| Another Round                                 | Thomas Vinterberg              | 2020 | finished |  
+| movies and series | director | year | status |  
+| ----------------- | -------- | ---- | ------ |  
   
   
 ### Theatre  
-- [ ] An Enemy of the People (En folkefiende) ⏳ 2024-10-25 #北歐  
-    - [說真相的人—歐斯特麥耶與易卜生](%E8%AA%AA%E7%9C%9F%E7%9B%B8%E7%9A%84%E4%BA%BA%E2%80%94%E6%AD%90%E6%96%AF%E7%89%B9%E9%BA%A5%E8%80%B6%E8%88%87%E6%98%93%E5%8D%9C%E7%94%9F.md)  
-- [ ] [A Doll’s House](https://youtu.be/ZJDnHQT2BDk?si=46hlOMQIFB3Y-N3Z) #北歐  
-    - [初讀劇作，易卜生《玩偶之家》](%E5%88%9D%E8%AE%80%E5%8A%87%E4%BD%9C%EF%BC%8C%E6%98%93%E5%8D%9C%E7%94%9F%E3%80%8A%E7%8E%A9%E5%81%B6%E4%B9%8B%E5%AE%B6%E3%80%8B.md)  
-- [ ] [Ghosts](https://youtu.be/wD-0oVTEuRk?si=KY3bYekb6ry8wFk7) #JudiDench #北歐  
-- [ ] [The Master Builder](https://youtu.be/bFfYC4uK_ys?si=8sOFxnUHdpIdmLST) #MaggieSmith #北歐  
-- [ ] [Hedda Gabler](http://www.ntathome.com/hedda-gabler) #北歐  
   
   
 ## 語言與權力  
   
-| books                                                                              | Chinese title                        | author                                   | status      | own      |  
-| ---------------------------------------------------------------------------------- | ------------------------------------ | ---------------------------------------- | ----------- | -------- |  
-| Speak Not                                           | 請說國語                                 | James Griffiths                          | in progress | bought   |  
-| 語言學家解破台語                                             | \-                                   | 劉承賢                                      | in progress | bought   |  
-| How Propaganda Works                     | 修辭的陷阱：為何政治包裝讓民主社會無法正確理解世界？           | Jason Stanley                            | waiting     | borrowed |  
-| 活出語言來                                                   | \-                                   | Laura M. Ahearn                          | waiting     | borrowed |  
-| A Little Book of Language           | 你從哪裡來? 一個字聽出你的故鄉                     | David Crystal                            | waiting     | bought   |  
-| Babel                                                   | 二十種語言，另眼看世界                          | Gaston Dorren                            | waiting     | bought   |  
-| Cultish                                               | 異教語言學                                | Amanda Montell                           | waiting     | bought   |  
-| Don't Sleep There Are Snakes     | 別睡，這裡有蛇！：一個語言學家在亞馬遜叢林                | Daniel L. Everett                        | waiting     | bought   |  
-| English as a Global Language     | 英語如何成為世界通用語言                         | David Crystal                            | waiting     | bought   |  
-| Language and Power                         | 語言與權力                                | Benedict R. O'G. Anderson                | waiting     | bought   |  
-| In Other Words                                 | 另一種語言                                | Jhumpa Lahiri                            | waiting     | bought   |  
-| Language in Thought and Action | 語言與人生：在說與聽之間，語言如何形塑人類思想、引發行動決策和價值判斷？ | Samuel Ichiyé Hayakawa, Alan R. Hayakawa | waiting     | bought   |  
-| The Mother Tongue                           | \-                                   | Bill Bryson                              | waiting     | bought   |  
-| Through the Language Glass         | 換了語言，就換了腦袋                           | Guy Deutscher                            | waiting     | bought   |  
-| Word by Word                                     | 為單字安排座位的人                            | Kory Stamper                             | waiting     | bought   |  
-| Words of Wonder                               | 一詞一宇宙：瀕危語言的低吟淺唱                      | Nicholas Evans                           | waiting     | bought   |  
-| 一個被綁架的西方國家或中歐的悲劇                             | \-                                   | Milan Kundera                            | waiting     | bought   |  
-| 台語解放記事：寫給台灣人的「華語腦」翻轉指南                 | \-                                   | 石牧民                                      | waiting     | bought   |  
-| 我說，所以我存在                                             | \-                                   | Kübra Gümüşay                            | waiting     | bought   |  
-| 神與科學家的語言：拉丁文與其建構的帝國                       | \-                                   | Françoise Waquet                         | waiting     | bought   |  
-  
+<div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span></span><span class="dataview small-text">20</span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th><th class="table-view-th"><span></span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr><tr><td><span></span></td><td><span></span></td><td><span></span></td><td><span></span></td></tr></tbody></table></div>  
   
 | articles                                                                                                                        | author        | status      |  
 | ------------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------- |  
@@ -147,11 +97,11 @@ aliases: themes
   
 | books                                                                                                | author                  | status  | own              |  
 | ---------------------------------------------------------------------------------------------------- | ----------------------- | ------- | ---------------- |  
+| I Iago                                                                   | Nicole Galland          | waiting | borrowed         |  
 | Shakespeare - The Word and the Action     | Peter Saccio            | waiting | borrowed         |  
 | William Shakespeare                                         | Peter Saccio            | waiting | borrowed         |  
-| I Iago                                                                   | Nicole Galland          | waiting | borrowed         |  
-| Tales from Shakespeare                                   | Charles Lamb, Mary Lamb | waiting | bought           |  
 | Shakespeare - The Man Who Pays the Rent | Judi Dench              | waiting | bought           |  
+| Tales from Shakespeare                                   | Charles Lamb, Mary Lamb | waiting | bought           |  
 | Hamnet                                                                   | Maggie O'Farrell        | waiting | to buy or borrow |  
   
   
@@ -188,10 +138,15 @@ aliases: themes
 | --------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------- |  
 | Andrew Scott Plays Every Part in ‘Vanya’                           | Houman Barekat | finished |  
 | Vanya review – Andrew Scott excels in one-man Chekhov | Arifa Akbar    | finished |  
+| 人生裡傷你最深的，通常是最微小的事 ──游孟儒、陳夏民談《凡尼亞舅舅》                                     | 沈眠             | finished |  
+| 凡尼亞本來就有黑暗毀滅性 《在車上》與契訶夫                                                               | 張亦絢            | finished |  
+| 邊喝茶邊抱怨人生—契訶夫《凡尼亞舅舅》                                                                     | Gem Wu         | finished |  
   
   
-| movies and series                                                | director                                               | cast                                                                        | year | status   |  
-| ---------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------- | ---- | -------- |  
-| The Cherry Orchard | <ul><li>Howard Davies</li><li>Ross MacGibbon</li></ul> | <ul><li>Zoë Wanamaker</li><li>Claudie Blakley</li><li>Mark Bonnar</li></ul> | 2011 | waiting  |  
-| Vanya                           | Sam Yates                                              | <ul><li>Andrew Scott</li></ul>                                              | 2024 | finished |  
+| movies and series                                                | director                                               | cast                                                                             | year | status   |  
+| ---------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------- | ---- | -------- |  
+| The Cherry Orchard | <ul><li>Howard Davies</li><li>Ross MacGibbon</li></ul> | <ul><li>Zoë Wanamaker</li><li>Claudie Blakley</li><li>Mark Bonnar</li></ul>      | 2011 | waiting  |  
+| The Seagull               | <ul><li>Jamie Lloyd</li></ul>                          | <ul><li>Jason Barnett</li><li>Emilia Clarke</li><li>Robert Glenister</li></ul>   | 2022 | waiting  |  
+| Drive My Car             | <ul><li>Ryûsuke Hamaguchi</li></ul>                    | <ul><li>Hidetoshi Nishijima</li><li>Tôko Miura</li><li>Reika Kirishima</li></ul> | 2021 | finished |  
+| Vanya                           | Sam Yates                                              | <ul><li>Andrew Scott</li></ul>                                                   | 2024 | finished |  
   

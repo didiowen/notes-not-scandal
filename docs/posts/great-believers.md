@@ -143,5 +143,5 @@ It’s mid-1980s Chicago, and young men — beautiful, recalcitrant boys, full o
   
 如果連這樣的小細節都如此真實，更遑論是作者蕾貝佳．馬凱耗時四年所調研的1980芝加哥，那黃金盛世卻被病毒摧毀的年代呢？  
   
-- [Surviving AIDS, but at What Cost](https://www.nytimes.com/2018/06/25/books/review/rebecca-makkai-great-believers.html)  
+- [Surviving AIDS, but at What Cost?](https://www.nytimes.com/2018/06/25/books/review/rebecca-makkai-great-believers.html)  
 - [How Rebecca Makkai Wrote 'The Great Believers'](https://chireviewofbooks.com/2018/06/19/great-believers-rebecca-makkai-interview/)
