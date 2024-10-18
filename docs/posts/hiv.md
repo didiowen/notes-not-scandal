@@ -1,6 +1,5 @@
 ---
 title: HIV/AIDS
-date: 2024-08-09
 status: in progress
 tags:
   - teaching
@@ -8,6 +7,9 @@ tags:
   - share
 share_link: https://share.note.sx/0sb83lcz#UzVR507MV4hD0CpZDEYviE/Gz53BYVPXKPClLBx5gUw
 share_updated: 2024-08-14T16:03:56+08:00
+date:
+  created: 2024-08-09T16:06:58
+  updated: 2024-10-18T13:27:26
 share: true
 categories:
   - medicine
