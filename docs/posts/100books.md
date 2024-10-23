@@ -731,4 +731,17 @@ Wilkerson’s intimate, stirring, meticulously researched and myth-dispelling bo
   
 Elena Ferrante; translated by Ann Goldstein 2012  
   
-The first volume of what would become Ferrante’s riveting four-book series of Neapolitan novels introduced readers to two girls growing up in a poor, violent neighborhood in Naples, Italy: the diligent, dutiful Elena and her charismatic, wilder friend Lila, who despite her fierce intelligence is seemingly constrained by her family’s meager means. From there the book (like the series as a whole) expands as propulsively as the early universe, encompassing ideas about art and politics, class and gender, philosophy and fate, all through a dedicated focus on the conflicted, competitive friendship between Elena and Lila as they grow into complicated adults. It’s impossible to say how closely the series tracks the author’s life — Ferrante writes under a pseudonym — but no matter: “My Brilliant Friend” is entrenched as one of the premier examples of so-called autofiction, a category that has dominated the literature of the 21st century. Reading this uncompromising, unforgettable novel is like riding a bike on gravel: It’s gritty and slippery and nerve-racking, all at the same time.
+The first volume of what would become Ferrante’s riveting four-book series of Neapolitan novels introduced readers to two girls growing up in a poor, violent neighborhood in Naples, Italy: the diligent, dutiful Elena and her charismatic, wilder friend Lila, who despite her fierce intelligence is seemingly constrained by her family’s meager means. From there the book (like the series as a whole) expands as propulsively as the early universe, encompassing ideas about art and politics, class and gender, philosophy and fate, all through a dedicated focus on the conflicted, competitive friendship between Elena and Lila as they grow into complicated adults. It’s impossible to say how closely the series tracks the author’s life — Ferrante writes under a pseudonym — but no matter: “My Brilliant Friend” is entrenched as one of the premier examples of so-called autofiction, a category that has dominated the literature of the 21st century. Reading this uncompromising, unforgettable novel is like riding a bike on gravel: It’s gritty and slippery and nerve-racking, all at the same time.  
+  
+```meta-bind-button  
+label: "Upload"  
+style: default  
+id: "upload"  
+actions:  
+  - type: updateMetadata  
+    bindTarget: date.updated  
+    evaluate: true  
+    value: moment().format("YYYY-MM-DDTHH:mm:ss")  
+  - type: command  
+    command: obsidian-mkdocs-publisher:share-one  
+```  
