@@ -299,4 +299,3 @@ aliases: themes
 | Breakfast on Pluto                                                             | <ul><li>Cillian Murphy</li><li>Morgan Jones</li><li>Eva Birthistle</li></ul>       | 2005      | finished    | 4      |  
 | The World to Come                                                               | <ul><li>Katherine Waterston</li><li>Vanessa Kirby</li><li>Casey Affleck</li></ul>  | 2020      | finished    | 3.5    |  
 | Thelma                                                                                     | <ul><li>Eili Harboe</li><li>Kaya Wilkins</li><li>Henrik Rafaelsen</li></ul>        | 2017      | finished    | 3.5    |  
-  
