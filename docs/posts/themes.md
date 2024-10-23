@@ -2,7 +2,7 @@
 title: Themes
 date:
   created: 2024-10-14T18:02:36
-  updated: 2024-10-23T15:40:06
+  updated: 2024-10-23T17:16:08
 tags: share
 share: true
 categories:
@@ -299,3 +299,17 @@ aliases: themes
 | Breakfast on Pluto                                                             | <ul><li>Cillian Murphy</li><li>Morgan Jones</li><li>Eva Birthistle</li></ul>       | 2005      | finished    | 4      |  
 | The World to Come                                                               | <ul><li>Katherine Waterston</li><li>Vanessa Kirby</li><li>Casey Affleck</li></ul>  | 2020      | finished    | 3.5    |  
 | Thelma                                                                                     | <ul><li>Eili Harboe</li><li>Kaya Wilkins</li><li>Henrik Rafaelsen</li></ul>        | 2017      | finished    | 3.5    |  
+  
+  
+```meta-bind-button  
+label: "Upload"  
+style: default  
+id: "upload"  
+actions:  
+  - type: updateMetadata  
+    bindTarget: date.updated  
+    evaluate: true  
+    value: moment().format("YYYY-MM-DDTHH:mm:ss")  
+  - type: command  
+    command: obsidian-mkdocs-publisher:share-one  
+```  
