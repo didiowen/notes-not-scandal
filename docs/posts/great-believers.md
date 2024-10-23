@@ -35,7 +35,7 @@ aliases: great-believers
 ## Quotes  
   
 >[!quote] Chapter 17  
->Depending on how close you were to someone, there were some people who drew you in, leaned on you, and you spent more time with them in those last months than you ever had before. There were also people who, if you were outside their closest circle, shut you out—not in an unkind way; it’s just that they didn’t need you. You’d been an interruption, you know. And I wasn’t in Julian’s tightest circle. And anyway, in the end, he shut everyone out. There was this competitive grieving thing that could happen. People would crowd into the hospital and stand around for days, sort of posturing—that sounds terrible, but it’s true. Not that they had bad intentions; it’s just that you always want to believe you were important in someone’s life. And sometimes, in the end, it turns out you aren’t.  
+>Depending on how close you were to someone, there were some people who drew you in, leaned on you, and you spent more time with them in those last months than you ever had before. There were also people who, if you were outside their closest circle, shut you out—not in an unkind way; it’s just that that they didn’t need you. You’d been an interruption, you know. And I wasn’t in Julian’s tightest circle. And anyway, in the end, he shut everyone out. There was this competitive grieving thing that could happen. People would crowd into the hospital and stand around for days, sort of posturing—that sounds terrible, but it’s true. Not that they had bad intentions; it’s just that you always want to believe you were important in someone’s life. And sometimes, in the end, it turns out you aren’t.  
   
 ## Posts  
   
