@@ -2,7 +2,7 @@
 title: Themes
 date:
   created: 2024-10-14T18:02:36
-  updated: 2024-10-23T17:16:08
+  updated: 2024-10-23T18:20:11
 tags: share
 share: true
 categories:
@@ -17,13 +17,13 @@ aliases: themes
 <!-- more -->  
   
 ## 毒與癮  
-| books                                                              | author               | status      | own      |  
-| ------------------------------------------------------------------ | -------------------- | ----------- | -------- |  
-| 我的涼山兄弟                                 | 劉紹華                  | in progress | bought   |  
-| Empire of Pain                 | Patrick Radden Keefe | finished    | borrowed |  
-| Narconomics                       | Tom Wainwright       | finished    | bought   |  
-| The Copenhagen Trilogy | Tove Ditlevsen       | finished    | bought   |  
-| 戒不掉的癮世代                               | 鄭進耀                  | finished    | bought   |  
+| books                                                              | author               | status      | own      | rating |  
+| ------------------------------------------------------------------ | -------------------- | ----------- | -------- | ------ |  
+| 我的涼山兄弟                                 | 劉紹華                  | in progress | bought   | \-     |  
+| Empire of Pain                 | Patrick Radden Keefe | finished    | borrowed | 4.5    |  
+| Narconomics                       | Tom Wainwright       | finished    | bought   | 4      |  
+| 戒不掉的癮世代                               | 鄭進耀                  | finished    | bought   | 3.5    |  
+| The Copenhagen Trilogy | Tove Ditlevsen       | finished    | bought   | 3      |  
   
   
 | articles                                                                                                            | author                                     | status  |  
@@ -32,12 +32,12 @@ aliases: themes
 | The Family That Built an Empire of Pain               | Patrick Radden Keefe                       | waiting |  
   
   
-| movies and series                                                                            | year | cast                                                                           | status   | platform |  
-| -------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------ | -------- | -------- |  
-| All the Beauty and the Bloodshed | 2022 | <ul><li>Nan Goldin</li><li>David Velasco</li><li>Megan Kapler</li></ul>        | waiting  | \-       |  
-| Beautiful Boy                                       | 2018 | <ul><li>Timothée Chalamet</li><li>Steve Carell</li><li>Maura Tierney</li></ul> | finished | \-       |  
-| Ben Is Back                                           | 2018 | <ul><li>Julia Roberts</li><li>Lucas Hedges</li><li>Courtney B. Vance</li></ul> | finished | \-       |  
-| Painkiller                                             | 2023 | <ul><li>Uzo Aduba</li><li>Matthew Broderick</li><li>Taylor Kitsch</li></ul>    | finished | Netflix  |  
+| movies and series                                                                            | year | cast                                                                           | status   | platform               |  
+| -------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------ | -------- | ---------------------- |  
+| All the Beauty and the Bloodshed | 2022 | <ul><li>Nan Goldin</li><li>David Velasco</li><li>Megan Kapler</li></ul>        | waiting  | <ul><li>Hami</li></ul> |  
+| Beautiful Boy                                       | 2018 | <ul><li>Timothée Chalamet</li><li>Steve Carell</li><li>Maura Tierney</li></ul> | finished | \-                     |  
+| Ben Is Back                                           | 2018 | <ul><li>Julia Roberts</li><li>Lucas Hedges</li><li>Courtney B. Vance</li></ul> | finished | \-                     |  
+| Painkiller                                             | 2023 | <ul><li>Uzo Aduba</li><li>Matthew Broderick</li><li>Taylor Kitsch</li></ul>    | finished | Netflix                |  
   
   
 ## 北歐  
@@ -207,6 +207,25 @@ aliases: themes
 | Vanya                           | Sam Yates                                              | <ul><li>Andrew Scott</li></ul>                                                   | 2024 | finished |  
   
   
+## Maggie Smith  
+  
+| articles                                                                                                                                                        | author                          | status   |  
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | -------- |  
+| Dame Maggie Smith obituary - A piercing presence on stage and screen | BBC                             | finished |  
+| Maggie Smith, Grande Dame of Stage and Screen, Dies at 89                       | Anita Gates and Robert Berkvist | finished |  
+  
+  
+| movies and series                                                                                      | year      | cast                                                                                                                                                                                                                   | status   | rating |  
+| ------------------------------------------------------------------------------------------------------ | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------ |  
+| Ladies in Lavender                                       | 2004      | <ul><li>Judi Dench</li><li>Maggie Smith</li><li>Daniel Brühl</li></ul>                                                                                                                                                 | waiting  | \-     |  
+| The Best Exotic Marigold Hotel               | 2011      | <ul><li>Judi Dench</li><li>Bill Nighy</li><li>Maggie Smith</li></ul>                                                                                                                                                   | waiting  | \-     |  
+| Fifty Years on Stage                                   | 2013      | <ul><li>Judi Dench</li><li>Maggie Smith</li><li>Helen Mirren</li><li>Simon Russell Beale</li><li>Michael Gambon</li><li>Ian McKellen</li><li>Ralph Fiennes</li><li>Benedict Cumberbatch</li><li>Andrew Scott</li></ul> | waiting  | \-     |  
+| The Second Best Exotic Marigold Hotel | 2015      | <ul><li>Judi Dench</li><li>Maggie Smith</li><li>Bill Nighy</li></ul>                                                                                                                                                   | waiting  | \-     |  
+| The Lady in the Van                                     | 2015      | <ul><li>Maggie Smith</li><li>Alex Jennings</li><li>Jim Broadbent</li></ul>                                                                                                                                             | waiting  | \-     |  
+| The Miracle Club                                           | 2023      | <ul><li>Maggie Smith</li><li>Laura Linney</li><li>Kathy Bates</li></ul>                                                                                                                                                | waiting  | \-     |  
+| Downton Abbey                                                 | 2010–2015 | <ul><li>Hugh Bonneville</li><li>Phyllis Logan</li><li>Elizabeth McGovern</li><li>Maggie Smith</li><li>Dan Stevens</li></ul>                                                                                            | finished | 5      |  
+| Tea With the Dames                                       | 2018      | <ul><li>Maggie Smith</li><li>Eileen Atkins</li><li>Judi Dench</li><li>Joan Plowright</li></ul>                                                                                                                         | finished | 4      |  
+  
   
 ## Ireland  
   
@@ -299,6 +318,7 @@ aliases: themes
 | Breakfast on Pluto                                                             | <ul><li>Cillian Murphy</li><li>Morgan Jones</li><li>Eva Birthistle</li></ul>       | 2005      | finished    | 4      |  
 | The World to Come                                                               | <ul><li>Katherine Waterston</li><li>Vanessa Kirby</li><li>Casey Affleck</li></ul>  | 2020      | finished    | 3.5    |  
 | Thelma                                                                                     | <ul><li>Eili Harboe</li><li>Kaya Wilkins</li><li>Henrik Rafaelsen</li></ul>        | 2017      | finished    | 3.5    |  
+  
   
   
 ```meta-bind-button  
