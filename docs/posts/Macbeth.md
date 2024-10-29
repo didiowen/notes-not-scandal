@@ -2,7 +2,7 @@
 title: 因果關係與業力引爆 - 馬克白
 date:
   created: 2024-10-29T17:06:46
-  updated: 2024-10-29T17:44:35
+  updated: 2024-10-29T17:58:25
 tags:
   - share
   - theatre
@@ -17,7 +17,7 @@ aliases: Macbeth
   
 ## 課前預習  
   
-[劇本](https://www.haodoo.net/?M=u&P=H1534:0&L=book&F=-1)  
+[中文劇本](https://www.haodoo.net/?M=u&P=H1534:0&L=book&F=-1)  
   
 <!-- more -->  
   
