@@ -2,13 +2,14 @@
 title: 誰是戀愛腦！- 海鷗、凡尼亞舅舅
 date:
   created: 2024-10-29T17:11:35
-  updated: 2024-10-29T17:51:39
+  updated: 2024-10-29T17:54:08
 tags:
   - share
   - theatre
   - Chekhov
 share: true
-categories: theatre
+categories:
+  - theatre
 aliases: Chekhov
 ---
 # 誰是戀愛腦！- 海鷗、凡尼亞舅舅  
