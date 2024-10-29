@@ -8,7 +8,9 @@ tags:
   - theatre
   - Shakespear
 share: true
-categories: theatre
+categories:
+  - theatre
+  - reading
 aliases: Macbeth
 ---
 # 因果關係與業力引爆 - 馬克白  
