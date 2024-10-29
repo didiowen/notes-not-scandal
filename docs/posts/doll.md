@@ -2,7 +2,7 @@
 title: 戲劇發生的場所 - 玩偶之家
 date:
   created: 2024-10-29T17:04:01
-  updated: 2024-10-29T17:38:46
+  updated: 2024-10-29T17:58:17
 tags:
   - theatre
   - Ibsen
@@ -18,6 +18,8 @@ aliases: doll
 # 戲劇發生的場所 - 玩偶之家  
   
 [中文劇本](https://drive.google.com/file/d/1ipUnuNF70G7YxiUlDkjbvPxImaWLOwMF/view?usp=drive_link)  
+  
+<!-- more -->  
   
 ## 補充影音資料  
   
