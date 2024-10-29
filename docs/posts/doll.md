@@ -10,7 +10,9 @@ tags:
   - share
 status: in progress
 share: true
-categories: theatre
+categories:
+  - theatre
+  - reading
 aliases: doll
 ---
 # 戲劇發生的場所 - 玩偶之家  
