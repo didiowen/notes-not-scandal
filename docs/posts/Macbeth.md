@@ -22,7 +22,7 @@ aliases: Macbeth
 完整影片：  
 [影片一 (Bob Jones University)](https://www.youtube.com/watch?v=ms5wRzOmqG8)  
 [影片二 (Folger Theatre and Two River Theater Company)](https://www.youtube.com/watch?v=1OU0cuGuPSk)  
-[影片三 (Ian McKellen & Judi Dench)](https://www.youtube.com/watch?v=IgEshHhnLqU)  
+- [ ] Macbeth (1979)  
   
 <!-- more -->  
   
@@ -33,8 +33,10 @@ aliases: Macbeth
 [The Morality of Murder | Barry 1x05](https://www.youtube.com/watch?v=o8RBXQJ2czA)  
 [My Lord, the Queen is Dead | Barry 1x07](https://www.youtube.com/watch?v=PSWcEn89qOY)  
   
-## Thoughts  
+## Related  
   
+- [x] Macbeth (2015)  
+- [ ] The Tragedy of Macbeth  
   
 ```meta-bind-button  
 label: "In Progress"  
