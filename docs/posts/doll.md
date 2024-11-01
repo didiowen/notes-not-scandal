@@ -33,6 +33,8 @@ aliases: doll
   
 另外對於《玩偶之家》的延伸觀影，可以看Kramer vs. Kramer。  
   
+## Thoughts  
+  
 ```meta-bind-button  
 label: "In Progress"  
 style: default  
