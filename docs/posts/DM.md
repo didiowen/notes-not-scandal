@@ -2,7 +2,7 @@
 title: DM
 date:
   created: 2024-11-01T11:03:45
-  updated: 2024-11-01T11:36:24
+  updated: 2024-11-01T11:41:59
 tags: share
 share: true
 categories:
@@ -44,6 +44,7 @@ alias: dm
 | 10      | 240 (193–282) | 13.4 (10.7–15.7) |  
 | 11      | 269 (217–314) | 14.9 (12.0–17.5) |  
 | 12      | 298 (240–347) | 16.5 (13.3–19.3) |  
+  
 [^3]: These estimates are based on ADAG data of ∼2,700 glucose measurements over 3 months per A1C measurement in 507 adults with type 1, type 2, or no diabetes. The correlation between A1C and average glucose was 0.92.  
   
 ## Management  
@@ -58,7 +59,7 @@ alias: dm
 [^4]: CGM may be used to assess glycemic status as noted in Recommendation 6.5b and **Fig. 6.1** . Goals should be individualized based on duration of diabetes, age/life expectancy, comorbid conditions, known CVD or advanced microvascular complications, hypoglycemia unawareness, and individual patient considerations (per **Fig. 6.2** ).  
 [^5]: Postprandial glucose may be targeted if A1C goals are not met despite reaching preprandial glucose goals. Postprandial glucose measurements should be made 1–2 h after the beginning of the meal, generally peak levels in people with diabetes.  
   
-#### Classification of hypoglycemia  
+### Classification of hypoglycemia  
   
 |         | Glycemic criteria/description                                                                                                                           |  
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |  
@@ -66,7 +67,7 @@ alias: dm
 | Level 2 | Glucose <54 mg/dL (<3.0 mmol/L)                                                                                                                         |  
 | Level 3 | A severe event characterized by altered mental and/or physical status requiring assistance for treatment of hypoglycemia, irrespective of glucose level |  
   
-#### Assessment of hypoglycemia risk among individuals treated with insulin, sulfonylureas, or meglitinides  
+### Assessment of hypoglycemia risk among individuals treated with insulin, sulfonylureas, or meglitinides  
   
 | Clinical/biological risk factors                                                                                                                                                                                                                                                                                                                                                            | Social, cultural, and economic risk factors                                                                                                  |  
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |  
