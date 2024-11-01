@@ -99,7 +99,11 @@ plugins:
 #      minify_js: true
 #      minify_css: true
 #  - glightbox
-#extra:
+extra:
+  social:
+  - icon: /fontawesome/regular/envelope
+    name: send me an email
+    link: mailto:<notes.awkward473@passinbox.com>
 #  SEO: assets/meta/SEO.png
 #  comments: $comments #disable comments globally
 #  generate_graph: $generate_graph #generate the graph of the site
