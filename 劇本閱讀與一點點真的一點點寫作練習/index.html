@@ -814,7 +814,7 @@
                       <li class="md-nav__item">
                         <div class="md-nav__link">
                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15 13h1.5v2.82l2.44 1.41-.75 1.3L15 16.69V13m4-5H5v11h4.67c-.43-.91-.67-1.93-.67-3a7 7 0 0 1 7-7c1.07 0 2.09.24 3 .67V8M5 21a2 2 0 0 1-2-2V5c0-1.11.89-2 2-2h1V1h2v2h8V1h2v2h1a2 2 0 0 1 2 2v6.1c1.24 1.26 2 2.99 2 4.9a7 7 0 0 1-7 7c-1.91 0-3.64-.76-4.9-2H5m11-9.85A4.85 4.85 0 0 0 11.15 16c0 2.68 2.17 4.85 4.85 4.85A4.85 4.85 0 0 0 20.85 16c0-2.68-2.17-4.85-4.85-4.85Z"/></svg>
-                          <time datetime="2024-11-01 13:46:12" class="md-ellipsis">November 1, 2024</time>
+                          <time datetime="2024-11-01 13:59:31" class="md-ellipsis">November 1, 2024</time>
                         </div>
                       </li>
                     
@@ -857,11 +857,22 @@
 <li>請大家自我介紹並向大家推薦一部最近看了有哭的作品  </li>
 </ul>
 </li>
-<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> 19:00-22:00 <a href="../theatre/%E6%88%B2%E5%8A%87%E7%99%BC%E7%94%9F%E7%9A%84%E5%A0%B4%E6%89%80---%E7%8E%A9%E5%81%B6%E4%B9%8B%E5%AE%B6/">doll</a> 🔽 ⏳ 2024-10-18 ✅ 2024-10-31  </li>
-<li>[/] 19:00-22:00 <a href="../theatre/%E5%9B%A0%E6%9E%9C%E9%97%9C%E4%BF%82%E8%88%87%E6%A5%AD%E5%8A%9B%E5%BC%95%E7%88%86---%E9%A6%AC%E5%85%8B%E7%99%BD/">Macbeth</a> 🔽 ⏳ 2024-10-25  </li>
-<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 19:00-22:00 <a href="../theatre/%E8%AA%B0%E6%98%AF%E6%88%80%E6%84%9B%E8%85%A6--%E6%B5%B7%E9%B7%97%E5%87%A1%E5%B0%BC%E4%BA%9E%E8%88%85%E8%88%85/">Chekhov</a> ⏳ 2024-11-01 🔽   </li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> 19:00-22:00 <a href="../theatre/%E6%88%B2%E5%8A%87%E7%99%BC%E7%94%9F%E7%9A%84%E5%A0%B4%E6%89%80---%E7%8E%A9%E5%81%B6%E4%B9%8B%E5%AE%B6/">戲劇發生的場所 - 玩偶之家</a> 🔽 ⏳ 2024-10-18 ✅ 2024-10-31  </li>
+<li>[/] 19:00-22:00 <a href="../theatre/%E5%9B%A0%E6%9E%9C%E9%97%9C%E4%BF%82%E8%88%87%E6%A5%AD%E5%8A%9B%E5%BC%95%E7%88%86---%E9%A6%AC%E5%85%8B%E7%99%BD/">因果關係與業力引爆 - 馬克白</a> 🔽 ⏳ 2024-10-25  </li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 19:00-22:00 <a href="../theatre/%E8%AA%B0%E6%98%AF%E6%88%80%E6%84%9B%E8%85%A6--%E6%B5%B7%E9%B7%97%E5%87%A1%E5%B0%BC%E4%BA%9E%E8%88%85%E8%88%85/">誰是戀愛腦！- 海鷗、凡尼亞舅舅</a> ⏳ 2024-11-01 🔽   </li>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 19:00-22:00 劇本的結構 - 捕鼠器 ⏳ 2024-11-08 🔽   </li>
 </ul>
+<div class="highlight"><pre><span></span><code>label: &quot;Upload&quot;  
+style: default  
+id: &quot;upload&quot;  
+actions:  
+  - type: updateMetadata  
+    bindTarget: date.updated  
+    evaluate: true  
+    value: moment().format(&quot;YYYY-MM-DDTHH:mm:ss&quot;)  
+  - type: command  
+    command: obsidian-mkdocs-publisher:share-one  
+</code></pre></div>
 
 
 
@@ -882,7 +893,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2024-11-01T05:50:17+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2024-11-01</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2024-11-01T05:59:37+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2024-11-01</span>
   </span>
 
     
