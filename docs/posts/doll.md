@@ -2,13 +2,14 @@
 title: 戲劇發生的場所 - 玩偶之家
 date:
   created: 2024-10-29T17:04:01
-  updated: 2024-10-29T17:58:17
+  updated: 2024-11-01T12:52:31
+  finished: 2024-11-01T12:51:55
 tags:
   - theatre
   - Ibsen
   - Nordic
   - share
-status: in progress
+status: finished
 share: true
 categories:
   - theatre
@@ -35,37 +36,8 @@ aliases: doll
   
 ## Thoughts  
   
-```meta-bind-button  
-label: "In Progress"  
-style: default  
-id: "progress"  
-hidden: true  
-actions:  
-  - type: updateMetadata  
-    bindTarget: status  
-    evaluate: false  
-    value: "in progress"  
-  - type: updateMetadata  
-    bindTarget: date.updated  
-    evaluate: true  
-    value: moment().format("YYYY-MM-DDTHH:mm:ss")  
-```  
-```meta-bind-button  
-label: "Finished"  
-style: default  
-id: "finished"  
-hidden: true  
-actions:  
-  - type: updateMetadata  
-    bindTarget: status  
-    evaluate: false  
-    value: "finished"  
-  - type: updateMetadata  
-    bindTarget: date.finished  
-    evaluate: true  
-    value: moment().format("YYYY-MM-DDTHH:mm:ss")  
-```  
-`BUTTON[progress, finished]`  
+  
+  
 ```meta-bind-button  
 label: "Upload"  
 style: default  
