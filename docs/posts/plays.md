@@ -6,7 +6,6 @@ tags:
   - reading
 teacher: 李屏瑤
 status: in progress
-same: "[[英國莎士比亞與當代展演]]"
 share: true
 category: theatre
 aliases: plays
@@ -28,7 +27,9 @@ date:
 - [/] 19:00-22:00 [因果關係與業力引爆 - 馬克白](./Macbeth.md) 🔽 ⏳ 2024-10-25  
 - [ ] 19:00-22:00 [誰是戀愛腦！- 海鷗、凡尼亞舅舅](./Chekhov.md) ⏳ 2024-11-01 🔽   
 - [ ] 19:00-22:00 劇本的結構 - 捕鼠器 ⏳ 2024-11-08 🔽   
-  
+
+<!-- more -->  
+
 ```meta-bind-button  
 label: "Upload"  
 style: default  
