@@ -10,6 +10,7 @@ tags:
 share: true
 categories:
   - theatre
+  - reading
 aliases: Chekhov
 ---
 # 誰是戀愛腦！- 海鷗、凡尼亞舅舅  
@@ -31,6 +32,7 @@ aliases: Chekhov
   
   
 ## Thoughts  
+  
   
 ```meta-bind-button  
 label: "In Progress"  
