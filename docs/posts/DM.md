@@ -2,7 +2,7 @@
 title: DM
 date:
   created: 2024-11-01T11:03:45
-  updated: 2024-11-01T11:35:25
+  updated: 2024-11-01T11:36:24
 tags: share
 share: true
 categories:
@@ -30,7 +30,7 @@ alias: dm
 * ==FPG 100 mg/dL (5.6 mmol/L) to 125 mg/dL (6.9 mmol/L)== (impaired fasting glucose, IFG) OR   
 * 2-h PG during 75-g OGTT 140 mg/dL (7.8 mmol/L) to 199 mg/dL (11.0 mmol/L) (impaired glucose tolerance, IGT)   
   
-![977e1b0da3ebf419bdcda9c3ca410203_MD5.jpeg](../assets/977e1b0da3ebf419bdcda9c3ca410203_MD5.jpeg)  
+![t1d](../assets/977e1b0da3ebf419bdcda9c3ca410203_MD5.jpeg)  
   
 ### Equivalent A1C levels and estimated average glucose (eAG)  
   
@@ -81,17 +81,17 @@ Major risk factors are those that have a consistent, independent association wit
 [^9]: Includes factors associated with low income, such as being underinsured or living in a socioeconomically deprived area.  
   
 ### Use of glucose-lowering medications in the management of type 2 diabetes  
-![6a7a537cb7d69b30d9b650d0a2863035_MD5.jpeg](../assets/6a7a537cb7d69b30d9b650d0a2863035_MD5.jpeg)  
+![use](../assets/6a7a537cb7d69b30d9b650d0a2863035_MD5.jpeg)  
 ACEi, angiotensin-converting enzyme inhibitor; ACR, albumin-to-creatinine ratio; ARB, angiotensin receptor blocker; ASCVD, atherosclerotic cardiovascular disease; CGM, continuous glucose monitoring; CKD, chronic kidney disease; CV, cardiovascular; CVD, cardiovascular disease; CVOT, cardiovascular outcomes trial; DPP-4i, dipeptidyl peptidase 4 inhibitor; eGFR, estimated glomerular filtration rate; GLP-1 RA, glucagon-like peptide 1 receptor agonist; HF, heart failure; HFpEF, heart failure with preserved ejection fraction; HFrEF, heart failure with reduced ejection fraction; HHF, hospitalization for heart failure; MACE, major adverse cardiovascular events; MI, myocardial infarction; SDOH, social determinants of health; SGLT2i, sodium-glucose cotransporter 2 inhibitor; T2D, type 2 diabetes; TZD, thiazolidinedione.  
   
 ### Medications for lowering glucose, summary of characteristics  
-![a630da28655f7698e758851431268660_MD5.jpeg](../assets/a630da28655f7698e758851431268660_MD5.jpeg)  
+![medications](../assets/a630da28655f7698e758851431268660_MD5.jpeg)  
 CV, cardiovascular; CVOT, cardiovascular outcomes trial; DKA, diabetic ketoacidosis; DKD, diabetic kidney disease; DPP-4, dipeptidyl peptidase 4; eGFR, estimated glomerular filtration rate; GI, gastrointestinal; GIP, glucose-dependent insulinotropic polypeptide; GLP-1 RA, glucagon-like peptide 1 receptor agonist; HF, heart failure; NASH, nonalcoholic steatohepatitis; MACE, major adverse cardiovascular events; SGLT2, sodium–glucose cotransporter 2; SQ, subcutaneous; T2DM, type 2 diabetes mellitus.  
   
 \*For agent-specific dosing recommendations, please refer to manufacturers’ prescribing information.  
   
 ### Intensifying to injectable therapies in type 2 diabetes  
-![28d9aeba6c333ef47557d09a6e7e9c09_MD5.jpeg](../assets/28d9aeba6c333ef47557d09a6e7e9c09_MD5.jpeg)  
+![intensifying](../assets/28d9aeba6c333ef47557d09a6e7e9c09_MD5.jpeg)  
 DSMES, diabetes self-management education and support; FPG, fasting plasma glucose; GLP-1 RA, glucagon-like peptide 1 receptor agonist; dual GIP and GLP-1 RA, dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide 1 receptor agonist; max, maximum; PPG, postprandial glucose.  
   
 ### Median cost of insulin products in the U.S. calculated as AWP and NADAC per 1,000 units of specified dosage form/product  
