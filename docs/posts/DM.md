@@ -11,6 +11,8 @@ alias: dm
 ---
 # DM  
   
+American Diabetes Association Professional Practice Committee, ElSayed, N.A., Aleppo, G., Bannuru, R.R., Beverly, E.A., et al. (2024) Summary of Revisions: _Standards of Care in Diabetes—2024_. _Diabetes Care_. 47 (Supplement_1), S5–S10. doi:[10.2337/dc24-SREV](https://doi.org/10.2337/dc24-SREV).  
+  
 ## Diagnosis  
 ### Criteria for the diagnosis of diabetes in nonpregnant individuals [^1]  
   
