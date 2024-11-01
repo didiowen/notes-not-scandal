@@ -12,7 +12,7 @@ category: theatre
 aliases: plays
 date:
   created: 2024-10-09T11:35:15
-  updated: 2024-11-01T13:56:21
+  updated: 2024-11-01T13:59:31
 ---
 # [劇本閱讀與一點點（真的一點點）寫作練習](https://yudian.org/learning/2024s4fri)  
   
