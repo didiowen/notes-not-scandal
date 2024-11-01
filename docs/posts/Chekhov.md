@@ -31,7 +31,10 @@ aliases: Chekhov
 ## 課後複習  
   
   
-## Thoughts  
+## Related  
+  
+- [x] Vanya  
+- [ ] Vanya  
   
   
 ```meta-bind-button  
