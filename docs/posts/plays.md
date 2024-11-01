@@ -5,14 +5,14 @@ tags:
   - theatre
   - reading
 teacher: 李屏瑤
-status: waiting
+status: in progress
 same: "[[英國莎士比亞與當代展演]]"
 share: true
 category: theatre
 aliases: plays
 date:
   created: 2024-10-09T11:35:15
-  updated: 2024-11-01T13:46:43
+  updated: 2024-11-01T13:56:21
 ---
 # [劇本閱讀與一點點（真的一點點）寫作練習](https://yudian.org/learning/2024s4fri)  
   
@@ -24,29 +24,11 @@ date:
   
 - [x] 19:00-22:00 劇本的現實與真實 🔽 ⏳ 2024-10-11 ✅ 2024-10-31  
 	- 請大家自我介紹並向大家推薦一部最近看了有哭的作品  
-- [x] 19:00-22:00 [doll](./doll.md) 🔽 ⏳ 2024-10-18 ✅ 2024-10-31  
-- [/] 19:00-22:00 [Macbeth](./Macbeth.md) 🔽 ⏳ 2024-10-25  
-- [ ] 19:00-22:00 [Chekhov](./Chekhov.md) ⏳ 2024-11-01 🔽   
+- [x] 19:00-22:00 [戲劇發生的場所 - 玩偶之家](./doll.md) 🔽 ⏳ 2024-10-18 ✅ 2024-10-31  
+- [/] 19:00-22:00 [因果關係與業力引爆 - 馬克白](./Macbeth.md) 🔽 ⏳ 2024-10-25  
+- [ ] 19:00-22:00 [誰是戀愛腦！- 海鷗、凡尼亞舅舅](./Chekhov.md) ⏳ 2024-11-01 🔽   
 - [ ] 19:00-22:00 劇本的結構 - 捕鼠器 ⏳ 2024-11-08 🔽   
   
-```meta-bind-button  
-label: "Share"  
-style: default  
-id: "share"  
-actions:  
-  - type: updateMetadata  
-    bindTarget: share  
-    evaluate: false  
-    value: true  
-  - type: updateMetadata  
-    bindTarget: category  
-    evaluate: false  
-    value: theatre  
-  - type: updateMetadata  
-    bindTarget: aliases  
-    evaluate: false  
-    value: plays  
-```  
 ```meta-bind-button  
 label: "Upload"  
 style: default  
