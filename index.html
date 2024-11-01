@@ -1041,34 +1041,6 @@
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 19:00-22:00 <a href="theatre/%E8%AA%B0%E6%98%AF%E6%88%80%E6%84%9B%E8%85%A6--%E6%B5%B7%E9%B7%97%E5%87%A1%E5%B0%BC%E4%BA%9E%E8%88%85%E8%88%85/">Chekhov</a> ⏳ 2024-11-01 🔽   </li>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 19:00-22:00 劇本的結構 - 捕鼠器 ⏳ 2024-11-08 🔽   </li>
 </ul>
-<p><div class="highlight"><pre><span></span><code>label: &quot;Share&quot;  
-style: default  
-id: &quot;share&quot;  
-actions:  
-  - type: updateMetadata  
-    bindTarget: share  
-    evaluate: false  
-    value: true  
-  - type: updateMetadata  
-    bindTarget: category  
-    evaluate: false  
-    value: theatre  
-  - type: updateMetadata  
-    bindTarget: aliases  
-    evaluate: false  
-    value: plays  
-</code></pre></div><br />
-<div class="highlight"><pre><span></span><code>label: &quot;Upload&quot;  
-style: default  
-id: &quot;upload&quot;  
-actions:  
-  - type: updateMetadata  
-    bindTarget: date.updated  
-    evaluate: true  
-    value: moment().format(&quot;YYYY-MM-DDTHH:mm:ss&quot;)  
-  - type: command  
-    command: obsidian-mkdocs-publisher:share-one  
-</code></pre></div></p>
     
   </div>
 </article>
