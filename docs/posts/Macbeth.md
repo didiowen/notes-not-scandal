@@ -2,7 +2,7 @@
 title: 因果關係與業力引爆 - 馬克白
 date:
   created: 2024-10-29T17:06:46
-  updated: 2024-11-01T12:51:28
+  updated: 2024-11-01T15:12:53
 tags:
   - share
   - theatre
@@ -12,6 +12,7 @@ categories:
   - theatre
   - reading
 aliases: Macbeth
+status: in progress
 ---
 # 因果關係與業力引爆 - 馬克白  
   
@@ -22,7 +23,7 @@ aliases: Macbeth
 完整影片：  
 [影片一 (Bob Jones University)](https://www.youtube.com/watch?v=ms5wRzOmqG8)  
 [影片二 (Folger Theatre and Two River Theater Company)](https://www.youtube.com/watch?v=1OU0cuGuPSk)  
-- [ ] Macbeth (1979)  
+[影片三 (Ian McKellen & Judi Dench)](https://www.youtube.com/watch?v=IgEshHhnLqU)  
   
 <!-- more -->  
   
@@ -38,26 +39,11 @@ aliases: Macbeth
 - [x] Macbeth (2015)  
 - [ ] The Tragedy of Macbeth  
   
-```meta-bind-button  
-label: "In Progress"  
-style: default  
-id: "progress"  
-hidden: true  
-actions:  
-  - type: updateMetadata  
-    bindTarget: status  
-    evaluate: false  
-    value: "in progress"  
-  - type: updateMetadata  
-    bindTarget: date.updated  
-    evaluate: true  
-    value: moment().format("YYYY-MM-DDTHH:mm:ss")  
-```  
+   
 ```meta-bind-button  
 label: "Finished"  
 style: default  
 id: "finished"  
-hidden: true  
 actions:  
   - type: updateMetadata  
     bindTarget: status  
@@ -67,8 +53,9 @@ actions:
     bindTarget: date.finished  
     evaluate: true  
     value: moment().format("YYYY-MM-DDTHH:mm:ss")  
+  - type: "replaceSelf"  
+    replacement: " "  
 ```  
-`BUTTON[progress, finished]`  
 ```meta-bind-button  
 label: "Upload"  
 style: default  
