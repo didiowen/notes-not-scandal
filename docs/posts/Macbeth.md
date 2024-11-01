@@ -2,7 +2,7 @@
 title: 因果關係與業力引爆 - 馬克白
 date:
   created: 2024-10-29T17:06:46
-  updated: 2024-10-29T17:58:25
+  updated: 2024-11-01T12:51:28
 tags:
   - share
   - theatre
@@ -19,12 +19,12 @@ aliases: Macbeth
   
 [中文劇本](https://www.haodoo.net/?M=u&P=H1534:0&L=book&F=-1)  
   
-<!-- more -->  
-  
 完整影片：  
-[影片一](https://www.youtube.com/watch?v=ms5wRzOmqG8)  
-[影片二](https://www.youtube.com/watch?v=1OU0cuGuPSk)  
-[影片三](https://www.youtube.com/watch?v=IgEshHhnLqU)  
+[影片一 (Bob Jones University)](https://www.youtube.com/watch?v=ms5wRzOmqG8)  
+[影片二 (Folger Theatre and Two River Theater Company)](https://www.youtube.com/watch?v=1OU0cuGuPSk)  
+[影片三 (Ian McKellen & Judi Dench)](https://www.youtube.com/watch?v=IgEshHhnLqU)  
+  
+<!-- more -->  
   
 ## 課後複習  
   
