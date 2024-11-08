@@ -45,8 +45,10 @@ source: Pocket Medicine, 2022; 台灣肺結核診治指引
 - TST硬結 ≥  5 mm 判定為陽性反應  
 - 在免疫功能不佳，如CD4 淋巴球數低於200 cells/μl 的感染者，在接受抗愛滋病毒藥物治療，並且CD4 淋巴球數增加到大於200 cells/μl 後，建議針對TST 及IGRA 原本呈現陰性反應的病人再做一次檢驗  
 - IGRA檢驗結果為陽性或不確定 (indeterminate, mitogen-nil <0.5)者，建議加入LTBI 治療  
-- 1HP + Biktarvy  
-- 3HP + DTG-based regimen  
+- Rifapentine 900 mg + isoniazid once weekly (3HP) 與 DTG 50 mg QD 合併使用，會減少 29% DTG濃度，不過病人血漿中愛滋病毒量依舊可以維持檢測不到。1HP 和含有雙倍劑量DTG 的抗病毒藥物組合併用，也能維持高比例病毒量低於 50 copies/ml。在台灣多中心推展含有 DTG (50 mg) 抗病毒藥物組合，做為穩定轉換治療處方，在合併 1HP 或者 3HP 時，都不至於影響1HP 或者 3HP 治療結束後愛滋病毒的持續控制。  
+- 根據臺大醫院針對 48 位併用BIC/FTC/TAF 與 1HP 的藥物濃度與病毒量控制的研究結果，rifapentine 會顯著降低BIC 濃度。但是對於 1HP 治療結束後，病毒量控制並沒有受到影響。多中心的觀察研究顯示，不論是 1HP 或者 3HP，併用 TAF/FTC/BIC 時，在LTBI 治療過程，或者 LTBI 治療結束時，都能維持高比例病毒量低於 50 copies/ml 或者 200 copies/ml。  
+- ==1HP + Biktarvy or DTG-based regimen==  
+- ==3HP + Biktarvy or DTG-based regimen==  
 - 3HR or 4R + DTG BID  
 - 9H  
   
@@ -57,7 +59,7 @@ source: Pocket Medicine, 2022; 台灣肺結核診治指引
 | PPD/IGRA ⊕ (regardless of HIV status)           | 1st line: Rifampin × 4 mo or INH/rifampin daily x 3 mos _or_ INH/rifapentine weekly × 12 wks) (_MMWR_ 2020; 69:1)<br><br>_Alternative:_ INH + vitamin B6 × 6-9 mos |  
 | Contact case known or suspected to have MDR TB) | No proven regimen: ? PZA + EMB, ? PZA + FQ                                                                                                                         |  
   
-![[../assets/bd7f12ffcc35dc33fb012a9b7608b2fb_MD5.jpeg|bd7f12ffcc35dc33fb012a9b7608b2fb_MD5.jpeg]]  
+![bd7f12ffcc35dc33fb012a9b7608b2fb_MD5.jpeg](../assets/bd7f12ffcc35dc33fb012a9b7608b2fb_MD5.jpeg)  
 [處方一覽](https://www.cdc.gov.tw/Uploads/5d904c41-4f75-4583-ba9e-f6d1a717d41a.pdf)  
   
 - ✓ LFTs monthly if receiving INH (risk ↑ w/ age; Chest 2005;128:116): if AST/ALT ↑ 5× ULN or sx (nausea, vomiting, abd pain) → stop TB meds & re-eval  
@@ -67,7 +69,7 @@ source: Pocket Medicine, 2022; 台灣肺結核診治指引
 	- HP FDC 劑型限於體重50 公斤(含)以上使用固定劑量(不依體重或年齡調整)，每次3 顆，共12 次。  
 - 1HP（每日1 次INH+RPT，共28 次）：僅使用於HIV 感染者及本署專案計畫  
   
-![[../assets/00746cd3d3ee095042d99b0177e04611_MD5.jpeg|ltbi_flowchart]]  
+![ltbi_flowchart](../assets/00746cd3d3ee095042d99b0177e04611_MD5.jpeg)  
   
 ## 副作用處理  
 - 肝炎(ALT >正常值5 倍或臨床有肝炎症狀且ALT>正常值3 倍)造成永久停藥有1%。以年齡層分析，20歲以下發生率非常低，小於0.3%；超過30歲發生比例超過2%，主要是60-69歲年齡層的發生率最高達4%。  
@@ -82,4 +84,4 @@ source: Pocket Medicine, 2022; 台灣肺結核診治指引
 - 各處方間若因副作用或其他因素，得相互轉換；除指標個案對原治療處方抗藥外，轉換後處方按已服用比例，接續服用滿該處方的療程，並儘可能不要短少。  
 	- [轉換處方試算表](https://www.cdc.gov.tw/Uploads/a3899e51-fc66-456d-b82e-0c452306a3b4.xlsx)  
   
-![[../assets/f968e0bffd0d8f16b606b10638da1012_MD5.jpeg|f968e0bffd0d8f16b606b10638da1012_MD5.jpeg]]
+![f968e0bffd0d8f16b606b10638da1012_MD5.jpeg](../assets/f968e0bffd0d8f16b606b10638da1012_MD5.jpeg)
