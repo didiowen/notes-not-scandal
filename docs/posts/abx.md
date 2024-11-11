@@ -16,7 +16,7 @@ aliases: abx
 ---
 # Antibiotics  
 ## 作用機制  
-![[../assets/d5cd1072950af118968f9283c66a7d7c_MD5.jpeg|mechanism]]  
+![mechanism](../assets/d5cd1072950af118968f9283c66a7d7c_MD5.jpeg)  
   
 <!-- more -->  
   
@@ -45,22 +45,16 @@ aliases: abx
 | Polymyxins (polymyxin B and polymyxin E [colistin])                                                        | Cell membrane          | Bind LPS and disrupt both outer and cytoplasmic membranes                                                                                                                | Altered cell-membrane charge with reduced drug binding                                                                                                                                 |  
 | Daptomycin                                                                                                 | Cell membrane          | Produces membrane channel and membrane leakage                                                                                                                           | Altered cell-membrane charge with reduced drug binding                                                                                                                                 |  
   
-### 抗藥性機轉  
-![[../assets/be7c385cf6d7376b54c4de4794df94d7_MD5.jpeg|resistance_zh]]  
-![[../assets/64e57133364b2f9716df1ac514b4d418_MD5.jpeg|resistance_en]]  
-### 藥物動力學  
+## 抗藥性機轉  
+![resistance_zh](../assets/be7c385cf6d7376b54c4de4794df94d7_MD5.jpeg)  
+![resistance_en](../assets/64e57133364b2f9716df1ac514b4d418_MD5.jpeg)  
   
-- 藥物動力學：描述藥物在體內的分布情況  
-- 藥效動力學：描述藥物作用於病原體的決定因素，並與藥物動力學因素相關  
-#### 濃度依賴型抗生素  
-這類抗生素多為抑制細菌蛋白質或核酸合成的抗生素，如aminoglycosides、fluoroquinolones，因其殺菌作用與血中濃度呈正比，為達最大之殺菌作用，建議抗生素之Cmax須高於MIC 4倍以上，且因其有抗生素後效應 (Post-antibiotic effect,PAE) 的特性，即便血中藥物濃度在給藥間隔期間內低於MIC，仍可維持一定的抗菌作用。因此採高劑量、延長給藥間隔的方式投予是比較理想的方式，once-daily  
-aminoglycoside的給藥模式即以此理念所發展。  
-#### 時間依賴型抗生素  
-這類抗生素多為beta-lactams類，如penicillin、cephalosporins。對penicillin和cephalosporins而言，血中藥物濃度>MIC的時間越長越能滲透體內組織，建議治療期間的血中濃度有50%以上的時間高於MIC，以達療效最大化、抗生素耐藥性最小化的目標。此類藥品以連續輸注或延長輸注時間的方式給藥，除了可穩定抗生素血中濃  
-度的變化、不增加重症患者AKI的發生率外，對整體的醫療照護支出費用也可顯著降低。  
-#### 曲線下面積/最低抑菌濃度相關  
-如vancomycin，建議血中藥物濃度之曲線下面積 (AUC) 與MIC比值達到400-600  
-mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。  
+## 藥物動力學 (Pharmakokinetics)  
+  
+* 描述藥物在體內的分布情況  
+  
+Drugs binding to serum proteins have a major influence on V$_d$ . Acidic drugs tend to bind to albumin and typically have lower V$_d$ values because they are retained in the plasma compartment. Basic drugs tend to bind to α 1 -acid glycoprotein and are retained within tissues leading to larger V$_d$ estimates. Protein binding is an important consideration for antimicrobial agents because unbound drug is available to exert antimicrobial activity, and in vitro methods used to assess potency through the MIC evaluate unbound drug.  
+  
 ### Penetration/Tissue concentration  
   
 - 過BBB: penicillin, ampicillin, oxacillin, 3rd-4th cephalosporins, moxifloxacin, vancomycin, chloramphenicol, rifampin, imipenem, meropenem, trimethoprim-sulfamethoxazole  
@@ -83,8 +77,29 @@ mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。
 | Cefuroxime            | 0.04-0.55                                        |  
 | Rifampin (rifampicin) | 0.08-0.57                                        |  
   
+## 藥效動力學 (Pharmakodynamics)  
+  
+- 描述藥物作用於病原體的決定因素，並與藥物動力學因素相關  
+  
+![PK-PD](../assets/0031631cc2db01c1b2049fdd7dc5c820_MD5.jpg)  
+  
+### 濃度依賴型抗生素  
+  
+這類抗生素多為抑制細菌蛋白質或核酸合成的抗生素，如aminoglycosides、fluoroquinolones，因其殺菌作用與血中濃度呈正比，為達最大之殺菌作用，建議抗生素之Cmax須高於MIC 4倍以上，且因其有抗生素後效應 (Post-antibiotic effect, PAE) 的特性，即便血中藥物濃度在給藥間隔期間內低於MIC，仍可維持一定的抗菌作用。因此採高劑量、延長給藥間隔的方式投予是比較理想的方式，once-daily aminoglycoside的給藥模式即以此理念所發展。  
+  
+### 時間依賴型抗生素  
+  
+這類抗生素多為beta-lactams類，如penicillin、cephalosporins。對penicillin和cephalosporins而言，血中藥物濃度>MIC的時間越長越能滲透體內組織，建議治療期間的血中濃度有50%以上的時間高於MIC，以達療效最大化、抗生素耐藥性最小化的目標。此類藥品以連續輸注或延長輸注時間的方式給藥，除了可穩定抗生素血中濃度的變化、不增加重症患者AKI的發生率外，對整體的醫療照護支出費用也可顯著降低。  
+  
+![continuous_infusion](../assets/7b65fa7dc1c088fde13f25ce0aa559f4_MD5.jpg)  
+### 曲線下面積/最低抑菌濃度相關  
+  
+如vancomycin，建議血中藥物濃度之曲線下面積 (AUC) 與MIC比值達到400-600  
+mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。  
+  
 ## 抗菌範圍  
-![[../assets/7e8b9088434a32c9d865e91bb156fd55_MD5.jpeg|spectrum]]  
+  
+![spectrum](../assets/7e8b9088434a32c9d865e91bb156fd55_MD5.jpeg)  
 [Source](http://charliekuo.com/?p=3114)  
   
 ### Anfi-fungals  
@@ -117,8 +132,9 @@ mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。
 | VRE                   | **linezolid**, daptomycin, tigecycline, fosfomycin                                                                                                                         |  
 | PRSP                  | ceftriaxone, vancomycin, teicoplanin, tigecycline                                                                                                                          |  
   
-![[../assets/24eb7434efb4ee8af42bd23d8cd5c0d2_MD5.jpeg|CRGN]]  
+![CRGN](../assets/24eb7434efb4ee8af42bd23d8cd5c0d2_MD5.jpeg)  
 ### 特殊細菌  
+  
 - Enterococcus: **ampicillin**; cephalosporins沒有效  
 - Listeria monocytogenes: **ampicillin**; linezolid, trimethoprim-sulfamethoxazole, penicillin, gentamicin  
 - Clostridioides difficile: metronidazole, vancomycin, fidaxomicin  
