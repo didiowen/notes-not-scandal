@@ -15,7 +15,7 @@ date:
   updated: 2024-11-07T11:57:36
   finished: 2024-11-06T20:56:34
 share: true
-categories: reading
+categories: [reading]
 aliases: anti-gravity
 ---
 # 反重力  
