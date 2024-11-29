@@ -69,9 +69,11 @@ It’s mid-1980s Chicago, and young men — beautiful, recalcitrant boys, full o
 上週，詹宏志在中央書局的直播說到，戰爭與愛情一樣，都不講是非對錯。費茲傑羅稱自己的同代人是The Great Believers，一起嘗過初春滋味的人，如今共同走在不足為外人道的漫長夏日風雨中，無法預知這樣的人生還有多漫長。  
   
 高潮像花一樣，物壯則老，盛極而衰。  
+  
 回首人生大部分的日子都是停滯不前的，你的薪水你的體重你的憂愁你的夢想，而且你還是拼盡全力才好不容易沒有崩落斷崖。  
   
-相信了什麼才稱得上是Great Believers?  
+相信了什麼才稱得上是Great Believers？  
+  
 幸運之子我提交給作者的譯文是Fortunate Sons。我說這個字就像原文書名一樣，egregious hopeful。然後這個書名送審過了。  
   
 如果你曾經相信自己很幸運。我覺得你一定會喜歡這本書。今天上市了。  
@@ -79,6 +81,7 @@ It’s mid-1980s Chicago, and young men — beautiful, recalcitrant boys, full o
 戰爭和愛情都沒有對錯，無論你是個戰士，還是個無可救藥的愛人，你都會找到答案。  
   
 打碎我們的東西，往往不是我們想的那樣。  
+  
 有時一本書就是能給你答案讓你活下去。多幸運。  
   
 ### [靜靜的生活](https://www.facebook.com/share/p/fRLRLSQxWwtndXEs/?)  
