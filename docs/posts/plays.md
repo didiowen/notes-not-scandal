@@ -3,7 +3,6 @@ title: 劇本閱讀與一點點（真的一點點）寫作練習
 tags:
   - map
   - theatre
-  - reading
 teacher: 李屏瑤
 status: in progress
 share: true

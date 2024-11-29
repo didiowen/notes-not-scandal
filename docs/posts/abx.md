@@ -132,6 +132,7 @@ mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。
 | VRE                   | **linezolid**, daptomycin, tigecycline, fosfomycin                                                                                                                         |  
 | PRSP                  | ceftriaxone, vancomycin, teicoplanin, tigecycline                                                                                                                          |  
   
+![18f9911ae8d5eb922dd432ddff4005a7_MD5.jpg](../assets/18f9911ae8d5eb922dd432ddff4005a7_MD5.jpg)  
 ![CRGN](../assets/24eb7434efb4ee8af42bd23d8cd5c0d2_MD5.jpeg)  
 ### 特殊細菌  
   

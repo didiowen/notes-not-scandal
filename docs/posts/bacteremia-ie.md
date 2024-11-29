@@ -60,6 +60,9 @@ source: Pocket Medicine, 2022
 | **酵母菌**            | 移除 CVC 並治療 14 天，從第一次血液培養陰性開始計算。進行感染科會診與降低死亡率相關。                                                                                                                                                                                               |  
 - 持續血液培養陽性：移除 CVC，尋找轉移性感染（心內膜炎、感染性關節炎、骨髓炎）、感染性血栓或人工植入物（血管植入物、節律器）  
   
+![SA-1](../assets/5ed49349e45f76357b5a4958d24356be_MD5.jpeg)  
+![SA-2](../assets/f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg)  
+  
 # 細菌性心內膜炎  
   
 ## 定義  
@@ -108,7 +111,7 @@ source: Pocket Medicine, 2022
 - 神經學異常可能提示栓塞性中風；脊柱壓痛可能提示骨髓炎或硬膜外膿瘍  
 - 植入裝置：評估中央靜脈導管（CVC）、節律器（PM）/植入型心臟整流去顫器（ICD）部位，及其他人工植入物的部位  
   
-![[../assets/9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg|9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg]]  
+![9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg](../assets/9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg)  
   
 ## 診斷 (CID 2010;51:131; EHJ 2015;36:3075; Circ 2015;132:1435)  
   
@@ -185,7 +188,7 @@ source: Pocket Medicine, 2022
 | **預防方案**  | 口服：amoxicillin 2 g，手術前 30-60 分鐘<br><br>無法口服者：ampicillin 2 g IM/IV 或 cefazolin or ceftriaxone 1 g IM/IV<br><br>對 PCN 過敏者：cephalexin or azithromycin or clarithomycin or doxycycline |  
 ^患者應同時符合兩個適應症（高風險病變和高風險手術）才能進行預防  
   
-Original: [[Bacteremia and IE|Bacteremia and IE]]  
+Original: Bacteremia and IE  
   
 # 考古題  
 ## 專師  
