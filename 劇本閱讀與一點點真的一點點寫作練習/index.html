@@ -882,22 +882,47 @@
 <li>請大家自我介紹並向大家推薦一部最近看了有哭的作品  </li>
 </ul>
 </li>
-<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> 19:00-22:00 <a href="../theatre/%E6%88%B2%E5%8A%87%E7%99%BC%E7%94%9F%E7%9A%84%E5%A0%B4%E6%89%80---%E7%8E%A9%E5%81%B6%E4%B9%8B%E5%AE%B6/">戲劇發生的場所 - 玩偶之家</a> 🔽 ⏳ 2024-10-18 ✅ 2024-10-31  </li>
-<li>[/] 19:00-22:00 <a href="../theatre/%E5%9B%A0%E6%9E%9C%E9%97%9C%E4%BF%82%E8%88%87%E6%A5%AD%E5%8A%9B%E5%BC%95%E7%88%86---%E9%A6%AC%E5%85%8B%E7%99%BD/">因果關係與業力引爆 - 馬克白</a> 🔽 ⏳ 2024-10-25  </li>
-<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 19:00-22:00 <a href="../theatre/%E8%AA%B0%E6%98%AF%E6%88%80%E6%84%9B%E8%85%A6--%E6%B5%B7%E9%B7%97%E5%87%A1%E5%B0%BC%E4%BA%9E%E8%88%85%E8%88%85/">誰是戀愛腦！- 海鷗、凡尼亞舅舅</a> ⏳ 2024-11-01 🔽   </li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> 19:00-22:00 doll 🔽 ⏳ 2024-10-18 ✅ 2024-10-31  </li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled checked/><span class="task-list-indicator"></span></label> 19:00-22:00 Macbeth 🔽 ⏳ 2024-10-25 ✅ 2024-12-09  </li>
+<li>[/] 19:00-22:00 Chekhov 🔽 ⏳ 2024-11-01  </li>
 <li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 19:00-22:00 劇本的結構 - 捕鼠器 ⏳ 2024-11-08 🔽   </li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 19:00-22:00 如何讓衝突節節上升 🔽 ⏳ 2024-11-22  </li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 19:00-22:00 建立一個可信的人物。參考作品：田納西・威廉斯《玻璃動物園》、文斯・吉力根《絕命毒師》 🔽 ⏳ 2024-11-29  </li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 19:00-22:00 性格決定命運？參考作品：莎士比亞《李爾王》、盧熙京《我們的藍調時光》 🔽 ⏳ 2024-12-06  </li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 19:00-22:00 改編的載體。參考作品：濱口龍介《在車上》、契訶夫《凡尼亞舅舅》、村上春樹〈Drive My Car〉 🔽 ⏳ 2024-12-13  </li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 19:00-22:00 記憶與遺忘。參考作品：索福克里斯《安蒂岡妮》、莊梅岩《五月三十五日》 🔽 ⏳ 2024-12-20  </li>
+<li class="task-list-item"><label class="task-list-control"><input type="checkbox" disabled/><span class="task-list-indicator"></span></label> 19:00-22:00 作品的核心。參考作品：契訶夫《櫻桃園》、簡莉穎《全國最多賓士車的小鎮住著三姐妹（和她們的Brother）》 🔽 ⏳ 2024-12-27  </li>
 </ul>
-<div class="highlight"><pre><span></span><code>label: &quot;Upload&quot;  
+<p><div class="highlight"><pre><span></span><code>label: &quot;In Progress&quot;  
 style: default  
-id: &quot;upload&quot;  
+id: &quot;progress&quot;  
 actions:  
+  - type: updateMetadata  
+    bindTarget: status  
+    evaluate: false  
+    value: &quot;in progress&quot;  
   - type: updateMetadata  
     bindTarget: date.updated  
     evaluate: true  
     value: moment().format(&quot;YYYY-MM-DDTHH:mm:ss&quot;)  
-  - type: command  
-    command: obsidian-mkdocs-publisher:share-one  
-</code></pre></div>
+  - type: &quot;replaceSelf&quot;  
+    replacement: &quot; &quot;  
+</code></pre></div><br />
+<div class="highlight"><pre><span></span><code>label: &quot;Finished&quot;  
+style: default  
+id: &quot;finished&quot;  
+actions:  
+  - type: updateMetadata  
+    bindTarget: status  
+    evaluate: false  
+    value: &quot;finished&quot;  
+  - type: updateMetadata  
+    bindTarget: date.finished  
+    evaluate: true  
+    value: moment().format(&quot;YYYY-MM-DDTHH:mm:ss&quot;)  
+  - type: &quot;replaceSelf&quot;  
+    replacement: &quot; &quot;      
+</code></pre></div></p>
 
 
 
@@ -918,7 +943,7 @@ actions:
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2024-11-29T07:32:58+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2024-11-29</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-02-18T02:18:01+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-02-18</span>
   </span>
 
     
