@@ -13,6 +13,7 @@ alias: ceftaroline
 status: finished
 ---
 # Ceftaroline  
+  
 [Source](https: //www.nhi.gov.tw/ch/np-2505-1.html)  
   
 <!-- more -->  
