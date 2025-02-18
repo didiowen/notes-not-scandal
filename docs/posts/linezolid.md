@@ -13,6 +13,8 @@ aliases: linezolid
 # Linezolid健保給付條件  
 [Source](https: //www.nhi.gov.tw/ch/np-2505-1.html)  
   
+<!-- more -->  
+  
 - 限下列條件之一使用：  
   
 	- 確定或高度懷疑為MRSA 肺炎（痰液培養出MRSA，伴隨全身發炎反應，且CXR 出現新的浸潤或痰液性狀改變或氧氣需求增加），並符合下列危險因子之一：（105/2/1、108/4/1）  
