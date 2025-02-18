@@ -451,7 +451,7 @@ Helen Macdonald 2015
 I read “H Is for Hawk” when I was writing my own memoir, and it awakened me to the power of the genre. It is a book supposedly about training a hawk named Mabel but really about wonder and loss, discovery and death. We discover a thing, then we lose it. The discovering and the losing are two halves of the same whole. Macdonald knows this and she shows us, weaving the loss of her father through the partial taming (and taming is always partial) of this hawk. — Tara Westover, author of “Educated”  
   
 ## 39  
-### A Visit From the Goon Squad  
+### A Visit from the Goon Squad  
   
 Jennifer Egan 2010  
   
@@ -516,7 +516,7 @@ Zadie Smith 2000
 “Full stories are as rare as honesty,” one character confides in “White Teeth,” though Smith’s debut novel, in all its chaotic, prismatic glory, does its level best to try. As her bravura book unfurls, its central narrative of a friendship between a white Londoner and a Bengali Muslim seems to divide and regenerate like starfish limbs; and so, in one stroke, a literary supernova was born.  
   
 ## 30  
-### Sing, Unburied, Sing  
+### Sing Unburied Sing  
   
 Jesmyn Ward 2017  
   
@@ -637,7 +637,7 @@ Rachel Cusk 2015
 This novel is the first and best in Cusk’s philosophical, unsettling and semi-autobiographical Outline trilogy, which also includes the novels “Transit” and “Kudos.” In this one an English writer flies to Athens to teach at a workshop. Along the way, and once there, she falls into intense and resonant conversations about art, intimacy, life and love. Cusk deals, brilliantly, in uncomfortable truths. — Dwight Garner  
      
 ## 13  
-### The Road  
+### [The Road](The%20Road.md)  
   
 Cormac McCarthy 2006  
   
