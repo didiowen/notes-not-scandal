@@ -1,0 +1,87 @@
+---
+date:
+  created: 2025-03-06T17:18:39
+  updated: NaN
+tags: share
+share: true
+categories:
+  - medicine
+  - hiv
+alias: hiv-vaccine
+---
+# HIV Vaccination  
+  
+- 建議每年施打一劑流行性感冒疫苗  
+  
+<!-- more -->  
+## Adult  
+### PPV  
+- 所有愛滋病患都建議施打肺炎球菌疫苗  
+    - 從未接種過肺炎鏈球菌疫苗的成人：**PCV13 x 1**，之後追加情況如下：  
+        - CD4 count ≥200 cells/μL: 打完後至少**8週**，再追加PPV23  
+        - CD4 count <200 cells/μL: 打完後至少8週再追加PPV23，如果可行，PPV23最好等到使用抗病毒藥物後，待CD4 **>200** cells/μL時再施打  
+    - 曾經接種過PPV23疫苗的成人：  
+        - PCV13建議需施打，並且和最後一劑PPV23施打時間需間隔**一年**以上再給予  
+        - 若欲追加PPV23，每劑PPV23之間相隔需超過**5年**，一生中施打PPV23不要超過**三劑**  
+### Zoster  
+- Shingrix為非活性重組疫苗 (recombinant zoster vaccine)，在年紀**50歲以上**的愛滋病毒感染病患，不管CD4數多少都可施打（2劑，間隔6週）  
+- **Zostavax**為活性減毒疫苗 (live-attenuated vaccine)，在CD4數**小於200 cells/μL**的病患為禁忌症  
+### MMR  
+- CD4≥15%和CD4≥200 cells/µL，無明顯臨床免疫缺陷病症者可施打  
+## Children  
+  
+- 針對愛滋媽媽生下的疑似愛滋感染嬰幼兒，在其檢驗確定是否有感染以前，非活性疫苗之接種時程與一般嬰兒無異，活性疫苗除**口服輪狀病毒疫苗可以照正常時間給予以外**，其他包括卡介苗、麻疹-德國麻疹-腮腺炎疫苗、與水痘疫苗皆應在HIV NAT檢驗流程**確定為陰性**以後再給予  
+    - 疑似愛滋感染嬰幼兒的愛滋病毒檢驗時程近似於常規疫苗接種時程，可以安排在**接種疫苗時一併檢驗HIV NAT**，以增加順從率  
+    - 若有非活性疫苗可選擇，則不用活性減毒疫苗，例如口服小兒麻痺疫苗應改用注射不活性小兒麻痺疫苗；**確定感染的愛滋病童不應給予卡介苗**；免疫功能已出現嚴重低下者不應給予痲疹、腮腺炎、德國麻疹、水痘、活性日本腦炎等**活性減毒疫苗**  
+    - 另一方面，愛滋病毒帶原者對疫苗無法產生終生免疫，疫苗效果可能只持續短暫期間。由於**麻疹**疫苗於愛滋病毒感染兒的效果不佳，所以接種過的病童一旦接觸麻疹，仍應視情況接受**免疫球蛋白**的治療；接觸**水痘**、**破傷風**的考慮亦相同  
+- 疑似愛滋感染嬰幼兒的哥哥姐姐等家人，則依其家人本身免疫力決定是否施打疫苗。若免疫力正常，應按時接種各種疫苗，包括活性減毒的卡介苗、麻疹-德國麻疹-腮腺炎疫苗，和水痘疫苗等。一般而言，**家人施打疫苗中，並不會由家人接種者傳染疫苗的病毒或細菌給疑似愛滋感染嬰幼兒**，反而可因家人免於感染而間接保護這些寶寶  
+    - 若父母或其他同住的家人是愛滋病毒**帶原者**，家裡的小孩也不能接種口服小兒麻痺減毒疫苗，因為小兒麻痺病毒可以由小孩傳染給父母，有引起父母罹患小兒麻痺的顧慮  
+### Varicella  
+- 愛滋病毒感染的小孩在CD4百分比>15%時，可以安全地使用活性減毒水痘疫苗（Varivax，2劑，間隔3個月）  
+- 假如病患>8歲，CD4 **>200** cells/μL且合併VZV血清陰性反應時，可考慮施打Varivax水痘疫苗  
+  
+  
+```meta-bind-button  
+label: "In Progress"  
+style: default  
+id: "progress"  
+actions:  
+  - type: updateMetadata  
+    bindTarget: status  
+    evaluate: false  
+    value: "in progress"  
+  - type: updateMetadata  
+    bindTarget: date.updated  
+    evaluate: true  
+    value: moment().format("YYYY-MM-DDTHH:mm:ss")  
+  - type: "replaceSelf"  
+    replacement: " "  
+```  
+```meta-bind-button  
+label: "Finished"  
+style: default  
+id: "finished"  
+actions:  
+  - type: updateMetadata  
+    bindTarget: status  
+    evaluate: false  
+    value: "finished"  
+  - type: updateMetadata  
+    bindTarget: date.finished  
+    evaluate: true  
+    value: moment().format("YYYY-MM-DDTHH:mm:ss")  
+  - type: "replaceSelf"  
+    replacement: " "      
+```  
+```meta-bind-button  
+label: "Upload"  
+style: default  
+id: "upload"  
+actions:  
+  - type: updateMetadata  
+    bindTarget: date.updated  
+    evaluate: true  
+    value: moment().format("YYYY-MM-DDTHH:mm:ss")  
+  - type: command  
+    command: obsidian-mkdocs-publisher:share-one  
+```
