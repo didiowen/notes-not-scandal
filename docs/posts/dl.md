@@ -11,7 +11,7 @@ aliases: dl
 ---
 # Dyslipidemia何時要治療  
   
-![[../assets/Dyslipidemia.png|Dyslipidemia.png]]  
+![Dyslipidemia.png](../assets/Dyslipidemia.png)  
 <!-- more -->  
   
 * 心血管疾病定義：  
@@ -27,7 +27,7 @@ aliases: dl
 	4. HDL-C<40mg/dL  
 	5. 吸菸（因吸菸而符合起步治療準則之個案，若未戒菸而要求藥物治療，應以自費治療）  
   
-![[../assets/Dyslipidemia-1.png|Dyslipidemia-1.png]]  
+![Dyslipidemia-1.png](../assets/Dyslipidemia-1.png)  
   
 ## Ezetimibe  
   
@@ -40,6 +40,6 @@ aliases: dl
 1. 限用於原發性高膽固醇血症、同型接合子家族性高膽固醇血症 (HOFH) 病患並符合全民健康保險降血脂藥物給付規定表，經使用statin類藥品單一治療3個月未達治療目標者。  
 2. 本品不得與gemfibrozil併用。  
   
-![[../assets/Dyslipidemia-2.png|Dyslipidemia-2.png]]  
-![[../assets/statin-1.jpg|statin-1.jpg]]  
-![[../assets/statin-2.png|statin-2.png]]
+![Dyslipidemia-2.png](../assets/Dyslipidemia-2.png)  
+![statin-1.jpg](../assets/statin-1.jpg)  
+![statin-2.png](../assets/statin-2.png)
