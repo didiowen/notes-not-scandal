@@ -2,7 +2,7 @@
 title: Treatment of MDR Gram-negative bacilli
 date:
   created: 2025-03-06T15:25:16
-  updated: 2025-03-06T15:37:29
+  updated: 2025-03-06T15:40:49
   finished: 2025-03-06T15:37:26
 tags: share
 share: true
@@ -15,7 +15,7 @@ status: finished
 # Treatment of MDR Gram-negative bacilli  
   
 ![f3b5d87da5acf2c8d79ff55edb954115_MD5.jpeg](../assets/f3b5d87da5acf2c8d79ff55edb954115_MD5.jpeg)  
-> Green, susceptibility anticipated to be >80%; yellow, susceptibility anticipated to be 30% to 80%; red, intrinsic resistance or susceptibility anticipated to be <30%. 1, US Food and Drug Administration–approved agent; 2, synthetic tetracycline derivative; 3, imipenem-cilastatin–relebactam; 4, synthetic aminoglycoside; 5, polymyxin class. Abbreviations: KPC, Klebsiella pneumoniae carbapenemase; NDM, New Delhi metallo-β-lactamase. [@Tamma2024InfectiousDiseases]  
+> Green, susceptibility anticipated to be >80%; yellow, susceptibility anticipated to be 30% to 80%; red, intrinsic resistance or susceptibility anticipated to be <30%. 1, US Food and Drug Administration–approved agent; 2, synthetic tetracycline derivative; 3, imipenem-cilastatin–relebactam; 4, synthetic aminoglycoside; 5, polymyxin class. Abbreviations: KPC, Klebsiella pneumoniae carbapenemase; NDM, New Delhi metallo-β-lactamase. (Tamma et al., 2024)  
   
 <!-- more -->  
   
@@ -83,6 +83,10 @@ status: finished
 - Levofloxacin (750mg QD)  
 - High-dose minocycline (200mg Q12H)  
 - Cefiderocol  
+  
+## Reference  
+  
+Tamma, P.D., Heil, E.L., Justo, J.A., Mathers, A.J., Satlin, M.J. & Bonomo, R.A. (2024) Infectious Diseases Society of America 2024 Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections. _Clinical Infectious Diseases_. ciae403. doi:[10.1093/cid/ciae403](https://doi.org/10.1093/cid/ciae403).  
   
    
 ```meta-bind-button  
