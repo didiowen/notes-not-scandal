@@ -26,5 +26,5 @@ source: Pocket Medicine, 2022
 | **Organ dysfunction**                                                                                                 | **Liver (esp. cirrhosis):** _Vibrio_ spp., encapsulated bacteria<br><br>**ESRD:** impaired granulocyte fxn and CMI as above<br><br>Iron overload (or deferoxamine Rx): _Yersinia_, _Zygomycetes_                                                                                                                                                                                                                                         |  
 | **Biologics** (eg, TNF inhibitors, anti-B-cell Rx; ✓ for TB before starting)                                          | **Bacteria:** sepsis, septic arthritis, TB, NTM, _Listeria_, _Legionella_<br><br>**Fungi:** _Pneumocystis, Histo, Coccidio, Aspergillus_, endemic fungi<br><br>**Viruses:** JC virus (PML), EBV, HSV, VZV, HBV<br><br>**Parasites:** _Strongyloides_ reactivation                                                                                                                                                                        |  
   
-![[../assets/a8439db2dc518672d41f2dc580136fa6_MD5.jpeg|a8439db2dc518672d41f2dc580136fa6_MD5.jpeg]]  
-![[../assets/9ff656eb9365abfc4fd35d7835ffd4d5_MD5.jpeg|9ff656eb9365abfc4fd35d7835ffd4d5_MD5.jpeg]]
+![a8439db2dc518672d41f2dc580136fa6_MD5.jpeg](../assets/a8439db2dc518672d41f2dc580136fa6_MD5.jpeg)  
+![9ff656eb9365abfc4fd35d7835ffd4d5_MD5.jpeg](../assets/9ff656eb9365abfc4fd35d7835ffd4d5_MD5.jpeg)
