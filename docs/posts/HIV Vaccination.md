@@ -1,13 +1,15 @@
 ---
 date:
   created: 2025-03-06T17:18:39
-  updated: NaN
+  updated: 2025-03-07T11:42:42
+  finished: 2025-03-07T11:42:44
 tags: share
 share: true
 categories:
   - medicine
   - hiv
 alias: hiv-vaccine
+status: finished
 ---
 # HIV Vaccination  
   
@@ -39,40 +41,8 @@ alias: hiv-vaccine
 ### Varicella  
 - 愛滋病毒感染的小孩在CD4百分比>15%時，可以安全地使用活性減毒水痘疫苗（Varivax，2劑，間隔3個月）  
 - 假如病患>8歲，CD4 **>200** cells/μL且合併VZV血清陰性反應時，可考慮施打Varivax水痘疫苗  
-  
-  
-```meta-bind-button  
-label: "In Progress"  
-style: default  
-id: "progress"  
-actions:  
-  - type: updateMetadata  
-    bindTarget: status  
-    evaluate: false  
-    value: "in progress"  
-  - type: updateMetadata  
-    bindTarget: date.updated  
-    evaluate: true  
-    value: moment().format("YYYY-MM-DDTHH:mm:ss")  
-  - type: "replaceSelf"  
-    replacement: " "  
-```  
-```meta-bind-button  
-label: "Finished"  
-style: default  
-id: "finished"  
-actions:  
-  - type: updateMetadata  
-    bindTarget: status  
-    evaluate: false  
-    value: "finished"  
-  - type: updateMetadata  
-    bindTarget: date.finished  
-    evaluate: true  
-    value: moment().format("YYYY-MM-DDTHH:mm:ss")  
-  - type: "replaceSelf"  
-    replacement: " "      
-```  
+   
+   
 ```meta-bind-button  
 label: "Upload"  
 style: default  
