@@ -78,6 +78,23 @@ status: finished
 - Cefiderocol（上述治療無效或沒其他藥可用時）  
 - Sulbactam-durlobactam + (meropenem or imipenem/cilastatin)  
   
+### # Ampicillin/Sulbactam Dosage Adjustment Recommendations for Kidney Impairment when Treating Multidrug-resistant *A. baumannii* Infection  
+  
+| **CrCl (mL/min)** | **Traditional Intermittent Infusion** (3 g IV every 4 hours over ≤30 min) | **Extended Infusion** (9 g IV every 8 hours over 4 hours) | **Continuous Infusion** (27 g IV over 24 hours) |  
+| ----------------- | ------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------- |  
+| **≥90 to 130**    | No dosage adjustment necessary<sup>b</sup>                                | No dosage adjustment necessary<sup>c,d</sup>              | No dosage adjustment necessary                  |  
+| **60 to <90**     | No dosage adjustment necessary<sup>b</sup>                                | 6 g IV every 8 hours over 4 hours<sup>c,d</sup>           | 18 g IV over 24 hours<sup>c</sup>               |  
+| **30 to <60**     | 3 g IV every 6 hours<sup>b</sup>                                          | 3 g IV every 6 hours over 4 hours<sup>c,d</sup>           | 12 g IV over 24 hours<sup>c</sup>               |  
+| **15 to <30**     | 3 g IV every 8 hours<sup>b</sup>                                          | 3 g IV every 8 hours over 4 hours<sup>c,d</sup>           | 9 g IV over 24 hours<sup>c</sup>                |  
+| **<15**           | 3 g IV every 12 hours<sup>b</sup>                                         | 3 g IV every 12 hours over 4 hours<sup>e</sup>            | 6 g IV over 24 hours<sup>e</sup>                |  
+> <sup>a</sup> The proposed renal dose adjustments are aimed at achieving pharmacokinetic/pharmacodynamic targets based on in-vitro or pharmacokinetic modeling. Clinical data are not available.    
+> <sup>b</sup> Expert opinion derived from Yokoyama 2015. Doses in Yokoyama 2015 are in grams of sulbactam; the doses listed below are multiplied by 3 to account for both ampicillin and sulbactam components.    
+> <sup>c</sup> Expert opinion derived from Jaruratanasirikul 2019. Doses in Jaruratanasirikul 2019 are in grams of sulbactam; the doses listed below are multiplied by 3 to account for both ampicillin and sulbactam components.    
+> <sup>d</sup> Lower doses may be sufficient for patients with lower albumin concentrations (e.g., 1.7 to 2.4 g/dL) and isolates with lower minimum inhibitory concentrations. See Jaruratanasirikul 2019 for patient-specific recommendations.    
+> <sup>e</sup> Expert opinion.  
+  
+Ref: [UpToDate](https://www.uptodate.com/contents/ampicillin-and-sulbactam-drug-information?sectionName=Kidney%20Impairment%20(Adult)&topicId=8745&search=ampicillin%2Fsulbactam&usage_type=panel&anchor=F50991106&source=panel_search_result&selectedTitle=1~82&showDrugLabel=true&kp_tab=drug_general&display_rank=1#F50991106)  
+  
 ## *S. maltophila*  
 - TMP-SMX (10–15 mg/kg TMP)  
 - Levofloxacin (750mg QD)  
