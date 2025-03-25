@@ -1,7 +1,8 @@
 ---
 title: Bacteremia and IE
-created: 2024-09-01T00:17:46
-updated: 2025-03-21T11:24:32
+date:
+  created: 2024-09-01T00:17:46
+  updated: 2025-03-21T11:24:32
 share: true
 categories:
   - medicine
@@ -220,7 +221,7 @@ Se ˜90%, Sp >95%, NPV ≥92% (CID 2000;30:633).
 ## Oral Step-Down Therapy  
 ![daca21bb15b1314830aca8040860f6d2_MD5.jpeg](../assets/daca21bb15b1314830aca8040860f6d2_MD5.jpeg)  
 ![8bef8cee0bd586e62dd39135c8adac23_MD5.jpeg](../assets/8bef8cee0bd586e62dd39135c8adac23_MD5.jpeg)  
-  
+![4073cbc8ac9de6931ac3fad8b22813ba_MD5.jpeg](../assets/4073cbc8ac9de6931ac3fad8b22813ba_MD5.jpeg)  
 ## Endocarditis Prophylaxis (Circ 2007;116:1736)  
   
 | **Cardiac conditions^** | **Prosthetic valve; previous endocarditis; congenital heart disease** (CHD) including unrepaired or incompletely repaired cyanotic CHD (palliative shunts or conduits), 1st 6 mo after completely repaired CHD using prosthetic material; cardiac transplant recipients w/ valvulopathy. (Prophylaxis no longer rec. in acquired valvular dysfxn, bicuspid AoV, MVP with leaflet thickening or regurgitation, HCM.) |  

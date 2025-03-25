@@ -1,6 +1,8 @@
 ---
 title: Tuberculosis
-date: 2024-08-12
+date:
+  created: 2024-08-12T23:08:32
+  updated: 2025-03-25T11:19:49
 tags:
   - medicine/TB
   - share
