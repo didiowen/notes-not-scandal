@@ -154,23 +154,27 @@ source: Pocket Medicine, 2022, 台灣肺結核診治指引第七版
   
 ## 第一線處方藥物  
 ### Isoniazid  
+- ==5 mg/kg/dose once daily==  
 - 干擾結核分枝桿菌mycolic acid合成，抑制**細胞壁**的合成 → 對**快速增殖**的結核分枝桿菌特別有效，**早期殺菌力**強，但滅菌能力 (sterilizing activity) 次於RMP和PZA  
 - 抗藥性基因：***katG*, *inhA*** mutations (3.5x10^-6)  
 	- ***inhA***突變引起的抗藥通常是**低濃度**抗藥，一般劑量 300mg INH所達到的血中濃度遠超過 inhA 抗藥菌種的最低抑菌濃度。如果病人治療反應良好，移除INH會弱化治療方案  
 	- ***katG***突變引起的抗藥通常是**高濃度**抗藥，需要較高劑量的INH  
-- AE: hepatitis, **`peripheral neuropathy`**, rash, drug fever,  
+- AE: hepatitis, **`peripheral neuropathy`**, rash, drug fever  
 - **Pyridoxine** (vitamin B6, 50 mg)：糖尿病、腎功能不全、營養不良、慢性肝病、酗酒、感染HIV、末梢神經炎、懷孕、哺乳、使用 cycloserine或**高劑量** isoniazid (16-20 mg/kg/day) 治療  
 ### Rifampicin  
+- ==10 mg/kg/dose once daily==  
 - 抑制結核分枝桿菌**RNA-polymerase**的活性，對吞噬細胞具良好的穿透力，能穿透許多組織且達到相當高濃度，早期殺菌力次於INH，但有極好的滅菌力 (sterilizing activity)  
 - 抗藥性基因：**`*rpoB`*** mutation (1.2x10^-8)  
 - AE: hepatitis, **`orange-colored urine`**, rash, **`thrombocytopenia, hemolytic anemia`**, AKI, 類流感症狀, drug fever  
 - 會**降低**口服避孕藥濃度  
 ### Pyrazinamide  
+- ==20-25 mg/kg/dose once daily, TIW if Ccr < 30==  
 - Nicotinamide analogs, may inhibit the **fatty acid synthetase I** enzyme of *M. tuberculosis*，對巨噬細胞內**酸性**環境中**生長緩慢**的結核分枝桿菌最具殺菌力，在治療的前兩個月使用時效果最佳；約30%經由肝臟代謝，以pyrazinoic acid由尿液排出，會影響尿素(renal urate)的排除，造成高尿酸血症  
 - 抗藥性基因：*pncA* mutation (1.0x10^-5)  
 - AE: hepatitis，痛風，腸胃不適（一線藥物中最常見），血糖升高  
 - 卡介苗菌株對pyrazinamide有抗藥性  
 ### Ethambutol  
+- ==15-20 mg/kg/dose once daily, TIW if Ccr < 30==  
 - 抑制結核分枝桿菌**細胞壁**的合成；一般劑量雖僅有抑菌能力，較高劑量時early bactericidal activity不亞於rifampicin；當有原發性INH抗藥存在時，合併使用EMB可能可以減少產生RMP抗藥菌株；CNS穿透力差  
 - 抗藥性基因：embA, embB (3.1x10^-5)  
 - AE: **retrobulbar neuritis** (esp. CKD) with 視力模糊、中央盲點及紅綠色盲，腸胃不適  
