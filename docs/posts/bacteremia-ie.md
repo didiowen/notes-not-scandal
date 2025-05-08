@@ -37,8 +37,18 @@ aliases: bacteremia-ie
 - Transthoracic echocardiography (TTE)/transesophageal echocardiography (TEE) if concern for endocarditis (see IE section)  
 - **TTE** and **urgent ophthalmology** evaluation if yeast is growing in blood culture  
   
+### Staphylococcus aureus bacteremia [@Minter2023ContemporaryManagement]  
+  
+Uncomplicated:  
+- Exclusion of endocarditis  
+- No implanted prostheses  
+- Negative follow-up cultures at 2–4 d  
+- Defervescence within 72 h of antibiotics  
+- No evidence of metastatic sites of infection  
 ![SA-1](../assets/5ed49349e45f76357b5a4958d24356be_MD5.jpeg)  
 ![SA-2](../assets/f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg)  
+**Proposed algorithm for the evaluation and management of SAB.**   
+All patients should undergo a standardized minimum evaluation[^a] (thorough history and examination, repeat blood cultures, and TTE) that serves to stratify risk of metastatic foci. In those determined to have low-risk SAB (see below), additional workup can potentially be deferred. In those with indeterminant or high-risk SAB, additional evaluation[^b] (guided by the patient’s clinical features) is recommended. Classification of patients as having SAB with or without metastatic foci assists in guiding treatment decisions, which should include antibiotics, source control, and (when applicable) substance-use treatment. †Low-risk SAB: no predisposing host factors, negative TTE; blood cultures clear in <48 hours, bacteremia is hospital-acquired; no persistent fever, timely antibiotic start, and no clinical signs of metastatic infection. ‡High-risk SAB: risk factors and/or suspicion for IE; clinical signs of metastatic infection, implanted prostheses, history of IDU and/or IE; blood cultures are positive >48 hours of therapy, delayed start in antibiotics, persistent fever. ††Indeterminant-risk SAB: not meeting criteria for low- or high-risk SAB. Abbreviations: CIED, cardiac implantable electronic device; CT, computed tomography; MRI, magnetic resonance imaging; MRSA, methicillin-resistant Staphylococcus aureus; MSSA, methicillin-sensitive Staphylococcus aureus; OUD, opioid use disorder; PET/CT, positron emission tomography/computed tomography; SAB, Staphylococcus aureus bacteremia; SUD, substance-use disorder; TEE, transesophageal echocardiogram; TTE, transthoracic echocardiogram.  
   
 ## Treatment (CID 2009;49:1; JAMA 2020;323:2160)  
   
@@ -51,7 +61,7 @@ aliases: bacteremia-ie
 | **_S. aureus_**            | Risk of endocarditis in bacteremia: ˜25% (_JACC_ 1997;30:1072)<br><br>ID consult a/w ↓ mortality (_ClD_ 2015;60:1451)<br><br>Remove CVC, evaluate for endocarditis, osteo, hardware infections<br><br>Preferred antibiotics: MSSA → nafcillin, oxacillin, or cefazolin. MRSA → vancomycin. Duration: 2 wks if normal host, no implants, no evidence of endocarditis or metastatic complications. Otherwise 4-6 wks. |  
 | **Coag-neg staphylococci** | CVC retention does not ↓ rate of resolution, but a/w ↑ rate of recurrence (_CID_ 2009;49:1187). If CVC left, treat 10-14 days; if removed 5-7 days.                                                                                                                                                                                                                                                                 |  
 | **_Enterococcus_**         | Remove CVC & treat for 7-14 days                                                                                                                                                                                                                                                                                                                                                                                    |  
-| GNR**                      | Remove CVC esp if _Pseudomonas._ Therapy for 14 days (7 if uncomplicated).                                                                                                                                                                                                                                                                                                                                          |  
+| **GNR**                    | Remove CVC esp if _Pseudomonas._ Therapy for 14 days (7 if uncomplicated).                                                                                                                                                                                                                                                                                                                                          |  
 | **Yeast**                  | Remove CVC & treat for 14 from first ⊖ BCx. ID consult a/w ↓ mortality.                                                                                                                                                                                                                                                                                                                                             |  
 - Persistently ⊕ BCx: remove CVCs, look for metastatic infection (endocarditis, septic arthritis, osteo), infected thrombosis, or prosthetic material (vascular graft, PPM)  
   
@@ -165,15 +175,15 @@ Se ˜90%, Sp >95%, NPV ≥92% (CID 2000;30:633).
 - Uncomplicated right-sided NVE or PCN-S Strep spp → 2 wks may be adequate  
 - IVDU-associated best managed by multidisciplinary teams including Addiction Medicine  
   
-### Recommendations for antibiotic regimens for initial empirical treatment of infective endocarditis (before pathogen identification)^a  
+### Antibiotic regimens for initial empirical treatment of infective endocarditis (before pathogen identification)^a  
   
 ![2ae50ffaeb435434defe53e9c359da40_MD5.jpeg](../assets/2ae50ffaeb435434defe53e9c359da40_MD5.jpeg)  
   
-### Recommendations for antibiotic treatment of infective endocarditis due to oral streptococci and _Streptococcus gallolyticus_ group  
+### Antibiotic treatment of infective endocarditis due to oral streptococci and _Streptococcus gallolyticus_ group  
 ![22e24ea7d966fc9938fdacf7f7d00f78_MD5.jpeg](../assets/22e24ea7d966fc9938fdacf7f7d00f78_MD5.jpeg)  
 ![07526380dde3cc2777591bcd2a2dc32c_MD5.jpeg](../assets/07526380dde3cc2777591bcd2a2dc32c_MD5.jpeg)  
   
-### Recommendations for antibiotic treatment of infective endocarditis due to _Staphylococcus_ spp.  
+### Antibiotic treatment of infective endocarditis due to _Staphylococcus_ spp.  
   
 ![61732b07753358f3d8753bf3089b9761_MD5.jpeg](../assets/61732b07753358f3d8753bf3089b9761_MD5.jpeg)  
 ![2a7657bf3b31a3c93cf3131a2365c9e1_MD5.jpeg](../assets/2a7657bf3b31a3c93cf3131a2365c9e1_MD5.jpeg)  
