@@ -14,6 +14,7 @@ theme:
         - navigation.sections # top-level sections are rendered as groups in the sidebar for viewports above 1220px, but remain as-is on mobile
         - navigation.tracking # the URL in the address bar is automatically updated with the active anchor as highlighted in the table of contents
         - navigation.top # A back-to-top button can be shown when the user, after scrolling down, starts to scroll up again
+        - navigation.indexes
         - toc.follow # the sidebar is automatically scrolled so that the active anchor is always visible
         - search.highlight
 
