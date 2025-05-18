@@ -17,6 +17,10 @@ theme:
         - toc.follow # the sidebar is automatically scrolled so that the active anchor is always visible
         - search.highlight
 
+    nav:
+      - Home: index.md
+      - Slides: slides.md
+
     palette:
 
     # Light mode
