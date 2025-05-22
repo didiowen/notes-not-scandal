@@ -1,6 +1,8 @@
 ---
 title: Urinary tract infection
-created: 2024-09-01 00:43
+date:
+  created: 2024-09-01T00:43:05
+  updated: 2025-05-22T14:00:47
 tags:
   - share
   - medicine/UTI

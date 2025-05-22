@@ -1,6 +1,8 @@
 ---
 title: Skin and soft tissue infections
-created: 2024-09-01 00:39
+date:
+  created: 2024-08-09T16:06:23
+  updated: 2025-05-22T13:49:47
 tags:
   - medicine/SSTI
   - share

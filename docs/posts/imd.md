@@ -1,6 +1,8 @@
 ---
 title: Invasive Mold Disease
-date: 2024-08-22
+date:
+  created: 2024-08-22T16:53:29
+  updated: 2025-05-22T13:54:35
 tags:
   - medicine/fungus
   - share

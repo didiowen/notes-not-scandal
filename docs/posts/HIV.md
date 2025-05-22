@@ -2,10 +2,8 @@
 date:
   created: 2024-08-09T16:06:58
   updated: 2025-05-22T13:21:51
-  finished: 2025-05-22T13:21:53
 tags:
   - share
-  - teaching
   - medicine/HIV
 share: true
 categories:
