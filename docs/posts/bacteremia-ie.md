@@ -17,6 +17,7 @@ aliases: bacteremia-ie
 - Secondary bacteremia: infection of another site (eg, UTI, pneumonia, colitis, etc.) spreading to blood  
 - Contaminant: bacteria growing in a blood culture that does not represent a true infection  
   
+<!-- more -->  
 ## Risk factors for bloodstream infections (JAMA 2012;308:502; CID;2020;71)  
   
 - Syndromes with high likelihood of bacteremia:  
