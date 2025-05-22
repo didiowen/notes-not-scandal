@@ -4,7 +4,9 @@ author: Infectious Diseases Society of America
 date:
   created: 2024-09-13T11:31:49
   updated: 2024-09-13T11:32:04
-tags: share
+tags:
+  - share
+  - medicine/MRSA
 share: true
 categories:
   - medicine
