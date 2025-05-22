@@ -1,4 +1,4 @@
-![table-2 5 2](https://github.com/user-attachments/assets/2f3b70b7-b7e4-498d-bf28-b634815aa519)---
+---
 hide:
   - navigation
   - toc
