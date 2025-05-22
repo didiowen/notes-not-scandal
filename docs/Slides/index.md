@@ -7,6 +7,8 @@ hide:
 # My Teaching Slides
 
 - [20250521 發燒之生理病理、評估及處置](20250521_fever.html)
+- [Infective Endocarditis](ie.html)
+- [Treatment of Bacterial and Viral Infections](treatment_infections.html)
 - [專師考試感染科試題](https://share.note.sx/f0c1zveu#+YY75GXvWnlbZ4qb6phkLpU8tY0HADYoiSiQGZV9tqU)
   - [抗生素](https://share.note.sx/phl07lrt#m3+7fJ/DzSGBZILBoqvN0puQctK6xych9ZWRA5I/WLw)
   - [中樞神經感染](https://share.note.sx/1uhhve6q#nCOpir4CQ8PllcQCjkfpY6sYlK4FQVHe1lC2ON4rTeQ)
