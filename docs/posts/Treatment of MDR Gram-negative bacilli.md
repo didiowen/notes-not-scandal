@@ -3,7 +3,6 @@ title: Treatment of MDR Gram-negative bacilli
 date:
   created: 2025-03-06T15:25:16
   updated: 2025-03-10T17:29:32
-  finished: 2025-03-06T15:37:26
 tags: share
 share: true
 categories:
