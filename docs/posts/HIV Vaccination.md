@@ -2,7 +2,6 @@
 date:
   created: 2025-03-06T17:18:39
   updated: 2025-03-07T11:42:42
-  finished: 2025-03-07T11:42:44
 tags: share
 share: true
 categories:
