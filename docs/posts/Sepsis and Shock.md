@@ -2,7 +2,6 @@
 date:
   created: 2024-09-01T00:36:33
   updated: 2025-05-22T13:26:57
-  finished: 2025-05-22T13:26:59
 tags:
   - share
   - medicine/sepsis
