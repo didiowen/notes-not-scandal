@@ -142,43 +142,37 @@ source: Pocket Medicine, 2022; 台灣診治指引
 	- 若患者為疫苗接種後4至42天，且其他症候群特徵尚待PF4 ELISA檢測與後續CBC確認時，可能需要使用非肝素類抗凝劑  
   
 ### The UK Haematology Expert Group developed consensus diagnostic criteria for VITT [@Pavord2021Vaccineinduced]  
-#### Case definition criteria   
-- Onset of symptoms 5-30 days after COVID-19 vaccine (or up to 42 days if isolated DVT/PE)   
-- Presence of thrombosis   
-- Thrombocytopenia (platelet count <150 × 10<sup>9</sup>/L)   
-- D-dimer >4000 μg/mL (FEU)   
-- Positive anti-PF4 Abs ELISA   
-#### Definite VITT   
-- Meets all 5 criteria   
-#### Probable   
-- D-dimer >4000 FEU but one criterion not fulfilled (timing, thrombosis, thrombocytopenia, anti-PF4 Abs), or   
-- D-dimer unknown or 2000-4000 FEU with all other criteria present   
-#### Possible   
-- D-dimer unknown or 2000-4000 FEU with one other criterion not fulfilled, or   
-- Two other criteria not fulfilled (timing, thrombosis, thrombocytopenia, anti-PF4 Abs)   
-#### Unlikely   
-- Platelet count <150 × 10<sup>9</sup>/L without thrombosis with D-dimer <2000 FEU, or   
-- Thrombosis with platelet count >150 × 10<sup>9</sup>/L and D-dimer <2000 FEU, regardless of anti-PF4 Ab result, and/or   
-- Alternative diagnosis more likely  
+#### 病例定義標準    
+- 症狀出現於接種 COVID-19 疫苗後 5–30 天（若為單純 DVT/PE 可放寬至 42 天）    
+- 有血栓存在    
+- 血小板低下（血小板數 <150 × 10<sup>9</sup>/L）    
+- D-dimer >4000 μg/mL (FEU)  
+- 抗PF4抗體ELISA陽性    
+#### 確定 VITT    
+- 符合上述 5 項標準    
+#### 可能性高（Probable）    
+- D-dimer >4000 FEU，但缺少其中一項標準（時間點、血栓、血小板低下、抗 PF4 抗體），或    
+- D-dimer未知或為2000–4000 FEU，其他條件皆符合    
+#### 可能性中等（Possible）    
+- D-dimer未知或為2000–4000 FEU，且缺少另一項標準，或    
+- 有兩項其他標準未達成（時間點、血栓、血小板低下、抗 PF4 抗體）    
+#### 不太可能（Unlikely）    
+- 血小板數 <150 × 10<sup>9</sup>/L，但無血栓，且D-dimer <2000 FEU，或    
+- 有血栓但血小板數 >150 × 10<sup>9</sup>/L，且 D-dimer <2000 FEU，不論抗 PF4 抗體結果為何，和/或  
+- 有其他更可能的診斷  
   
 ### 治療  
 #### 確認有血栓  
-- 同時符合下列至少一項時，應在等待PF4 ELISA結果期間立即開始使用靜脈注射免疫球蛋白（1 mg/kg，每日一次，連續 2 天）與非肝素類抗凝治療：  
+- 同時符合下列至少一項時，應在等待PF4 ELISA結果期間立即開始使用靜脈注射==免疫球蛋白（1 mg/kg，每日一次，連續 2 天）==與==非肝素類抗凝（如直接性凝血酶抑制劑、口服抗第 Xa 因子藥物、fondaparinux）==治療：  
 	- 血小板低下 _或_  
 	- D-dimer 顯著升高 _或_  
 	- 兩者皆有  
 - 若PF4 ELISA為陰性且無血小板低下，則可排除VITT；此時應依標準靜脈血栓栓塞症進行治療  
 #### 無已知血栓  
-- 若出現血小板低下與極高的D-dimer，但無已知血栓，特別是合併嚴重頭痛時，應檢查PF4 ELISA，並考慮開始治療  
+- 若出現血小板低下與極高的D-dimer，但無已知血栓，特別是合併==嚴重頭痛==時，應檢查PF4 ELISA，並考慮開始治療  
 - 若有血小板低下但無血栓，且PF4 ELISA為陰性，則可能為ITP  
-- 除非已開始其他治療且有生命威脅性出血或緊急手術，否則應避免輸注血小板  
+- 除非已開始其他治療且有生命威脅性出血或緊急手術，否則應==避免輸注血小板==  
 - 若確認為VITT，應考慮轉診至第三級醫療中心  
-  
-  
-- 治療應以靜脈注射免疫球蛋白（IVIG，開始，該療法可抑制經由 FcRγIIA 介導的血小板活化，並搭配非肝素類抗凝劑（如直接性凝血酶抑制劑、口服抗第 Xa 因子藥物、fondaparinux）使用。  
-  
-  
-  
   
 ## 考古題  
 ### 專師  
