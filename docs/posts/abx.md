@@ -9,7 +9,7 @@ tags:
   - share
 status: finished
 share_link: https://share.note.sx/phl07lrt#m3+7fJ/DzSGBZILBoqvN0puQctK6xych9ZWRA5I/WLw
-share_updated: 2024-08-14T17:58:55+08:00
+share_updated: 2025-05-23T13:38:01+08:00
 share: true
 categories:
   - medicine
@@ -17,6 +17,9 @@ categories:
 aliases: abx
 ---
 # Antibiotics  
+  
+up:: 專師考試解題  
+  
 ## 作用機制  
 ![mechanism](../assets/d5cd1072950af118968f9283c66a7d7c_MD5.jpeg)  
   
