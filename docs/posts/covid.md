@@ -9,27 +9,27 @@ tags:
   - share
 status: finished
 share_link: https://share.note.sx/v0l7xf5b#kQ9aC51Zr7Xtvik3vbjJHEIWSatWAu84M9+qYavUdIQ
-share_updated: 2025-05-22T19:02:19+08:00
+share_updated: 2025-05-23T13:05:31+08:00
 share: true
 categories:
   - medicine
 aliases: covid
 ---
 # CORONAVIRUS DISEASE 2019 (COVID-19) / SARS-COV-2 INFECTION  
-source: Pocket Medicine, 2022; 台灣診治指引  
+source: Pocket Medicine, 2022; 台灣診治指引第二十八版  
 ## 微生物學與流行病學  
   
 - 透過呼吸道顆粒在人與人之間傳播；無症狀與症狀前的傳播可能發生    
 - 潛伏期：最長可達14天，從暴露到症狀出現的中位時間為4-5天  
-- 確診病人發病==**前2天**==即可能具傳染力  
-- 確診病人上呼吸道檢體可持續檢測SARS-CoV-2核酸陽性平均達==**兩週**==以上，且下呼吸道檢體檢出病毒的時間可能更久  
-- 輕症個案在發病==**10日後**==即無法從上呼吸道檢體成功培養出病毒（部分重症個案或免疫不全者可能延長至20日），此時這些個案的病毒量均很低（ Realtime PCR Ct 值高），目前也沒有證據顯示此時這些個案能傳播疾病  
+- 確診病人發病==前2天==即可能具傳染力  
+- 確診病人上呼吸道檢體可持續檢測SARS-CoV-2核酸陽性平均達==兩週==以上，且下呼吸道檢體檢出病毒的時間可能更久  
+- 輕症個案在發病==10日後==即無法從上呼吸道檢體成功培養出病毒（部分重症個案或免疫不全者可能延長至20日），此時這些個案的病毒量均很低（ Realtime PCR Ct 值高），目前也沒有證據顯示此時這些個案能傳播疾病  
   
 <!-- more -->  
   
 ### 病毒株  
   
-![Pasted image 20250523122618.png](Pasted%20image%2020250523122618.png)  
+![5d27a1736b0d7bcba1cdbeca73b7f7ba_MD5.jpeg](../assets/5d27a1736b0d7bcba1cdbeca73b7f7ba_MD5.jpeg)  
 > Source: https://nextstrain.org/ncov/open/global/6m  
   
 ## 傳播途徑  
@@ -174,8 +174,16 @@ source: Pocket Medicine, 2022; 台灣診治指引
 - 除非已開始其他治療且有生命威脅性出血或緊急手術，否則應==避免輸注血小板==  
 - 若確認為VITT，應考慮轉診至第三級醫療中心  
   
-## 考古題  
-### 專師  
+## Reference  
   
-### 內科醫師  
+Cines, D.B. & Greinacher, A. (2023) Vaccine-induced immune thrombotic thrombocytopenia. _Blood_. 141 (14), 1659–1665. doi:[10.1182/blood.2022017696](https://doi.org/10.1182/blood.2022017696).  
+  
+Hu, B., Guo, H., Zhou, P. & Shi, Z.-L. (2021) Characteristics of SARS-CoV-2 and COVID-19. _Nature Reviews Microbiology_. 19 (3), 141–154. doi:[10.1038/s41579-020-00459-7](https://doi.org/10.1038/s41579-020-00459-7).  
+  
+Pavord, S., Hunt, B.J., Horner, D., Bewley, S. & Karpusheff, J. (2021) Vaccine induced immune thrombocytopenia and thrombosis: summary of NICE guidance. _BMJ_. n2195. doi:[10.1136/bmj.n2195](https://doi.org/10.1136/bmj.n2195).  
+  
+# 考古題  
+## 專師  
+  
+## 內科醫師  
   
