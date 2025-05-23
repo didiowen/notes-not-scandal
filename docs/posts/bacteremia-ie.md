@@ -46,9 +46,10 @@ Uncomplicated:
 - Negative follow-up cultures at 2–4 d  
 - Defervescence within 72 h of antibiotics  
 - No evidence of metastatic sites of infection  
-![SA-1](../assets/5ed49349e45f76357b5a4958d24356be_MD5.jpeg)  
-![SA-2](../assets/f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg)  
-**Proposed algorithm for the evaluation and management of SAB.**   
+  
+![5ed49349e45f76357b5a4958d24356be_MD5.jpeg](../assets/5ed49349e45f76357b5a4958d24356be_MD5.jpeg)  
+![f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg](../assets/f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg)  
+> **Proposed algorithm for the evaluation and management of SAB.**   
 All patients should undergo a standardized minimum evaluation[^a] (thorough history and examination, repeat blood cultures, and TTE) that serves to stratify risk of metastatic foci. In those determined to have low-risk SAB (see below), additional workup can potentially be deferred. In those with indeterminant or high-risk SAB, additional evaluation[^b] (guided by the patient’s clinical features) is recommended. Classification of patients as having SAB with or without metastatic foci assists in guiding treatment decisions, which should include antibiotics, source control, and (when applicable) substance-use treatment. †Low-risk SAB: no predisposing host factors, negative TTE; blood cultures clear in <48 hours, bacteremia is hospital-acquired; no persistent fever, timely antibiotic start, and no clinical signs of metastatic infection. ‡High-risk SAB: risk factors and/or suspicion for IE; clinical signs of metastatic infection, implanted prostheses, history of IDU and/or IE; blood cultures are positive >48 hours of therapy, delayed start in antibiotics, persistent fever. ††Indeterminant-risk SAB: not meeting criteria for low- or high-risk SAB. Abbreviations: CIED, cardiac implantable electronic device; CT, computed tomography; MRI, magnetic resonance imaging; MRSA, methicillin-resistant Staphylococcus aureus; MSSA, methicillin-sensitive Staphylococcus aureus; OUD, opioid use disorder; PET/CT, positron emission tomography/computed tomography; SAB, Staphylococcus aureus bacteremia; SUD, substance-use disorder; TEE, transesophageal echocardiogram; TTE, transthoracic echocardiogram.  
   
 ## Treatment (CID 2009;49:1; JAMA 2020;323:2160)  
