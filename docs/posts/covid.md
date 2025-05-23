@@ -9,14 +9,17 @@ tags:
   - share
 status: finished
 share_link: https://share.note.sx/v0l7xf5b#kQ9aC51Zr7Xtvik3vbjJHEIWSatWAu84M9+qYavUdIQ
-share_updated: 2025-05-23T13:05:31+08:00
+share_updated: 2025-05-23T13:37:40+08:00
 share: true
 categories:
   - medicine
 aliases: covid
 ---
 # CORONAVIRUS DISEASE 2019 (COVID-19) / SARS-COV-2 INFECTION  
-source: Pocket Medicine, 2022; 台灣診治指引第二十八版  
+> Source: Pocket Medicine, 2022; 台灣診治指引第二十八版  
+  
+up:: 專師考試解題  
+  
 ## 微生物學與流行病學  
   
 - 透過呼吸道顆粒在人與人之間傳播；無症狀與症狀前的傳播可能發生    
