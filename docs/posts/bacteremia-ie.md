@@ -38,20 +38,6 @@ aliases: bacteremia-ie
 - Transthoracic echocardiography (TTE)/transesophageal echocardiography (TEE) if concern for endocarditis (see IE section)  
 - **TTE** and **urgent ophthalmology** evaluation if yeast is growing in blood culture  
   
-### Staphylococcus aureus bacteremia [@Minter2023ContemporaryManagement]  
-  
-Uncomplicated:  
-- Exclusion of endocarditis  
-- No implanted prostheses  
-- Negative follow-up cultures at 2–4 d  
-- Defervescence within 72 h of antibiotics  
-- No evidence of metastatic sites of infection  
-  
-![5ed49349e45f76357b5a4958d24356be_MD5.jpeg](../assets/5ed49349e45f76357b5a4958d24356be_MD5.jpeg)  
-![f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg](../assets/f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg)  
-> **Proposed algorithm for the evaluation and management of SAB.**   
-All patients should undergo a standardized minimum evaluation[^a] (thorough history and examination, repeat blood cultures, and TTE) that serves to stratify risk of metastatic foci. In those determined to have low-risk SAB (see below), additional workup can potentially be deferred. In those with indeterminant or high-risk SAB, additional evaluation[^b] (guided by the patient’s clinical features) is recommended. Classification of patients as having SAB with or without metastatic foci assists in guiding treatment decisions, which should include antibiotics, source control, and (when applicable) substance-use treatment. †Low-risk SAB: no predisposing host factors, negative TTE; blood cultures clear in <48 hours, bacteremia is hospital-acquired; no persistent fever, timely antibiotic start, and no clinical signs of metastatic infection. ‡High-risk SAB: risk factors and/or suspicion for IE; clinical signs of metastatic infection, implanted prostheses, history of IDU and/or IE; blood cultures are positive >48 hours of therapy, delayed start in antibiotics, persistent fever. ††Indeterminant-risk SAB: not meeting criteria for low- or high-risk SAB. Abbreviations: CIED, cardiac implantable electronic device; CT, computed tomography; MRI, magnetic resonance imaging; MRSA, methicillin-resistant Staphylococcus aureus; MSSA, methicillin-sensitive Staphylococcus aureus; OUD, opioid use disorder; PET/CT, positron emission tomography/computed tomography; SAB, Staphylococcus aureus bacteremia; SUD, substance-use disorder; TEE, transesophageal echocardiogram; TTE, transthoracic echocardiogram.  
-  
 ## Treatment (CID 2009;49:1; JAMA 2020;323:2160)  
   
 - Empiric antibiotics based on Gram stain, culture, & clinical syndrome, then tailor based on sensitivity  
@@ -66,6 +52,37 @@ All patients should undergo a standardized minimum evaluation[^a] (thorough hist
 | **GNR**                    | Remove CVC esp if _Pseudomonas._ Therapy for 14 days (7 if uncomplicated).                                                                                                                                                                                                                                                                                                                                          |  
 | **Yeast**                  | Remove CVC & treat for 14 from first ⊖ BCx. ID consult a/w ↓ mortality.                                                                                                                                                                                                                                                                                                                                             |  
 - Persistently ⊕ BCx: remove CVCs, look for metastatic infection (endocarditis, septic arthritis, osteo), infected thrombosis, or prosthetic material (vascular graft, PPM)  
+- Short-term catheters should be removed from patients with CRBSI due to gram-negative bacilli, S. aureus, enterococci, fungi, and mycobacteria  
+- For patients with CRBSI for whom catheter salvage is attempted, additional blood cultures should be obtained, and the catheter should be removed if blood culture results (e.g., 2 sets of blood cultures obtained on a given day; 1 set of blood cultures is acceptable for neonates) remain positive when blood samples are obtained 72 h after the initiation of appropriate therapy  
+- For patients with unexplained fever, if blood culture results are positive, the CVC or arterial catheter was exchanged over a guidewire, and the catheter tip has significant growth, then the catheter should be removed and a new catheter placed in a new site  
+  
+![70ccc352a3205d98e90e305bc0e5b3df_MD5.jpeg](../assets/70ccc352a3205d98e90e305bc0e5b3df_MD5.jpeg)  
+> Approach to the management of patients with short-term central venous catheter–related or arterial catheter–related bloodstream infection. [@Mermel2009ClinicalPractice]  
+  
+### Long-term catheter  
+- Long-term catheters should be removed from patients with CRBSI associated with any of the following conditions: severe sepsis; suppurative thrombophlebitis; endocarditis; bloodstream infection that continues despite 172 h of antimicrobial therapy to which the infecting microbes are susceptible; or infections due to S. aureus, P. aeruginosa, fungi, or mycobacteria  
+- In uncomplicated CRBSI involving long-term catheters due to pathogens other than S. aureus, P. aeruginosa, Bacillus species, Micrococcus species, Propionibacteria, fungi, or mycobacteria, because of the limited access sites in many patients who require long-term intravascular access for survival (e.g., patients undergoing hemodialysis or with short-gut syndrome), treatment should be attempted without catheter removal, with use of both systemic and antimicrobial lock therapy  
+  
+![170bf3b5a3e1a44ab3b6fffa028b2bb4_MD5.jpeg](../assets/170bf3b5a3e1a44ab3b6fffa028b2bb4_MD5.jpeg)  
+> Approach to the treatment of a patient with a long-term central venous catheter (CVC) or a port (P)-related bloodstream infection. [@Mermel2009ClinicalPractice]  
+  
+### Staphylococcus aureus bacteremia [@Minter2023ContemporaryManagement]  
+  
+Uncomplicated:  
+- Exclusion of endocarditis  
+- No implanted prostheses  
+- Negative follow-up cultures at 2–4 d  
+- Defervescence within 72 h of antibiotics  
+- No evidence of metastatic sites of infection  
+  
+![5ed49349e45f76357b5a4958d24356be_MD5.jpeg](../assets/5ed49349e45f76357b5a4958d24356be_MD5.jpeg)  
+![f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg](../assets/f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg)  
+> **Proposed algorithm for the evaluation and management of SAB.**   
+All patients should undergo a standardized minimum evaluation[^a] (thorough history and examination, repeat blood cultures, and TTE) that serves to stratify risk of metastatic foci. In those determined to have low-risk SAB (see below), additional workup can potentially be deferred. In those with indeterminant or high-risk SAB, additional evaluation[^b] (guided by the patient’s clinical features) is recommended. Classification of patients as having SAB with or without metastatic foci assists in guiding treatment decisions, which should include antibiotics, source control, and (when applicable) substance-use treatment.   
+†Low-risk SAB: no predisposing host factors, negative TTE; blood cultures clear in <48 hours, bacteremia is hospital-acquired; no persistent fever, timely antibiotic start, and no clinical signs of metastatic infection.   
+‡High-risk SAB: risk factors and/or suspicion for IE; clinical signs of metastatic infection, implanted prostheses, history of IDU and/or IE; blood cultures are positive >48 hours of therapy, delayed start in antibiotics, persistent fever.   
+††Indeterminant-risk SAB: not meeting criteria for low- or high-risk SAB.   
+Abbreviations: CIED, cardiac implantable electronic device; CT, computed tomography; MRI, magnetic resonance imaging; MRSA, methicillin-resistant Staphylococcus aureus; MSSA, methicillin-sensitive Staphylococcus aureus; OUD, opioid use disorder; PET/CT, positron emission tomography/computed tomography; SAB, Staphylococcus aureus bacteremia; SUD, substance-use disorder; TEE, transesophageal echocardiogram; TTE, transthoracic echocardiogram.  
   
 # BACTERIAL ENDOCARDITIS  
   
@@ -94,6 +111,28 @@ All patients should undergo a standardized minimum evaluation[^a] (thorough hist
 | Culture ⊖^^          | 11%                    | <5%      | 17%                        | 12%              |  
 ^ ↑ risk w/DM, indwelling lines, immunosupp.  
 ^^ Cx ⊖ = abiotrophic strep, HACEK (Haemophilus para-influenzae & aphrophilus, Actinobacillus, Cardiobacterium, Eikenella, and Kingella), T. whipplei, Bartonella, Coxiella, Chlamydia, Legionella, Brucella (JAMA 2007;297:1354; Annals 2007;147:829; J Clin Microbiol 2012;50:216)  
+  
+  
+| ORGANISM(S)                                                     | NATIVE-VALVE IE                 |                                     | PROSTHETIC-VALVE IE AT INDICATED TIME OF ONSET (MONTHS) AFTER VALVE SURGERY |                  |               | TAVR PVE    | CIED-IE     |  
+| --------------------------------------------------------------- | ------------------------------- | ----------------------------------- | --------------------------------------------------------------------------- | ---------------- | ------------- | ----------- | ----------- |  
+|                                                                 | COMMUNITY-ACQUIRED (_N_ = 1718) | HEALTH CARE–ASSOCIATED (_N_ = 1110) | <2 (_N_ = 144)                                                              | >2-12 (_N_ = 31) | >12 (N = 194) | (_N_ = 295) | (_N_ = 337) |  
+| Streptococci<sup>b</sup>                                        | 40                              | 13                                  | 1                                                                           | 10               | 31            | 18          | 2           |  
+| Pneumococci                                                     | 2                               | —                                   | —                                                                           | —                | —             | -           | —           |  
+| Enterococci<sup>c</sup>                                         | 9                               | 16                                  | 8                                                                           | 13               | 11            | 24          | 4           |  
+| _Staphylococcus aureus_                                         | 28<sup>a</sup>                  | 52<sup>d</sup>                      | 22                                                                          | 13               | 18            | 23          | 36          |  
+| Coagulase-negative staphylococci                                | 5                               | 11                                  | 33                                                                          | 35               | 11            | 20          | 41          |  
+| Fastidious gram-negative coccobacilli (HACEK group)<sup>e</sup> | 3                               | —                                   | —                                                                           | —                | 6             | —           | —           |  
+| Gram-negative bacilli                                           | 1                               | 1                                   | 13                                                                          | 3                | 6             | 1           | 6           |  
+| _Candida_ spp.                                                  | <1                              | 1                                   | 8                                                                           | 13               | 1             | 1           | 2           |  
+| Polymicrobial/miscellaneous                                     | 3                               | 3                                   | 3                                                                           | 6                | 5             | 8           | 2           |  
+| Diphtheroids                                                    | —                               | <1                                  | 6                                                                           | —                | 3             |             | 1           |  
+| Culture-negative                                                | 9                               | 3                                   | 5                                                                           | 7                | 8             | 5           | 6           |  
+  
+<sup>a</sup>Includes methicillin-susceptible and -resistant isolates.   
+<sup>b</sup>Includes viridans streptococci; _Streptococcus gallolyticus_; other non–group A, groupable streptococci; and _Abiotrophia_ and _Granulicatella_ spp. (nutritionally variant, pyridoxal-requiring streptococci).   
+<sup>c</sup>Primarily _E. faecalis_ or nonspeciated isolates; occasionally _E. faecium_ or other less likely species.   
+<sup>d</sup>Methicillin resistance is common among these _S. aureus_ strains.   
+<sup>e</sup>Includes _Haemophilus_ spp., _Aggregatibacter_ spp., _Cardiobacterium hominis_, _Eikenella corrodens_, and _Kingella kingae_.  
   
 ## Clinical manifestation (Lancet 2016;387:882)  
   
