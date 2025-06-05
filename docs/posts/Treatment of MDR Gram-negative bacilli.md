@@ -14,7 +14,9 @@ status: finished
 # Treatment of MDR Gram-negative bacilli  
   
 ![f3b5d87da5acf2c8d79ff55edb954115_MD5.jpeg](../assets/f3b5d87da5acf2c8d79ff55edb954115_MD5.jpeg)  
-> Green, susceptibility anticipated to be >80%; yellow, susceptibility anticipated to be 30% to 80%; red, intrinsic resistance or susceptibility anticipated to be <30%. 1, US Food and Drug Administration–approved agent; 2, synthetic tetracycline derivative; 3, imipenem-cilastatin–relebactam; 4, synthetic aminoglycoside; 5, polymyxin class. Abbreviations: KPC, Klebsiella pneumoniae carbapenemase; NDM, New Delhi metallo-β-lactamase. (Tamma et al., 2024)  
+> Green, susceptibility anticipated to be >80%; yellow, susceptibility anticipated to be 30% to 80%; red, intrinsic resistance or susceptibility anticipated to be <30%.   
+> <sup>1</sup>, US Food and Drug Administration–approved agent; <sup>2</sup>, synthetic tetracycline derivative; <sup>3</sup>, imipenem-cilastatin–relebactam; <sup>4</sup>, synthetic aminoglycoside; <sup>5</sup>, polymyxin class.   
+> Abbreviations: KPC, Klebsiella pneumoniae carbapenemase; NDM, New Delhi metallo-β-lactamase. (Tamma et al., 2024)  
   
 <!-- more -->  
   
@@ -103,18 +105,4 @@ Ref: [UpToDate](https://www.uptodate.com/contents/ampicillin-and-sulbactam-drug-
   
 ## Reference  
   
-Tamma, P.D., Heil, E.L., Justo, J.A., Mathers, A.J., Satlin, M.J. & Bonomo, R.A. (2024) Infectious Diseases Society of America 2024 Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections. _Clinical Infectious Diseases_. ciae403. doi:[10.1093/cid/ciae403](https://doi.org/10.1093/cid/ciae403).  
-  
-   
-```meta-bind-button  
-label: "Upload"  
-style: default  
-id: "upload"  
-actions:  
-  - type: updateMetadata  
-    bindTarget: date.updated  
-    evaluate: true  
-    value: moment().format("YYYY-MM-DDTHH:mm:ss")  
-  - type: command  
-    command: obsidian-mkdocs-publisher:share-one  
-```
+Tamma, P.D., Heil, E.L., Justo, J.A., Mathers, A.J., Satlin, M.J. & Bonomo, R.A. (2024) Infectious Diseases Society of America 2024 Guidance on the Treatment of Antimicrobial-Resistant Gram-Negative Infections. _Clinical Infectious Diseases_. ciae403. doi:[10.1093/cid/ciae403](https://doi.org/10.1093/cid/ciae403).
