@@ -1619,28 +1619,6 @@ Abbreviations: KPC, Klebsiella pneumoniae carbapenemase; NDM, New Delhi metallo-
 </tr>
 </tbody>
 </table>
-<div class="highlight"><pre><span></span><code>label: &quot;Share&quot;  
-style: default  
-id: &quot;share&quot;  
-actions:  
-  - type: updateMetadata  
-    bindTarget: share  
-    evaluate: false  
-    value: true  
-  - type: replaceSelf  
-    replacement: &quot;&lt;!-- more --&gt;&quot;  
-</code></pre></div>
-<div class="highlight"><pre><span></span><code>label: &quot;Upload&quot;  
-style: default  
-id: &quot;upload&quot;  
-actions:  
-  - type: updateMetadata  
-    bindTarget: date.updated  
-    evaluate: true  
-    value: moment().format(&quot;YYYY-MM-DDTHH:mm:ss&quot;)  
-  - type: command  
-    command: obsidian-mkdocs-publisher:share-one  
-</code></pre></div>
     
   </div>
 </article>
