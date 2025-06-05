@@ -44,27 +44,28 @@ aliases: bacteremia-ie
   
 ### Short-Term Central Venous Catheter-Related Bloodstream Infections  
   
-| Pathogen                   | Management                                                                                                                                                                                                                                                                                                                                                                                                          |  
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  
-| **_S. aureus_**            | Risk of endocarditis in bacteremia: ˜25% (_JACC_ 1997;30:1072)<br><br>ID consult a/w ↓ mortality (_ClD_ 2015;60:1451)<br><br>Remove CVC, evaluate for endocarditis, osteo, hardware infections<br><br>Preferred antibiotics: MSSA → nafcillin, oxacillin, or cefazolin. MRSA → vancomycin. Duration: 2 wks if normal host, no implants, no evidence of endocarditis or metastatic complications. Otherwise 4-6 wks. |  
-| **Coag-neg staphylococci** | CVC retention does not ↓ rate of resolution, but a/w ↑ rate of recurrence (_CID_ 2009;49:1187). If CVC left, treat 10-14 days; if removed 5-7 days.                                                                                                                                                                                                                                                                 |  
-| **_Enterococcus_**         | Remove CVC & treat for 7-14 days                                                                                                                                                                                                                                                                                                                                                                                    |  
-| **GNR**                    | Remove CVC esp if _Pseudomonas._ Therapy for 14 days (7 if uncomplicated).                                                                                                                                                                                                                                                                                                                                          |  
-| **Yeast**                  | Remove CVC & treat for 14 from first ⊖ BCx. ID consult a/w ↓ mortality.                                                                                                                                                                                                                                                                                                                                             |  
+| Pathogen                   | Management                                                                                                                                                                                                                                                                                                                                                                                                  |  
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  
+| **_S. aureus_**            | Risk of endocarditis in bacteremia: ˜25% (_JACC_ 1997;30:1072)<br>ID consult a/w ↓ mortality (_ClD_ 2015;60:1451)<br>Remove CVC, evaluate for endocarditis, osteo, hardware infections<br>Preferred antibiotics: MSSA → nafcillin, oxacillin, or cefazolin. MRSA → vancomycin. <br>Duration: 2 wks if normal host, no implants, no evidence of endocarditis or metastatic complications. Otherwise 4-6 wks. |  
+| **Coag-neg staphylococci** | CVC retention does not ↓ rate of resolution, but a/w ↑ rate of recurrence (_CID_ 2009;49:1187). If CVC left, treat 10-14 days; if removed 5-7 days.                                                                                                                                                                                                                                                         |  
+| **_Enterococcus_**         | Remove CVC & treat for 7-14 days                                                                                                                                                                                                                                                                                                                                                                            |  
+| **GNR**                    | Remove CVC esp if _Pseudomonas._ Therapy for 14 days (7 if uncomplicated).                                                                                                                                                                                                                                                                                                                                  |  
+| **Yeast**                  | Remove CVC & treat for 14 from first ⊖ BCx. ID consult a/w ↓ mortality.                                                                                                                                                                                                                                                                                                                                     |  
 - Persistently ⊕ BCx: remove CVCs, look for metastatic infection (endocarditis, septic arthritis, osteo), infected thrombosis, or prosthetic material (vascular graft, PPM)  
-- Short-term catheters should be removed from patients with CRBSI due to gram-negative bacilli, S. aureus, enterococci, fungi, and mycobacteria  
+- Short-term catheters should be removed from patients with CRBSI due to gram-negative bacilli, *S. aureus*, enterococci, fungi, and mycobacteria  
 - For patients with CRBSI for whom catheter salvage is attempted, additional blood cultures should be obtained, and the catheter should be removed if blood culture results (e.g., 2 sets of blood cultures obtained on a given day; 1 set of blood cultures is acceptable for neonates) remain positive when blood samples are obtained 72 h after the initiation of appropriate therapy  
 - For patients with unexplained fever, if blood culture results are positive, the CVC or arterial catheter was exchanged over a guidewire, and the catheter tip has significant growth, then the catheter should be removed and a new catheter placed in a new site  
   
 ![70ccc352a3205d98e90e305bc0e5b3df_MD5.jpeg](../assets/70ccc352a3205d98e90e305bc0e5b3df_MD5.jpeg)  
 > Approach to the management of patients with short-term central venous catheter–related or arterial catheter–related bloodstream infection. [@Mermel2009ClinicalPractice]  
   
-### Long-term catheter  
-- Long-term catheters should be removed from patients with CRBSI associated with any of the following conditions: severe sepsis; suppurative thrombophlebitis; endocarditis; bloodstream infection that continues despite 172 h of antimicrobial therapy to which the infecting microbes are susceptible; or infections due to S. aureus, P. aeruginosa, fungi, or mycobacteria  
-- In uncomplicated CRBSI involving long-term catheters due to pathogens other than S. aureus, P. aeruginosa, Bacillus species, Micrococcus species, Propionibacteria, fungi, or mycobacteria, because of the limited access sites in many patients who require long-term intravascular access for survival (e.g., patients undergoing hemodialysis or with short-gut syndrome), treatment should be attempted without catheter removal, with use of both systemic and antimicrobial lock therapy  
+### Long-term catheter [@Mermel2009ClinicalPractice]   
+- Long-term catheters should be removed from patients with CRBSI associated with any of the following conditions: severe sepsis; suppurative thrombophlebitis; endocarditis; bloodstream infection that continues despite >72 h of antimicrobial therapy to which the infecting microbes are susceptible; or infections due to *S. aureus*, *P. aeruginosa*, fungi, or mycobacteria  
+- In uncomplicated CRBSI involving long-term catheters due to pathogens other than *S. aureus*, *P. aeruginosa*, *Bacillus* species, *Micrococcus* species, *Propionibacteria*, fungi, or mycobacteria, because of the limited access sites in many patients who require long-term intravascular access for survival (e.g., patients undergoing hemodialysis or with short-gut syndrome), treatment should be attempted without catheter removal, with use of both systemic and antimicrobial lock therapy  
   
 ![170bf3b5a3e1a44ab3b6fffa028b2bb4_MD5.jpeg](../assets/170bf3b5a3e1a44ab3b6fffa028b2bb4_MD5.jpeg)  
-> Approach to the treatment of a patient with a long-term central venous catheter (CVC) or a port (P)-related bloodstream infection. [@Mermel2009ClinicalPractice]  
+> Approach to the treatment of a patient with a long-term central venous catheter (CVC) or a port (P)-related bloodstream infection.  
+> Recommendation 80: Patients can be considered for a shorter duration of antimicrobial therapy (i.e., a minimum of 14 days of therapy) if the patient is not diabetic; if the patient is not immunosuppressed (i.e., not receiving systemic steroids or other immunosuppressive drugs, such as those used for transplantation, and is nonneutropenic); if the infected catheter is removed; if the patient has no prosthetic intravascular device (e.g., pacemaker or recently placed vascular graft); if there is no evidence of endocarditis or suppurative thrombophlebitis on TEE and ultrasound, respectively; if fever and bacteremia resolve within 72 h after initiation of appropriate antimicrobial therapy; and if there is no evidence of metastatic infection on physical examination and sign- or symptom-directed diagnostic tests  
   
 ### Staphylococcus aureus bacteremia [@Minter2023ContemporaryManagement]  
   
@@ -98,19 +99,19 @@ Abbreviations: CIED, cardiac implantable electronic device; CT, computed tomogra
   
 ## Microbiology of Endocarditis  
   
-|                      | **Native Valve (NVE)** |          | **Prosthetic Valve (PVE)** |                  |  
-| -------------------- | ---------------------- | -------- | -------------------------- | ---------------- |  
-| **Etiology**         | **Non-IVDA**           | **IVDU** | **Early** (≤60 days)       | **Late** (>60 d) |  
-| _S. viridans_ et al. | **36%**                | **13%**  | <5%                        | **20%**          |  
-| _Enterococcus_       | **11%**                | 5%       | 8%                         | 13%              |  
-| _S. aureus_          | **28%**                | **68%**  | **36%**                    | **20%**          |  
-| _S. epidermidis_     | **9%**                 | <5%      | **17%**                    | **20%**          |  
-| GNR                  | <5%                    | <**5**%  | **6%**                     | <5%              |  
-| Other                | <5%                    | <5%      | 10%                        | 10%              |  
-| Fungal^              | 1%                     | 1%       | 9%                         | 3%               |  
-| Culture ⊖^^          | 11%                    | <5%      | 17%                        | 12%              |  
-^ ↑ risk w/DM, indwelling lines, immunosupp.  
-^^ Cx ⊖ = abiotrophic strep, HACEK (Haemophilus para-influenzae & aphrophilus, Actinobacillus, Cardiobacterium, Eikenella, and Kingella), T. whipplei, Bartonella, Coxiella, Chlamydia, Legionella, Brucella (JAMA 2007;297:1354; Annals 2007;147:829; J Clin Microbiol 2012;50:216)  
+|                       | **Native Valve (NVE)** |          | **Prosthetic Valve (PVE)** |                  |  
+| --------------------- | ---------------------- | -------- | -------------------------- | ---------------- |  
+| **Etiology**          | **Non-IVDA**           | **IVDU** | **Early** (≤60 days)       | **Late** (>60 d) |  
+| _S. viridans_ et al.  | **36%**                | **13%**  | <5%                        | **20%**          |  
+| _Enterococcus_        | **11%**                | 5%       | 8%                         | 13%              |  
+| _S. aureus_           | **28%**                | **68%**  | **36%**                    | **20%**          |  
+| _S. epidermidis_      | **9%**                 | <5%      | **17%**                    | **20%**          |  
+| GNR                   | <5%                    | <**5**%  | **6%**                     | <5%              |  
+| Other                 | <5%                    | <5%      | 10%                        | 10%              |  
+| Fungal<sup>a</sup>    | 1%                     | 1%       | 9%                         | 3%               |  
+| Culture ⊖<sup>b</sup> | 11%                    | <5%      | 17%                        | 12%              |  
+<sup>a</sup> ↑ risk w/DM, indwelling lines, immunosupp.  
+<sup>b</sup> Cx ⊖ = abiotrophic strep, HACEK (Haemophilus para-influenzae & aphrophilus, Actinobacillus, Cardiobacterium, Eikenella, and Kingella), T. whipplei, Bartonella, Coxiella, Chlamydia, Legionella, Brucella (JAMA 2007;297:1354; Annals 2007;147:829; J Clin Microbiol 2012;50:216)  
   
   
 | ORGANISM(S)                                                     | NATIVE-VALVE IE                 |                                     | PROSTHETIC-VALVE IE AT INDICATED TIME OF ONSET (MONTHS) AFTER VALVE SURGERY |                  |               | TAVR PVE    | CIED-IE     |  
