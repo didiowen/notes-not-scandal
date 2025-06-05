@@ -23,29 +23,3 @@ status: finished
 | **Lung Sliding** | Pleural shimmering movement | Absent in pneumothorax or adhesions |  
 | **Shred Sign** | Irregular lung border | Pneumonia-related consolidation |  
 | **Lung Point** | Transition between sliding and no sliding | Pneumothorax |  
-  
-```meta-bind-button  
-label: "Share"  
-style: default  
-id: "share"  
-actions:  
-  - type: updateMetadata  
-    bindTarget: share  
-    evaluate: false  
-    value: true  
-  - type: replaceSelf  
-    replacement: "<!-- more -->"  
-```  
-  
-```meta-bind-button  
-label: "Upload"  
-style: default  
-id: "upload"  
-actions:  
-  - type: updateMetadata  
-    bindTarget: date.updated  
-    evaluate: true  
-    value: moment().format("YYYY-MM-DDTHH:mm:ss")  
-  - type: command  
-    command: obsidian-mkdocs-publisher:share-one  
-```
