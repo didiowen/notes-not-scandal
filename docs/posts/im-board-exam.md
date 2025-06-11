@@ -861,18 +861,6 @@ C. 主要藉由齧齒類動物及靈長類動物傳播給人，屬人畜共通�
 D. 前驅症狀，如發熱、頭痛、疲倦，約維持1至4天  
 ==E. 發疹(皮膚病灶)係由四肢向臉部及軀幹中心蔓延(centripetal)==  `通常自臉部蔓延致身體其他部位，四肢比軀幹更常見`  
   
-```meta-bind-button  
-label: "Upload"  
-style: default  
-id: "upload"  
-actions:  
-  - type: updateMetadata  
-    bindTarget: date.updated  
-    evaluate: true  
-    value: moment().format("YYYY-MM-DDTHH:mm:ss")  
-  - type: command  
-    command: obsidian-mkdocs-publisher:share-one  
-```  
   
 %%  
   

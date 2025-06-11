@@ -39,18 +39,4 @@ status: finished
     - 若父母或其他同住的家人是愛滋病毒**帶原者**，家裡的小孩也不能接種口服小兒麻痺減毒疫苗，因為小兒麻痺病毒可以由小孩傳染給父母，有引起父母罹患小兒麻痺的顧慮  
 ### Varicella  
 - 愛滋病毒感染的小孩在CD4百分比>15%時，可以安全地使用活性減毒水痘疫苗（Varivax，2劑，間隔3個月）  
-- 假如病患>8歲，CD4 **>200** cells/μL且合併VZV血清陰性反應時，可考慮施打Varivax水痘疫苗  
-   
-   
-```meta-bind-button  
-label: "Upload"  
-style: default  
-id: "upload"  
-actions:  
-  - type: updateMetadata  
-    bindTarget: date.updated  
-    evaluate: true  
-    value: moment().format("YYYY-MM-DDTHH:mm:ss")  
-  - type: command  
-    command: obsidian-mkdocs-publisher:share-one  
-```
+- 假如病患>8歲，CD4 **>200** cells/μL且合併VZV血清陰性反應時，可考慮施打Varivax水痘疫苗
