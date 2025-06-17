@@ -15,4 +15,4 @@
 - [ ] [軟組織感染](https://share.note.sx/m28oc93u#wJdC3rLRCv5lXc6KgORO5De/g0L80wqZBMz6mnLkls8)
 - [ ] [泌尿道感染](https://share.note.sx/kl2kl718#hM6/FT+eJy30zuzIb2/CO+nEJ76RxqmumC8tFzL6TSQ)
 - [ ] [中樞神經感染](https://share.note.sx/1uhhve6q#nCOpir4CQ8PllcQCjkfpY6sYlK4FQVHe1lC2ON4rTeQ)
-- [ ] [肺炎](https://share.note.sx/9ifbi2jo#6U1/GNMWFYwVS4R1gqHhxouypiQB+GjL33uXrR7OoFM)
+- [ ] [肺炎](https://share.note.sx/zjjy6gik#ew27eRm1NYP0cd+s5behjb4av/fDft++qb3+v/gP6Yc)
