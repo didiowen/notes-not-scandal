@@ -285,5 +285,7 @@ Se ˜90%, Sp >95%, NPV ≥92% (CID 2000;30:633).
 # References  
   
 1. Delgado, V., Ajmone Marsan, N., De Waha, S., Bonaros, N., Brida, M., et al. (2023) 2023 ESC Guidelines for the management of endocarditis. _European Heart Journal_. 44 (39), 3948–4042. doi:[10.1093/eurheartj/ehad193](https://doi.org/10.1093/eurheartj/ehad193).  
-2. Sabatine, M. (2022) _Pocket Medicine_. Pocket Notebook Series. 8th ed. Philadelphia, Wolters Kluwer Health.  
+2. Mermel, L.A., Allon, M., Bouza, E., Craven, D.E., Flynn, P., O’Grady, N.P., Raad, I.I., Rijnders, B.J.A., Sherertz, R.J. & Warren, D.K. (2009) Clinical Practice Guidelines for the Diagnosis and Management of Intravascular Catheter-Related Infection: 2009 Update by the Infectious Diseases Society of America. _Clinical Infectious Diseases_. 49 (1), 1–45. doi:[10.1086/599376](https://doi.org/10.1086/599376).  
+3. Minter, D.J., Appa, A., Chambers, H.F. & Doernberg, S.B. (2023) Contemporary Management of _Staphylococcus aureus_ Bacteremia—Controversies in Clinical Practice. _Clinical Infectious Diseases_. 77 (11), e57–e68. doi:[10.1093/cid/ciad500](https://doi.org/10.1093/cid/ciad500).  
+4. Sabatine, M. (2022) _Pocket Medicine_. Pocket Notebook Series. 8th ed. Philadelphia, Wolters Kluwer Health.  
   
