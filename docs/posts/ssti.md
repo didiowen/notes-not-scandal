@@ -66,9 +66,11 @@ aliases: ssti
 |              |                                                 | Mod          | I&D + TMP-SMX or doxycycline                                               |  
 |              |                                                 | Severe       | I&D + IV vanc, daptomycin or linezolid (± clinda for toxic shock syndrome) |  
   
-Mild: abscess <2 cm, no systemic signs of infection, immunocompetent, no indwelling hardware; moderate: systemic signs; severe: SIRS or immunosuppressed  
+Mild: abscess <2 cm, no systemic signs of infection, immunocompetent, no indwelling hardware  
+Moderate: systemic signs  
+Severe: SIRS or immunosuppressed  
   
-![7df0f201b08c30d57e64dfd9ca20d79b_MD5.jpeg](../assets/7df0f201b08c30d57e64dfd9ca20d79b_MD5.jpeg)  
+![7df0f201b08c30d57e64dfd9ca20d79b_MD5.jpeg](../assets/7df0f201b08c30d57e64dfd9ca20d79b_md5.jpeg)  
 - Purulent skin and soft tissue infections (SSTIs)  
 	- Mild infection: for purulent SSTI, incision and drainage is indicated.   
 	- Moderate infection: patients with purulent infection with systemic signs of infection.   
@@ -78,6 +80,8 @@ Mild: abscess <2 cm, no systemic signs of infection, immunocompetent, no indwell
 	- Moderate infection: typical cellulitis/erysipelas with systemic signs of infection.   
 	- Severe infection: patients who have failed oral antibiotic treatment or those with systemic signs of infection (as defined above under purulent infection), or those who are immunocompromised, or those with **clinical signs of deeper infection such as bullae, skin sloughing, hypotension, or evidence of organ dysfunction**.  
 - Abbreviations: C & S, culture and sensitivity; I & D, incision and drainage; MRSA, methicillin-resistant Staphylococcus aureus; MSSA, methicillin-susceptible Staphylococcus aureus; Rx, treatment; TMP/SMX, trimethoprim-sulfamethoxazole.  
+  
+- Complicated: bite/trauma/burn/post-OP wound infection, diabetic food, immunocompromised host, infected ulcer, perineal/perianal abscess  
   
 - Limb elevation; erythema may worsen after starting abx b/c bacterial killing → inflam.  
 - In obese Pts, adequate drug dosing important to avoid treatment failure (J Infect 2012;2:128)  
@@ -138,7 +142,7 @@ Mild: abscess <2 cm, no systemic signs of infection, immunocompetent, no indwell
 ## Treatment (CID 2012;54:e132)  
   
 - Mild infxn: oral abx. Target GPCs (diclox, cephalexin, or amox/clav); use TMP-SMX or doxy for MRSA.  
-- Mod/severe infxn: IV abx. Target GPCs (vanco, linezolid,dapto) + GNRs (CTX, levo, or amp/sulb) ± anaerobes (metronidazole or clinda). Add PsA coverage (cefepime or piptazo) if: macerated wound, significant water exposure, warm climate  
+- Mod/severe infxn: IV abx. Target GPCs (vanco, linezolid, dapto) + GNRs (CTX, levo, or amp/sulb) ± anaerobes (metronidazole or clinda). Add PsA coverage (cefepime or piptazo) if: macerated wound, significant water exposure, warm climate  
 - Elevation, non-weight-bearing status, wound care, glycemic control, Rx for venous insufficiency and arterial ischemia  
 - Many require surgery: early, aggressive, and repeated debridement; revascularization or amputation may be necessary  
   
