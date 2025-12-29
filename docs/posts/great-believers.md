@@ -1,6 +1,6 @@
 ---
 title: The Great Believers
-subtitle: 
+subtitle:
 Chinese: 幸運之子
 author: Rebecca Makkai
 year: 2018
@@ -23,7 +23,9 @@ aliases: great-believers
 ---
 # The Great Believers  
   
-<span><span><p dir="auto">中譯：幸運之子<br></p></span></span><span><span><p dir="auto">作者：Rebecca Makkai<br></p></span></span><span><span><p dir="auto">原文出版年：2018</p></span></span>  
+中譯：幸運之子    
+作者：Rebecca Makkai    
+原文出版年：2018  
   
 <!-- more -->  
 ## Thoughts  
@@ -39,7 +41,7 @@ aliases: great-believers
   
 ## Posts  
   
-### [The Great Believers](The%20Great%20Believers.md)  
+### [The Great Believers](the-great-believers.md)  
   
 Rebecca Makkai 2018  
   
