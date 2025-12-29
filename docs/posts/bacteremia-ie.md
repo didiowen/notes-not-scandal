@@ -42,7 +42,9 @@ aliases: bacteremia-ie
   
 - Empiric antibiotics based on Gram stain, culture, & clinical syndrome, then tailor based on sensitivity  
   
-### Short-Term Central Venous Catheter-Related Bloodstream Infections  
+### CRBSI  
+- Definition: a positive result of semiquantitative (>15 cfuper catheter segment) or quantitative (>10<sup>2</sup> cfu per catheter segment) catheter culture, whereby the same organism (species) is isolated from a catheter segment and a peripheral blood culture; simultaneous quantitative cultures of blood with a ratio of 13:1 cfu/mL of blood (catheter vs. peripheral blood); differential time to positivity (growth in a culture of blood obtained through a catheter hub is detected by an automated blood culture system at least 2 h earlier than a culture of simultaneously drawn peripheral blood of equal volume).  
+#### Short-Term Central Venous Catheter-Related Bloodstream Infections  
   
 | Pathogen                   | Management                                                                                                                                                                                                                                                                                                                                                                                                  |  
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  
@@ -56,14 +58,14 @@ aliases: bacteremia-ie
 - For patients with CRBSI for whom catheter salvage is attempted, additional blood cultures should be obtained, and the catheter should be removed if blood culture results (e.g., 2 sets of blood cultures obtained on a given day; 1 set of blood cultures is acceptable for neonates) remain positive when blood samples are obtained 72 h after the initiation of appropriate therapy  
 - For patients with unexplained fever, if blood culture results are positive, the CVC or arterial catheter was exchanged over a guidewire, and the catheter tip has significant growth, then the catheter should be removed and a new catheter placed in a new site  
   
-![70ccc352a3205d98e90e305bc0e5b3df_MD5.jpeg](../assets/70ccc352a3205d98e90e305bc0e5b3df_MD5.jpeg)  
+![70ccc352a3205d98e90e305bc0e5b3df_MD5.jpeg](../assets/70ccc352a3205d98e90e305bc0e5b3df_md5.jpeg)  
 > Approach to the management of patients with short-term central venous catheter–related or arterial catheter–related bloodstream infection. [@Mermel2009ClinicalPractice]  
   
-### Long-term catheter [@Mermel2009ClinicalPractice]   
+#### Long-term catheter [@Mermel2009ClinicalPractice]   
 - Long-term catheters should be removed from patients with CRBSI associated with any of the following conditions: severe sepsis; suppurative thrombophlebitis; endocarditis; bloodstream infection that continues despite >72 h of antimicrobial therapy to which the infecting microbes are susceptible; or infections due to *S. aureus*, *P. aeruginosa*, fungi, or mycobacteria  
 - In uncomplicated CRBSI involving long-term catheters due to pathogens other than *S. aureus*, *P. aeruginosa*, *Bacillus* species, *Micrococcus* species, *Propionibacteria*, fungi, or mycobacteria, because of the limited access sites in many patients who require long-term intravascular access for survival (e.g., patients undergoing hemodialysis or with short-gut syndrome), treatment should be attempted without catheter removal, with use of both systemic and antimicrobial lock therapy  
   
-![170bf3b5a3e1a44ab3b6fffa028b2bb4_MD5.jpeg](../assets/170bf3b5a3e1a44ab3b6fffa028b2bb4_MD5.jpeg)  
+![170bf3b5a3e1a44ab3b6fffa028b2bb4_MD5.jpeg](../assets/170bf3b5a3e1a44ab3b6fffa028b2bb4_md5.jpeg)  
 > Approach to the treatment of a patient with a long-term central venous catheter (CVC) or a port (P)-related bloodstream infection.  
 > Recommendation 80: Patients can be considered for a shorter duration of antimicrobial therapy (i.e., a minimum of 14 days of therapy) if the patient is not diabetic; if the patient is not immunosuppressed (i.e., not receiving systemic steroids or other immunosuppressive drugs, such as those used for transplantation, and is nonneutropenic); if the infected catheter is removed; if the patient has no prosthetic intravascular device (e.g., pacemaker or recently placed vascular graft); if there is no evidence of endocarditis or suppurative thrombophlebitis on TEE and ultrasound, respectively; if fever and bacteremia resolve within 72 h after initiation of appropriate antimicrobial therapy; and if there is no evidence of metastatic infection on physical examination and sign- or symptom-directed diagnostic tests  
   
@@ -76,8 +78,8 @@ Uncomplicated:
 - Defervescence within 72 h of antibiotics  
 - No evidence of metastatic sites of infection  
   
-![5ed49349e45f76357b5a4958d24356be_MD5.jpeg](../assets/5ed49349e45f76357b5a4958d24356be_MD5.jpeg)  
-![f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg](../assets/f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg)  
+![5ed49349e45f76357b5a4958d24356be_MD5.jpeg](../assets/5ed49349e45f76357b5a4958d24356be_md5.jpeg)  
+![f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg](../assets/f88b89c95332b2396d6d8bce14b2bb60_md5.jpeg)  
 > **Proposed algorithm for the evaluation and management of SAB.**   
 All patients should undergo a standardized minimum evaluation[^a] (thorough history and examination, repeat blood cultures, and TTE) that serves to stratify risk of metastatic foci. In those determined to have low-risk SAB (see below), additional workup can potentially be deferred. In those with indeterminant or high-risk SAB, additional evaluation[^b] (guided by the patient’s clinical features) is recommended. Classification of patients as having SAB with or without metastatic foci assists in guiding treatment decisions, which should include antibiotics, source control, and (when applicable) substance-use treatment.   
 †Low-risk SAB: no predisposing host factors, negative TTE; blood cultures clear in <48 hours, bacteremia is hospital-acquired; no persistent fever, timely antibiotic start, and no clinical signs of metastatic infection.   
@@ -155,7 +157,7 @@ Abbreviations: CIED, cardiac implantable electronic device; CT, computed tomogra
 - Neurologic deficits c/f embolic stroke; vertebral tenderness c/f osteo or epidural abscess  
 - Devices: evaluate CVCs, PM/ICD pocket, and sites of other hardware/ prosthetics  
   
-![9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg](../assets/9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg)  
+![9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg](../assets/9bfd16b74d174ac2dbd8b3c9fc4fcef1_md5.jpeg)  
   
 ## Diagnosis (CID 2010;51:131; EHJ 2015;36:3075; Circ 2015;132:1435)  
   
@@ -219,20 +221,20 @@ Se ˜90%, Sp >95%, NPV ≥92% (CID 2000;30:633).
   
 ### Antibiotic regimens for initial empirical treatment of infective endocarditis (before pathogen identification)^a  
   
-![2ae50ffaeb435434defe53e9c359da40_MD5.jpeg](../assets/2ae50ffaeb435434defe53e9c359da40_MD5.jpeg)  
+![2ae50ffaeb435434defe53e9c359da40_MD5.jpeg](../assets/2ae50ffaeb435434defe53e9c359da40_md5.jpeg)  
   
 ### Antibiotic treatment of infective endocarditis due to oral streptococci and _Streptococcus gallolyticus_ group  
-![22e24ea7d966fc9938fdacf7f7d00f78_MD5.jpeg](../assets/22e24ea7d966fc9938fdacf7f7d00f78_MD5.jpeg)  
-![07526380dde3cc2777591bcd2a2dc32c_MD5.jpeg](../assets/07526380dde3cc2777591bcd2a2dc32c_MD5.jpeg)  
+![22e24ea7d966fc9938fdacf7f7d00f78_MD5.jpeg](../assets/22e24ea7d966fc9938fdacf7f7d00f78_md5.jpeg)  
+![07526380dde3cc2777591bcd2a2dc32c_MD5.jpeg](../assets/07526380dde3cc2777591bcd2a2dc32c_md5.jpeg)  
   
 ### Antibiotic treatment of infective endocarditis due to _Staphylococcus_ spp.  
   
-![61732b07753358f3d8753bf3089b9761_MD5.jpeg](../assets/61732b07753358f3d8753bf3089b9761_MD5.jpeg)  
-![2a7657bf3b31a3c93cf3131a2365c9e1_MD5.jpeg](../assets/2a7657bf3b31a3c93cf3131a2365c9e1_MD5.jpeg)  
+![61732b07753358f3d8753bf3089b9761_MD5.jpeg](../assets/61732b07753358f3d8753bf3089b9761_md5.jpeg)  
+![2a7657bf3b31a3c93cf3131a2365c9e1_MD5.jpeg](../assets/2a7657bf3b31a3c93cf3131a2365c9e1_md5.jpeg)  
   
 ### Recommendations for antibiotic treatment of infective endocarditis due to _Enterococcus_ spp.  
-![9fdbf1647120d1ed2daebe4b928d5854_MD5.jpeg](../assets/9fdbf1647120d1ed2daebe4b928d5854_MD5.jpeg)  
-![c1da5203b9ccd7e1951b8f54ae9fc043_MD5.jpeg](../assets/c1da5203b9ccd7e1951b8f54ae9fc043_MD5.jpeg)  
+![9fdbf1647120d1ed2daebe4b928d5854_MD5.jpeg](../assets/9fdbf1647120d1ed2daebe4b928d5854_md5.jpeg)  
+![c1da5203b9ccd7e1951b8f54ae9fc043_MD5.jpeg](../assets/c1da5203b9ccd7e1951b8f54ae9fc043_md5.jpeg)  
   
 ### Antibiotic treatment of blood culture-negative infective endocarditis  
 | Pathogens                                           | Proposed therapy<sup>a</sup>                                                                                                                                      | Treatment outcome                                                                                                         |  
@@ -264,16 +266,16 @@ Se ˜90%, Sp >95%, NPV ≥92% (CID 2000;30:633).
 	- HF with stable hemodynamics  
 	- Resistant bacteria or fungi other than SA  
 	- PVE not caused SA or non-HACEK GNB  
-![f1f53fec2ba31a6f3e73b18fefc26620_MD5.jpeg](../assets/f1f53fec2ba31a6f3e73b18fefc26620_MD5.jpeg)  
+![f1f53fec2ba31a6f3e73b18fefc26620_MD5.jpeg](../assets/f1f53fec2ba31a6f3e73b18fefc26620_md5.jpeg)  
 <sup>a</sup>Despite appropriate antibiotic therapy for >1 week and control of septic embolic foci.   
 <sup>b</sup>E.g. patients with significant valvular dysfunction that is, or is not, a direct result of endocarditis process.   
 <sup>c</sup>_S. aureus_ (methicillin resistant and non-methicillin resistant), vancomycin-resistant enterococci, non-HACEK Gram-negative bacteria and fungi.   
 <sup>d</sup>Urgent for _S. aureus_, non-urgent for others.  
   
 ## Oral Step-Down Therapy  
-![daca21bb15b1314830aca8040860f6d2_MD5.jpeg](../assets/daca21bb15b1314830aca8040860f6d2_MD5.jpeg)  
-![8bef8cee0bd586e62dd39135c8adac23_MD5.jpeg](../assets/8bef8cee0bd586e62dd39135c8adac23_MD5.jpeg)  
-![4073cbc8ac9de6931ac3fad8b22813ba_MD5.jpeg](../assets/4073cbc8ac9de6931ac3fad8b22813ba_MD5.jpeg)  
+![daca21bb15b1314830aca8040860f6d2_MD5.jpeg](../assets/daca21bb15b1314830aca8040860f6d2_md5.jpeg)  
+![8bef8cee0bd586e62dd39135c8adac23_MD5.jpeg](../assets/8bef8cee0bd586e62dd39135c8adac23_md5.jpeg)  
+![4073cbc8ac9de6931ac3fad8b22813ba_MD5.jpeg](../assets/4073cbc8ac9de6931ac3fad8b22813ba_md5.jpeg)  
 ## Endocarditis Prophylaxis (Circ 2007;116:1736)  
   
 | **Cardiac conditions^** | **Prosthetic valve; previous endocarditis; congenital heart disease** (CHD) including unrepaired or incompletely repaired cyanotic CHD (palliative shunts or conduits), 1st 6 mo after completely repaired CHD using prosthetic material; cardiac transplant recipients w/ valvulopathy. (Prophylaxis no longer rec. in acquired valvular dysfxn, bicuspid AoV, MVP with leaflet thickening or regurgitation, HCM.) |  
