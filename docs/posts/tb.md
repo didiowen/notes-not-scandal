@@ -72,7 +72,7 @@ source: Pocket Medicine, 2022, 台灣肺結核診治指引第七版
 >一個同時罹患多部位肺外結核之病人其歸類以其最嚴重者為主  
 ## Diagnostics for active TB (CID 2017;64:11)  
   
-![diagnosis](../assets/6f5f04e174c8d5d96ad668cebb8debab_MD5.jpeg)  
+![diagnosis](../assets/6f5f04e174c8d5d96ad668cebb8debab_md5.jpeg)  
 [^1] 必要時，包括胸部電腦斷層掃描檢查。  
 [^2] 醫師得視病情，決定是否進行痰塗片、NAA test 及培養。但若肺結核的可能性相當低，則不建議NAA test。  
 [^3] 痰塗片及培養，必須同時進行2~3 次。  
@@ -98,7 +98,7 @@ source: Pocket Medicine, 2022, 台灣肺結核診治指引第七版
     - 塗片呈現陽性，但是 NAA檢驗呈陰性：==必須檢查是否因 PCR 反應中含有核酸複製的抑制物所致==，若無抑制物的影響，則可推測病人之痰中存在有非結核分枝桿菌而非結核菌  
     - 塗片呈陰性，但 NAA 檢查呈陽性，則可依臨床綜合判斷或考慮再進行另一套檢體的 NAA 檢驗；如果仍得到陽性結果，則可推論此病人可能得到結核病  
     - 兩者皆為陰性，則表示痰中應無結核分枝桿菌存在  
-![NAT](../assets/1dfa6fa6e8fbe181119e586a3a6273a9_MD5.jpeg)  
+![NAT](../assets/1dfa6fa6e8fbe181119e586a3a6273a9_md5.jpeg)  
 - GeneXpert：可在一般實驗室環境使用並在 2-3 小時即得到檢驗結果，在塗片陽性檢體，其敏感度達98%、特異度達99%；若檢體為塗片陰性，其敏感度下降至68%、特異度為99%  
     - 也可應用於 rifampin 抗藥之痰液檢測，其對於 rifampin 抗藥之敏感度為95%而特異度可達98%；惟當檢查對象的 rifampin 抗藥性低於5%時，其陽性預測值會降至70%以下，故仍需傳統藥物感受性試驗結果或其它分子檢測法再確認是否為 rifampin 抗藥  
 - Image:  
@@ -137,7 +137,8 @@ source: Pocket Medicine, 2022, 台灣肺結核診治指引第七版
 >[!warning] 標準的結核治療處方  
 >INH + RMP + PZA + EMB x 60天 → INH + RMP + EMB x 120天  
   
-- INH和RMP都敏感者，可考慮停用EMB  
+- INH和RMP都敏感者且臨床改善，持續期可停用EMB  
+- 痰塗片持續陽性者可保留EMB和PZA直到病情得到較明確的改善  
 - 對於胸部X 光有廣泛的結核侵犯或是開洞病灶，或者是第二個月痰培養仍為陽性，以及加強期沒有全程使用PZA的病人，應該將持續期延長為7個月  
 ### 肺外結核的治療期間  
   
@@ -193,12 +194,12 @@ source: Pocket Medicine, 2022, 台灣肺結核診治指引第七版
   
 ### 處方劑量  
   
-![4894c2b4ab56ddff06a9da21d1638472_MD5.jpeg](../assets/4894c2b4ab56ddff06a9da21d1638472_MD5.jpeg)  
-![8f21e57a780365178693fcd232dc8276_MD5.jpeg](../assets/8f21e57a780365178693fcd232dc8276_MD5.jpeg)  
+![4894c2b4ab56ddff06a9da21d1638472_MD5.jpeg](../assets/4894c2b4ab56ddff06a9da21d1638472_md5.jpeg)  
+![8f21e57a780365178693fcd232dc8276_MD5.jpeg](../assets/8f21e57a780365178693fcd232dc8276_md5.jpeg)  
   
 ## 第二線處方藥物  
   
-![116d7f6428cdf0c71b9eb9b6aa645f6d_MD5.jpeg](../assets/116d7f6428cdf0c71b9eb9b6aa645f6d_MD5.jpeg)  
+![116d7f6428cdf0c71b9eb9b6aa645f6d_MD5.jpeg](../assets/116d7f6428cdf0c71b9eb9b6aa645f6d_md5.jpeg)  
   
 ## 治療反應評估及結果  
   
@@ -243,8 +244,8 @@ source: Pocket Medicine, 2022, 台灣肺結核診治指引第七版
 	2. ﻿﻿﻿逐一加藥時，由於使用的藥物種類往往不足，因此最先使用的藥物，最有可能產生抗藥性。基於保護RMP，優先加入INH  
 - 逐一加藥的過程中，可以同時使用足夠劑量的EMB。俟成功加上足夠有效藥物後，可以停止針劑  
 - 若病人之藥物性肝炎嚴重或合併有黃疸，在成功地重新使用上INH 及RMP之後，不建議嘗試加入PZA  
-![hepatits_flowchart](../assets/eb9c6714ed9a2bd4f2e3862fe0c6477f_MD5.jpeg)  
-![hepatitis_challenge](../assets/70b2c6f4f5838a906dedac0d22900aea_MD5.jpeg)  
+![hepatits_flowchart](../assets/eb9c6714ed9a2bd4f2e3862fe0c6477f_md5.jpeg)  
+![hepatitis_challenge](../assets/70b2c6f4f5838a906dedac0d22900aea_md5.jpeg)  
   
 ### 尿酸  
 - ﻿﻿Creatinine上升超過0.5mg/dL  
@@ -253,7 +254,7 @@ source: Pocket Medicine, 2022, 台灣肺結核診治指引第七版
 ### 皮疹  
 - 嚴重無法緩解之皮疹、搔癢、或併發toxic epidermal necrolysis, Stevens-Johnson syndrome  
 	- INH-RMP-EMB→PZA de-sensitization  
-![rash_challenge](../assets/b3d2f56abc296d9dc6b97219bea1bada_MD5.jpeg)  
+![rash_challenge](../assets/b3d2f56abc296d9dc6b97219bea1bada_md5.jpeg)  
 ### 腸胃不適  
 - 第一線藥物中，PZA 是最常引起腸胃不適的藥物。另外，飯前服用INH 與RMP，血中藥物濃度會比飯後服用稍高，但腸胃道的不良反應也因此而顯著提高。  
 - 處理方式：兩週內會自行減緩或消失，症狀較嚴重者，可以建議病人飯後或與食物一起服用，或在睡前給藥。但若症狀嚴重，應立即停止所有抗結核藥物，待症狀改善後，依照INH→RMP→EMB→PZA 的順序逐一加入足夠之抗結核藥物。  
@@ -276,4 +277,4 @@ source: Pocket Medicine, 2022, 台灣肺結核診治指引第七版
 - 其他身體狀況改變導致急性腎損傷  
 - 一旦發現腎功能惡化，除了停止抗結核藥物治療以外，也應該安排進一步檢查或照會腎臟科醫師鑑別診斷。之後待腎功能恢復或穩定後，再逐一上藥  
 ### 產生不良反應之後處理調整的建議  
-![regimen_adjust](../assets/5820fcb1f443750d420fb2328167d274_MD5.jpeg)
+![regimen_adjust](../assets/5820fcb1f443750d420fb2328167d274_md5.jpeg)
