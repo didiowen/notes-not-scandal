@@ -9,7 +9,7 @@ tags:
   - share
 status: finished
 share_link: https://share.note.sx/phl07lrt#m3+7fJ/DzSGBZILBoqvN0puQctK6xych9ZWRA5I/WLw
-share_updated: 2025-05-23T13:38:01+08:00
+share_updated: 2025-06-11T15:51:24+08:00
 share: true
 categories:
   - medicine
@@ -21,7 +21,7 @@ aliases: abx
 up:: 專師考試解題  
   
 ## 作用機制  
-![mechanism](../assets/d5cd1072950af118968f9283c66a7d7c_MD5.jpeg)  
+![mechanism](../assets/d5cd1072950af118968f9283c66a7d7c_md5.jpeg)  
   
 <!-- more -->  
   
@@ -51,8 +51,8 @@ up:: 專師考試解題
 | Daptomycin                                                                                                 | Cell membrane          | Produces membrane channel and membrane leakage                                                                                                                           | Altered cell-membrane charge with reduced drug binding                                                                                                                                 |  
   
 ## 抗藥性機轉  
-![resistance_zh](../assets/be7c385cf6d7376b54c4de4794df94d7_MD5.jpeg)  
-![resistance_en](../assets/64e57133364b2f9716df1ac514b4d418_MD5.jpeg)  
+![resistance_zh](../assets/be7c385cf6d7376b54c4de4794df94d7_md5.jpeg)  
+![resistance_en](../assets/64e57133364b2f9716df1ac514b4d418_md5.jpeg)  
   
 ## 藥物動力學 (Pharmakokinetics)  
   
@@ -86,7 +86,7 @@ Drugs binding to serum proteins have a major influence on V$_d$ . Acidic drugs t
   
 - 描述藥物作用於病原體的決定因素，並與藥物動力學因素相關  
   
-![PK-PD](../assets/0031631cc2db01c1b2049fdd7dc5c820_MD5.jpg)  
+![PK-PD](../assets/0031631cc2db01c1b2049fdd7dc5c820_md5.jpg)  
   
 ### 濃度依賴型抗生素  
   
@@ -96,7 +96,7 @@ Drugs binding to serum proteins have a major influence on V$_d$ . Acidic drugs t
   
 這類抗生素多為beta-lactams類，如penicillin、cephalosporins。對penicillin和cephalosporins而言，血中藥物濃度>MIC的時間越長越能滲透體內組織，建議治療期間的血中濃度有50%以上的時間高於MIC，以達療效最大化、抗生素耐藥性最小化的目標。此類藥品以連續輸注或延長輸注時間的方式給藥，除了可穩定抗生素血中濃度的變化、不增加重症患者AKI的發生率外，對整體的醫療照護支出費用也可顯著降低。  
   
-![continuous_infusion](../assets/7b65fa7dc1c088fde13f25ce0aa559f4_MD5.jpg)  
+![continuous_infusion](../assets/7b65fa7dc1c088fde13f25ce0aa559f4_md5.jpg)  
 ### 曲線下面積/最低抑菌濃度相關  
   
 如vancomycin，建議血中藥物濃度之曲線下面積 (AUC) 與MIC比值達到400-600  
@@ -104,7 +104,7 @@ mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。
   
 ## 抗菌範圍  
   
-![spectrum](../assets/7e8b9088434a32c9d865e91bb156fd55_MD5.jpeg)  
+![spectrum](../assets/7e8b9088434a32c9d865e91bb156fd55_md5.jpeg)  
 [Source](http://charliekuo.com/?p=3114)  
   
 ### Anfi-fungals  
@@ -137,8 +137,8 @@ mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。
 | VRE                   | **linezolid**, daptomycin, tigecycline, fosfomycin                                                                                                                         |  
 | PRSP                  | ceftriaxone, vancomycin, teicoplanin, tigecycline                                                                                                                          |  
   
-![18f9911ae8d5eb922dd432ddff4005a7_MD5.jpg](../assets/18f9911ae8d5eb922dd432ddff4005a7_MD5.jpg)  
-![CRGN](../assets/24eb7434efb4ee8af42bd23d8cd5c0d2_MD5.jpeg)  
+![18f9911ae8d5eb922dd432ddff4005a7_MD5.jpg](../assets/18f9911ae8d5eb922dd432ddff4005a7_md5.jpg)  
+![CRGN](../assets/24eb7434efb4ee8af42bd23d8cd5c0d2_md5.jpeg)  
 ### 特殊細菌  
   
 - Enterococcus: **ampicillin**; cephalosporins沒有效  
@@ -312,7 +312,258 @@ Amphotericin B liposome
   
 ## 考古題  
 ### 專師  
+7. 病危的病人因 Pseudomonas aeruginosa 引起之肺炎，優先選擇之抗生素不包括下列何者？ [#medicine/antibiotics](#medicine/antibiotics)    
+    (A) Cefepime®    
+    (B) Piperacillin/tazobactam®    
+    (C) Meropenem®    
+    ==(D) Ampicillin/sulbactam®==  
   
+0. 關於 aminoglycoside 副作用之敘述，下列何者錯誤？ [#medicine/antibiotics](#medicine/antibiotics)    
+    (A) 應保持良好水化以預防腎毒性    
+    ==(B) 一般治療劑量下不會引起耳毒性==    
+    (C) 年紀大病人較易發生腎毒性    
+    (D) 停藥後須繼續監測聽力約 3-4 週  
+  
+9. 針對反覆泌尿道感染治療的抗生素，下列何者具抑制乙醯輔酶 A 的作用？ [#medicine/antibiotics](#medicine/antibiotics)    
+    ==(A) nitrofurantoin==    
+    (B) trimethoprim    
+    (C) sulfamethoxazole    
+    (D) sulfisomidine  
+  
+5. 下列抗生素與副作用之組合，何者最不適當？ [#medicine/antibiotics](#medicine/antibiotics)    
+    (A) vancomycin – 腎毒性    
+    ==(B) gentamicin – 低血鉀==    
+    (C) clindamycin – 腹瀉、偽膜性腸炎    
+    (D) tetracycline – 光感受性( photosensitivity )  
+  
+1. vancomycin 引起相關red man syndrome 副作用，下列敘述何者正確？ [#medicine/antibiotics](#medicine/antibiotics)    
+    (A) 主要與遺傳有關    
+    (B) 為自體免疫複合物反應    
+    (C) 特點為臉部潮紅、四肢出現紅疹，但軀幹正常    
+    ==(D) 與靜脈滴注藥物時間太快有關，可能引起心跳驟停==  
+  
+2. 下列何種抗生素在慢性腎衰竭病人不需要減量使用？ [#medicine/antibiotics](#medicine/antibiotics)    
+    ==(A) macrolide，如erythromycin==    
+    (B) aminoglycoside，如gentamicin    
+    (C) polymyxin，如colistin    
+    (D) sulfar drug，如TMP - SMX  
+  
+### 通論  
+  
+4. 下列感染症及對應治療抗生素的組合，何者最不適當？ [#medicine/antibiotics](#medicine/antibiotics)    
+    (A) 立克次體感染– doxycycline    
+    (B) 偽膜性腸炎– metronidazole    
+    (C) 李斯特菌感染– ampicillin    
+    ==(D) 沙門氏菌血症– cefazolin==  
+  
+5. 有關fluoroquinolones 的副作用，下列何者最不可能？ [#medicine/antibiotics](#medicine/antibiotics)    
+    (A) 心電圖QTc 延長    
+    (B) 肌腱炎( tendinitis )    
+    (C) 血糖異常( dysglycemia )    
+    ==(D) 光敏感( photosensitivity )==  
+  
+0. 年輕女性已懷孕3 個月罹患泌尿道感染，不宜使用下列何種抗生素？ [#medicine/antibiotics](#medicine/antibiotics)    
+    ==(A) fluoroquinolone==    
+    (B) nitrofurantoin    
+    (C) ampicillin    
+    (D) cefazolin  
+  
+### 外科  
+  
+3. 下列廣效性抗生素中，何者是屬於干擾細胞壁合成胜肽類相互交叉連接(transpeptidation) ，以達殺菌效果？ [#medicine/antibiotics](#medicine/antibiotics)    
+    (A) aminoglycosides 類    
+    ==(B) β-lactam 類==    
+    (C) quinolones 類    
+    (D) tetracyclines 類  
+  
+9. 下列那一種藥物最適用於治療Pseudomonas aeruginosa 引起的腦膜炎？ [#medicine/antibiotics](#medicine/antibiotics)    
+    ==(A) cefepime==    
+    (B) cephalothin    
+    (C) cefoxitin    
+    (D) cefuroxime  
+  
+1. 下列抗生素與副作用之組合，何者最不適當？ [#medicine/antibiotics](#medicine/antibiotics)    
+    (A) vancomycin –腎毒性    
+    (B) clindamycin – 腹瀉、偽膜性腸炎    
+    ==(C) gentamicin – 低血鉀==    
+    (D) tetracycline – 光感受性(photosensitivity)  
+  
+2. 下列抗微生素製劑與副作用之組合，何者最不適當？ [#medicine/antibiotics](#medicine/antibiotics)    
+    (A) daptomycin–myopathy（肌肉病變）    
+    (B) chloramphenicol–aplastic anemia（再生不良性貧血）    
+    ==(C) gentamicin-hepatic failure（肝衰竭）== `腎衰竭`    
+    (D) tetracycline-photosensitivity（光敏感症）  
+  
+7. 下列何種抗生素的使用較不易造成QT 延長？ [#medicine/antibiotics](#medicine/antibiotics)    
+    (A) ciprofloxacin    
+    ==(B) cefepime==    
+    (C) azithromycin    
+    (D) fluconazole  
+  
+2. 敗血症致病原與抗生素治療的配對，下列何者錯誤？ [#medicine/antibiotics](#medicine/antibiotics)    
+    (A) neisseria meningitidis ( 腦膜炎雙球菌) - ceftriaxone    
+    ==(B) enterococcus ( 腸球菌) - cefazolin==    
+    (C) methicillin - resistant staphylococcus aureus(methicillin抗藥性金黃色葡萄球菌) - daptomycin    
+    (D) anaerobes ( 厭氧菌) - metronidazole  
+  
+2. 關於抗微生物製劑，下列敘述何者正確？ [#medicine/antibiotics](#medicine/antibiotics)    
+    ==(A) ciprofloxacin hcl 一般對綠膿桿菌 ( _P. aeruginosa_ ) 有很好的治療效果==    
+    (B) clindamycin 可用於治療艱難梭菌 ( _C. difficile_ ) 造成的腹瀉    
+    (C) linezolid 因口服吸收率低，需要靜脈輸注使用    
+    (D) rifampin 的副作用以噁心及嘔吐最為常見  
+  
+7. 一位 55 歲 60 kg 女性，因膽囊結石反覆發炎而入院接受腹腔鏡膽囊切除術，下列術前預防性抗生素及投注劑量何者正確？ [#medicine/antibiotics](#medicine/antibiotics)    
+    (A) ampicillin 1 g    
+    ==(B) cefazolin 2 g==    
+    (C) cefuroxime 3 g    
+    (D) fluoroquinolone 0.5 g  
   
 ### 內科醫師  
+6. 有關抗生素之描述，下列哪一項不正確? [#medicine/antibiotics](#medicine/antibiotics)    
+    A. Fluoroquinolone類抗生素在QTc prolongation的病人產生心律不整的風險增加    
+    B. 老年人和同時用steroid的人使用fluoroquinolone會增加tendinitis副作用之風險    
+    C. 懷孕婦人不建議使用streptomycin，tetracycline或tigecycline (category D)    
+    D. 使用ceftriaxone不可加入含鈣之點滴注射液    
+    ==E. Fluoroquinolone對MRSA及VRE治療效果良好 ==  
   
+2. 有關腸球菌與抗生素之敘述，請選出最正確的答案 [#medicine/antibiotics](#medicine/antibiotics)    
+    (1) Vancomycin抗藥性腸球菌 (VRE) 最常見的菌種是Enterococcus faecium    
+    (2) Enterococcus faecalis菌血症通常以 vancomycin治療    
+    (3) Enterococcus faecails感染的首選治療通常是 ampicillin    
+    (4) VRE的嚴重感染常需使用linezolid或daptomycin治療    
+    (5) 尿液培養或痰液培養有VRE，需使用linezolid治療    
+    A. (1)+(2)    
+    B. (1)+(3)    
+    C. (2)+(4)    
+    ==D. (1)+(3)+(4)==    
+    E. (1)+(2)+(3)+(4)+(5)  
+  
+4. 下列用於治療methicillin-resistant Staphylococcus aureus (MRSA)之敘述何者正確？ [#medicine/antibiotics](#medicine/antibiotics)    
+    A. MRSA與 methicillin-susceptible Staphylococcus aureus (MSSA) 心內膜炎死亡率相近    
+    B. 只有院內感染才有MRSA的風險，一般社區型肺炎不應將MRSA列入考量    
+    C. Tigecycline屬於殺菌型藥物，可用於心內膜炎及菌血症之治療，高劑量使用須注意腸胃道症狀    
+    ==D. Linezolid長時間使用可能會造成血小板數量降低，也可能引發視神經病變，須注意眼底檢查==    
+    E. Vancomycin使用時只須監測血中 trough 濃度，以評估其療效及副作用  
+  
+7. 有關抗生素治療與敗血症致病原的配對,下列哪些組合是正確的？ [#medicine/antibiotics](#medicine/antibiotics)    
+    (1) Ceftriaxone - Neisseria meningitidis     
+    (2) Penicillin - Group A Streptococcus     
+    (3) Clindamycin - Rickettsia     
+    (4) Ceftazidime- Enterococcus    
+    ==A. (1)+(2)==    
+    B. (2)+(3)    
+    C. (1)+(3)    
+    D. (2)+(4)    
+    E. (1)+(4)  
+  
+0. 一位83歲男性，因為尿路感染併菌血症而住進加護病房。三天前他因為間斷性神智混亂、虛弱，解尿疼痛和血尿被送到急診，因為血流動力情況不穩而入住加護病房，剛開始接受靜脈輸液，經驗性meropenem。三天後低血壓和發燒都緩解，身體診察體溫37.6°C，血壓120/80 mmHg，心跳94/min，呼吸18/min，心臟診察正常，腰側和腹部無壓痛，尿液培養Enterococcus faecalis大於100000菌落，而血液培養也是E. faecalis，抗生素感染性試驗對ampicillin，vancomycin和gentamicin具敏感性。 請問此時下列哪一項抗生素治療是適當的? [#medicine/antibiotics](#medicine/antibiotics)    
+    ==A. 改成ampicillin==    
+    B. 改成ampicillin和gentamicin    
+    C. 改成vancomycin    
+    D. 改成vancomycin和gentamicin    
+    E. 繼續使用meropenem  
+  
+7. 有關致病原感染與抗生素治療的配對,下列哪些組合是正確的? (1) Bacteroides - metronidazole (2) Meningococcus - ceftriaxone (3) Staphylococcus - vancomycin or oxacillin (4) Enterococcus - cefazolin [#medicine/antibiotics](#medicine/antibiotics)    
+    ==A. (1)+(2)+(3)==    
+    B. (2)+(3)+(4)    
+    C. (1)+(3)+(4)    
+    D. (1)+(2)+(4)    
+    E. (1)+(2)+(3)+(4)  
+  
+8. 有關A族鏈球菌造成的急性咽喉炎(pharyngitis)之敘述，以下有關治療之敘述何者不正確？ [#medicine/antibiotics](#medicine/antibiotics)    
+    A. 治療可降低風濕熱之風險    
+    B. 治療可縮短疾病症狀    
+    C. 可降低對密切接觸者或在擁擠環境中之傳播    
+    D. 治療可採10天之口服Amoxicillin    
+    ==E. 治療採moxifloxacin 7天==  
+  
+9. 一般對綠膿桿菌感染的治療可選下列哪些抗生素? (1) Moxifloxacin (2) Cefepime (3) Cefoxitin (4) Ertapenem (5) Ceftazidime [#medicine/antibiotics](#medicine/antibiotics)    
+    A. (1)+(2)+(4)    
+    B. (1)+(4)+(5)    
+    C. (2)+(4)+(5)    
+    D. (1)+(4)    
+    ==E. (2)+(5)==  
+  
+0. 以下哪些抗藥性細菌感染可被配對抗生素所治療? (1) Extended spectrum beta-lactamase (ESBL)-producing E. coli: Ertapenem (2) KPC carbapenemase-producing K. pneumoniae: Meropenem (3) VRE: Linezolid (4) MRSA: Daptomycin (5). Carbapenem-resistant Pseudomonas aeruginosa: Tigecycline [#medicine/antibiotics](#medicine/antibiotics)    
+    A. (1)+(2)+(3)    
+    ==B. (1)+(3)+(4)==    
+    C. (3)+(4)+(5)    
+    D. (1)+(3)+(4)+(5)    
+    E. (1)+(3)  
+  
+3. Klebsiella pneumoniae 漸漸成為最重要的腸原性致病菌, 以下敘述何者正確? [#medicine/antibiotics](#medicine/antibiotics)    
+    (1) 所有的臨床 Klebsiella pneumoniae菌株皆對 Ampicillin和 Ticarcillin具抗藥性    
+    (2) Extended spectrum beta-lactamase (ESBL)-producing K. pneumoniae對ceftriaxone和 ceftazidime具有抗藥性，但對 Ertapenem和 Fluoroquinolones 則皆具有感受性 (3) 可產生NDM-1 carbapenemase 的 K. pneumoniae 菌可用Tigecycline和Polymycins治療    
+    (4) 台灣可產生KPC carbapenemase 的 K. pneumoniae 菌株是透過質體產生抗藥性，並透過醫療照護機構傳播    
+    (5) 在台灣造成肝膿瘍或眼內炎主要是 ESBL-producing K. pneumoniae    
+    A. (1)+(2)+(3)    
+    B. (1)+(2)+(4)    
+    ==C. (1)+(3)+(4)==    
+    D. (1)+(3)+(5)    
+    E. (1)+(2)+(3)+(4)  
+  
+1. 一位58歲男性因為髖骨骨折接受手術，手術後發生MRSA感染，於住院後接受清創手術及vancomycin注射，治療三週進步後出院。出院時使用口服linezolid治療，請問在門診追蹤下列哪一項較不重要？ [#medicine/antibiotics](#medicine/antibiotics)    
+    A. Linezolid不可與單胺氧化酶抑制劑(monoamine oxidase inhibitor)或selective serotonin re-uptake inhibitor共同使用    
+    B. 要注意是否有乳酸中毒現象    
+    ==C. 會造成QTc prolongation==    
+    D. 使用超過2週有骨髓抑制風險    
+    E. 使用超過4週有視神經和周邊神經病變之風險。  
+  
+5. 考量抗生素的特性及抗藥性問題, 在台灣目前經驗性抗生素在下列哪些情況不建議以 fluoroquinolone 當作第一線治療?(1)急性化膿性扁桃炎(2)急性膀胱炎(3)足癬合併下肢蜂窩組織炎(4)急性腦膜炎(5)急性腹瀉 [#medicine/antibiotics](#medicine/antibiotics)    
+    A. (1)+(4)+(5)    
+    B. (1)+(2)+(5)    
+    C. (2)+(3)+(5)    
+    ==D. (1)+(2)+(3)+(4)+(5)==    
+    E. (1)+(2)+(3)+(4)  
+  
+1. 下列有關於抗生素與其他藥物產生之交互作用配對，何者最不適當？ [#medicine/antibiotics](#medicine/antibiotics)    
+    A. Metronidazole併用Ethanol發生disulfiram-like reaction    
+    B. Macrolides併用Fluoroquinolones會增加心律不整(arrhythmias)的風險    
+    C. Tetracyclines併用Warfarin會加強Warfarin抗凝血功能增加出血的風險    
+    ==D. Rifampin會加強荷爾蒙作用，口服避孕藥(oral contraceptive)應減量使用==    
+    E. Linezolid會增加adrenergic升壓藥的作用，發生不易控制的高血壓  
+  
+4. 下列有關抗生素的主要抑制機轉配對，何者最不適當？ [#medicine/antibiotics](#medicine/antibiotics)    
+    A. Cephalosporin–抑制細胞壁（Cell wall）合成    
+    B. Clindamycin– 抑制蛋白質（Protein synthesis）合成    
+    ==C. Macrolide– 抑制DNA合成==    
+    D. Sulfonamide– 抑制葉酸（Folate）合成    
+    E. Rifampin - 抑制RNA合成  
+  
+3. 在台灣血糖控制不良的患者中，Klebsiella pneumoniae是重要且常見的腸源性致病菌，經常造成肝膿瘍、泌尿道感染等疾病，以下相關敘述，何者正確？ [#medicine/antibiotics](#medicine/antibiotics)    
+    A. 臨床上wild type K. pneumoniae 可用Ampicillin治療    
+    B. 若檢驗結果為Extended spectrum beta-lactamase (ESBL) -producing K. pneumoniae 因對第一線抗生素有抗藥性，建議使用Ceftriaxone治療    
+    ==C. 臨床上對於ESBL-producing K. pneumoniae 感染建議使用imipenem或ertapenem治療==    
+    D. 可產生NDM-1 carbapenemase的K. pneumoniae可用Tigecycline和Trimethoprim /Sulfamethoxazole(TPM-SMX)治療    
+    E. 在台灣造成肝膿瘍或眼內炎的致病菌相對抗藥性較高，大多是屬於ESBL-producing K.    
+    pneumoniae  
+  
+5. 有關抗生素治療與敗血症致病原的配對,下列哪些組合是正確的? [#medicine/antibiotics](#medicine/antibiotics)    
+    (1) Ceftriaxone - Neisseria meningitidis    
+    (2) Penicillin - Group A Streptococcus    
+    (3) Clindamycin - Rickettsia    
+    (4) Ceftazidime- Enterococcus    
+    ==A. (1)+(2)==    
+    B. (2)+(3)    
+    C. (1)+(3)    
+    D. (2)+(4)    
+    E. (1)+(4)  
+  
+3. 近年來抗藥性細菌的問題引起各國政府重視，尤其以ESKAPE這些菌最為棘手。下列敘述，何項組合最正確? [#medicine/antibiotics](#medicine/antibiotics)    
+    (1) MRSA多以院內感染為主，社區型感染不需考慮MRSA。    
+    (2) Linezolid為抑菌型抗生素，所以不適合用於治療VRE (vancomycin-resistant Enterococcus)引起之菌血症。    
+    (3)由於抗藥性細菌盛行率節節高升，即便社區型感染還是得使用後線抗生素治療，以免治療失敗。    
+    (4)畜牧業使用抗生素，與人類得到抗藥性細菌感染有關係。    
+    (5)在台灣carbapenem-resistant Klebsiella pneumoniae (CRKP)主要與碳青黴烯類酶OXA-48有相關。    
+    A. (1)+(3)    
+    B. (1)+(2)+(3) +(4)    
+    C. (2)+(4)    
+    D. (2)+(4)+(5)    
+    ==E. (4)+(5)==  
+  
+5. 有關penicillin過敏，以下敘述何者錯誤？ [#medicine/antibiotics](#medicine/antibiotics)    
+    A. 越來越多研究認為多數註記為penicillin過敏反應的病人並沒有真正過敏，而且penicillin過敏反應會隨著時間過去而降低其產生過敏反應的機會，因此病史詢問、重新評估和正確註記很重要    
+    B. 曾被註記為penicillin過敏的病人因治療會接受更多vancomycin、fluoroquinolone或clindamycin等抗生素，而增加多重抗藥菌感染率及手術傷口感染的機會    
+    C. 大多數對penicillin過敏的病人並非對完整藥物分子過敏，而是對體內penicillin降解物與白蛋白共價連接產物過敏，以藥物溶液進行皮膚測試不足以識別大多數病人的過敏    
+    D. 目前國內臨床病人處置以病史為主，若無penicillin過敏病史，於符合適應症時可以直接使用penicillin，並不須以藥物溶液進行皮膚測試;惟完備急救設備藥物和人員環境是所有醫療院所之基本法規要求    
+    ==E. 若病史有中度或高度penicillin過敏反應風險者，建議以藥物溶液逕行進行皮膚測試==  
