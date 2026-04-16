@@ -1,5 +1,5 @@
 ---
-title:
+title: Infective Endocarditis
 date:
   created: 2026-04-16T14:34:50
   updated: 2026-04-16T14:36:29
