@@ -9,7 +9,7 @@ share: true
 categories:
   - medicine
   - hiv
-alias: hiv
+aliases: hiv
 status: finished
 ---
 # HIV/AIDS  
