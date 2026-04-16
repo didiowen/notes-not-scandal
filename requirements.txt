@@ -4,7 +4,6 @@ mkdocs-roamlinks-plugin==0.10.17
 mkdocs-bibtex==2.8.17
 mkdocs-callouts==1.14.0
 mkdocs-git-revision-date-localized-plugin==1.2.5
-pymdownx==10.5.0
 obsidiantools==0.10.0
 pybtex==0.24.0
 pypandoc[pandoc]==1.13
