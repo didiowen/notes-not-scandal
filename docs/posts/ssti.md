@@ -70,7 +70,7 @@ Mild: abscess <2 cm, no systemic signs of infection, immunocompetent, no indwell
 Moderate: systemic signs  
 Severe: SIRS or immunosuppressed  
   
-![7df0f201b08c30d57e64dfd9ca20d79b_MD5.jpeg](../assets/7df0f201b08c30d57e64dfd9ca20d79b_md5.jpeg)  
+![7df0f201b08c30d57e64dfd9ca20d79b_MD5.jpeg](../assets/7df0f201b08c30d57e64dfd9ca20d79b_MD5.jpeg)  
 - Purulent skin and soft tissue infections (SSTIs)  
 	- Mild infection: for purulent SSTI, incision and drainage is indicated.   
 	- Moderate infection: patients with purulent infection with systemic signs of infection.   
