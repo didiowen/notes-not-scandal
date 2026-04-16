@@ -1,11 +1,11 @@
 ---
 title: Americanah
-Chinese: 美國佬
+alt_title: 美國佬
 author: Chimamanda Ngozi Adichie
 year: 2013
 tags:
-  - reading/Audible
   - share
+  - reading
 own: borrowed
 status: finished
 rating: 5
@@ -16,10 +16,17 @@ date:
   created: 2024-07-17T18:06:23
   updated: 2024-09-06T12:24:34
   finished: 2024-08-30
+platform: Audible_UK
+language: en
+ISBN: 9780307962126
 ---
 # Americanah  
   
-<span><span><p dir="auto">中譯：美國佬<br></p></span></span><span><span><p dir="auto">作者：Chimamanda Ngozi Adichie<br></p></span></span><span><span><p dir="auto">原文出版年：2013</p></span></span>  
+中譯：美國佬    
+作者：Chimamanda Ngozi Adichie    
+原文出版年：2013  
+  
+10th ANNIVERSARY EDITION • NATIONAL BESTSELLER • A modern classic about star-crossed lovers that explores questions of race and being Black in America—and the search for what it means to call a place home. • From the award-winning author of We Should All Be Feminists and Half of a Yellow Sun • WITH A NEW INTRODUCTION BY THE AUTHOR "An expansive, epic love story."—O, The Oprah Magazine One of the New York Times’s 100 Best Books of the 21st Century • One of The Atlantic’s Great American Novels of the Past 100 Years Ifemelu and Obinze are young and in love when they depart military-ruled Nigeria for the West. Beautiful, self-assured Ifemelu heads for America, where despite her academic success, she is forced to grapple with what it means to be Black for the first time. Quiet, thoughtful Obinze had hoped to join her, but with post–9/11 America closed to him, he instead plunges into a dangerous, undocumented life in London. At once powerful and tender, Americanah is a remarkable novel that is "dazzling…funny and defiant, and simultaneously so wise." —San Francisco Chronicle  
   
 <!-- more -->  
 ## Thoughts  

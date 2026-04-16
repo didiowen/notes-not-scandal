@@ -2,12 +2,14 @@
 title: Vaccines
 date:
   created: 2026-04-16T12:38:13
-  updated: 2026-04-16T13:54
+  updated: 2026-04-16T14:03:50
+  finished: 2026-04-16T14:03:50
 tags: share
 share: true
 categories:
   - medicine
 alias: vaccines
+status: finished
 ---
 - [疫苗種類](Vaccines.md#疫苗種類)  
 - [兒童預防接種時程](Vaccines.md#兒童預防接種時程)  
