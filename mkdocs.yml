@@ -87,10 +87,6 @@ plugins:
       post_excerpt_separator: <!-- more -->
       post_url_format: "{categories}/{slug}"
       post_url_max_categories: 1
-      post_slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
-          normalize: NFC
       archive_date_format: yyyy/MM
       archive_url_date_format: yyyy/MM
   - git-revision-date-localized:
