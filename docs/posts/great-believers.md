@@ -1,14 +1,20 @@
 ---
 title: The Great Believers
 subtitle:
-Chinese: 幸運之子
+alt_title: 幸運之子
 author: Rebecca Makkai
 year: 2018
+platform:
+  - Readmoo
+  - Audible_UK
+language:
+  - en
+  - zh-TW
+ISBN: 9780385544153
 tags:
-  - reading/Audible
-  - reading/ebooks
   - LGBT
   - share
+  - reading
 own: bought
 status: finished
 date:
@@ -27,6 +33,8 @@ aliases: great-believers
 作者：Rebecca Makkai    
 原文出版年：2018  
   
+In 1985 Yale Tishman's career begins to flourish, the carnage of the AIDS epidemic grows around him. Soon the only person he has left is Fiona, his friend Nico's little sister. Thirty years later, Fiona finds herself finally grappling with the devastating ways AIDS affected her life  
+  
 <!-- more -->  
 ## Thoughts  
   
@@ -41,7 +49,7 @@ aliases: great-believers
   
 ## Posts  
   
-### [The Great Believers](the-great-believers.md)  
+### [The Great Believers](The%20Great%20Believers.md)  
   
 Rebecca Makkai 2018  
   
