@@ -1,4 +1,5 @@
 ---
+title: Sepsis and Shock
 date:
   created: 2024-09-01T00:36:33
   updated: 2025-05-22T13:26:57
@@ -11,8 +12,8 @@ categories:
 aliases: sepsis
 status: finished
 ---
-  
 # Sepsis and Shock  
+  
 source: Pocket Medicine, 2022  
   
 ## Shock  
