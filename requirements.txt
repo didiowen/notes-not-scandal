@@ -1,10 +1,10 @@
-mkdocs==1.5.3
+mkdocs>=1.5
 mkdocs-material==9.5.33
-mkdocs-roamlinks-plugin==0.10.17
-mkdocs-bibtex==2.8.17
-mkdocs-callouts==1.14.0
-mkdocs-git-revision-date-localized-plugin==1.2.5
-obsidiantools==0.10.0
+mkdocs-roamlinks-plugin
+mkdocs-bibtex
+mkdocs-callouts
+mkdocs-git-revision-date-localized-plugin
+obsidiantools
 pybtex==0.24.0
 pypandoc[pandoc]==1.13
 requests==2.31.0
