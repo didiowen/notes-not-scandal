@@ -16,21 +16,19 @@ status: finished
 ![946257b7fd87a2d58a2503642dfc06a6_MD5.jpg](../assets/946257b7fd87a2d58a2503642dfc06a6_MD5.jpg)  
   
 <!-- more -->  
+### 活性減毒與不活化疫苗比較  
+![bb5838a943521de9515b00ee4e0e108f_MD5.jpg](../assets/bb5838a943521de9515b00ee4e0e108f_MD5.jpg)  
   
-## 兒童預防接種時程  
+## 預防接種時程  
+  
+### 兒童  
 ![8ef15c67875c077ac2b6f5a412109706_MD5.jpg](../assets/8ef15c67875c077ac2b6f5a412109706_MD5.jpg)  
-  
 ### 早產兒  
 - 除B型肝炎疫苗應在體重達**2000公克或出生一個月**後接種（在此之前接種的劑次不納入計算），以及體重**2500公克**時需接種卡介苗之外，其餘疫苗的接種年齡與足月兒並無不同，且疫苗劑量不應減少  
-  
 ### 青少年  
 ![845cf4f92e2bdd97628ec893524e5a46_MD5.jpg](../assets/845cf4f92e2bdd97628ec893524e5a46_MD5.jpg)  
-  
-## 成人接種建議  
+### 成人  
 ![Untitled 2.png](../assets/c731777ba831429ff3bd9ce410b686ee_MD5.jpg)  
-  
-## 活性減毒與不活化疫苗比較  
-![bb5838a943521de9515b00ee4e0e108f_MD5.jpg](../assets/bb5838a943521de9515b00ee4e0e108f_MD5.jpg)  
   
 ## 接種間隔時間  
   
@@ -69,7 +67,7 @@ status: finished
     - 使用不到2週 → 可於停藥**2週**後再施打  
     - 使用超過2週 → 於停藥**一個月**後或確認免疫力狀況再施打  
   
-### PCV施打建議  
+### PCV  
 ![356ec10f397734d4d9df03e67dbb1c88_MD5.jpg](../assets/356ec10f397734d4d9df03e67dbb1c88_MD5.jpg)  
 ![Untitled 2 2.png](../assets/3b0f277acf5d3592dc27e4c10e536618_MD5.jpg)  
   
