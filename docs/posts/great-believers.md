@@ -1,6 +1,5 @@
 ---
 title: The Great Believers
-subtitle:
 alt_title: 幸運之子
 author: Rebecca Makkai
 year: 2018
