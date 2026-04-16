@@ -21,7 +21,7 @@ aliases: abx
 up:: 專師考試解題  
   
 ## 作用機制  
-![mechanism](../assets/d5cd1072950af118968f9283c66a7d7c_md5.jpeg)  
+![mechanism](../assets/d5cd1072950af118968f9283c66a7d7c_MD5.jpeg)  
   
 <!-- more -->  
   
@@ -51,8 +51,8 @@ up:: 專師考試解題
 | Daptomycin                                                                                                 | Cell membrane          | Produces membrane channel and membrane leakage                                                                                                                           | Altered cell-membrane charge with reduced drug binding                                                                                                                                 |  
   
 ## 抗藥性機轉  
-![resistance_zh](../assets/be7c385cf6d7376b54c4de4794df94d7_md5.jpeg)  
-![resistance_en](../assets/64e57133364b2f9716df1ac514b4d418_md5.jpeg)  
+![resistance_zh](../assets/be7c385cf6d7376b54c4de4794df94d7_MD5.jpeg)  
+![resistance_en](../assets/64e57133364b2f9716df1ac514b4d418_MD5.jpeg)  
   
 ## 藥物動力學 (Pharmakokinetics)  
   
@@ -86,7 +86,7 @@ Drugs binding to serum proteins have a major influence on V$_d$ . Acidic drugs t
   
 - 描述藥物作用於病原體的決定因素，並與藥物動力學因素相關  
   
-![PK-PD](../assets/0031631cc2db01c1b2049fdd7dc5c820_md5.jpg)  
+![PK-PD](../assets/0031631cc2db01c1b2049fdd7dc5c820_MD5.jpg)  
   
 ### 濃度依賴型抗生素  
   
@@ -96,7 +96,7 @@ Drugs binding to serum proteins have a major influence on V$_d$ . Acidic drugs t
   
 這類抗生素多為beta-lactams類，如penicillin、cephalosporins。對penicillin和cephalosporins而言，血中藥物濃度>MIC的時間越長越能滲透體內組織，建議治療期間的血中濃度有50%以上的時間高於MIC，以達療效最大化、抗生素耐藥性最小化的目標。此類藥品以連續輸注或延長輸注時間的方式給藥，除了可穩定抗生素血中濃度的變化、不增加重症患者AKI的發生率外，對整體的醫療照護支出費用也可顯著降低。  
   
-![continuous_infusion](../assets/7b65fa7dc1c088fde13f25ce0aa559f4_md5.jpg)  
+![continuous_infusion](../assets/7b65fa7dc1c088fde13f25ce0aa559f4_MD5.jpg)  
 ### 曲線下面積/最低抑菌濃度相關  
   
 如vancomycin，建議血中藥物濃度之曲線下面積 (AUC) 與MIC比值達到400-600  
@@ -104,7 +104,7 @@ mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。
   
 ## 抗菌範圍  
   
-![spectrum](../assets/7e8b9088434a32c9d865e91bb156fd55_md5.jpeg)  
+![spectrum](../assets/7e8b9088434a32c9d865e91bb156fd55_MD5.jpeg)  
 [Source](http://charliekuo.com/?p=3114)  
   
 ### Anfi-fungals  
@@ -137,8 +137,8 @@ mg × h/L的目標（假設MIC為1），可確保抗生素療效與安全性。
 | VRE                   | **linezolid**, daptomycin, tigecycline, fosfomycin                                                                                                                         |  
 | PRSP                  | ceftriaxone, vancomycin, teicoplanin, tigecycline                                                                                                                          |  
   
-![18f9911ae8d5eb922dd432ddff4005a7_MD5.jpg](../assets/18f9911ae8d5eb922dd432ddff4005a7_md5.jpg)  
-![CRGN](../assets/24eb7434efb4ee8af42bd23d8cd5c0d2_md5.jpeg)  
+![18f9911ae8d5eb922dd432ddff4005a7_MD5.jpg](../assets/18f9911ae8d5eb922dd432ddff4005a7_MD5.jpg)  
+![CRGN](../assets/24eb7434efb4ee8af42bd23d8cd5c0d2_MD5.jpeg)  
 ### 特殊細菌  
   
 - Enterococcus: **ampicillin**; cephalosporins沒有效  

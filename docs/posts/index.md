@@ -1,5 +1,4 @@
 ---
-title: Index
 fileClass: share
 date: 2024-08-30
 share: true
