@@ -11,41 +11,10 @@ categories:
 alias: vaccines
 status: finished
 ---
-- [疫苗種類](Vaccines.md#疫苗種類)  
-- [兒童預防接種時程](Vaccines.md#兒童預防接種時程)  
-- [成人接種建議](Vaccines.md#成人接種建議)  
-- [接種間隔時間](Vaccines.md#接種間隔時間)  
-- [免疫不全患者](Vaccines.md#免疫不全患者)  
-- [活性減毒疫苗](Vaccines.md#活性減毒疫苗)  
-    - [BCG 卡介苗](Vaccines.md#BCG%20卡介苗)  
-    - [MMR](Vaccines.md#MMR)  
-    - [Varicella (Varivax)](Vaccines.md#Varicella%20(Varivax))  
-    - [Zoster (Zostavax)](Vaccines.md#Zoster%20(Zostavax))  
-    - [日本腦炎](Vaccines.md#日本腦炎)  
-    - [Rotavirus](Vaccines.md#Rotavirus)  
-    - [Yellow Fever](Vaccines.md#Yellow%20Fever)  
-- [不活化疫苗](Vaccines.md#不活化疫苗)  
-    - [COVID-19](Vaccines.md#COVID-19)  
-    - [PCV13/PPV23](Vaccines.md#PCV13/PPV23)  
-    - [DTaP-Hib-IPV](Vaccines.md#DTaP-Hib-IPV)  
-    - [Tdap/Td](Vaccines.md#Tdap/Td)  
-    - [TT (toxoid)](Vaccines.md#TT%20(toxoid))  
-    - [IPV/OPV](Vaccines.md#IPV/OPV)  
-    - [Influenza](Vaccines.md#Influenza)  
-    - [HBV](Vaccines.md#HBV)  
-    - [HAV](Vaccines.md#HAV)  
-    - [HPV](Vaccines.md#HPV)  
-    - [Rabies](Vaccines.md#Rabies)  
-    - [流行性腦脊髓膜炎](Vaccines.md#流行性腦脊髓膜炎)  
-    - [Typhoid Fever](Vaccines.md#Typhoid%20Fever)  
-- [血體液曝觸](Vaccines.md#血體液曝觸)  
-- [Immunoglobulins](Vaccines.md#Immunoglobulins)  
-    - [Pavilizumab](Vaccines.md#Pavilizumab)  
-    - [Kawasaki Disease](Vaccines.md#Kawasaki%20Disease)  
-  
 # 疫苗種類  
-  
 ![946257b7fd87a2d58a2503642dfc06a6_MD5.jpg](../assets/946257b7fd87a2d58a2503642dfc06a6_MD5.jpg)  
+  
+<!-- more -->  
   
 # 兒童預防接種時程  
 ![8ef15c67875c077ac2b6f5a412109706_MD5.jpg](../assets/8ef15c67875c077ac2b6f5a412109706_MD5.jpg)  
