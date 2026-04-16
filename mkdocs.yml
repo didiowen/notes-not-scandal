@@ -80,7 +80,7 @@ plugins:
   - callouts
   - roamlinks
   - blog:
-      blog_dir: posts
+      blog_dir: .
       blog_toc: true
       pagination: false
       pagination_per_page: 2
