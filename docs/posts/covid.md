@@ -187,6 +187,104 @@ Pavord, S., Hunt, B.J., Horner, D., Bewley, S. & Karpusheff, J. (2021) Vaccine i
   
 # 考古題  
 ## 專師  
+0. ==有關SARS - CoV - 2 感染的臨床表現，下列何者錯誤？== [#medicine/COVID](#medicine/COVID)    
+    (A) 約有三分之一的病人會發生呼吸急促    
+    (B) 少數病人會出現嚴重症狀須氧氣治療    
+    ==(C) 血液檢查一般會出現淋巴球數增加==    
+    (D) 胸部X光浸潤多為雙側病灶  
   
+1. 有關SARS - CoV - 2 成年病人敗血性休克的敘述，下列何者錯誤？ [#medicine/COVID](#medicine/COVID) [#medicine/sepsis](#medicine/sepsis)    
+    (A) 定義為無低血容積情形下，須使用升壓劑以維持平均動脈壓大於65 mmHg    
+    (B) 可在處理前15 ～30 分鐘快速輸注250 ～500 ml 等張晶體溶液( crystalloid )    
+    (C) 等張晶體溶液包括生理食鹽水或乳酸林格氏溶液    
+    ==(D) 使用澱粉類溶液( starches ) 可以減少病人的死亡率及避免腎衰竭==  
+  
+4. 病人今日頭部劇痛、下肢瘀青及紫斑至醫院就醫。經病史詢問病人於 1  天前接受新冠疫苗注射。CBC顯示WBC 4,000/mm3、Hb 13g/dL、PLT 5,000/μL 及 D-dimer 3,200 ng/mL。病人上個月CBC 的PLT 250,000 / μ L，最有可能罹患下列哪一種原因的血小板低下？ [#medicine/vaccine](#medicine/vaccine) [#medicine/COVID](#medicine/COVID)    
+    (A) 瀰漫性血管內凝血( disseminated intravascular coagulation , DIC )    
+    (B) 紅斑性狼瘡    
+    ==(C) 疫苗施打後引發之血小板低下==    
+    (D) 疫苗施打後引發類似C 型肝炎病毒引起之血小板低下  
+  
+7. 新冠肺炎的抗原快篩試劑仿單說明該試劑之敏感性( sensitivity ) 為85 %，專一性( specificity ) 為99 %。有關此抗原快篩試劑臨床應用之敘述，下列何者錯誤？ [#medicine/COVID](#medicine/COVID)    
+    (A) 臨床實際的檢驗結果，會受到採檢部位、採檢者技術、以及檢體處理過程的影響    
+    (B) 99%專一性，代表100位沒有感染新冠肺炎的受測者，有1位會被這個試劑檢測為陽性    
+    (C) 85%敏感性，代表100位真正感染新冠肺炎的受測者，有85 位可以經由這個試劑檢測為陽性    
+    ==(D) 若社區新冠感染的盛行率愈高，則這個檢驗試劑的陽性預測值( positive predictive value ) 就會愈低==  
+  
+### 外科  
+  
+5. 嚴重特殊傳染性肺炎 ( COVID - 19 ) 之敘述，下列何者錯誤？ [#medicine/COVID](#medicine/COVID)    
+    ==(A) 其病原 SARS - CoV - 2019 是一種 RNA 病毒==    
+    (B) 常見重症的危險因子包含肥胖、懷孕、氣喘、糖尿病等    
+    (C) 對於嚴重肺炎病人，可考慮使用 dexamethasone，以降低死亡率    
+    (D) 瑞德西韋 ( remdesivir ) 的治療效果在中度症狀病人較明顯  
+  
+0. 根據臺灣新型冠狀病毒 ( SARS - CoV - 2 ) 感染臨床處置指引第二十五版，關於嚴重特殊傳染性肺炎 ( COVID - 19 ) 的敘述，下列何者正確？ [#medicine/COVID](#medicine/COVID)    
+    (A) 重症風險因子包括女性、年齡≧ 65 歲、肝硬化、癌症、糖尿病、心血管疾病、失智症等    
+    (B) 住院病人如需進行病毒核酸檢驗，應採集鼻咽或咽喉擦拭液，避免使用氣管內抽取液    
+    (C) 插管使用呼吸器的病人可合併使用 dexamethasone 及 remdesivir，以降低死亡率    
+    ==(D) 不需使用氧氣但具重症風險因子病人，可給予口服 nirmatrelvir 與 ritonavir 之複方藥物，以降低死亡率==  
 ## 內科醫師  
+7. 感染SARS-CoV-2的病人死亡率偏高，對於COVID-19重症的病人下列敘述何者為是? [#medicine/COVID](#medicine/COVID)    
+    (1)沉默缺氧(silent hypoxia)主要是肺栓塞造成，建議常規用抗凝血劑治療    
+    (2)HFNC (high flow nasal cannula)，被稱為救命神器，主要用來降低呼吸肌做工    
+    (3)使用類固醇可以降低死亡率    
+    (4)非侵襲性正壓呼吸器可以常規用來治療COVID-19造成的呼吸衰竭    
+    (5)俯臥通氣(Prone Positioning)可以降低氧氣需求量    
+    A. (1)+(2)+(3)+(5)。    
+    B. (3)+(4)+(5)。    
+    ==C. (3)+(5)。==    
+    D. (1)+(3)+(5)。    
+    E. (2)+(3)+(5)。  
   
+9. 有關COVID-19的治療，以下何者正確，請選出最適當的答案 [#medicine/COVID](#medicine/COVID)    
+    (1) 單獨使用抗病毒藥Remdesivir對疾病輕、重症患者之預後都有極為顯著之效果。    
+    (2) 單株抗體Bamlanivimab + Etesevimab主要作用於病毒spike glycoprotein，對於疾病輕微或中度而有重症危險因素如年紀≥65歲、肥胖(BMI ≥35)，有慢性腎病、慢性肺病、心血管疾病、高血壓、糖尿病、免疫抑制患者，於發病診斷3天內使用，可降低住院和死亡之風險。    
+    (3) 單株抗體Bamlanivimab + Etesevimab對南非變異株(B.1.351, β)和巴西變異株(P.1, γ)在體外中和試驗效果變差，而單株抗體Casirivimab + Imdevimab則對前述病毒變異株之體外中和試驗效果未改變。    
+    (4) IL-6 receptor blocker如Tocilizumab建議與dexamethasone合併使用於嚴重肺炎。    
+    (5) JAK抑制劑Baricitinib，不可與dexamethasone合併使用。    
+    A. (1)+(2)+(3)    
+    ==B. (2)+(3)+(4)==    
+    C. (1)+(2)+(4)    
+    D. (2)+(3)+(5)    
+    E. (2)+(4)  
+  
+0. 接種腺病毒載體SARS-COV-2疫苗偶發血栓性血小板低下(thrombotic thrombocytopenia)，以下描述何者錯誤? [#medicine/COVID](#medicine/COVID)    
+    A. 大多發生於接種疫苗後5至30天    
+    B. 常見腦靜脈血栓、腹腔內靜脈血栓或肺栓塞    
+    ==C. 表現與heparin-induced thrombocytopenia很像，與病人最近有使用heparin有關==    
+    D. 病人血清中可測到對抗血小板第4因子(platelet factor 4)的血小板活化抗體，該抗體可經由與血小板Fcγ接受器而活化血小板    
+    E. 治療建議以nonheparin抗凝血劑或IVIG  
+  
+2. 有關新冠肺炎 (Coronavirus disease 2019, COVID-19)之敘述，下列何者最不適當？ [#medicine/COVID](#medicine/COVID)    
+    A. 致病原SARS-CoV-2屬於RNA病毒，人類感染冠狀病毒以呼吸道症狀為主    
+    B. SARS-CoV-2潛伏期一般介於2至14天，大部分為4到5天    
+    ==C. 臨床症狀發生前極少具有傳染性，大多數感染者是接觸到有症狀者而發生傳染==    
+    D. 約有5%患者會發生呼吸衰竭或敗血性休克等極嚴重感染，需加護治療    
+    E. 實驗室檢查淋巴球減少(lymphopenia)合併D-dimer升高與死亡率呈正相關  
+  
+6. 我國2022年5月開始面對大量COVID-19社區感染者，防治策略漸次進入與病毒共存的階段，此時有關COVID-19的治療，下列何者正確，請選出最適當的答案 [#medicine/COVID](#medicine/COVID)    
+    (1) Remdesivir是RNA-dependent RNA polymerase抑制劑，對疾病輕、重症患者單獨使用之預後皆有顯著之效果    
+    (2)Nirmatrelvir/ritonavir (Paxlovid)能阻止病毒蛋白酶複製，ritonavir是cytochrome P450 3A4 (CYP3A4)的強抑制劑，可減緩Nirmatrelvir被肝臟cytochrome P450分解代謝的速度，而增強其效果    
+    (3) Molnupiravir則藉由其成份的核苷類似物，讓病毒的複製酶在RNA複製時產生有缺陷的RNA，因有基因突變等考量，不建議使用於孕婦    
+    (4) Paxlovid和Molnupiravir主要於COVID-19發病早期，症狀輕微但有發生重症或死亡之高風險者    
+    (5) Paxlovid有很多藥物交互作用及禁忌症，惟腎功能只要eGFR >30就不需調整劑量    
+    A. (1)+(2)+(3)    
+    B. (1)+(2)+(3)+(4)    
+    ==C. (2)+(3)+(4)==    
+    D. (2)+(3)+(4)+(5)    
+    E. (1)+(2)+(3)+(4)+(5)  
+  
+8. 下列有關COVID-19治療藥物與其機轉的配對，何者為非? [#medicine/COVID](#medicine/COVID)    
+    A. Remdesivir：Inhibit viral RNA polymerase    
+    B. Tocilizumab：IL-6 monoclonal Ab    
+    C. Molnupiravir：Ribonucleoside analog    
+    ==D. Baricitinib：TNF-α inhibitor==    
+    E. Nirmatrelvir/Ritonavir：protease inhibitor  
+  
+6. SARS-CoV-2感染及其治療，以下敘述何者錯誤？ [#medicine/COVID](#medicine/COVID)    
+    A. 自2022年1月至2023年3月，我國公布1010萬本土確診個案中，約16%為60歲以上。依WHO嚴重度分類為嚴重肺炎或ARDS個案占0.4%，其中58% 為大於60歲    
+    B. 口服抗病毒Molnupiravir是一種核苷類似物，使病毒RNA複製時不斷累積突變，導致無法完全複製而自行消失    
+    C. Paxlovid (Nirmatrelvir/ritonavir)能阻止病毒蛋白酶複製，ritonavir是肝cytochrome P450 3A4的強抑制劑，可減緩Nirmatrelvir被cytochrome P450代謝，而增強其抗病毒作用    
+    D. Paxlovid和molnupiravir對不須用氧氣且具重症風險因子之SARS-CoV-2感染者可降低其死亡率及後續住院率    
+    ==E. 長效單株抗體藥Tixagevimab + cilgavimab對SARS-CoV-2 α, β, γ, δ及omicron最近subvariant XBB和BQ.1.1 都一直具有很好的中和效果==  
