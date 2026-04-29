@@ -106,22 +106,17 @@ extra:
   - icon: fontawesome/regular/envelope
     name: send me an email
     link: mailto:notes.awkward473@passinbox.com
+  generate_graph: false
 #  SEO: assets/meta/SEO.png
 #  comments: $comments #disable comments globally
-#  generate_graph: $generate_graph #generate the graph of the site
 #  no-auto-h1: $auto_h1 #disable the automatic generation of h1 if no h1 is found
 #  blog_list:
 #    pagination: true #enable pagination
 #    pagination_message: true #display the message "Showing x posts out of y"
 #    pagination_translation: 'posts in' #message to display before the number of posts ; Add your own translation!
 #    no_page_found: "No pages found!" #message to display when no pages are found ; Add your own translation!
-#hooks:
-#  - overrides/hooks/on_page_markdown.py
-#  - overrides/hooks/on_env.py
-#  - overrides/hooks/on_files.py
-#hooks:
-#    strip_comments: true
-#    fix_heading: true
+hooks:
+  - overrides/hooks/on_env.py
 
 extra_javascript:
   - javascripts/mathjax.js
