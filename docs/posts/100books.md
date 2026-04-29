@@ -227,7 +227,7 @@ Svetlana Alexievich; translated by Bela Shayevich 2016
 Of all the 20th century’s grand failed experiments, few came to more inglorious ends than the aspiring empire known, for a scant seven decades, as the U.S.S.R. The death of the dream of Communism reverberates through the Nobel-winning Alexievich’s oral history, and her unflinching portrait of the people who survived the Soviet state (or didn’t) — ex-prisoners, Communist Party officials, ordinary citizens of all stripes — makes for an excoriating, eye-opening read.  
   
 ## 71  
-### The Copenhagen Trilogy  
+### Københavnertrilogien  
   
 Tove Ditlevsen; translated by Tiina Nunnally and Michael Favala Goldman 2021  
   

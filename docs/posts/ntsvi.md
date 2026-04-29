@@ -23,12 +23,13 @@ aliases: ntsvi
 | immunosuppressive therapy | -1    |  
 | malignancy                | -1    |  
   
+<!-- more -->  
+  
  ≥ +1 → arrange CT  
  Se: 95.0%  
  Sp: 45.3%  
  AUC: 0.83 (0.78-0.89)  
    
-<!-- more -->  
   
 ## TTP-NTSVI score [@Lin2018Utilityblood]  
   

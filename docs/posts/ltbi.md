@@ -60,9 +60,8 @@ source: Pocket Medicine, 2022; 台灣肺結核診治指引
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |  
 | PPD/IGRA ⊕ (regardless of HIV status)           | 1st line: Rifampin × 4 mo or INH/rifampin daily x 3 mos _or_ INH/rifapentine weekly × 12 wks) (_MMWR_ 2020; 69:1)<br><br>_Alternative:_ INH + vitamin B6 × 6-9 mos |  
 | Contact case known or suspected to have MDR TB) | No proven regimen: ? PZA + EMB, ? PZA + FQ                                                                                                                         |  
-  
-![bd7f12ffcc35dc33fb012a9b7608b2fb_MD5.jpeg](../assets/bd7f12ffcc35dc33fb012a9b7608b2fb_MD5.jpeg)  
-[處方一覽](https://www.cdc.gov.tw/Uploads/5d904c41-4f75-4583-ba9e-f6d1a717d41a.pdf)  
+[處方一覽 20250902更新](https://www.cdc.gov.tw/Uploads/0493163b-f00e-47b6-834a-cdc2e93f8f14.pdf)  
+[HIV患者適用處方 20250902更新](https://www.cdc.gov.tw/Uploads/4f2e8307-66c0-4af8-a7fa-e4824df968a1.pdf)  
   
 - ✓ LFTs monthly if receiving INH (risk ↑ w/ age; Chest 2005;128:116): if AST/ALT ↑ 5× ULN or sx (nausea, vomiting, abd pain) → stop TB meds & re-eval  
   

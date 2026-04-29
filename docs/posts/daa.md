@@ -36,6 +36,7 @@ aliases: daa
 	1. 接受本項藥品或其他 DAAs 第一次治療時中斷療程，且中斷原因屬專業醫療評估必須停藥者  
 	2. 接受本項藥品或其他 DAAs 第一次治療結束後第 12 週 ，血中偵測不到病毒，目前血中又再次偵測到病毒者  
 	3. 接受未含 NS5A 抑制劑之 DAAs 第一次治療，於治療完成時或治療結束後第 12 週，血中仍偵測到病毒者，或治療 4 週後之病毒量未能下降超過二個對數值（即下降未達100 倍發生在108年1月1日前）  
+  
 ## Sofosbuvir/velpatasvir/voxilaprevir (Vosevi)  
 * 限使用於HCV RNA為陽性，且未併有肝硬化或併有代償性肝硬化（ Child Pugh A 級）之病毒基因型第 1 型、第 2 型、第 3 型、第 4 型、第 5 型或第 6 型病患  
 * 給付療程如下，醫師每次開藥以 4 週為限  
@@ -44,6 +45,7 @@ aliases: daa
 * 限未曾申請給付本藥品且曾接受其他全口服直接抗病毒藥物（ direct acting anti viral, DAAs ）第一次治療並符合下列情形之一者  
 	1. 接受第一次治療時中斷療程，且中斷原因屬專業醫療評估必須停藥者。  
 	2. 接受第一次治療完成時或治療結束後第 12 週，血中仍偵測到病毒者，或治療 4 週後之病毒量未能下降超過二個對數值（即下降未達 100 倍）發生在 108 年 1 月 1日前者  
+  
 # Recommendations for Retreatment of Hepatitis C Virus–Infected Adults by Prior Exposure  
   
 | Regimen                                                                                                                                        | Genotype      | Classification | Duration | Rating | Caveats and Other Considerations                                                                                                                                                               |  

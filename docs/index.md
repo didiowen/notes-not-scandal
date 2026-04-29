@@ -1,7 +1,7 @@
 ---
 fileClass: share
 date: 2024-08-30
-share: true
+share: false
 path: docs
 bib: "[[library.bib]]"
 csl: "[[harvard-imperial.csl]]"

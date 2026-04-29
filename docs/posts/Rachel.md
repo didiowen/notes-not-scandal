@@ -1,12 +1,16 @@
 ---
 title: The Rachel Incident
+alt_title: 瑞秋的青春事件簿
+author: Caroline O'Donoghue
+year: 2023
+platform: Audible_UK
+language: en
+ISBN: 9780593535714
 tags:
-  - reading/Audible
   - LGBT
   - Ireland
   - share
-author: Caroline O'Donoghue
-year: 2023
+  - reading
 own: borrowed
 status: finished
 rating: 4.5
@@ -21,7 +25,10 @@ aliases: Rachel
 ---
 # The Rachel Incident  
   
-<span><span><p dir="auto">作者：Caroline O'Donoghue<br></p></span></span><span><span><p dir="auto">原文出版年：2023</p></span></span>  
+作者：Caroline O'Donoghue    
+原文出版年：2023  
+  
+A BEST BOOK OF THE YEAR • A USA TODAY BESTSELLER • A brilliantly funny novel about friends, lovers, Ireland in chaos, and a young woman desperately trying to manage all three • “O'Donoghue deepens the familiar coming-of-age premise with riveting moral complications." —People "If you’ve ever been unsure what to do with your degree in English; if you’ve ever wondered when the rug-buying part of your life will start...if you’ve ever loved the wrong person, or the right person at the wrong time…In short, if you’ve ever been young, you will love The Rachel Incident like I did.” —Gabrielle Zevin, New York Times best-selling author of Tomorrow, and Tomorrow, and Tomorrow Rachel is a student working at a bookstore when she meets James, and it’s love at first sight. Effervescent and insistently heterosexual, James soon invites Rachel to be his roommate and the two begin a friendship that changes the course of both their lives forever. Together, they run riot through the streets of Cork city, trying to maintain a bohemian existence while the threat of the financial crash looms before them. When Rachel falls in love with her married professor, Dr. Fred Byrne, James helps her devise a reading at their local bookstore, with the goal that she might seduce him afterwards. But Fred has other desires. So begins a series of secrets and compromises that intertwine the fates of James, Rachel, Fred, and Fred’s glamorous, well-connected, bourgeois wife. Aching with unrequited love, shot through with delicious, sparkling humor, The Rachel Incident is a triumph.  
   
 <!-- more -->  
 ## Thoughts  

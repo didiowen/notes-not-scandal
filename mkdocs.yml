@@ -87,9 +87,6 @@ plugins:
       post_excerpt_separator: <!-- more -->
       post_url_format: "{categories}/{slug}"
       post_url_max_categories: 1
-      post_slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
       archive_date_format: yyyy/MM
       archive_url_date_format: yyyy/MM
   - git-revision-date-localized:
@@ -129,7 +126,7 @@ extra:
 extra_javascript:
   - javascripts/mathjax.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-#  - https://unpkg.com/mermaid/dist/mermaid.min.js 
+#  - https://unpkg.com/mermaid/dist/mermaid.min.js
   - https://cdn.jsdelivr.net/gh/ObsidianPublisher/assets@main/dist/javascript.js
 extra_css:
     - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css
