@@ -7,7 +7,7 @@ theme:
     name: 'material'
     logo: assets/virus.png
     favicon: assets/virus.png
-    custom_dir: overrides
+#    custom_dir: overrides
     features:
         - navigation.tabs # top-level sections are rendered in a menu layer below the header for viewports above 1220px, but remain as-is on mobile
         - navigation.tabs.sticky # navigation tabs will lock below the header and always remain visible when scrolling down
@@ -115,8 +115,8 @@ extra:
 #    pagination_message: true #display the message "Showing x posts out of y"
 #    pagination_translation: 'posts in' #message to display before the number of posts ; Add your own translation!
 #    no_page_found: "No pages found!" #message to display when no pages are found ; Add your own translation!
-hooks:
-  - overrides/hooks/on_env.py
+#hooks:
+#  - overrides/hooks/on_env.py
 
 extra_javascript:
   - javascripts/mathjax.js
