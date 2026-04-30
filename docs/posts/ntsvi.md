@@ -10,6 +10,8 @@ share: true
 categories:
   - medicine
 aliases: ntsvi
+share_link: https://share.note.sx/h08rwugs#PY5p4H4aJPMmu+ky0pZEMsa2ez7AwMuZBJmHkKLLf8E
+share_updated: 2026-04-23T14:27:45+08:00
 ---
 # Non-typhoid Salmonella Vascular Infection  
 ## Chen-NTSVI score [@Chen2012simplescoring]  
