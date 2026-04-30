@@ -13,22 +13,22 @@ status: finished
 ---
 # Vaccines  
 ## 疫苗種類  
-![946257b7fd87a2d58a2503642dfc06a6_MD5.jpg](../assets/946257b7fd87a2d58a2503642dfc06a6_MD5.jpg)  
+![946257b7fd87a2d58a2503642dfc06a6_MD5.jpg](../assets/946257b7fd87a2d58a2503642dfc06a6_MD5.jpg.jpg)  
   
 <!-- more -->  
 ### 活性減毒與不活化疫苗比較  
-![bb5838a943521de9515b00ee4e0e108f_MD5.jpg](../assets/bb5838a943521de9515b00ee4e0e108f_MD5.jpg)  
+![bb5838a943521de9515b00ee4e0e108f_MD5.jpg](../assets/bb5838a943521de9515b00ee4e0e108f_MD5.jpg.jpg)  
   
 ## 預防接種時程  
   
 ### 兒童  
-![8ef15c67875c077ac2b6f5a412109706_MD5.jpg](../assets/8ef15c67875c077ac2b6f5a412109706_MD5.jpg)  
+![8ef15c67875c077ac2b6f5a412109706_MD5.jpg](../assets/8ef15c67875c077ac2b6f5a412109706_MD5.jpg.jpg)  
 ### 早產兒  
 - 除B型肝炎疫苗應在體重達**2000公克或出生一個月**後接種（在此之前接種的劑次不納入計算），以及體重**2500公克**時需接種卡介苗之外，其餘疫苗的接種年齡與足月兒並無不同，且疫苗劑量不應減少  
 ### 青少年  
-![845cf4f92e2bdd97628ec893524e5a46_MD5.jpg](../assets/845cf4f92e2bdd97628ec893524e5a46_MD5.jpg)  
+![845cf4f92e2bdd97628ec893524e5a46_MD5.jpg](../assets/845cf4f92e2bdd97628ec893524e5a46_MD5.jpg.jpg)  
 ### 成人  
-![Untitled 2.png](../assets/c731777ba831429ff3bd9ce410b686ee_MD5.jpg)  
+![Untitled 2.png](../assets/c731777ba831429ff3bd9ce410b686ee_MD5.jpg.jpg)  
   
 ## 接種間隔時間  
   
@@ -56,20 +56,20 @@ status: finished
   
 ### 活性減毒疫苗  
 - 同時接種或間隔28天以上（例外：BCG, rotavirus, OPV)  
-![4094ce117804363f6b8dc71a86bc266e_MD5.jpg](../assets/4094ce117804363f6b8dc71a86bc266e_MD5.jpg)  
+![4094ce117804363f6b8dc71a86bc266e_MD5.jpg](../assets/4094ce117804363f6b8dc71a86bc266e_MD5.jpg.jpg)  
   
 ## 免疫不全患者  
-![169b594f2627d8062fb840c72b7e1723_MD5.jpg](../assets/169b594f2627d8062fb840c72b7e1723_MD5.jpg)  
-![9d83332eef3ddb7df1e74a995f61bcbb_MD5.jpg](../assets/9d83332eef3ddb7df1e74a995f61bcbb_MD5.jpg)  
-![56f520561fc3a5963e0b49d3ca9a94f1_MD5.jpg](../assets/56f520561fc3a5963e0b49d3ca9a94f1_MD5.jpg)  
+![169b594f2627d8062fb840c72b7e1723_MD5.jpg](../assets/169b594f2627d8062fb840c72b7e1723_MD5.jpg.jpg)  
+![9d83332eef3ddb7df1e74a995f61bcbb_MD5.jpg](../assets/9d83332eef3ddb7df1e74a995f61bcbb_MD5.jpg.jpg)  
+![56f520561fc3a5963e0b49d3ca9a94f1_MD5.jpg](../assets/56f520561fc3a5963e0b49d3ca9a94f1_MD5.jpg.jpg)  
   
 - 使用類固醇 ≧ 2mg/kg/day 或體重10公斤以上 ≧ 20mg/day  
     - 使用不到2週 → 可於停藥**2週**後再施打  
     - 使用超過2週 → 於停藥**一個月**後或確認免疫力狀況再施打  
   
 ### PCV  
-![356ec10f397734d4d9df03e67dbb1c88_MD5.jpg](../assets/356ec10f397734d4d9df03e67dbb1c88_MD5.jpg)  
-![Untitled 2 2.png](../assets/3b0f277acf5d3592dc27e4c10e536618_MD5.jpg)  
+![356ec10f397734d4d9df03e67dbb1c88_MD5.jpg](../assets/356ec10f397734d4d9df03e67dbb1c88_MD5.jpg.jpg)  
+![Untitled 2 2.png](../assets/3b0f277acf5d3592dc27e4c10e536618_MD5.jpg.jpg)  
   
 ### HIV  
 - 所有愛滋病患都建議施打肺炎球菌疫苗  
@@ -99,7 +99,7 @@ status: finished
   
 ### Transplant Recipients  
 #### 提早接種建議  
-![ea036fbe0b8cd25b1a2000f02d84dfdd_MD5.jpg](../assets/ea036fbe0b8cd25b1a2000f02d84dfdd_MD5.jpg)  
+![ea036fbe0b8cd25b1a2000f02d84dfdd_MD5.jpg](../assets/ea036fbe0b8cd25b1a2000f02d84dfdd_MD5.jpg.jpg)  
   
 #### Solid organ transplantation  
 - 不活化疫苗：移植前未完成接種的於移植後**6個月****以上**再補打；除常規疫苗，特別建議要打肺鏈和流感  
@@ -117,7 +117,7 @@ status: finished
     - 同住家屬及親密接觸者注射這些疫苗**1個月**內，若皮膚出現紅疹或水疱，應避免接觸患者，直到症狀緩解  
 - 家中有嬰兒接種輪狀病毒疫苗，照顧者在**2星期**內也應注意排泄物處理及手部衛生，避免傳染病毒給免疫低下病人  
   
-![f0640069bafa0b659d1d5a46454f0bfa_MD5.jpg](../assets/f0640069bafa0b659d1d5a46454f0bfa_MD5.jpg)  
+![f0640069bafa0b659d1d5a46454f0bfa_MD5.jpg](../assets/f0640069bafa0b659d1d5a46454f0bfa_MD5.jpg.jpg)  
   
 ### Splenectomy  
 - 計畫性切除：建議於術前**10-14天**前接受肺炎鏈球菌疫苗、B型嗜血桿菌疫苗、流行性腦脊髓膜炎疫苗及流感疫苗  
@@ -184,8 +184,8 @@ status: finished
 	- 約有百萬分之一的機會因接種麻疹疫苗而引起**亞急性硬化性腦炎或腦病變 (measles inclusion body encephalitis)**  
 	- 德國麻疹疫苗偶有引起發燒、暫時性關節痛、關節炎及神經炎等副作用  
 - 暴露後預防  
-	![e8dced97bf1693580f6b5841f22792e0_MD5.jpg](../assets/e8dced97bf1693580f6b5841f22792e0_MD5.jpg)  
-	![35752e1cfdea757ea553b96a35bc4991_MD5.jpg](../assets/35752e1cfdea757ea553b96a35bc4991_MD5.jpg)  
+	![e8dced97bf1693580f6b5841f22792e0_MD5.jpg](../assets/e8dced97bf1693580f6b5841f22792e0_MD5.jpg.jpg)  
+	![35752e1cfdea757ea553b96a35bc4991_MD5.jpg](../assets/35752e1cfdea757ea553b96a35bc4991_MD5.jpg.jpg)  
   
 ### Varicella (Varivax)  
 - 1-12歲兒童：出生**滿12個月**接種第1劑公費疫苗  
@@ -237,7 +237,7 @@ status: finished
 - AE: 少數於接種後3-7天可能出現輕微或中度全身無力、肌痛、易怒、食慾不振、發燒、頭痛等症狀，會在數天內恢復  
   
 ### Rotavirus  
-![c58fb0b5af619bed84815e57dbec4f94_MD5.jpg](../assets/c58fb0b5af619bed84815e57dbec4f94_MD5.jpg)  
+![c58fb0b5af619bed84815e57dbec4f94_MD5.jpg](../assets/c58fb0b5af619bed84815e57dbec4f94_MD5.jpg.jpg)  
   
 - 禁忌  
 	- 先前接種本疫苗或對本疫苗任何成分曾發生嚴重過敏反應者  
@@ -248,7 +248,7 @@ status: finished
 	- 腹瀉  
   
 ### Yellow Fever  
-![6692f2ef0716aac413ed3041013ccc4e_MD5.jpg](../assets/6692f2ef0716aac413ed3041013ccc4e_MD5.jpg)  
+![6692f2ef0716aac413ed3041013ccc4e_MD5.jpg](../assets/6692f2ef0716aac413ed3041013ccc4e_MD5.jpg.jpg)  
   
 - 以**雞胚蛋**培養的病毒製成  
 - 前往高風險地區的旅客：年齡滿**9個月**以上者，皆建議接種黃熱病疫苗，且應於出國**10天以前**接種。接種疫苗後90%以上的人可產生**長期保護力**，故不需例行追加接種。  
@@ -314,7 +314,7 @@ status: finished
 	- Serotypes 1, 3, 4, 5, 6A, 6B, 7F, 8, 9V, 10A, 11A, 12F, 14, 15B, 18C, 19A, 19F, 22F, 23F, 33F  
 	- 適用於出生滿**6週**以上兒童、青少年及成人  
 	- 自2026年1月15日起，以1劑新肺炎鏈球菌疫苗取代昔日PCV13/15及PPV23之2 劑接種  
-![cb6749b1e741a4c346125d985763cd63_MD5.jpg](../assets/cb6749b1e741a4c346125d985763cd63_MD5.jpg)  
+![cb6749b1e741a4c346125d985763cd63_MD5.jpg](../assets/cb6749b1e741a4c346125d985763cd63_MD5.jpg.jpg)  
   
 - 施打間隔  
 	- 每個人一生最多接種三劑PPV23，兩劑PPV之間需間隔五年  
@@ -413,7 +413,7 @@ status: finished
     - 有較佳的腸胃道免疫力，可阻斷野生小兒麻痺病毒在社區的傳播  
     - 疫苗株可經由腸胃道的釋放、傳播，提高社區整體保護力  
   
-![a050c559434fed209e91101cf92852ee_MD5.jpg](../assets/a050c559434fed209e91101cf92852ee_MD5.jpg)  
+![a050c559434fed209e91101cf92852ee_MD5.jpg](../assets/a050c559434fed209e91101cf92852ee_MD5.jpg.jpg)  
   
 - 前往高風險國家可視情況追加接種（**4週至一年前**）  
     - States infected with WPV1, cVDPV1 or cVDPV3 with potential risk of international spread: all residents and long­term visitors (i.e. > four weeks) of all ages should receive a dose of bivalent oral poliovirus vaccine (**bOPV**) or inactivated poliovirus vaccine (**IPV**) between four weeks and 12 months **prior to** (at least by the time of departure) international travel  
@@ -448,10 +448,10 @@ status: finished
 	- **A型 H3N2：** A/Croatia/1654/2025 (克羅埃西亞株 - 雞蛋培養) 或 A/District of Columbia/27/2025 (哥倫比亞特區株 - 細胞培養)  
 	- **B型 Victoria：** B/Austria/1359417/2021 類病毒株  
   
-![2fe4a47e238bf9da208eb93497a7c645_MD5.jpg](../assets/2fe4a47e238bf9da208eb93497a7c645_MD5.jpg)  
+![2fe4a47e238bf9da208eb93497a7c645_MD5.jpg](../assets/2fe4a47e238bf9da208eb93497a7c645_MD5.jpg.jpg)  
 > IIV = Inactivated Influenza Vaccine, RIV = Recombinant Influenza Vaccine, LAIV = Live Attenuated Influenza Vaccine  
   
-![a23dbc4894cf5f22ced10fbac83ad401_MD5.jpg](../assets/a23dbc4894cf5f22ced10fbac83ad401_MD5.jpg)  
+![a23dbc4894cf5f22ced10fbac83ad401_MD5.jpg](../assets/a23dbc4894cf5f22ced10fbac83ad401_MD5.jpg.jpg)  
 - 副作用  
 	- 接種流感疫苗後**48小時內**約有1-2%可能有發燒反應  
 	- 零星報告過之不良事件  
@@ -483,7 +483,7 @@ status: finished
 	        - 108年7月1日(含)以後出生：母親**HBsAg (+)**  
 	- HBsAg (-) + HBcAb (-)之醫院工作人員：HBIG + HBV vaccine x 3 (0, 1, 6m)      
 	    - 若已打過兩個療程HBV vaccine抗體仍 < 10 IU則在**一個月後**追加一劑HBIG  
-![cec9da032e27ec1b100a33fb6097ca18_MD5.jpg](../assets/cec9da032e27ec1b100a33fb6097ca18_MD5.jpg)  
+![cec9da032e27ec1b100a33fb6097ca18_MD5.jpg](../assets/cec9da032e27ec1b100a33fb6097ca18_MD5.jpg.jpg)  
   
 ### HAV  
 - 兩劑間隔**6-12**個月，施打後免疫力可維持**20年**  
@@ -497,13 +497,13 @@ status: finished
 	- 特殊職業如**廚師及餐飲食品從業人員、醫療照護者、嬰幼兒保育工作者**  
   
 ### HPV  
-![6102213d4d0e25223d511eaf4f280747_MD5.jpg](../assets/6102213d4d0e25223d511eaf4f280747_MD5.jpg)  
-![0fc7cfc57840b138c4ca2b953ec0d157_MD5.jpg](../assets/0fc7cfc57840b138c4ca2b953ec0d157_MD5.jpg)  
+![6102213d4d0e25223d511eaf4f280747_MD5.jpg](../assets/6102213d4d0e25223d511eaf4f280747_MD5.jpg.jpg)  
+![0fc7cfc57840b138c4ca2b953ec0d157_MD5.jpg](../assets/0fc7cfc57840b138c4ca2b953ec0d157_MD5.jpg.jpg)  
   
 - 19-26 歲成人均建議接種， 27-45歲**高感染風險者**如免疫功能不全（含括愛滋病毒感染者）及**男同性戀**建議接種  
 - 2價僅適用於女性，4價及9價適用於男性及女性  
   
-![c4421af42ef234a0c320feb0ead6661f_MD5.jpg](../assets/c4421af42ef234a0c320feb0ead6661f_MD5.jpg)  
+![c4421af42ef234a0c320feb0ead6661f_MD5.jpg](../assets/c4421af42ef234a0c320feb0ead6661f_MD5.jpg.jpg)  
   
 ### Rabies  
 - 暴露前  
@@ -511,14 +511,14 @@ status: finished
 	- 針對實驗室工作人員等持續暴露高風險族群，依疫苗仿單及各國建議，每6個月檢測一次中和抗體濃度，低者追加一劑疫苗  
 	- 其他風險族群（如動物防疫人員、獸醫師等），完成暴露前三劑基礎免疫，在無動物致傷前提下，**一年後**追加一劑，以後每隔**3至5年**追加一劑  
 - 暴露後預防  
-	![7f1ea89f07782a853a3b293c6a76a1a0_MD5.jpg](../assets/7f1ea89f07782a853a3b293c6a76a1a0_MD5.jpg)  
-	![690d3e36a716c605f36aadec0155f6ca_MD5.jpg](../assets/690d3e36a716c605f36aadec0155f6ca_MD5.jpg)  
+	![7f1ea89f07782a853a3b293c6a76a1a0_MD5.jpg](../assets/7f1ea89f07782a853a3b293c6a76a1a0_MD5.jpg.jpg)  
+	![690d3e36a716c605f36aadec0155f6ca_MD5.jpg](../assets/690d3e36a716c605f36aadec0155f6ca_MD5.jpg.jpg)  
 	- 以前未曾接種過狂犬病疫苗者，需接種**4劑**；第一劑儘可能在被患有狂犬病之動物咬傷後即注射（與免疫球蛋白在不同之部位注射，同時接種)，其餘的則在第一劑注射後第**3, 7, 14**天施打  
 	- 以前曾完整接種過狂犬病疫苗者，只需接種**2劑**；第一劑最好要在動物咬傷當天接種，第二劑的則在第一劑注射後**第3天**施行  
 	- 對新霉素有過敏者不建議接種，除非有高度接觸狂犬病的風險或者需要作傷後治療  
   
 ### 流行性腦脊髓膜炎  
-![Untitled 12.png](../assets/737a80a93f565131ccc65bef615e326b_MD5.jpg)  
+![Untitled 12.png](../assets/737a80a93f565131ccc65bef615e326b_MD5.jpg.jpg)  
 - Indications  
     - Anatomical or functional asplenia (including sickle cell disease), HIV infection, persistent complement component deficiency, complement inhibitor (e.g., eculizumab, ravulizumab) use: **2-dose** series MenACWY-D (Menactra, Menveo or MenQuadfi) at least **8 weeks** apart and revaccinate every 5 years if risk remains  
     - Travel in countries with hyperendemic or epidemic meningococcal disease, microbiologists routinely exposed to Neisseria meningitidis: 1 dose MenACWY (Menactra, Menveo or MenQuadfi) and revaccinate every 5 years if risk remains  
