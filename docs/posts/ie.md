@@ -83,7 +83,7 @@ status: finished
 - Neurologic deficits c/f embolic stroke; vertebral tenderness c/f osteo or epidural abscess  
 - Devices: evaluate CVCs, PM/ICD pocket, and sites of other hardware/ prosthetics  
   
-![9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg](../assets/9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg)  
+![9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg](../assets/9bfd16b74d174ac2dbd8b3c9fc4fcef1_MD5.jpeg.jpeg)  
   
 ## Diagnosis (CID 2010;51:131; EHJ 2015;36:3075; Circ 2015;132:1435)  
   
@@ -147,20 +147,20 @@ Se ˜90%, Sp >95%, NPV ≥92% (CID 2000;30:633).
   
 ### Antibiotic regimens for initial empirical treatment of infective endocarditis (before pathogen identification)^a  
   
-![2ae50ffaeb435434defe53e9c359da40_MD5.jpeg](../assets/2ae50ffaeb435434defe53e9c359da40_MD5.jpeg)  
+![2ae50ffaeb435434defe53e9c359da40_MD5.jpeg](../assets/2ae50ffaeb435434defe53e9c359da40_MD5.jpeg.jpeg)  
   
 ### Antibiotic treatment of infective endocarditis due to oral streptococci and _Streptococcus gallolyticus_ group  
-![22e24ea7d966fc9938fdacf7f7d00f78_MD5.jpeg](../assets/22e24ea7d966fc9938fdacf7f7d00f78_MD5.jpeg)  
-![07526380dde3cc2777591bcd2a2dc32c_MD5.jpeg](../assets/07526380dde3cc2777591bcd2a2dc32c_MD5.jpeg)  
+![22e24ea7d966fc9938fdacf7f7d00f78_MD5.jpeg](../assets/22e24ea7d966fc9938fdacf7f7d00f78_MD5.jpeg.jpeg)  
+![07526380dde3cc2777591bcd2a2dc32c_MD5.jpeg](../assets/07526380dde3cc2777591bcd2a2dc32c_MD5.jpeg.jpeg)  
   
 ### Antibiotic treatment of infective endocarditis due to _Staphylococcus_ spp.  
   
-![61732b07753358f3d8753bf3089b9761_MD5.jpeg](../assets/61732b07753358f3d8753bf3089b9761_MD5.jpeg)  
-![2a7657bf3b31a3c93cf3131a2365c9e1_MD5.jpeg](../assets/2a7657bf3b31a3c93cf3131a2365c9e1_MD5.jpeg)  
+![61732b07753358f3d8753bf3089b9761_MD5.jpeg](../assets/61732b07753358f3d8753bf3089b9761_MD5.jpeg.jpeg)  
+![2a7657bf3b31a3c93cf3131a2365c9e1_MD5.jpeg](../assets/2a7657bf3b31a3c93cf3131a2365c9e1_MD5.jpeg.jpeg)  
   
 ### Recommendations for antibiotic treatment of infective endocarditis due to _Enterococcus_ spp.  
-![9fdbf1647120d1ed2daebe4b928d5854_MD5.jpeg](../assets/9fdbf1647120d1ed2daebe4b928d5854_MD5.jpeg)  
-![c1da5203b9ccd7e1951b8f54ae9fc043_MD5.jpeg](../assets/c1da5203b9ccd7e1951b8f54ae9fc043_MD5.jpeg)  
+![9fdbf1647120d1ed2daebe4b928d5854_MD5.jpeg](../assets/9fdbf1647120d1ed2daebe4b928d5854_MD5.jpeg.jpeg)  
+![c1da5203b9ccd7e1951b8f54ae9fc043_MD5.jpeg](../assets/c1da5203b9ccd7e1951b8f54ae9fc043_MD5.jpeg.jpeg)  
   
 ### Antibiotic treatment of blood culture-negative infective endocarditis  
 | Pathogens                                           | Proposed therapy<sup>a</sup>                                                                                                                                      | Treatment outcome                                                                                                         |  
@@ -192,16 +192,16 @@ Se ˜90%, Sp >95%, NPV ≥92% (CID 2000;30:633).
 	- HF with stable hemodynamics  
 	- Resistant bacteria or fungi other than SA  
 	- PVE not caused SA or non-HACEK GNB  
-![f1f53fec2ba31a6f3e73b18fefc26620_MD5.jpeg](../assets/f1f53fec2ba31a6f3e73b18fefc26620_MD5.jpeg)  
+![f1f53fec2ba31a6f3e73b18fefc26620_MD5.jpeg](../assets/f1f53fec2ba31a6f3e73b18fefc26620_MD5.jpeg.jpeg)  
 <sup>a</sup>Despite appropriate antibiotic therapy for >1 week and control of septic embolic foci.   
 <sup>b</sup>E.g. patients with significant valvular dysfunction that is, or is not, a direct result of endocarditis process.   
 <sup>c</sup>_S. aureus_ (methicillin resistant and non-methicillin resistant), vancomycin-resistant enterococci, non-HACEK Gram-negative bacteria and fungi.   
 <sup>d</sup>Urgent for _S. aureus_, non-urgent for others.  
   
 ## Oral Step-Down Therapy  
-![daca21bb15b1314830aca8040860f6d2_MD5.jpeg](../assets/daca21bb15b1314830aca8040860f6d2_MD5.jpeg)  
-![8bef8cee0bd586e62dd39135c8adac23_MD5.jpeg](../assets/8bef8cee0bd586e62dd39135c8adac23_MD5.jpeg)  
-![4073cbc8ac9de6931ac3fad8b22813ba_MD5.jpeg](../assets/4073cbc8ac9de6931ac3fad8b22813ba_MD5.jpeg)  
+![daca21bb15b1314830aca8040860f6d2_MD5.jpeg](../assets/daca21bb15b1314830aca8040860f6d2_MD5.jpeg.jpeg)  
+![8bef8cee0bd586e62dd39135c8adac23_MD5.jpeg](../assets/8bef8cee0bd586e62dd39135c8adac23_MD5.jpeg.jpeg)  
+![4073cbc8ac9de6931ac3fad8b22813ba_MD5.jpeg](../assets/4073cbc8ac9de6931ac3fad8b22813ba_MD5.jpeg.jpeg)  
 ## Endocarditis Prophylaxis (Circ 2007;116:1736)  
   
 | **Cardiac conditions^** | **Prosthetic valve; previous endocarditis; congenital heart disease** (CHD) including unrepaired or incompletely repaired cyanotic CHD (palliative shunts or conduits), 1st 6 mo after completely repaired CHD using prosthetic material; cardiac transplant recipients w/ valvulopathy. (Prophylaxis no longer rec. in acquired valvular dysfxn, bicuspid AoV, MVP with leaflet thickening or regurgitation, HCM.) |  
