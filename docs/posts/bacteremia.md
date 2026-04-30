@@ -60,14 +60,14 @@ share_updated: 2026-03-25T09:54:48+08:00
 - For patients with CRBSI for whom catheter salvage is attempted, additional blood cultures should be obtained, and the catheter should be removed if blood culture results (e.g., 2 sets of blood cultures obtained on a given day; 1 set of blood cultures is acceptable for neonates) remain positive when blood samples are obtained 72 h after the initiation of appropriate therapy  
 - For patients with unexplained fever, if blood culture results are positive, the CVC or arterial catheter was exchanged over a guidewire, and the catheter tip has significant growth, then the catheter should be removed and a new catheter placed in a new site  
   
-![70ccc352a3205d98e90e305bc0e5b3df_MD5.jpeg](../assets/70ccc352a3205d98e90e305bc0e5b3df_MD5.jpeg)  
+![70ccc352a3205d98e90e305bc0e5b3df_MD5.jpeg](../assets/70ccc352a3205d98e90e305bc0e5b3df_MD5.jpeg.jpeg)  
 > Approach to the management of patients with short-term central venous catheter–related or arterial catheter–related bloodstream infection. [@Mermel2009ClinicalPractice]  
   
 #### Long-term catheter [@Mermel2009ClinicalPractice]   
 - Long-term catheters should be removed from patients with CRBSI associated with any of the following conditions: severe sepsis; suppurative thrombophlebitis; endocarditis; bloodstream infection that continues despite >72 h of antimicrobial therapy to which the infecting microbes are susceptible; or infections due to *S. aureus*, *P. aeruginosa*, fungi, or mycobacteria  
 - In uncomplicated CRBSI involving long-term catheters due to pathogens other than *S. aureus*, *P. aeruginosa*, *Bacillus* species, *Micrococcus* species, *Propionibacteria*, fungi, or mycobacteria, because of the limited access sites in many patients who require long-term intravascular access for survival (e.g., patients undergoing hemodialysis or with short-gut syndrome), treatment should be attempted without catheter removal, with use of both systemic and antimicrobial lock therapy  
   
-![170bf3b5a3e1a44ab3b6fffa028b2bb4_MD5.jpeg](../assets/170bf3b5a3e1a44ab3b6fffa028b2bb4_MD5.jpeg)  
+![170bf3b5a3e1a44ab3b6fffa028b2bb4_MD5.jpeg](../assets/170bf3b5a3e1a44ab3b6fffa028b2bb4_MD5.jpeg.jpeg)  
 > Approach to the treatment of a patient with a long-term central venous catheter (CVC) or a port (P)-related bloodstream infection.  
 > Recommendation 80: Patients can be considered for a shorter duration of antimicrobial therapy (i.e., a minimum of 14 days of therapy) if the patient is not diabetic; if the patient is not immunosuppressed (i.e., not receiving systemic steroids or other immunosuppressive drugs, such as those used for transplantation, and is nonneutropenic); if the infected catheter is removed; if the patient has no prosthetic intravascular device (e.g., pacemaker or recently placed vascular graft); if there is no evidence of endocarditis or suppurative thrombophlebitis on TEE and ultrasound, respectively; if fever and bacteremia resolve within 72 h after initiation of appropriate antimicrobial therapy; and if there is no evidence of metastatic infection on physical examination and sign- or symptom-directed diagnostic tests  
   
@@ -80,8 +80,8 @@ Uncomplicated:
 - Defervescence within 72 h of antibiotics  
 - No evidence of metastatic sites of infection  
   
-![5ed49349e45f76357b5a4958d24356be_MD5.jpeg](../assets/5ed49349e45f76357b5a4958d24356be_MD5.jpeg)  
-![f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg](../assets/f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg)  
+![5ed49349e45f76357b5a4958d24356be_MD5.jpeg](../assets/5ed49349e45f76357b5a4958d24356be_MD5.jpeg.jpeg)  
+![f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg](../assets/f88b89c95332b2396d6d8bce14b2bb60_MD5.jpeg.jpeg)  
 > **Proposed algorithm for the evaluation and management of SAB.**   
 All patients should undergo a standardized minimum evaluation[^a] (thorough history and examination, repeat blood cultures, and TTE) that serves to stratify risk of metastatic foci. In those determined to have low-risk SAB (see below), additional workup can potentially be deferred. In those with indeterminant or high-risk SAB, additional evaluation[^b] (guided by the patient’s clinical features) is recommended. Classification of patients as having SAB with or without metastatic foci assists in guiding treatment decisions, which should include antibiotics, source control, and (when applicable) substance-use treatment.   
 †Low-risk SAB: no predisposing host factors, negative TTE; blood cultures clear in <48 hours, bacteremia is hospital-acquired; no persistent fever, timely antibiotic start, and no clinical signs of metastatic infection.   
