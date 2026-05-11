@@ -1,2 +1,3 @@
-- [訂閱血液學會行事曆](hematology-events.ics)
-- [訂閱感染症學會行事曆](idsroc-events.ics)
+- [訂閱血液學會行事曆](https://didiowen.github.io/notes-not-scandal/cal/hematology-events.ics)
+- [訂閱感染症學會行事曆](https://didiowen.github.io/notes-not-scandal/cal/idsroc-events.ics)
+- [訂閱愛滋病醫學會行事曆](https://didiowen.github.io/notes-not-scandal/cal/aids-events.ics)
