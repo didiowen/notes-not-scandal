@@ -1,0 +1,145 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TBMT//Bone Marrow Transplant Events//ZH
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:學會
+X-WR-TIMEZONE:Asia/Taipei
+BEGIN:VTIMEZONE
+TZID:Asia/Taipei
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cfc24ce2-389d-5286-bb37-3c49d6f7c32d
+DTSTAMP:20260511T152635Z
+SUMMARY:Post EBMT Sympsoium 2026
+LOCATION:待定
+DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
+ ：待定\n學會頁面：https://www.tbmt.org.tw/publicUI/D/D10402.aspx?a
+ rg=8DE0D9D33BEA54B071
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+END:VEVENT
+BEGIN:VEVENT
+UID:1db1e6ac-f3c8-520e-b9c0-0e067562e3cb
+DTSTAMP:20260511T152635Z
+SUMMARY:Post EBMT Sympsoium 2026
+LOCATION:張榮發基金會國際會議中心1001會議廳
+DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
+ ：張榮發基金會國際會議中心1001會議廳\n學會頁面：https
+ ://www.tbmt.org.tw/publicUI/D/D10402.aspx?arg=8DE1DEA1B0EBAE1071\n\n--- 
+ 活動內容 ---\n親愛的會員 您好：\n「 Post EBMT Symposium 2026 
+ 」 即將隆重登場！\n本年度活動延續優良傳統，特別邀
+ 請親自赴歐洲骨髓移植年會（EBMT）取經的醫師與護理專
+ 家擔任講師，將國際最新臨床知識與研究精華帶回國內
+ ，與同仁們深入交流。\n今年活動為期兩天，內容除了豐
+ 富的講師專題分享外，亦安排多場 Satellite Symposium ，此
+ 外，本次特別增設 「護理專場」 ，由資深護理專家整理
+  EBMT 精要資訊，內容精彩可期，誠摯邀請各位護理同仁
+ 踴躍報名。\n活動詳情如下：\n活動名稱： Post EBMT Symposiu
+ m 2026\n活動日期： 115 年 5 月 16 日 (六) 至 17 日 (日)\n活
+ 動地點： 張榮發國際會議中心 10 樓 1001 ＆ 1002 會議室（
+ 台北市中正區中山南路 11 號）\n報名連結： https://forms.gl
+ e/kow1kka4625wWSTKA\n報名費用： * 本會會員及贊助商： 免費\
+ n非會員： 500 元\n繳費說明： 非會員請於 5/1 前 完成郵
+ 政劃撥。\n劃撥戶名：中華民國血液及骨髓移植學會\n劃
+ 撥帳號：41892551\n學分\nTBMT 10分\n內科醫學會 申請中\n癌
+ 症醫學會 A類3分\n兒科醫學會 申請中\n台灣專科護理師學
+ 會 護理/專師 4分
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+END:VEVENT
+BEGIN:VEVENT
+UID:7659ed9e-d4bb-5a5e-a258-357890e59745
+DTSTAMP:20260511T152635Z
+SUMMARY:造血幹細胞移植論壇
+LOCATION:台北君悅酒店1樓 君寓2
+DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
+ ：台北君悅酒店1樓 君寓2\n學會頁面：https://www.tbmt.org.tw/
+ publicUI/D/D10402.aspx?arg=8DE7EAFED1E6B5A071\n\n--- 活動內容 ---\n日
+ 期: 115年5月30日\n時間: 14:00~17:30\n地點: 台北君悅酒店1樓 
+ 君寓2\n報名: https://forms.gle/4Z8s3Fkyp8raVeD48\n現場座位有限
+ ，以本會會員為優先\n學分\nTBMT　２分\n中華民國血液病
+ 學會　申請中
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+END:VEVENT
+BEGIN:VEVENT
+UID:0fc55b0d-4416-5690-82f2-ffd9ecc5f37b
+DTSTAMP:20260511T152635Z
+SUMMARY:TBMT Academy Class 3
+LOCATION:高雄
+DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
+ ：高雄\n學會頁面：https://www.tbmt.org.tw/publicUI/D/D10402.aspx?a
+ rg=8DE7969EFF43B87071
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+END:VEVENT
+BEGIN:VEVENT
+UID:cc602c4f-65e1-5bd2-a83a-969420bc3b8d
+DTSTAMP:20260511T152635Z
+SUMMARY:10:00-11:00 Optimal Blinatumomab Adoption in Frontline ALL Treatmen
+ t (線上)
+LOCATION:線上
+DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
+ ：線上\n學會頁面：https://www.tbmt.org.tw/publicUI/D/D10402.aspx?a
+ rg=8DE9FC030B2E916071\n\n--- 活動內容 ---\n時間: 10:00~11:00\n報名
+ : https://healthcareasia-hca.webex.com/webappng/sites/healthcareasia-hca/m
+ eeting/register/5dc18105525b4cb58bda03767aaeb024?ticket=4832534b00000008a0
+ 642e5ca8e1d4171c8bf3c145788608a6dd667c5971933542e5083409755ae6&timestamp=1
+ 776758799016&RGID=r864cdd5a51250a793e44a73c79dfef2a&isAutoPopRegisterForm=
+ false\n學分\nTBMT 1分
+DTSTART;TZID=Asia/Taipei:20260607T100000
+DTEND;TZID=Asia/Taipei:20260607T110000
+END:VEVENT
+BEGIN:VEVENT
+UID:08e3b01f-1927-5f14-a75b-001d73add4bb
+DTSTAMP:20260511T152635Z
+SUMMARY:TBMT Chronic GVHD (Nursing)
+LOCATION:待定
+DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
+ ：待定\n學會頁面：https://www.tbmt.org.tw/publicUI/D/D10402.aspx?a
+ rg=8DE96E22B2684EA071\n\n--- 活動內容 ---\n待定
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+END:VEVENT
+BEGIN:VEVENT
+UID:50ad58bc-9290-573a-9442-08dde2a7bd89
+DTSTAMP:20260511T152635Z
+SUMMARY:TBMT Academy Class 4
+LOCATION:待定
+DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
+ ：待定\n學會頁面：https://www.tbmt.org.tw/publicUI/D/D10402.aspx?a
+ rg=8DE7969D7093C70053
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+END:VEVENT
+BEGIN:VEVENT
+UID:14578581-0116-5044-a1e4-6f71a4ce84e0
+DTSTAMP:20260511T152635Z
+SUMMARY:19th Asian Society of Clinical Pathology and Laboratory Medicine Co
+ ngress 2026
+LOCATION:TICC
+DESCRIPTION:主辦單位：ASCPaLM\n地點：TICC\n學會頁面：https://w
+ ww.tbmt.org.tw/publicUI/D/D10402.aspx?arg=8DE5E7AAC54F415071\n\n--- 活動
+ 內容 ---\nvisit: [
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261004
+END:VEVENT
+BEGIN:VEVENT
+UID:ea053b64-76be-59e2-91ea-9f7203f010a6
+DTSTAMP:20260511T152635Z
+SUMMARY:THCTC 2026
+LOCATION:張榮發國際會議中心
+DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
+ ：張榮發國際會議中心\n學會頁面：https://www.tbmt.org.tw/pub
+ licUI/D/D10402.aspx?arg=8DE0D9D225DB0F6071
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+END:VEVENT
+END:VCALENDAR
