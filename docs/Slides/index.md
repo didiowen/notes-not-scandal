@@ -6,7 +6,7 @@ hide:
 
 # My Teaching Slides
 
-- [20260515 愛滋預防的下一哩路 · HIV PrEP & PEP](20260515_PrEP_PEP.html)
+- [20260515 愛滋預防的下一哩路 · HIV PrEP & PEP](20260515_PrEP_PEP.html) ([PDF](20260515_PrEP_PEP.pdf))
 - [20250521 發燒之生理病理、評估及處置](20250521_fever.html)
 - [20250526 FUO與發燒相關考古題](20250526_fever.html)
 - [Infective Endocarditis](ie.html)
