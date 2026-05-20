@@ -15,5 +15,3 @@ csl: "[[harvard-imperial.csl]]"
 >
 >Useful site made by [beer.chengsen](https://www.threads.com/@beer.chengsen):
 >- [NHIFind｜健保給付標準查詢](https://nhi.showholdings.com/)
-
-  
