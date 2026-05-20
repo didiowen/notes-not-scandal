@@ -1,10 +1,10 @@
 ---
-title: Notes Not Scandal
 fileClass: share
 date: 2024-08-30
-share: true
+share: false
 path: docs
 bib: "[[library.bib]]"
+csl: "[[harvard-imperial.csl]]"
 ---
 >[!info]  
 >Ditched Notion for Obsidian for some time, as Notion takes forever to open a big, fat note. However, Obsidian isn’t very sharable without the paid Publish feature. Finally set up this blog so that I can access (some of) my notes while I’m seeing patients in the out-patient department or in jail!  
