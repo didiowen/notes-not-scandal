@@ -9,3 +9,15 @@ Ines Tan 的個人臨床與學術筆記合集，涵蓋感染症、血液腫瘤�
 ---
 
 Built from [jobindjohn/obsidian-publish-mkdocs](https://github.com/jobindjohn/obsidian-publish-mkdocs), with the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
+
+---
+
+## License & Disclaimer
+
+**Copyright © 2025 Ines Tan. All rights reserved.**
+
+This site is provided for **educational and personal study purposes only**. Content may not be redistributed, republished, or used for commercial purposes without permission.
+
+Some notes are adapted from or based on publicly available sources including MGH Pocket Medicine and peer-reviewed research articles. Users are responsible for respecting the intellectual property rights of these original sources.
+
+For full license terms, see [LICENSE](LICENSE).
