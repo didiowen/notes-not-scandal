@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aeromonas Virulence and Iron — Literature Search Report</title>
+  <style>
+    :root {
+      --accent:    #1a5276;
+      --accent-lt: #d6eaf8;
+      --text:      #1c1c1e;
+      --muted:     #5f6368;
+      --border:    #d0d7de;
+      --bg:        #ffffff;
+      --bg-alt:    #f6f8fa;
+      --tag-bg:    #eaf0fb;
+      --tag-fg:    #1a5276;
+      --gap-bg:    #fef9e7;
+      --gap-bd:    #f0b429;
+      --high-bg:   #eafaf1;
+      --high-bd:   #27ae60;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Georgia', 'Times New Roman', serif;
+      font-size: 16px;
+      line-height: 1.75;
+      color: var(--text);
+      background: var(--bg);
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem 2rem 4rem;
+    }
+
+    /* ── Header ── */
+    header {
+      border-bottom: 3px solid var(--accent);
+      padding-bottom: 1.2rem;
+      margin-bottom: 2rem;
+    }
+    header h1 {
+      font-size: 1.6rem;
+      color: var(--accent);
+      line-height: 1.3;
+    }
+    .meta {
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 0.82rem;
+      color: var(--muted);
+      margin-top: 0.5rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+    .meta span::before { content: '• '; }
+    .meta span:first-child::before { content: ''; }
+
+    /* ── Section headings ── */
+    h2 {
+      font-size: 1.15rem;
+      color: var(--accent);
+      margin: 2.4rem 0 0.8rem;
+      padding-bottom: 0.3rem;
+      border-bottom: 1px solid var(--border);
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      letter-spacing: 0.01em;
+      text-transform: uppercase;
+      font-size: 0.88rem;
+    }
+    h3 {
+      font-size: 1.05rem;
+      color: var(--accent);
+      margin: 1.8rem 0 0.5rem;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+    }
+
+    /* ── Search strategy box ── */
+    .strategy-box {
+      background: var(--bg-alt);
+      border: 1px solid var(--border);
+      border-left: 4px solid var(--accent);
+      border-radius: 4px;
+      padding: 1rem 1.2rem;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 0.88rem;
+    }
+    .strategy-box p { margin-bottom: 0.4rem; }
+    .strategy-box code {
+      display: block;
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 3px;
+      padding: 0.5rem 0.8rem;
+      font-size: 0.82rem;
+      white-space: pre-wrap;
+      margin: 0.6rem 0;
+      color: #333;
+    }
+    .screening-stats {
+      display: flex;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      margin-top: 0.6rem;
+    }
+    .stat-pill {
+      background: var(--accent-lt);
+      border-radius: 20px;
+      padding: 0.2rem 0.8rem;
+      font-size: 0.82rem;
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    /* ── Narrative prose ── */
+    p { margin-bottom: 0.9rem; }
+
+    /* ── Citation card ── */
+    .cite-card {
+      background: var(--bg-alt);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 1rem 1.2rem;
+      margin: 1rem 0 1.4rem;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 0.87rem;
+    }
+    .cite-card .cite-ref {
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 0.5rem;
+      font-size: 0.9rem;
+    }
+    .cite-card .cite-ref a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .cite-card .cite-ref a:hover { text-decoration: underline; }
+    .cite-card dl { display: grid; grid-template-columns: 7rem 1fr; gap: 0.2rem 0.5rem; }
+    .cite-card dt { color: var(--muted); font-size: 0.82rem; padding-top: 0.05rem; }
+    .cite-card dd { color: var(--text); }
+    .tag {
+      display: inline-block;
+      background: var(--tag-bg);
+      color: var(--tag-fg);
+      border-radius: 3px;
+      padding: 0.05rem 0.4rem;
+      font-size: 0.75rem;
+      font-weight: 600;
+      margin-right: 0.3rem;
+    }
+
+    /* ── Theme label ── */
+    .theme-label {
+      display: inline-block;
+      background: var(--accent);
+      color: #fff;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      padding: 0.15rem 0.7rem;
+      border-radius: 3px;
+      margin-bottom: 0.7rem;
+    }
+
+    /* ── Tables ── */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 0.82rem;
+      margin: 1rem 0 1.5rem;
+    }
+    th {
+      background: var(--accent);
+      color: #fff;
+      padding: 0.5rem 0.6rem;
+      text-align: left;
+      font-weight: 600;
+    }
+    td {
+      padding: 0.45rem 0.6rem;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+    tr:nth-child(even) td { background: var(--bg-alt); }
+    td.center { text-align: center; }
+    .check { color: var(--accent); font-weight: 700; }
+    .main  { color: #27ae60; font-weight: 700; }
+    .cr-badge {
+      background: #fdebd0;
+      color: #d35400;
+      border-radius: 3px;
+      padding: 0 0.3rem;
+      font-size: 0.75rem;
+    }
+
+    /* ── Gaps ── */
+    .gap-list { list-style: none; padding: 0; }
+    .gap-list li {
+      background: var(--gap-bg);
+      border-left: 4px solid var(--gap-bd);
+      border-radius: 0 4px 4px 0;
+      padding: 0.7rem 1rem;
+      margin-bottom: 0.7rem;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 0.89rem;
+    }
+    .gap-list li strong { color: #7d6608; }
+
+    /* ── Recommended sources table ── */
+    .rec-table th { background: #27ae60; }
+
+    /* ── Footer ── */
+    footer {
+      margin-top: 3rem;
+      border-top: 1px solid var(--border);
+      padding-top: 1rem;
+      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-size: 0.78rem;
+      color: var(--muted);
+    }
+
+    @media print {
+      body { font-size: 11pt; padding: 0; }
+      .cite-card { break-inside: avoid; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1><em>Aeromonas</em> Virulence and Iron<br>Literature Search Report</h1>
+  <div class="meta">
+    <span>For: <em>Aeromonas</em> Bacteraemia in Haematological Malignancy (Journal of Infection)</span>
+    <span>Mode: academic-paper <code>lit-review</code> · Fidelity spectrum · Medium oversight</span>
+    <span>Generated: 2026-05-20</span>
+    <span>N = 11 sources</span>
+  </div>
+</header>
+
+<!-- ───────────────────────────────────────── -->
+<h2>Search Strategy</h2>
+
+<div class="strategy-box">
+  <p><strong>Databases:</strong> PubMed/MEDLINE; Zotero personal library (keyword + semantic); forward citation tracking</p>
+  <p><strong>Search strings:</strong></p>
+  <code>(Aeromonas) AND (iron acquisition OR siderophore OR FeoB OR ferric uptake) — 5 hits [Title/Abstract]
+(Aeromonas) AND (siderophore OR amonabactin OR ferric iron) — 5 hits
+(Aeromonas) AND (iron overload OR deferoxamine OR thalassemia) — 1 hit
+Zotero keyword: "Aeromonas iron" — 12 items retrieved</code>
+  <p><strong>Inclusion:</strong> Peer-reviewed; directly addresses iron acquisition mechanisms or iron-dependent host risk in <em>Aeromonas</em>; English; no date limit (foundational works included).</p>
+  <div class="screening-stats">
+    <span class="stat-pill">Initial: 35 candidates</span>
+    <span class="stat-pill">After title/abstract screen: 15</span>
+    <span class="stat-pill">Final included: 11</span>
+  </div>
+</div>
+
+<!-- ───────────────────────────────────────── -->
+<h2>Annotated Bibliography in Paper Format</h2>
+
+<!-- ── THEME 1 ── -->
+<h3>
+  <span class="theme-label">Theme 1</span><br>
+  Iron as an Essential Virulence Determinant — Gene Regulation and Iron-Responsive Phenotypes
+</h3>
+
+<p>Iron is not merely a nutrient for <em>Aeromonas</em>: it is a master signal that co-ordinates the expression of virulence factor networks. This relationship was conceptually established by Byers et al. (1991), who classified iron acquisition in motile aeromonads into two streams — siderophore-dependent (utilising amonabactin or enterobactin to strip ferric iron from host transferrin and lactoferrin) and siderophore-independent (direct acquisition from host haem-containing molecules). This classification remains the organisational backbone of <em>Aeromonas</em> iron biology.</p>
+
+<div class="cite-card">
+  <div class="cite-ref">Byers BR, Massad G, Barghouthi S, Arceneaux JE (1991). Iron acquisition and virulence in the motile aeromonads: siderophore-dependent and -independent systems. <em>Experientia</em> 47(5):416–8. PMID: 1828435</div>
+  <dl>
+    <dt>Type</dt><dd>Review / experimental</dd>
+    <dt>Key findings</dt><dd><em>Aeromonas</em> isolates producing amonabactin acquire iron from both host transferrin (siderophore-dependent) and haem molecules (siderophore-independent). Isolates producing enterobactin instead do not utilise transferrin-iron and rely exclusively on haem-iron. Foundational dichotomy paper.</dd>
+    <dt>Relevance</dt><dd>Establishes that <em>Aeromonas</em> employs at least two mechanistically distinct iron acquisition pathways, consistent with adaptation to different iron-availability niches within a host.</dd>
+    <dt>Quality</dt><dd><span class="tag">High</span> Seminal; frequently cited; methodology pre-genomic but conceptually sound.</dd>
+    <dt>Use in paper</dt><dd>Introduction / Discussion (iron-virulence axis framing)</dd>
+  </dl>
+</div>
+
+<p>The genomic ubiquity of iron-regulated genes across <em>Aeromonas</em> was confirmed by Dubey et al. (2022), who performed whole-genome sequencing on <em>Aeromonas media</em> strain SD/21-15 alongside 24 public-domain <em>Aeromonas</em> genomes spanning clinical and environmental sources. The ferric uptake regulator (<em>fur</em>), haem receptor genes, and siderophore biosynthesis/uptake loci were detected in <strong>all</strong> isolates examined, confirming iron acquisition as a core conserved feature of the genus rather than a strain-specific virulence determinant.</p>
+
+<div class="cite-card">
+  <div class="cite-ref">Dubey S, Ager-Wick E, Peng B, Evensen Ø, Sørum H, Munang'andu HM (2022). Characterisation of virulence and antimicrobial resistance genes of <em>Aeromonas media</em> strain SD/21-15 from marine sediments. <em>Frontiers in Microbiology</em> 13:1022639. DOI: <a href="https://doi.org/10.3389/fmicb.2022.1022639">10.3389/fmicb.2022.1022639</a></div>
+  <dl>
+    <dt>Type</dt><dd>Genomics / comparative genomics</dd>
+    <dt>Key findings</dt><dd>Fur, heme receptor genes, and siderophore genes present in all 25 <em>Aeromonas</em> genomes analysed. T2SS conserved; T6SS variable. Plasmid-mediated transfer of virulence and AMR genes demonstrated.</dd>
+    <dt>Relevance</dt><dd>Supports the proposition that iron acquisition is genus-wide, not species-restricted — relevant to multi-species cohort in the manuscript.</dd>
+    <dt>Quality</dt><dd><span class="tag">High</span> Multi-genome; open-access.</dd>
+    <dt>Use in paper</dt><dd>Introduction (genomic basis of iron dependence)</dd>
+  </dl>
+</div>
+
+<p>Under conditions of iron limitation — mimicking the hypoferraemic host environment — <em>A. hydrophila</em> responds with a co-ordinated transcriptional and translational programme. Teng et al. (2018) used RNA-seq and iTRAQ proteomics to characterise the full response to iron chelation with 2,2′-dipyridyl. Of 1,204 differentially expressed genes, the most enriched functional categories were iron transport, siderophore biosynthesis (enterobactin pathway genes prominently), and virulence effectors. Phenotypically, protease activity, haemolytic activity, lipase activity, and swimming motility were all increased under iron-limiting conditions, and experimental fish infection caused higher mortality when bacteria were pre-cultured under iron restriction. The study confirms that iron limitation does not suppress <em>Aeromonas</em> virulence — it amplifies it.</p>
+
+<div class="cite-card">
+  <div class="cite-ref">Teng T, Xi B, Chen K, Pan L, Xie J, Xu P (2018). Comparative transcriptomic and proteomic analyses reveal upregulated expression of virulence and iron transport factors of <em>Aeromonas hydrophila</em> under iron limitation. <em>BMC Microbiology</em> 18:52. DOI: <a href="https://doi.org/10.1186/s12866-018-1178-8">10.1186/s12866-018-1178-8</a></div>
+  <dl>
+    <dt>Type</dt><dd>Experimental — multi-omics (RNA-seq + iTRAQ)</dd>
+    <dt>Key findings</dt><dd>1,204 DEGs and 236 DEPs under iron limitation; enrichment for iron transport, enterobactin synthesis, and virulence processes. All four virulence phenotypes (protease, haemolysin, lipase, motility) enhanced. Higher fish mortality after iron-limited culture.</dd>
+    <dt>Relevance</dt><dd>Mechanistic evidence that the iron-depleted host milieu — including haematological malignancy (anemia of inflammation, iron sequestration by IL-6/hepcidin) — paradoxically triggers <em>Aeromonas</em> virulence gene upregulation.</dd>
+    <dt>Quality</dt><dd><span class="tag">High</span> Two independent omics platforms with qPCR validation; aquaculture <em>A. hydrophila</em> (limits direct human-pathogen extrapolation).</dd>
+    <dt>Use in paper</dt><dd>Discussion (mechanistic basis of host iron restriction → enhanced bacterial virulence)</dd>
+  </dl>
+</div>
+
+<p>A parallel proteomics study by Lange et al. (2020) specifically examined the response of virulent <em>A. hydrophila</em> to deferoxamine mesylate (DFO) — the xenosiderophore widely used clinically as an iron chelator in transfusion-dependent patients. Virulent <em>A. hydrophila</em> cultured in DFO-supplemented media showed differential upregulation of proteins grouped by gene ontology into iron ion transport, siderophore transport, and siderophore uptake transport, forming predicted protein–protein interaction networks. Notably, upregulation was detectable at the protein level even when differential gene expression at the mRNA level was unremarkable, suggesting post-transcriptional regulation of iron acquisition during DFO exposure.</p>
+
+<div class="cite-card">
+  <div class="cite-ref">Lange MD, Abernathy J, Shoemaker CA, Zhang D, Kirby A, Peatman E, Beck BH (2020). Proteome analysis of virulent <em>Aeromonas hydrophila</em> reveals the upregulation of iron acquisition systems in the presence of a xenosiderophore. <em>FEMS Microbiology Letters</em> 367(20):fnaa169. DOI: <a href="https://doi.org/10.1093/femsle/fnaa169">10.1093/femsle/fnaa169</a></div>
+  <dl>
+    <dt>Type</dt><dd>Experimental — comparative proteomics (DFO vs. control media)</dd>
+    <dt>Key findings</dt><dd>DFO exposure upregulates iron acquisition protein networks; post-transcriptional regulation implied; increased virulence in catfish challenge model with DFO-cultured bacteria.</dd>
+    <dt>Relevance</dt><dd>Directly addresses deferoxamine — the chelation agent used in iron-overloaded thalassaemia and HSCT patients — as a potential promoter of <em>Aeromonas</em> virulence.</dd>
+    <dt>Quality</dt><dd><span class="tag">Med-High</span> Aquaculture context; human clinical extrapolation requires caution.</dd>
+    <dt>Use in paper</dt><dd>Discussion (deferoxamine as host-side risk amplifier)</dd>
+  </dl>
+</div>
+
+<!-- ── THEME 2 ── -->
+<h3>
+  <span class="theme-label">Theme 2</span><br>
+  Siderophore Systems — Amonabactin, Enterobactin, and Xenosiderophore Exploitation
+</h3>
+
+<p>The predominant <em>Aeromonas</em> siderophore in clinical mesophilic isolates is <strong>amonabactin</strong>, a catecholate-hydroxamate hybrid that acquires ferric iron from the host iron-binding proteins transferrin and lactoferrin with high efficiency. Stintzi &amp; Raymond (2000) provided the first direct kinetic determination of iron removal from the three molecular forms of ferric transferrin (diferric, N-terminal monoferric, C-terminal monoferric) by amonabactin. Key finding: amonabactin removes iron from C-terminal monoferric transferrin but not from N-terminal monoferric transferrin; paradoxically, iron removal from both sites is more rapid in diferric transferrin than in either monoferric form, implying allosteric co-ordination between the lobes. Growth promotion was independent of iron saturation status (30–100%), confirming a diffusible siderophore mechanism rather than direct contact.</p>
+
+<div class="cite-card">
+  <div class="cite-ref">Stintzi A, Raymond KN (2000). Amonabactin-mediated iron acquisition from transferrin and lactoferrin by <em>Aeromonas hydrophila</em>: direct measurement of individual microscopic rate constants. <em>Journal of Biological Inorganic Chemistry</em> 5(1):57–66. DOI: <a href="https://doi.org/10.1007/pl00010655">10.1007/pl00010655</a></div>
+  <dl>
+    <dt>Type</dt><dd>Experimental biochemistry — kinetics</dd>
+    <dt>Key findings</dt><dd>Amonabactin removes iron from diferric transferrin at both sites; cannot remove from N-terminal monoferric alone; growth promotion independent of protein iron saturation (30–100%). Siderophore is diffusible.</dd>
+    <dt>Relevance</dt><dd>Establishes amonabactin as an efficient extractor of host transferrin-iron — relevant to saturated-transferrin states (iron overload) where transferrin-bound iron is readily stripped.</dd>
+    <dt>Quality</dt><dd><span class="tag">High</span> Rigorous kinetics; single species/strain.</dd>
+    <dt>Use in paper</dt><dd>Introduction / Discussion (siderophore mechanism)</dd>
+  </dl>
+</div>
+
+<p>Beyond amonabactin, <em>A. hydrophila</em> ATCC 7966<sup>T</sup> harbours an outer membrane receptor for exogenously supplied enterobactin (the predominant <em>E. coli</em> siderophore), designated IrgA. Funahashi et al. (2013) characterised IrgA by transposon mutagenesis and complementation, demonstrating iron-regulated expression (Fur-box in promoter) and TonB2-dependent energisation. This capacity for xenosiderophore utilisation has direct clinical relevance: in polymicrobial infections or the gut microbiome context of neutropenic patients, <em>Aeromonas</em> can exploit siderophores produced by co-colonising <em>Enterobacteriaceae</em> without expending biosynthetic energy.</p>
+
+<div class="cite-card">
+  <div class="cite-ref">Funahashi T, Tanabe T, Miyamoto K, Tsujibo H, Maki J, Yamamoto S (2013). Characterisation of a gene encoding the outer membrane receptor for ferric enterobactin in <em>Aeromonas hydrophila</em> ATCC 7966(T). <em>Bioscience, Biotechnology, and Biochemistry</em> 77(2):353–60. DOI: <a href="https://doi.org/10.1271/bbb.120774">10.1271/bbb.120774</a></div>
+  <dl>
+    <dt>Type</dt><dd>Experimental — microbiology / genetics</dd>
+    <dt>Key findings</dt><dd>IrgA is the outer membrane receptor for ferric enterobactin; iron-regulated (Fur); TonB2-dependent; enables <em>A. hydrophila</em> to exploit enterobactin from co-colonising <em>Enterobacteriaceae</em>.</dd>
+    <dt>Relevance</dt><dd>Xenosiderophore exploitation extends <em>Aeromonas</em> iron acquisition repertoire in polymicrobial clinical settings (22% of this cohort).</dd>
+    <dt>Quality</dt><dd><span class="tag">High</span> Genetic characterisation with complementation.</dd>
+    <dt>Use in paper</dt><dd>Discussion (polymicrobial bacteraemia iron ecology)</dd>
+  </dl>
+</div>
+
+<p>The same group subsequently characterised a second xenosiderophore receptor, <strong>DesA</strong>, specific for ferrioxamine B — the ferric form of deferoxamine (DFO). Funahashi et al. (2014) demonstrated that <em>A. hydrophila</em> can use DFO as an iron source by importing ferric-DFO via DesA, an AraC-type regulator-controlled outer membrane protein energised by TonB2. This mechanistically explains the observed clinical association between DFO therapy and <em>Aeromonas</em> infection: DFO, administered to chelate and excrete excess host iron, paradoxically provides <em>Aeromonas</em> with a pre-loaded iron-delivery vehicle.</p>
+
+<div class="cite-card">
+  <div class="cite-ref">Funahashi T, Tanabe T, Maki J, Miyamoto K, Tsujibo H, Yamamoto S (2014). Identification and characterisation of <em>Aeromonas hydrophila</em> genes encoding the outer membrane receptor of ferrioxamine B and an AraC-type transcriptional regulator. <em>Bioscience, Biotechnology, and Biochemistry</em> 78(10):1777–87. DOI: <a href="https://doi.org/10.1080/09168451.2014.932669">10.1080/09168451.2014.932669</a></div>
+  <dl>
+    <dt>Type</dt><dd>Experimental — microbiology / genetics</dd>
+    <dt>Key findings</dt><dd>DesA receptor imports ferric-DFO (ferrioxamine B); regulated by AraC-type regulator DesR under iron limitation; TonB2-dependent. DFO acts as a xenosiderophore that <em>Aeromonas</em> exploits for iron.</dd>
+    <dt>Relevance</dt><dd><strong>Direct mechanistic explanation for the deferoxamine–<em>Aeromonas</em> clinical risk</strong> (see Chompoonuch 2009). DFO = iron delivery to bacteria in iron-overloaded patients.</dd>
+    <dt>Quality</dt><dd><span class="tag">High</span> Genetic characterisation with complementation; <em>A. hydrophila</em> ATCC reference strain.</dd>
+    <dt>Use in paper</dt><dd>Discussion (mechanistic basis of DFO risk)</dd>
+  </dl>
+</div>
+
+<p>Beyond catecholate/hydroxamate siderophores, <em>Aeromonas</em> also possesses haem-acquisition systems. Maltz et al. (2015) used a transposon mutagenesis screen in <em>A. veronii</em> to characterise two parallel systems: a siderophore utilisation pathway (disrupted by <em>viuB</em> insertion) and an outer membrane haem receptor (hgpB) with a cognate transcriptional activator (hgpR). The hgpB mutant was markedly impaired in colonising the medicinal leech gut — an iron-rich environment. Across 36 <em>Aeromonas</em> genome sequences queried, haem utilisation genes were far more broadly distributed than siderophore genes, suggesting haem-iron acquisition is the more ancestral and conserved pathway.</p>
+
+<div class="cite-card">
+  <div class="cite-ref">Maltz M, LeVarge BL, Graf J (2015). Identification of iron and heme utilisation genes in <em>Aeromonas</em> and their role in colonisation of the leech digestive tract. <em>Frontiers in Microbiology</em> 6:763. DOI: <a href="https://doi.org/10.3389/fmicb.2015.00763">10.3389/fmicb.2015.00763</a></div>
+  <dl>
+    <dt>Type</dt><dd>Experimental — mutagenesis, in vivo colonisation</dd>
+    <dt>Key findings</dt><dd><em>viuB</em> (siderophore) and <em>hgpB</em> (haem receptor) both required for growth in blood under iron limitation; <em>hgpB</em> more broadly conserved across 36 <em>Aeromonas</em> genomes; haem-iron acquisition critical for in vivo gut colonisation.</dd>
+    <dt>Relevance</dt><dd>Haem-iron acquisition (from haemolysis or mucosal sources) is likely operative in <em>Aeromonas</em> bacteraemia, particularly in haematological patients with red cell lysis or transfusion-related haem exposure. <em>A. veronii</em> strain directly relevant (44.4% of NCKUH cohort).</dd>
+    <dt>Quality</dt><dd><span class="tag">High</span> Both in vitro and in vivo data.</dd>
+    <dt>Use in paper</dt><dd>Discussion (haem-iron acquisition as virulence mechanism in haematological malignancy)</dd>
+  </dl>
+</div>
+
+<!-- ── THEME 3 ── -->
+<h3>
+  <span class="theme-label">Theme 3</span><br>
+  Siderophore-Independent Fe²⁺ Acquisition — The Feo System as a Master Virulence Regulator
+</h3>
+
+<p>While siderophore-mediated ferric (Fe³⁺) iron acquisition has been extensively characterised, <em>Aeromonas</em> also possesses a direct ferrous (Fe²⁺) uptake system — the Feo system — adapted to the reducing microenvironments of abscesses, anaerobic gut segments, and iron-overloaded extracellular fluid. Guan et al. (2025) generated a stable ΔfeoB mutant in <em>A. veronii</em> TH0426 and characterised its phenotype comprehensively. Loss of FeoB (the transmembrane NTPase catalysing Fe²⁺ import) impaired growth under iron-limiting conditions, reduced motility, adhesion, invasion, and cytotoxicity, and caused a <strong>178-fold elevation in LD₅₀</strong> relative to wild-type — the largest single-gene virulence attenuation reported in this species. Antioxidant capacity was also diminished, consistent with iron's dual role in superoxide dismutase and catalase function. Complementation with wild-type <em>feoB</em> restored all phenotypes. This study positions FeoB-mediated Fe²⁺ acquisition as a master virulence regulator integrating iron nutrition with motility, adhesion, and oxidative stress resistance.</p>
+
+<div class="cite-card">
+  <div class="cite-ref">Guan YC, Liang S, Wang YD, Bai SY, Huang CB, Gong JZ, Shi WQ, Kang YH, Shan XF, Huang SY (2025). The ferrous iron transporter FeoB mediates motility, biofilm formation, and virulence in <em>Aeromonas veronii</em>. <em>Microbial Pathogenesis</em> 208:108014. DOI: <a href="https://doi.org/10.1016/j.micpath.2025.108014">10.1016/j.micpath.2025.108014</a></div>
+  <dl>
+    <dt>Type</dt><dd>Experimental — genetic knockout, in vitro / in vivo</dd>
+    <dt>Key findings</dt><dd>ΔfeoB: 178-fold LD₅₀ attenuation; impaired motility, adhesion, invasion, cytotoxicity (2.62-fold lower vs. wild-type), antioxidant capacity; all complemented by <em>feoB</em> reintroduction. Growth under iron-limited conditions impaired.</dd>
+    <dt>Relevance</dt><dd>NTBI-rich iron-overload environment of transfusion-dependent haematological patients may specifically fuel FeoB-dependent virulence. <em>A. veronii</em> is the dominant species in the NCKUH cohort (44.4%).</dd>
+    <dt>Quality</dt><dd><span class="tag">High</span> Comprehensive mutant phenotyping; in vivo <em>Carassius</em> model; 2025 publication.</dd>
+    <dt>Use in paper</dt><dd>Discussion (Fe²⁺/Feo system activated by iron overload)</dd>
+  </dl>
+</div>
+
+<!-- ── THEME 4 ── -->
+<h3>
+  <span class="theme-label">Theme 4</span><br>
+  Host Iron Overload — Pathophysiology and Clinical Risk
+</h3>
+
+<p>The mechanistic framework linking host iron overload to bacterial pathogenicity was synthesised by Ganz (2018) in a foundational review of nutritional immunity. The central premise is that iron-targeted host defences — mucosal sequestration (lactoferrin, lipocalin-2/siderocalin), plasma hypoferraemia (IL-6 → hepcidin → ferroportin degradation), and phagosomal depletion (Nramp1) — are eroded in iron-overload states. When transferrin saturation approaches 100%, non-transferrin-bound iron (NTBI) accumulates in the extracellular milieu, providing a readily accessible iron pool for siderophilic bacteria including <em>Vibrio vulnificus</em>, <em>Yersinia enterocolitica</em>, <em>Klebsiella pneumoniae</em>, and <em>Aeromonas</em> spp. Clinical sources of iron overload directly relevant to haematological malignancy include chronic transfusion dependency (each unit of packed red cells adds ∼1 mg/mL iron), conditioning-related hepatic damage impairing hepcidin synthesis, and ineffective erythropoiesis suppressing hepcidin via erythroferrone.</p>
+
+<div class="cite-card">
+  <div class="cite-ref">Ganz T (2018). Iron and infection. <em>International Journal of Hematology</em> 107(1):7–15. DOI: <a href="https://doi.org/10.1007/s12185-017-2366-2">10.1007/s12185-017-2366-2</a></div>
+  <dl>
+    <dt>Type</dt><dd>Review (authoritative; Tomas Ganz, UCLA)</dd>
+    <dt>Key findings</dt><dd>NTBI (not transferrin-bound iron) is the specific species driving siderophilic bacterial growth; hypoferraemia of inflammation is lost in hepcidin-knockout mice; hepcidin analogue PR-73 rescues iron-overloaded mice from <em>V. vulnificus</em> sepsis.</dd>
+    <dt>Relevance</dt><dd>Mechanistic underpinning for iron overload as a host risk factor for <em>Aeromonas</em> bacteraemia; directly supports the 69.2% iron-overload prevalence finding in the NCKUH cohort.</dd>
+    <dt>Quality</dt><dd><span class="tag">High</span></dd>
+    <dt>Use in paper</dt><dd>Introduction / Discussion (host-side mechanism)</dd>
+  </dl>
+</div>
+
+<p>The clinical consequence of DFO-mediated iron delivery to <em>Aeromonas</em> was illustrated by Chompoonuch et al. (2009) in a case report of a 47-year-old woman with end-stage renal disease on haemodialysis who developed <em>A. hydrophila</em> bacteraemia with septic embolism and rhabdomyolysis while receiving deferoxamine for transfusion-related iron overload. The authors proposed that DFO provided <em>Aeromonas</em> with an iron source via the ferrioxamine B receptor mechanism — a hypothesis now mechanistically supported by Funahashi et al. (2014). The patient survived with aggressive renal replacement therapy. Although a single case report, this is one of the few published descriptions explicitly linking deferoxamine therapy and <em>Aeromonas</em> infection in a patient without underlying liver disease.</p>
+
+<div class="cite-card">
+  <div class="cite-ref">Chompoonuch S, Wangsomboonsiri W, Wongprasit P, Sungkanuparph S, Phakdeekitcharoen B (2009). <em>Aeromonas hydrophila</em> sepsis with septic embolism and rhabdomyolysis in a chronic iron overload haemodialysis patient treated with deferoxamine. <em>NDT Plus</em> 2(4):303–5. DOI: <a href="https://doi.org/10.1093/ndtplus/sfp029">10.1093/ndtplus/sfp029</a></div>
+  <dl>
+    <dt>Type</dt><dd><span class="cr-badge">Case report</span></dd>
+    <dt>Key findings</dt><dd><em>A. hydrophila</em> bacteraemia in a DFO-treated, iron-overloaded dialysis patient; rhabdomyolysis present; patient survived. Authors hypothesise DFO as iron source for <em>Aeromonas</em>.</dd>
+    <dt>Relevance</dt><dd>Clinical proof-of-concept for DFO–<em>Aeromonas</em> risk; rhabdomyolysis is a recognised complication of <em>Aeromonas</em> myonecrosis.</dd>
+    <dt>Quality</dt><dd><span class="tag">Low</span> Single case report; limited evidence level; no mechanistic data.</dd>
+    <dt>Use in paper</dt><dd>Discussion (clinical illustration of DFO risk)</dd>
+  </dl>
+</div>
+
+<p>A broader epidemiological perspective on infection risk in iron-overloaded patients is provided by Wanachiwanawin (2000), reviewing infections in E-β thalassaemia. Among the spectrum of severe infections in this population — predominantly <em>E. coli</em>, <em>Klebsiella</em>, and <em>Salmonella</em> — <em>Aeromonas</em> is explicitly listed as a causative organism, particularly in splenectomised patients and those on DFO therapy. The review identifies iron overload, splenectomy, and granulocyte dysfunction as the three principal predisposing factors, with DFO therapy specifically linked to <em>Yersinia enterocolitica</em> but the same mechanism extending to <em>Aeromonas</em>.</p>
+
+<div class="cite-card">
+  <div class="cite-ref">Wanachiwanawin W (2000). Infections in E-beta thalassaemia. <em>Journal of Pediatric Hematology/Oncology</em> 22(6):581–7. DOI: <a href="https://doi.org/10.1097/00043426-200011000-00027">10.1097/00043426-200011000-00027</a></div>
+  <dl>
+    <dt>Type</dt><dd>Review</dd>
+    <dt>Key findings</dt><dd><em>Aeromonas</em> among organisms causing severe infections in thalassaemia; DFO therapy classically associated with <em>Yersinia</em> but same mechanism applies; iron overload, splenectomy, and granulocyte dysfunction are principal risk factors.</dd>
+    <dt>Relevance</dt><dd>Establishes <em>Aeromonas</em> in the clinical spectrum of iron-overload infections in haematological patients; thalassaemia population shares transfusion burden and DFO exposure with haematological malignancy.</dd>
+    <dt>Quality</dt><dd><span class="tag">Medium</span> Narrative review; thalassaemia population rather than haematological malignancy, but iron overload mechanism is shared.</dd>
+    <dt>Use in paper</dt><dd>Introduction (clinical background on iron overload and infection risk)</dd>
+  </dl>
+</div>
+
+<!-- ───────────────────────────────────────── -->
+<h2>Literature Matrix</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Source</th>
+      <th>Fe²⁺ (Feo)</th>
+      <th>Fe³⁺ / siderophore</th>
+      <th>Xenosiderophore / DFO</th>
+      <th>Haem-iron</th>
+      <th>Host iron overload</th>
+      <th>Clinical data</th>
+      <th>Quality</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Byers 1991</td>
+      <td class="center">—</td>
+      <td class="center"><span class="main">★</span></td>
+      <td class="center">—</td>
+      <td class="center"><span class="check">✓</span></td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td><span class="tag">High</span></td>
+    </tr>
+    <tr>
+      <td>Dubey 2022</td>
+      <td class="center">—</td>
+      <td class="center"><span class="check">✓</span></td>
+      <td class="center">—</td>
+      <td class="center"><span class="check">✓</span></td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td><span class="tag">High</span></td>
+    </tr>
+    <tr>
+      <td>Teng 2018</td>
+      <td class="center">—</td>
+      <td class="center"><span class="main">★</span></td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td><span class="tag">High</span></td>
+    </tr>
+    <tr>
+      <td>Lange 2020</td>
+      <td class="center">—</td>
+      <td class="center"><span class="main">★</span></td>
+      <td class="center"><span class="check">✓</span></td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td><span class="tag">Med-High</span></td>
+    </tr>
+    <tr>
+      <td>Stintzi 2000</td>
+      <td class="center">—</td>
+      <td class="center"><span class="main">★</span></td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td><span class="tag">High</span></td>
+    </tr>
+    <tr>
+      <td>Funahashi 2013</td>
+      <td class="center">—</td>
+      <td class="center"><span class="main">★</span></td>
+      <td class="center"><span class="check">✓</span></td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td><span class="tag">High</span></td>
+    </tr>
+    <tr>
+      <td>Funahashi 2014</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center"><span class="main">★</span></td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td><span class="tag">High</span></td>
+    </tr>
+    <tr>
+      <td>Maltz 2015</td>
+      <td class="center">—</td>
+      <td class="center"><span class="check">✓</span></td>
+      <td class="center">—</td>
+      <td class="center"><span class="main">★</span></td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td><span class="tag">High</span></td>
+    </tr>
+    <tr>
+      <td>Guan 2025</td>
+      <td class="center"><span class="main">★</span></td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td><span class="tag">High</span></td>
+    </tr>
+    <tr>
+      <td>Ganz 2018</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center"><span class="main">★</span></td>
+      <td class="center">—</td>
+      <td><span class="tag">High</span></td>
+    </tr>
+    <tr>
+      <td>Chompoonuch 2009</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center"><span class="check">✓</span></td>
+      <td class="center">—</td>
+      <td class="center"><span class="check">✓</span></td>
+      <td class="center"><span class="check">✓</span></td>
+      <td><span class="tag">Low</span> <span class="cr-badge">CR</span></td>
+    </tr>
+    <tr>
+      <td>Wanachiwanawin 2000</td>
+      <td class="center">—</td>
+      <td class="center">—</td>
+      <td class="center"><span class="check">✓</span></td>
+      <td class="center">—</td>
+      <td class="center"><span class="check">✓</span></td>
+      <td class="center"><span class="check">✓</span></td>
+      <td><span class="tag">Medium</span></td>
+    </tr>
+  </tbody>
+</table>
+<p style="font-size:0.8rem;color:var(--muted);font-family:sans-serif;"><span class="main">★</span> = primary focus &nbsp; <span class="check">✓</span> = covered &nbsp; CR = case report</p>
+
+<!-- ───────────────────────────────────────── -->
+<h2>Identified Research Gaps</h2>
+
+<ul class="gap-list">
+  <li>
+    <strong>Gap 1 — No prospective clinical data on iron quantification as a risk factor.</strong>
+    No published cohort study quantifies serum ferritin, transferrin saturation, or NTBI as a risk factor for <em>Aeromonas</em> bacteraemia in haematological malignancy. The NCKUH cohort records iron overload as a binary variable (69.2%) but lacks quantitative iron indices — a limitation worth stating in the Discussion.
+  </li>
+  <li>
+    <strong>Gap 2 — FeoB/Feo system not characterised in <em>A. dhakensis</em>.</strong>
+    Guan 2025 characterised FeoB only in <em>A. veronii</em>. The most virulent clinical species — <em>A. dhakensis</em> — has no published FeoB study. Given the 178-fold LD₅₀ difference in the ΔfeoB mutant, equivalent studies in <em>A. dhakensis</em> are a priority.
+  </li>
+  <li>
+    <strong>Gap 3 — DFO–<em>Aeromonas</em> risk documented only by case reports and in vitro data.</strong>
+    No systematic case series or cohort study has quantified <em>Aeromonas</em> infection risk attributable specifically to deferoxamine or deferasirox therapy in haematological patients.
+  </li>
+  <li>
+    <strong>Gap 4 — Hepcidin biology in haematological malignancy not studied for <em>Aeromonas</em>-specific risk.</strong>
+    Although Ganz (2018) establishes the NTBI/hepcidin framework, no published study has correlated hepcidin levels with <em>Aeromonas</em> infection incidence in haematology units.
+  </li>
+  <li>
+    <strong>Gap 5 — Haem-iron acquisition (hgpB) unexplored in clinical bacteraemia isolates.</strong>
+    Distribution of hgpB-type receptors across clinical <em>A. veronii</em> and <em>A. dhakensis</em> is unknown; haemolysis in haematological patients may generate a clinically important haem-iron source that warrants systematic study.
+  </li>
+</ul>
+
+<!-- ───────────────────────────────────────── -->
+<h2>Recommended Sources by Paper Section</h2>
+
+<table class="rec-table">
+  <thead>
+    <tr>
+      <th>Section</th>
+      <th>Key sources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Introduction — iron overload as host risk</td>
+      <td>Ganz 2018; Wanachiwanawin 2000</td>
+    </tr>
+    <tr>
+      <td>Introduction — iron as <em>Aeromonas</em> virulence determinant</td>
+      <td>Byers 1991; Dubey 2022; Teng 2018</td>
+    </tr>
+    <tr>
+      <td>Discussion — mechanisms of iron acquisition</td>
+      <td>Stintzi 2000; Funahashi 2013; Funahashi 2014; Maltz 2015; Guan 2025</td>
+    </tr>
+    <tr>
+      <td>Discussion — deferoxamine clinical risk</td>
+      <td>Funahashi 2014; Lange 2020; Chompoonuch 2009</td>
+    </tr>
+    <tr>
+      <td>Discussion — study limitations (ferritin/NTBI gap)</td>
+      <td>Ganz 2018 (NTBI concept); Gap #1 above</td>
+    </tr>
+  </tbody>
+</table>
+
+<footer>
+  Article metadata retrieved from PubMed (National Library of Medicine) and Zotero personal library.
+  All DOIs linked inline. Report generated by Claude Code (academic-paper <code>lit-review</code> mode) · 2026-05-20.
+</footer>
+
+</body>
+</html>
