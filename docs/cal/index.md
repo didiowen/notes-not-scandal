@@ -5,8 +5,7 @@ hide:
 
 # 醫學會行事曆 (ICS 訂閱)
 
-以下 ICS 檔由 [society-calendar](https://github.com/didiowen/society-calendar) 中的
-skill 自動從各學會官網抓取活動產生，依下列規則過濾後手動更新：
+以下 ICS 檔由 [society-calendar](https://github.com/didiowen/society-calendar) 中的 skill 自動從各學會官網抓取活動產生，依下列規則過濾後手動更新：
 
 - **台南** 一律收錄
 - **高雄 / 嘉義**：學分數 > 2
