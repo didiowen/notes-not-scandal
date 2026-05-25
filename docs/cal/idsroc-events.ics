@@ -15,41 +15,28 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:3e0c5ebd-6ec9-5fbc-9b3b-c4df732bec7b
-DTSTAMP:20260522T004811Z
-SUMMARY:2026國際熱帶醫學傳染病
-LOCATION:高雄醫學大學勵學大樓
-DESCRIPTION:主辦單位：高雄醫學大學熱帶醫學暨傳染病研究
- 中心\n協辦單位：國家科學及技術委員會\n類別：B類\n積
- 分：3分\n費用：不收費\n學會頁面：https://www.idsroc.org.tw/a
- ctive/side_info.asp?id=18554&side=in\n課程表：https://www.idsroc.org.t
- w/DB/Edu/18554.pdf?v=2026521111123\n聯絡人：陳仰秀 (cyssk0510@gmail
- .com)
-DTSTART;TZID=Asia/Taipei:20260522T083000
-DTEND;TZID=Asia/Taipei:20260522T173000
-END:VEVENT
-BEGIN:VEVENT
-UID:4eab05b6-3b88-5df4-943b-45b8f8a7a62e
-DTSTAMP:20260522T004811Z
-SUMMARY:115年春季學術演講會
-LOCATION:台南成大醫學院
-DESCRIPTION:主辦單位：成大醫院、臺灣醫學會\n類別：B類\n
- 積分：2分\n費用：不收費\n學會頁面：https://www.idsroc.org.t
- w/active/side_info.asp?id=18528&side=in\n課程表：https://www.idsroc.or
- g.tw/DB/Edu/18528.pdf?v=2026521111122\n聯絡人：高麗華 (kao@fma.org.
- tw)
-DTSTART;TZID=Asia/Taipei:20260523T130000
-DTEND;TZID=Asia/Taipei:20260524T172000
+UID:c038df43-8c08-5b29-acf1-9472429b1cf1
+DTSTAMP:20260525T161554Z
+SUMMARY:115年傳染病防治醫療網隔離醫院個人防護知能種子
+ 教師培訓及教育訓練-南區場
+LOCATION:高雄榮民總醫院第五會議室(急診大樓6樓)
+DESCRIPTION:主辦單位：社團法人台灣感染管制學會\n協辦單
+ 位：高雄榮民總醫院\n類別：B類\n積分：3分\n費用：不收
+ 費\n學會頁面：https://www.idsroc.org.tw/active/side_info.asp?id=1857
+ 4&side=in\n課程表：https://www.idsroc.org.tw/DB/Edu/18574.pdf?v=202652
+ 601550\n聯絡人：秘書處 (nicsicst@gmail.com)
+DTSTART;TZID=Asia/Taipei:20260530T090000
+DTEND;TZID=Asia/Taipei:20260530T165000
 END:VEVENT
 BEGIN:VEVENT
 UID:37b92829-daff-5da5-96f5-bfb91089a75f
-DTSTAMP:20260522T004811Z
+DTSTAMP:20260525T161554Z
 SUMMARY:34th Taiwan ID Forum
 LOCATION:台北喜來登飯店B1彩逸廳
 DESCRIPTION:主辦單位：感染症醫學會\n類別：A類\n積分：6分
  \n費用：收費\n學會頁面：https://www.idsroc.org.tw/active/side_in
  fo.asp?id=18577&side=in\n課程表：https://www.idsroc.org.tw/DB/Edu/1857
- 7.pdf?v=2026521111117\n聯絡人：岳薇 (ids.roc@msa.hinet.net)
+ 7.pdf?v=202652601544\n聯絡人：岳薇 (ids.roc@msa.hinet.net)
 DTSTART;TZID=Asia/Taipei:20260613T093000
 DTEND;TZID=Asia/Taipei:20260613T163000
 END:VEVENT
