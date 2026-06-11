@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+  - toc
+---
 
 # 專師考試解題筆記
 
