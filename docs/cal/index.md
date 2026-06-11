@@ -1,6 +1,7 @@
 ---
 hide:
   - toc
+  - navigation
 ---
 
 # 醫學會行事曆 (ICS 訂閱)
