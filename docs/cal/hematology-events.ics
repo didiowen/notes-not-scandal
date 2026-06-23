@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:9d892d7c-aded-509a-a649-4b1039354af9
-DTSTAMP:20260525T161612Z
+DTSTAMP:20260623T024908Z
 SUMMARY:115 年專科醫師複習班
 LOCATION:台大景福館1樓講堂
 DESCRIPTION:主辦單位：血液病學會\n分類：甲類\n積分：7\n
@@ -40,8 +40,32 @@ DTSTART;TZID=Asia/Taipei:20260523T090000
 DTEND;TZID=Asia/Taipei:20260523T173000
 END:VEVENT
 BEGIN:VEVENT
+UID:d598c62f-5dda-5578-84d4-58786d9b4b00
+DTSTAMP:20260623T024908Z
+SUMMARY:Post-EHA(第2天)
+LOCATION:張榮發基金會國際會議中心1101會議廳
+DESCRIPTION:主辦單位：中華民國血液病學會\n分類：甲類\n
+ 積分：6.5\n學會頁面：https://www.hematology.org.tw/web2/project/in
+ dex.php?act=point&id=2944\n\n--- 相關連結 ---\n節目表如附：https
+ ://drive.google.com/file/d/1xq5BzyuqxXTzGxL3GTfw2mPtY2Ph9c5n/view?usp=driv
+ e_link\n\n--- 報名/節目表 ---\n本會謹訂於2026/8/15(六)~8/16(日
+ )兩個整天假張榮發基金會國際會議中心1101會議廳舉行「
+ Post-EHA」學術研討會，旨在推廣血液腫瘤相關學術新知及
+ 同儕經驗交流，將EHA會議上的精華呈現給國內更多血液
+ 病醫師及學者。 節目表如附 ，敬邀踴躍報名參加。\n本
+ 次會議將製作大會識別證，有興趣參加者，敬請於7月15
+ 日前完成報名程序，以利後續製作作業。\n會議當日請親
+ 自帶身分證到場刷卡報到，以利比對資料。\n兩日會議個
+ 別報到，個別給予教育積分認定。 兒科學會依其規定，
+ 需另完成「紙本」簽到。\n其他學會刷卡報到即可取得教
+ 育積分。\n教育積分：中華民國血液病學會甲類8+6.5分、
+ 其他學會待申請。
+DTSTART;TZID=Asia/Taipei:20260816T090000
+DTEND;TZID=Asia/Taipei:20260816T155500
+END:VEVENT
+BEGIN:VEVENT
 UID:5b514a32-f9ec-53f4-b797-2d66acc17cb7
-DTSTAMP:20260525T161612Z
+DTSTAMP:20260623T024908Z
 SUMMARY:HST-TBMT秋季會
 LOCATION:台中科博館
 DESCRIPTION:主辦單位：HST、TBMT、中榮\n分類：甲類\n積分：5
@@ -81,7 +105,7 @@ DTEND;TZID=Asia/Taipei:20260919T180000
 END:VEVENT
 BEGIN:VEVENT
 UID:7c0af37b-cae1-5db0-b661-7baf7a988946
-DTSTAMP:20260525T161612Z
+DTSTAMP:20260623T024908Z
 SUMMARY:HST-TBMT冬季會
 LOCATION:嘉義長庚紀念醫院
 DESCRIPTION:主辦單位：HST、TBMT、嘉長\n分類：甲類\n積分：5
@@ -121,7 +145,7 @@ DTEND;TZID=Asia/Taipei:20261205T180000
 END:VEVENT
 BEGIN:VEVENT
 UID:326a8e06-1ced-5ddd-b87e-2f4b74758408
-DTSTAMP:20260525T161612Z
+DTSTAMP:20260623T024908Z
 SUMMARY:HST-TBMT年會
 DESCRIPTION:主辦單位：HST、TBMT\n分類：甲類\n積分：15\n學會
  頁面：https://www.hematology.org.tw/web2/project/index.php?act=point&id
