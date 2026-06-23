@@ -15,29 +15,44 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c038df43-8c08-5b29-acf1-9472429b1cf1
-DTSTAMP:20260525T161554Z
-SUMMARY:115年傳染病防治醫療網隔離醫院個人防護知能種子
- 教師培訓及教育訓練-南區場
-LOCATION:高雄榮民總醫院第五會議室(急診大樓6樓)
-DESCRIPTION:主辦單位：社團法人台灣感染管制學會\n協辦單
- 位：高雄榮民總醫院\n類別：B類\n積分：3分\n費用：不收
- 費\n學會頁面：https://www.idsroc.org.tw/active/side_info.asp?id=1857
- 4&side=in\n課程表：https://www.idsroc.org.tw/DB/Edu/18574.pdf?v=202652
- 601550\n聯絡人：秘書處 (nicsicst@gmail.com)
-DTSTART;TZID=Asia/Taipei:20260530T090000
-DTEND;TZID=Asia/Taipei:20260530T165000
+UID:7c1e4b0f-ded9-5972-b63c-310781158677
+DTSTAMP:20260623T024844Z
+SUMMARY:傳染病核心醫院教育訓練課程
+LOCATION:台南市永康區中華路901號第五醫療大樓5F國際會議
+ 廳
+DESCRIPTION:主辦單位：奇美醫療財團法人奇美醫院\n類別：B
+ 類\n積分：2分\n費用：不收費\n學會頁面：https://www.idsroc.
+ org.tw/active/side_info.asp?id=18637&side=in\n課程表：https://www.idsr
+ oc.org.tw/DB/Edu/18637.pdf?v=2026623104836\n聯絡人：周光祺 ([email&
+ #160\;protected])
+DTSTART;TZID=Asia/Taipei:20260626T093000
+DTEND;TZID=Asia/Taipei:20260626T123000
 END:VEVENT
 BEGIN:VEVENT
-UID:37b92829-daff-5da5-96f5-bfb91089a75f
-DTSTAMP:20260525T161554Z
-SUMMARY:34th Taiwan ID Forum
-LOCATION:台北喜來登飯店B1彩逸廳
+UID:da1f677c-cb26-5e83-aa8f-85873c13c933
+DTSTAMP:20260623T024844Z
+SUMMARY:從疫情監測到群聚處置:關鍵能力養成一日研習會
+LOCATION:高雄醫學大學-勵學大樓-A1 階梯教室(高雄市三民區
+ 十全一路100號)
+DESCRIPTION:主辦單位：社團法人台灣感染管制學會\n類別：B
+ 類\n積分：3分\n費用：收費\n學會頁面：https://www.idsroc.org
+ .tw/active/side_info.asp?id=18616&side=in\n課程表：https://www.idsroc.
+ org.tw/DB/Edu/18616.pdf?v=2026623104834\n聯絡人：秘書處 ([email&#16
+ 0\;protected])
+DTSTART;TZID=Asia/Taipei:20260627T085000
+DTEND;TZID=Asia/Taipei:20260627T165000
+END:VEVENT
+BEGIN:VEVENT
+UID:a69d9c1b-6eed-5d25-9b08-01c42b67ae59
+DTSTAMP:20260623T024844Z
+SUMMARY:115年度感染症流行病學講習班（含臨床試驗及疫苗
+ ）
+LOCATION:台大醫學院2樓201講堂
 DESCRIPTION:主辦單位：感染症醫學會\n類別：A類\n積分：6分
  \n費用：收費\n學會頁面：https://www.idsroc.org.tw/active/side_in
- fo.asp?id=18577&side=in\n課程表：https://www.idsroc.org.tw/DB/Edu/1857
- 7.pdf?v=202652601544\n聯絡人：岳薇 (ids.roc@msa.hinet.net)
-DTSTART;TZID=Asia/Taipei:20260613T093000
-DTEND;TZID=Asia/Taipei:20260613T163000
+ fo.asp?id=18662&side=in\n課程表：https://www.idsroc.org.tw/DB/Edu/1866
+ 2.pdf?v=2026623104825\n聯絡人：岳薇 ([email&#160\;protected])
+DTSTART;TZID=Asia/Taipei:20260725T090000
+DTEND;TZID=Asia/Taipei:20260725T162000
 END:VEVENT
 END:VCALENDAR
