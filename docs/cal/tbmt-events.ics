@@ -16,7 +16,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:1db1e6ac-f3c8-520e-b9c0-0e067562e3cb
-DTSTAMP:20260525T161629Z
+DTSTAMP:20260623T024930Z
 SUMMARY:Post EBMT Sympsoium 2026
 LOCATION:張榮發基金會國際會議中心1001會議廳
 DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
@@ -45,7 +45,7 @@ DTEND;VALUE=DATE:20260517
 END:VEVENT
 BEGIN:VEVENT
 UID:7659ed9e-d4bb-5a5e-a258-357890e59745
-DTSTAMP:20260525T161629Z
+DTSTAMP:20260623T024930Z
 SUMMARY:造血幹細胞移植論壇
 LOCATION:台北君悅酒店1樓 君寓2
 DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
@@ -60,7 +60,7 @@ DTEND;VALUE=DATE:20260531
 END:VEVENT
 BEGIN:VEVENT
 UID:0fc55b0d-4416-5690-82f2-ffd9ecc5f37b
-DTSTAMP:20260525T161629Z
+DTSTAMP:20260623T024930Z
 SUMMARY:TBMT Academy Class 3
 LOCATION:高雄
 DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
@@ -71,7 +71,7 @@ DTEND;VALUE=DATE:20260607
 END:VEVENT
 BEGIN:VEVENT
 UID:cc602c4f-65e1-5bd2-a83a-969420bc3b8d
-DTSTAMP:20260525T161629Z
+DTSTAMP:20260623T024930Z
 SUMMARY:10:00-11:00 Optimal Blinatumomab Adoption in Frontline ALL Treatmen
  t (線上)
 LOCATION:線上
@@ -88,7 +88,7 @@ DTEND;TZID=Asia/Taipei:20260607T110000
 END:VEVENT
 BEGIN:VEVENT
 UID:b1683f0f-b407-502a-97a3-8429c723c9b2
-DTSTAMP:20260525T161629Z
+DTSTAMP:20260623T024930Z
 SUMMARY:12:00~14:00 理監事會
 LOCATION:待定
 DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
@@ -99,7 +99,7 @@ DTEND;TZID=Asia/Taipei:20260704T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:9b228469-8145-5949-ba47-67a9972270af
-DTSTAMP:20260525T161629Z
+DTSTAMP:20260623T024930Z
 SUMMARY:14:00~15:00 專科醫師甄審委員會
 LOCATION:待定
 DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
@@ -109,8 +109,44 @@ DTSTART;TZID=Asia/Taipei:20260704T140000
 DTEND;TZID=Asia/Taipei:20260704T150000
 END:VEVENT
 BEGIN:VEVENT
+UID:ca2528b1-ac02-5854-81d4-e9ad425cccc1
+DTSTAMP:20260623T024930Z
+SUMMARY:2026 雙特異性抗體相關教育訓練認證課程- Day 1
+LOCATION:線上
+DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
+ ：線上\n學會頁面：https://www.tbmt.org.tw/publicUI/D/D10402.aspx?a
+ rg=8DECD570C0AF5CD071\n\n--- 活動內容 ---\n詳情: https://www.tbmt.or
+ g.tw/publicUI/B/B10201.aspx?arg=8DECD4B1EFC0E94071
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+END:VEVENT
+BEGIN:VEVENT
+UID:8710a8e4-3127-5646-905e-044246816c6a
+DTSTAMP:20260623T024930Z
+SUMMARY:2026 雙特異性抗體相關教育訓練認證課程- Day 2
+LOCATION:線上
+DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
+ ：線上\n學會頁面：https://www.tbmt.org.tw/publicUI/D/D10402.aspx?a
+ rg=8DECD5725146419071\n\n--- 活動內容 ---\n詳情: https://www.tbmt.or
+ g.tw/publicUI/B/B10201.aspx?arg=8DECD4B1EFC0E94071
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+END:VEVENT
+BEGIN:VEVENT
+UID:201ce4fc-1a95-5a3c-849e-535004da7672
+DTSTAMP:20260623T024930Z
+SUMMARY:2026 雙特異性抗體相關教育訓練認證課程- Day 3
+LOCATION:線上
+DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
+ ：線上\n學會頁面：https://www.tbmt.org.tw/publicUI/D/D10402.aspx?a
+ rg=8DECD573B22CE32071\n\n--- 活動內容 ---\n詳情: https://www.tbmt.or
+ g.tw/publicUI/B/B10201.aspx?arg=8DECD4B1EFC0E94071
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+END:VEVENT
+BEGIN:VEVENT
 UID:08e3b01f-1927-5f14-a75b-001d73add4bb
-DTSTAMP:20260525T161629Z
+DTSTAMP:20260623T024930Z
 SUMMARY:TBMT Chronic GVHD (Nursing)
 LOCATION:待定
 DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
@@ -121,7 +157,7 @@ DTEND;VALUE=DATE:20260823
 END:VEVENT
 BEGIN:VEVENT
 UID:50ad58bc-9290-573a-9442-08dde2a7bd89
-DTSTAMP:20260525T161629Z
+DTSTAMP:20260623T024930Z
 SUMMARY:TBMT Academy Class 4
 LOCATION:待定
 DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
@@ -132,7 +168,7 @@ DTEND;VALUE=DATE:20260907
 END:VEVENT
 BEGIN:VEVENT
 UID:c334f7cc-69d7-543d-bf31-eb6dbda52db7
-DTSTAMP:20260525T161629Z
+DTSTAMP:20260623T024930Z
 SUMMARY:14:00~15:00 專科醫師甄審委員會
 LOCATION:待定
 DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
@@ -143,7 +179,7 @@ DTEND;TZID=Asia/Taipei:20260912T150000
 END:VEVENT
 BEGIN:VEVENT
 UID:e531a5d8-72a0-5413-8b79-7cf8a3324af7
-DTSTAMP:20260525T161629Z
+DTSTAMP:20260623T024930Z
 SUMMARY:12:00~14:00 理監事會
 LOCATION:待定
 DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
@@ -153,8 +189,49 @@ DTSTART;TZID=Asia/Taipei:20260912T120000
 DTEND;TZID=Asia/Taipei:20260912T140000
 END:VEVENT
 BEGIN:VEVENT
+UID:167bb3d1-ec8d-54e9-ac6d-11cd52c370d3
+DTSTAMP:20260623T024930Z
+SUMMARY:ICBMT 2026
+LOCATION:Busan\, Korea
+DESCRIPTION:主辦單位：ICBMT\n地點：Busan\, Korea\n學會頁面：ht
+ tps://www.tbmt.org.tw/publicUI/D/D10402.aspx?arg=8DEBB1369733B6A071\n\n---
+  活動內容 ---\nICBMT 2026 Overview\n[Summary]\nTitle\nThe 10th Annual 
+ International Congress of Blood and Marrow Transplantation (ICBMT 2026)\nD
+ ates\nSeptember 17 (Thursday) &ndash\; September 19 (Saturday)\, 2026\nVen
+ ue\nBEXCO\, Busan\, Korea\nTheme\nNext Horizon: Pioneering the Breaking th
+ roughs in HSCT and Cell therapy\nHosted by\nThe Korean Society of Blood an
+ d Marrow Transplantation\nPrograms\nPlenary Sessions\, Presidential Sympos
+ ium\, Scientific Sessions\, Education Sessions\,\nEast Asia Collaborative 
+ Session\, Joint Symposiums\, Oral & Poster Presentations\,\nLuncheon Sympo
+ siums\, Nursing Session\, Debate Session\, Exhibition\n- Program at a Glan
+ ce: https://icbmt.co.kr/program/\nHomepage\nhttps://icbmt.or.kr/\n[Abstrac
+ t Submission]\n- Abstract submission deadline: June 12 (Fri)\, 2026\n- Pre
+ sentation type: Oral or Poster Presentation\n- Abstract main topics:\nMyel
+ oid Malignancies\n(AML\, MDS\, MPN)\nAcute Lymphoblastic Leukemia\nBone Ma
+ rrow Failure\nCellular & Gene Therapy\nBlood and Marrow Collection and Pro
+ cessing\nInfectious Complications\nLymphoma\nPost-transplant Complications
+  (Non-infectious)\nMyeloma\nNursing/Allied Health\nPediatric Hematology/On
+ cology\nTransplantation Specific Topics\nStem Cell Biology\nOthers\n-\n- S
+ ubmit your abstract: https://icbmt.co.kr/abstract/\n[Award Opportunities]\
+ n- The ICBMT 2026 Organizing Committee will offer various awards which wil
+ l be given to presenters whose abstracts have been accepted. Submit your o
+ utstanding abstracts for a chance to win awards!\n* The candidate must be 
+ the presenting author of an accepted abstract\, register\, and attend the 
+ congress in-person.\nOutstanding Oral Presentation Awards\nTravel Awards\n
+ (Overseas presenters only)\nOverseas Contribution Awards\n(Overseas presen
+ ters only)\nKRW 1\,000\,000\nKRW 2\,000\,000\nKRW 700\,000\n[Registration]
+ \n- Early-bird registration deadline: July 31 (Fri)\, 2026\n- Find out mor
+ e & register: https://icbmt.co.kr/registration/index_eng.php\nEarly Regist
+ ration Rate\n(By July 31\, 2026)\nPre-Registration Rate\n(By August 28\, 2
+ 026)\nOnsite Rate\n(September 17-19\, 2025)\nUSD 100\nUSD 150\nUSD 200\nGa
+ la Dinner\nUSD 10\n[Inquiries]\nICBMT 2026 Secretariat\nTel: +82-02-566-60
+ 31\nFax: +82-2-566-6087\nEmail: icbmt@icbmt.or.kr
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260919
+END:VEVENT
+BEGIN:VEVENT
 UID:14578581-0116-5044-a1e4-6f71a4ce84e0
-DTSTAMP:20260525T161629Z
+DTSTAMP:20260623T024930Z
 SUMMARY:19th Asian Society of Clinical Pathology and Laboratory Medicine Co
  ngress 2026
 LOCATION:TICC
@@ -165,8 +242,19 @@ DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261004
 END:VEVENT
 BEGIN:VEVENT
+UID:506cb90c-0fc2-5610-a766-b3fbf0a1ad8c
+DTSTAMP:20260623T024930Z
+SUMMARY:10:00~12:00 專科醫師甄審筆試 (暫定)
+LOCATION:待定
+DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
+ ：待定\n學會頁面：https://www.tbmt.org.tw/publicUI/D/D10402.aspx?a
+ rg=8DED06F1DDA31AB053
+DTSTART;TZID=Asia/Taipei:20261017T100000
+DTEND;TZID=Asia/Taipei:20261017T120000
+END:VEVENT
+BEGIN:VEVENT
 UID:ea053b64-76be-59e2-91ea-9f7203f010a6
-DTSTAMP:20260525T161629Z
+DTSTAMP:20260623T024930Z
 SUMMARY:THCTC 2026
 LOCATION:張榮發國際會議中心
 DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
@@ -176,8 +264,20 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 END:VEVENT
 BEGIN:VEVENT
+UID:03b0d31b-18b5-5434-8999-e5e0f5a632f3
+DTSTAMP:20260623T024930Z
+SUMMARY:09:00~14:00 專科醫師甄審口試+專科醫師甄審委員會 (
+ 暫定)
+LOCATION:待定
+DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
+ ：待定\n學會頁面：https://www.tbmt.org.tw/publicUI/D/D10402.aspx?a
+ rg=8DED06F7AAB6F84071
+DTSTART;TZID=Asia/Taipei:20261121T090000
+DTEND;TZID=Asia/Taipei:20261121T140000
+END:VEVENT
+BEGIN:VEVENT
 UID:54be6845-4dc8-5e1a-bf93-684e846a5628
-DTSTAMP:20260525T161629Z
+DTSTAMP:20260623T024930Z
 SUMMARY:09:00~14:00 專科醫師甄審口試+專科醫師甄審委員會
 LOCATION:待定
 DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
@@ -188,7 +288,7 @@ DTEND;TZID=Asia/Taipei:20261128T140000
 END:VEVENT
 BEGIN:VEVENT
 UID:43bd9af6-cc92-5e5d-92db-df64900bd8e0
-DTSTAMP:20260525T161629Z
+DTSTAMP:20260623T024930Z
 SUMMARY:12:00~14:00 TBMT理監事會
 LOCATION:待定
 DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
@@ -196,5 +296,16 @@ DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
  rg=8DEB403000C0A97071
 DTSTART;TZID=Asia/Taipei:20261219T120000
 DTEND;TZID=Asia/Taipei:20261219T140000
+END:VEVENT
+BEGIN:VEVENT
+UID:ceae474e-3adc-5cf8-a33a-59f038b1c291
+DTSTAMP:20260623T024930Z
+SUMMARY:TBMT Academy Class 5
+LOCATION:台中
+DESCRIPTION:主辦單位：中華民國血液及骨髓移植學會\n地點
+ ：台中\n學會頁面：https://www.tbmt.org.tw/publicUI/D/D10402.aspx?a
+ rg=8DEC65E3C0362E0071
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
 END:VEVENT
 END:VCALENDAR
